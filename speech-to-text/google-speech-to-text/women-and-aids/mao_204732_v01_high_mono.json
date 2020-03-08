@@ -1,0 +1,2047 @@
+{
+  "name": "2414218531782838454",
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "progressPercent": 100,
+    "startTime": "2019-06-07T17:00:49.980541Z",
+    "lastUpdateTime": "2019-06-07T17:10:27.803267Z"
+  },
+  "done": true,
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "transcript": "play live game",
+            "confidence": 0.71838903
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": "Harry",
+            "confidence": 0.66032314
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the nation",
+            "confidence": 0.5557134
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I'm not going to take the time to go into that thing works afternoon and if he tail what I'm going to do is find those terms",
+            "confidence": 0.8945044
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " examples of the AIDS crisis of all drugs tomorrow most of the United States of America country in the world",
+            "confidence": 0.8177411
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " table ideas of",
+            "confidence": 0.73496765
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " cultural discrimination",
+            "confidence": 0.9672408
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I live in adapter online and buy other",
+            "confidence": 0.6947597
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " when they do reflect",
+            "confidence": 0.9296481
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " cultural discrimination calculator",
+            "confidence": 0.9334756
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " language",
+            "confidence": 0.9207036
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " ghost images and ideas of women are racist sexist in Paris Texas gives one example",
+            "confidence": 0.8245898
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Institute",
+            "confidence": 0.9774617
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Skate Express the action",
+            "confidence": 0.5653029
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " knowingly use gif",
+            "confidence": 0.7897638
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " white men are more than black men and more",
+            "confidence": 0.8605871
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " white women are",
+            "confidence": 0.8040141
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " black and white pudding every ethnic and racial group men are in more than one",
+            "confidence": 0.83551544
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " what is what in French keep in mind when I go to the statistics is that says Bureau and other agencies don't keep any secrets about lesbian or gay men this is his ability in it",
+            "confidence": 0.8577924
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " example married women in 1988 had access to double the amount of money as women who are not married that isn't $32,000 a year at some chairs",
+            "confidence": 0.9049001
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " under",
+            "confidence": 0.784805
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " again",
+            "confidence": 0.66602814
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and in every racial",
+            "confidence": 0.73333037
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women have less accidents than men and unmarried individual",
+            "confidence": 0.9630979
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " pick up points are specially important",
+            "confidence": 0.7562585
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " living alone or supporting other than",
+            "confidence": 0.8645275
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Penn Manor is and women",
+            "confidence": 0.6994517
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 88.1% of one parent family from 2018 by women compared to only 11.9% sign in and leave it in the sticks",
+            "confidence": 0.9086337
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 201",
+            "confidence": 0.94828576
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " had a mother in the paid way before",
+            "confidence": 0.7767621
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and they were only $77,000",
+            "confidence": 0.9167547
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 99 and 100 cases of the father wigs",
+            "confidence": 0.825759
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the poverty level is much higher than men",
+            "confidence": 0.8943055
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " younger",
+            "confidence": 0.69148135
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " especially liked it before",
+            "confidence": 0.7293319
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " it means that women are more likely to",
+            "confidence": 0.8704281
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " is it more women than men",
+            "confidence": 0.6631556
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " black and white",
+            "confidence": 0.9244845
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " are more likely than any other",
+            "confidence": 0.94350463
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " nh-1",
+            "confidence": 0.84076107
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " again I want to remind you that institutional discrimination mean",
+            "confidence": 0.9068765
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " besides",
+            "confidence": 0.90857714
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " White Widow",
+            "confidence": 0.663858
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " black and white",
+            "confidence": 0.6981439
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Pizza",
+            "confidence": 0.84941673
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " costumes Escape though for a while the male customers or not",
+            "confidence": 0.7948711
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " allowed",
+            "confidence": 0.87098694
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " we have to understand relationship",
+            "confidence": 0.9168511
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Ultra Health 5 & Detail specialist became popular",
+            "confidence": 0.7024688
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " scary",
+            "confidence": 0.75654644
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " doctors insisted that Hysteria",
+            "confidence": 0.935778
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Gary Come Home",
+            "confidence": 0.49664804
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 1974",
+            "confidence": 0.9654848
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I see you watching me scrubs",
+            "confidence": 0.7921869
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " female contraception and untested unsafe imperialistic big money and thank you",
+            "confidence": 0.84619015
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the financial assistance",
+            "confidence": 0.8192996
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women of color",
+            "confidence": 0.93830264
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Stephen Curry",
+            "confidence": 0.83079964
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " but nevertheless recommend to the night",
+            "confidence": 0.74559414
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the maker of depo-provera",
+            "confidence": 0.9026128
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Bank 253",
+            "confidence": 0.4510838
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " if he'll down",
+            "confidence": 0.77226967
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in the 1976 skills.",
+            "confidence": 0.8639863
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in 1971 the dangers of the",
+            "confidence": 0.80662715
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " banana",
+            "confidence": 0.7064762
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the first package insert",
+            "confidence": 0.60383415
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I'm confused",
+            "confidence": 0.63351226
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " how much for a",
+            "confidence": 0.87248117
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " protest came also for organized medicine",
+            "confidence": 0.72237426
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in 1968 the FDA.",
+            "confidence": 0.80846745
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Eliminated the requirement",
+            "confidence": 0.88185865
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Nike 270",
+            "confidence": 0.47100362
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the history of",
+            "confidence": 0.9182914
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " welcome",
+            "confidence": 0.6789441
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " being sterilized against your will",
+            "confidence": 0.88623065
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " feminist health",
+            "confidence": 0.8727724
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " h e w issue regulations to stop stare",
+            "confidence": 0.83915925
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " direct me to become the most common of all major",
+            "confidence": 0.8963909
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " minimize spider",
+            "confidence": 0.73046964
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " since 1979 the media in America",
+            "confidence": 0.89793843
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " this is misleading",
+            "confidence": 0.9634748
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " no current female plant except",
+            "confidence": 0.96243614
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Rhythm method in the male condom fits easy safely",
+            "confidence": 0.8042698
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " meanwhile the pharmaceutical industry ranked first of all major industries in the US and I",
+            "confidence": 0.89656293
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " now I'm going to talk about the male contraception the terrifying possibility",
+            "confidence": 0.93439525
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 41921 tonight",
+            "confidence": 0.58114904
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " when's Easter",
+            "confidence": 0.79098606
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " three years you can finally one such",
+            "confidence": 0.619483
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " obviously",
+            "confidence": 0.96677643
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the male sex",
+            "confidence": 0.6545392
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " no new male contraceptive",
+            "confidence": 0.9526189
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 1985 researchers in early 80s estimated it would be 20 years before another one",
+            "confidence": 0.91867423
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " vasectomy is safe cheap reversible male sterilization after",
+            "confidence": 0.86920655
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " how many described by doctors who know better is castrating",
+            "confidence": 0.9368196
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " now I'm going to talk about it",
+            "confidence": 0.88282555
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " even before hftd for",
+            "confidence": 0.78954947
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Reasonable Doubt",
+            "confidence": 0.71004194
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Russian funding for STD",
+            "confidence": 0.71870136
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " ignoring women",
+            "confidence": 0.81152815
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " gonorrhea",
+            "confidence": 0.9457037
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 95% of men with gonorrhea have symptoms are tested treated in a Keurig",
+            "confidence": 0.95825285
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " hematocrit",
+            "confidence": 0.5721594
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " similarly",
+            "confidence": 0.7710495
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the medical establishment maybe fail",
+            "confidence": 0.86155874
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 45",
+            "confidence": 0.64958286
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " development",
+            "confidence": 0.82233435
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " about 700,000 women a year in 1977 Intrepid gonorrhea many unaware of it",
+            "confidence": 0.9624472
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " gonorrhea is more harmful to women than two men undetected gonorrhea often leads to pelvic inflammatory disease whose side effects include the agonizing pain sterility and irreparable damage to the fallopian tubes",
+            "confidence": 0.9507213
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " 1977 gonorrhea accounted for the hospitalization without 3200 lumens per day there were about a million cases of pelvic inflammatory disease",
+            "confidence": 0.8750387
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " if gonorrhea is hard to text and women there is no reliable routine tests for women prevention is the only means of protection but the medical establishment has always preferred is over for them",
+            "confidence": 0.92624336
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in the case of bg2 stress prevention would also mean accepting non-marital sex in the medical establishment refers to take a nap at 6 p.m.",
+            "confidence": 0.8956946
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the amas 1974",
+            "confidence": 0.90270954
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " preventive",
+            "confidence": 0.5617581
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women will be guarded is",
+            "confidence": 0.79460174
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the Discovery the very devil of infecting your wife just needed with ridicule",
+            "confidence": 0.87434787
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " play some 60s Englander contagious diseases that require the four things",
+            "confidence": 0.8002608
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " find compelling prostitution",
+            "confidence": 0.8053784
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " government and medical Authority",
+            "confidence": 0.81733143
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I worked in the feminist movement",
+            "confidence": 0.831244
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and Emily",
+            "confidence": 0.8390391
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " first saw some facts about",
+            "confidence": 0.824713
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " after our bodies ourselves is published",
+            "confidence": 0.87377876
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women have the first easy access",
+            "confidence": 0.7816239
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the first two feminist",
+            "confidence": 0.7821915
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and then a 1971 Carol Tanner and Lorain Rockin dinner",
+            "confidence": 0.7956742
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and distributing speculoos and other self",
+            "confidence": 0.9112217
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " beutel Health Group",
+            "confidence": 0.61720896
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " then came the back",
+            "confidence": 0.9271674
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " by 19th",
+            "confidence": 0.77442497
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " many other books",
+            "confidence": 0.8304267
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in short",
+            "confidence": 0.63382316
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " is that",
+            "confidence": 0.7502032
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " change this",
+            "confidence": 0.94638294
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " inequality in our relationship too.",
+            "confidence": 0.7270594
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Every woman could understand",
+            "confidence": 0.94831073
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and so informed cuz they can make her own decisions about her health care Independence",
+            "confidence": 0.78654325
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " you changed",
+            "confidence": 0.56729203
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " by incorporating education into service in the way that you never get",
+            "confidence": 0.8728864
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and by developing training program",
+            "confidence": 0.8872215
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and openly oppose and challenge the historical four.",
+            "confidence": 0.78200126
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in the book The Women quote it's highlighted a lot of problem",
+            "confidence": 0.831136
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " minority do about the problem",
+            "confidence": 0.888851
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the next",
+            "confidence": 0.8470916
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " it's not do you have to find common procedures and critiquing current medical practices one of the most exciting and radical project I wanted to talk about was the Jane Collective it was organized by 40 women from the Chicago women's Liberation Union in 1960",
+            "confidence": 0.9435908
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Jane advertised very simply in Chicago papers where the message call Jay for women's Liberation for abortion information women would call get a message",
+            "confidence": 0.8995621
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and Jane arranged",
+            "confidence": 0.92459834
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the women were given an address",
+            "confidence": 0.7241111
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and then that place or change periodically",
+            "confidence": 0.82898885
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Jane members themselves did everything but the abortion get self when they discovered that the doctor they were hired to do the abortion wasn't the doctor at all they had also been observing him long enough to be",
+            "confidence": 0.92624927
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and anyone can learn hyper still I think",
+            "confidence": 0.74714327
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " dropping their pants",
+            "confidence": 0.91480136
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Sheriff",
+            "confidence": 0.75576293
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and experimental",
+            "confidence": 0.7894318
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " has done a pretty good job",
+            "confidence": 0.9415575
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " but Travis still exist for that information to get Beyond on Circle in order for pwas to be able to demand proper kind of treatment everybody has to",
+            "confidence": 0.89604807
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I have the right to make decisions",
+            "confidence": 0.9575582
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " similarly",
+            "confidence": 0.93390024
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " if they did take off",
+            "confidence": 0.96022516
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and it's clear",
+            "confidence": 0.9449693
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and we rejected the hierarchical male model where in",
+            "confidence": 0.8126235
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " after all",
+            "confidence": 0.94835925
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " dimension of abortion",
+            "confidence": 0.7990735
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " money from the government which opened them up to a higher level of care",
+            "confidence": 0.94139725
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " how do you spell to talk a little",
+            "confidence": 0.93882954
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " intervention on feminist Health movement",
+            "confidence": 0.756542
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the main point is that we have to remember that money means strings attached",
+            "confidence": 0.9293594
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " it doesn't mean that we want texting money",
+            "confidence": 0.87227273
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " a great example",
+            "confidence": 0.97728884
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " stated publicly that they would",
+            "confidence": 0.96768945
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " even if it meant",
+            "confidence": 0.99008834
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " real 721 kitchen Labs or alternative",
+            "confidence": 0.8078233
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " create a testing site should the government decide to",
+            "confidence": 0.7963945
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the other issue with autonomy is an issue about alliances",
+            "confidence": 0.9745449
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Seven Oaks clinics avoiding alliances with population control forces in particular and because we knew that they did not act in the best interest of women we thought that women should be able to have none or as many children as they wanted population control forces particularly like Planned Parenthood don't have that same philosophy the number of children",
+            "confidence": 0.9592135
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " break dancing classes to Sunshine but when the anti-abortion movement became stronger we had to make a",
+            "confidence": 0.8134208
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and we had to keep in mind that if we didn't fight with the connection between abortion-rights and sterilization of use for example that nobody else would",
+            "confidence": 0.9067871
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " ended up being more powerful than we were",
+            "confidence": 0.9753531
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " more money and now a politic that means that sterilization is",
+            "confidence": 0.87332314
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and give Prevail we have to think about things",
+            "confidence": 0.9279547
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " before we would have line with those who would deregulate the FDA but not",
+            "confidence": 0.9232607
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and we also have to look at alliances with Progressive and independent service providers with activists",
+            "confidence": 0.9625364
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " activist groups like for example the committee against abortion rights and sterilization of people",
+            "confidence": 0.8855393
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " take a hint",
+            "confidence": 0.9021681
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " add about",
+            "confidence": 0.7099139
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " it's no coincidence that this happened in the 80s with Neo",
+            "confidence": 0.93325746
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " that's helpful",
+            "confidence": 0.8000269
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the decline",
+            "confidence": 0.88020414
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the rise of the right",
+            "confidence": 0.8925933
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " well as",
+            "confidence": 0.891428
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " challenging the market price of common services like abortion and more importantly they were teaching women how to stay out of doctors office",
+            "confidence": 0.9376991
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and their response to that by slandering women who work at the clinic",
+            "confidence": 0.7513876
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I think we tried to monopolize the services provided Health Women's OB-GYN surf inspired",
+            "confidence": 0.78832453
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and how they do this was",
+            "confidence": 0.9578394
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " they threaten the residences of Resident at the hospital who wait staff privileges",
+            "confidence": 0.77812606
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " government responded to the rise of feminist Health movement a couple ways I think the most obvious it was what I called her and I will be legislation",
+            "confidence": 0.8542774
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " since Roe versus Wade which legalize divorce American constant attacks a lot of local State Legislative levels",
+            "confidence": 0.8530657
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " attacking the right women have",
+            "confidence": 0.8718193
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women get consent from",
+            "confidence": 0.688205
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " no federal funds",
+            "confidence": 0.6483307
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " valence France",
+            "confidence": 0.6083684
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " arrest of Women Health practitioners in Santa Cruz",
+            "confidence": 0.784998
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women cop",
+            "confidence": 0.8157757
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " fitzmagic midwives",
+            "confidence": 0.60962313
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " to really hot",
+            "confidence": 0.71798885
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " tell me the most vicious attacks",
+            "confidence": 0.80328655
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " a 1980",
+            "confidence": 0.80001974
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " between 1980 and 1986 are over a hundred bombings and Fires at 7 Southcenter and thank that's provided abortion services to see things like another actor progression can you",
+            "confidence": 0.90890044
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " shut down",
+            "confidence": 0.7875107
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in the past",
+            "confidence": 0.77060485
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " included with that",
+            "confidence": 0.9372176
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " this in the feminist community",
+            "confidence": 0.8599379
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " was Port Washington",
+            "confidence": 0.87952954
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " example at",
+            "confidence": 0.5717775
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " college for Apple",
+            "confidence": 0.7407453
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I sent phones being in a different",
+            "confidence": 0.7284398
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " you have that time",
+            "confidence": 0.87249565
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " about earlier when you said it when our bodies ourselves came out for the first time women had information about their own.",
+            "confidence": 0.8878858
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " And I think it's",
+            "confidence": 0.8375602
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " what how did the the the feminist Health movement respond to the challenges of bring information to populations that don't buy the same channel.",
+            "confidence": 0.90414196
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " regular annual exam",
+            "confidence": 0.90425384
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " without media",
+            "confidence": 0.7671807
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " slideshows people went around in slide show that made films although generally that there wasn't a lot of money around",
+            "confidence": 0.84063476
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " how were those lines of communication inefficient and how can it be improved",
+            "confidence": 0.90480644
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " is this Christ Health movement that would help us the Age movement keep in touch with you this city David to you",
+            "confidence": 0.8446782
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " we can go back",
+            "confidence": 0.7947024
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " on the issues that were affected",
+            "confidence": 0.89122695
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " flakka",
+            "confidence": 0.86963534
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " that's what I would say we have to really take on the dishes are up because they aren't different kind of sad that which I didn't say which is to",
+            "confidence": 0.92954177
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " women",
+            "confidence": 0.957021
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " in about 19th",
+            "confidence": 0.6999471
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I'm out of the failure",
+            "confidence": 0.96372193
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " the rest",
+            "confidence": 0.81229
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " eyeglass",
+            "confidence": 0.7636801
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " from your point of view if you started translating and they become very",
+            "confidence": 0.8267647
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " hey that's what you think of that and nobody else is around come out when the voices can be made illegal",
+            "confidence": 0.8297889
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " say anything",
+            "confidence": 0.8290186
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " then everyone",
+            "confidence": 0.9239649
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " what's in the bottom line",
+            "confidence": 0.8049357
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " they still jump up as soon as Roby waves attack even though in all the years that Rosie Wade has been here they have faith they said they have not done",
+            "confidence": 0.89575166
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and what that meant is clinics was that thing that you know like lesbian Health Knights took second place and",
+            "confidence": 0.7970321
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " all that stuff so even though there were lots of lesbians working in that movie eventually a lot of lesbians that really burned out and internal fight the other thing",
+            "confidence": 0.9116057
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " we never had it",
+            "confidence": 0.88518226
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Palmetto",
+            "confidence": 0.90128875
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " France over",
+            "confidence": 0.73403883
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and we know we",
+            "confidence": 0.98762906
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " some men also",
+            "confidence": 0.91434586
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " so",
+            "confidence": 0.41912878
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I don't think it's a good idea I also think that the thing that was in power",
+            "confidence": 0.91735965
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " Every Woman",
+            "confidence": 0.7248772
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " every woman's problem ru-486 will take it",
+            "confidence": 0.8948349
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " I feel shame even though it's early you know it",
+            "confidence": 0.8305588
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " it's going to be the same deal",
+            "confidence": 0.9342555
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " and which you know that seems that's like a good way to do it",
+            "confidence": 0.9085215
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "transcript": " choice that women should have",
+            "confidence": 0.95672154
+          }
+        ]
+      }
+    ]
+  }
+}

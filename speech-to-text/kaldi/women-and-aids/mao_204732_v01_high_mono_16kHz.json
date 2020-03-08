@@ -1,0 +1,1874 @@
+{
+    "words": [
+        {
+            "word": "it's",
+            "time": 9.54,
+            "duration": "0.09"
+        },
+        {
+            "duration": "3.98",
+            "word": "baseball",
+            "time": 9.63
+        },
+        {
+            "time": 47.81,
+            "word": "he's",
+            "duration": "0.31"
+        },
+        {
+            "time": 48.12,
+            "word": "been",
+            "duration": "1.45"
+        },
+        {
+            "duration": "0.16",
+            "word": "as",
+            "time": 51.44
+        },
+        {
+            "time": 51.6,
+            "word": "bleak",
+            "duration": "2.70"
+        },
+        {
+            "word": "those",
+            "time": 82.21,
+            "duration": "0.29"
+        },
+        {
+            "word": "b's",
+            "time": 82.5,
+            "duration": "1.05"
+        },
+        {
+            "time": 83.55,
+            "word": "brahms",
+            "duration": "2.92"
+        },
+        {
+            "word": "this",
+            "time": 134.38,
+            "duration": "1.04"
+        },
+        {
+            "duration": "0.06",
+            "word": "is",
+            "time": 139.8
+        },
+        {
+            "word": "because",
+            "time": 139.86,
+            "duration": "3.03"
+        },
+        {
+            "duration": "0.22",
+            "word": "there's",
+            "time": 148.76
+        },
+        {
+            "word": "been",
+            "time": 148.98,
+            "duration": "2.05"
+        },
+        {
+            "duration": "0.15",
+            "time": 153.28,
+            "word": "a"
+        },
+        {
+            "duration": "0.07",
+            "word": "is",
+            "time": 161.695
+        },
+        {
+            "duration": "3.83",
+            "time": 161.765,
+            "word": "baseball"
+        },
+        {
+            "time": 245.68,
+            "word": "it's",
+            "duration": "0.12"
+        },
+        {
+            "word": "basically",
+            "time": 245.8,
+            "duration": "1.93"
+        },
+        {
+            "duration": "0.05",
+            "word": "a",
+            "time": 254.11
+        },
+        {
+            "duration": "0.84",
+            "time": 254.16,
+            "word": "poem"
+        },
+        {
+            "time": 287.955,
+            "word": "it's",
+            "duration": "0.09"
+        },
+        {
+            "time": 288.045,
+            "word": "been",
+            "duration": "2.27"
+        },
+        {
+            "word": "this",
+            "time": 330.475,
+            "duration": "0.31"
+        },
+        {
+            "word": "way",
+            "time": 341.145,
+            "duration": "0.16"
+        },
+        {
+            "time": 392.26,
+            "word": "that",
+            "duration": "0.18"
+        },
+        {
+            "duration": "0.18",
+            "time": 398.13,
+            "word": "is"
+        },
+        {
+            "duration": "1.22",
+            "word": "big",
+            "time": 398.31
+        },
+        {
+            "duration": "0.09",
+            "word": "it's",
+            "time": 405.46
+        },
+        {
+            "duration": "2.31",
+            "word": "b",
+            "time": 405.55
+        },
+        {
+            "duration": "0.11",
+            "word": "this",
+            "time": 452.74
+        },
+        {
+            "time": 452.85,
+            "word": "beach",
+            "duration": "2.57"
+        },
+        {
+            "duration": "0.10",
+            "time": 470.61,
+            "word": "is"
+        },
+        {
+            "word": "because",
+            "time": 470.71,
+            "duration": "0.64"
+        },
+        {
+            "duration": "0.44",
+            "word": "this",
+            "time": 471.52
+        },
+        {
+            "word": "is",
+            "time": 493.36,
+            "duration": "0.08"
+        },
+        {
+            "time": 493.44,
+            "word": "bob",
+            "duration": "3.39"
+        },
+        {
+            "duration": "0.40",
+            "time": 537.24,
+            "word": "wills"
+        },
+        {
+            "duration": "3.00",
+            "time": 537.64,
+            "word": "bass"
+        },
+        {
+            "time": 558.235,
+            "word": "he's",
+            "duration": "0.42"
+        },
+        {
+            "word": "been",
+            "time": 558.655,
+            "duration": "0.65"
+        },
+        {
+            "time": 568.505,
+            "word": "very",
+            "duration": "0.21"
+        },
+        {
+            "duration": "0.68",
+            "time": 568.715,
+            "word": "close"
+        },
+        {
+            "time": 569.395,
+            "word": "but",
+            "duration": "0.89"
+        },
+        {
+            "time": 572.435,
+            "word": "there's",
+            "duration": "0.17"
+        },
+        {
+            "duration": "3.03",
+            "word": "been",
+            "time": 572.605
+        },
+        {
+            "duration": "0.04",
+            "word": "a",
+            "time": 579.995
+        },
+        {
+            "duration": "1.40",
+            "time": 580.035,
+            "word": "problem"
+        },
+        {
+            "time": 592.615,
+            "word": "with",
+            "duration": "0.72"
+        },
+        {
+            "duration": "0.09",
+            "time": 639.095,
+            "word": "the"
+        },
+        {
+            "duration": "0.96",
+            "word": "piano",
+            "time": 639.185
+        },
+        {
+            "time": 640.145,
+            "word": "player",
+            "duration": "1.02"
+        },
+        {
+            "duration": "0.23",
+            "time": 675.12,
+            "word": "it's"
+        },
+        {
+            "duration": "7.51",
+            "time": 675.35,
+            "word": "b"
+        },
+        {
+            "duration": "0.09",
+            "time": 694.8,
+            "word": "it's"
+        },
+        {
+            "duration": "2.42",
+            "word": "beans",
+            "time": 694.89
+        },
+        {
+            "word": "as",
+            "time": 721.73,
+            "duration": "0.08"
+        },
+        {
+            "time": 721.81,
+            "word": "bell",
+            "duration": "2.45"
+        },
+        {
+            "word": "it's",
+            "time": 748.66,
+            "duration": "0.10"
+        },
+        {
+            "duration": "2.44",
+            "word": "been",
+            "time": 748.76
+        },
+        {
+            "word": "this",
+            "time": 758.26,
+            "duration": "0.18"
+        },
+        {
+            "duration": "2.70",
+            "word": "busy",
+            "time": 758.44
+        },
+        {
+            "time": 778.97,
+            "word": "as",
+            "duration": "0.08"
+        },
+        {
+            "word": "beans",
+            "time": 779.05,
+            "duration": "2.71"
+        },
+        {
+            "word": "but",
+            "time": 781.76,
+            "duration": "0.99"
+        },
+        {
+            "word": "ms",
+            "time": 838.96,
+            "duration": "0.10"
+        },
+        {
+            "duration": "1.11",
+            "time": 839.06,
+            "word": "brock"
+        },
+        {
+            "time": 857.44,
+            "word": "it's",
+            "duration": "0.14"
+        },
+        {
+            "duration": "3.62",
+            "word": "been",
+            "time": 857.58
+        },
+        {
+            "duration": "1.47",
+            "time": 861.265,
+            "word": "fb"
+        },
+        {
+            "duration": "0.24",
+            "word": "pics",
+            "time": 877.565
+        },
+        {
+            "duration": "3.97",
+            "word": "by",
+            "time": 877.805
+        },
+        {
+            "duration": "0.34",
+            "time": 883.335,
+            "word": "half"
+        },
+        {
+            "duration": "1.61",
+            "word": "but",
+            "time": 883.675
+        },
+        {
+            "word": "this",
+            "time": 886.715,
+            "duration": "0.24"
+        },
+        {
+            "word": "because",
+            "time": 886.955,
+            "duration": "1.84"
+        },
+        {
+            "word": "it's",
+            "time": 889.295,
+            "duration": "0.14"
+        },
+        {
+            "word": "been",
+            "time": 889.435,
+            "duration": "2.34"
+        },
+        {
+            "duration": "0.13",
+            "time": 896.035,
+            "word": "it's"
+        },
+        {
+            "word": "been",
+            "time": 896.165,
+            "duration": "2.50"
+        },
+        {
+            "time": 900.825,
+            "word": "right",
+            "duration": "0.77"
+        },
+        {
+            "duration": "0.60",
+            "time": 911.65,
+            "word": "they"
+        },
+        {
+            "duration": "0.17",
+            "word": "do",
+            "time": 915.59
+        },
+        {
+            "word": "ms",
+            "time": 937.12,
+            "duration": "0.12"
+        },
+        {
+            "duration": "1.83",
+            "time": 937.24,
+            "word": "babb"
+        },
+        {
+            "time": 947.52,
+            "word": "right",
+            "duration": "0.30"
+        },
+        {
+            "duration": "0.22",
+            "time": 963.57,
+            "word": "and"
+        },
+        {
+            "duration": "0.10",
+            "word": "he's",
+            "time": 990.98
+        },
+        {
+            "duration": "0.84",
+            "word": "back",
+            "time": 991.08
+        },
+        {
+            "duration": "0.54",
+            "time": 995.54,
+            "word": "with"
+        },
+        {
+            "time": 999.58,
+            "word": "this",
+            "duration": "0.17"
+        },
+        {
+            "word": "band",
+            "time": 999.75,
+            "duration": "1.94"
+        },
+        {
+            "duration": "0.10",
+            "word": "it's",
+            "time": 1056.52
+        },
+        {
+            "word": "being",
+            "time": 1056.62,
+            "duration": "2.05"
+        },
+        {
+            "duration": "0.07",
+            "word": "in",
+            "time": 1058.67
+        },
+        {
+            "time": 1072.76,
+            "word": "the",
+            "duration": "0.08"
+        },
+        {
+            "time": 1072.84,
+            "word": "polls",
+            "duration": "2.49"
+        },
+        {
+            "word": "but",
+            "time": 1075.33,
+            "duration": "1.00"
+        },
+        {
+            "duration": "0.10",
+            "word": "it's",
+            "time": 1107.48
+        },
+        {
+            "duration": "1.98",
+            "word": "bad",
+            "time": 1107.58
+        },
+        {
+            "duration": "0.59",
+            "time": 1141.86,
+            "word": "here's"
+        },
+        {
+            "time": 1142.45,
+            "word": "baek",
+            "duration": "2.52"
+        },
+        {
+            "time": 1153.17,
+            "word": "it's",
+            "duration": "0.09"
+        },
+        {
+            "time": 1153.26,
+            "word": "been",
+            "duration": "5.10"
+        },
+        {
+            "word": "it's",
+            "time": 1176.33,
+            "duration": "0.19"
+        },
+        {
+            "time": 1176.52,
+            "word": "been",
+            "duration": "3.64"
+        },
+        {
+            "time": 1198.36,
+            "word": "in",
+            "duration": "0.09"
+        },
+        {
+            "duration": "0.09",
+            "time": 1198.45,
+            "word": "the"
+        },
+        {
+            "duration": "0.61",
+            "time": 1198.54,
+            "word": "press"
+        },
+        {
+            "word": "but",
+            "time": 1199.15,
+            "duration": "1.21"
+        },
+        {
+            "duration": "0.11",
+            "word": "it's",
+            "time": 1203.82
+        },
+        {
+            "duration": "2.36",
+            "time": 1203.93,
+            "word": "being"
+        },
+        {
+            "time": 1206.29,
+            "word": "the",
+            "duration": "0.06"
+        },
+        {
+            "duration": "0.37",
+            "time": 1215.01,
+            "word": "next"
+        },
+        {
+            "word": "bing",
+            "time": 1215.38,
+            "duration": "2.24"
+        },
+        {
+            "duration": "0.74",
+            "time": 1222.38,
+            "word": "crosby"
+        },
+        {
+            "duration": "0.21",
+            "time": 1228.18,
+            "word": "has"
+        },
+        {
+            "time": 1228.39,
+            "word": "been",
+            "duration": "2.03"
+        },
+        {
+            "duration": "0.22",
+            "time": 1231.71,
+            "word": "has"
+        },
+        {
+            "duration": "4.43",
+            "word": "been",
+            "time": 1231.93
+        },
+        {
+            "word": "as",
+            "time": 1242.21,
+            "duration": "0.06"
+        },
+        {
+            "time": 1242.27,
+            "word": "bad",
+            "duration": "1.73"
+        },
+        {
+            "word": "as",
+            "time": 1277.86,
+            "duration": "0.34"
+        },
+        {
+            "word": "because",
+            "time": 1278.2,
+            "duration": "1.65"
+        },
+        {
+            "word": "it's",
+            "time": 1281.52,
+            "duration": "0.18"
+        },
+        {
+            "word": "been",
+            "time": 1281.7,
+            "duration": "0.94"
+        },
+        {
+            "time": 1293.99,
+            "word": "it's",
+            "duration": "0.10"
+        },
+        {
+            "word": "because",
+            "time": 1294.09,
+            "duration": "1.75"
+        },
+        {
+            "word": "it's",
+            "time": 1303.82,
+            "duration": "0.09"
+        },
+        {
+            "duration": "5.79",
+            "word": "being",
+            "time": 1303.91
+        },
+        {
+            "duration": "0.51",
+            "time": 1309.7,
+            "word": "obese"
+        },
+        {
+            "time": 1310.21,
+            "word": "being",
+            "duration": "1.57"
+        },
+        {
+            "duration": "0.11",
+            "word": "is",
+            "time": 1312.84
+        },
+        {
+            "time": 1312.95,
+            "word": "because",
+            "duration": "1.08"
+        },
+        {
+            "word": "the",
+            "time": 1319.01,
+            "duration": "0.06"
+        },
+        {
+            "word": "pay",
+            "time": 1319.07,
+            "duration": "2.51"
+        },
+        {
+            "time": 1328.25,
+            "word": "is",
+            "duration": "0.11"
+        },
+        {
+            "word": "better",
+            "time": 1328.36,
+            "duration": "1.58"
+        },
+        {
+            "duration": "0.20",
+            "word": "he's",
+            "time": 1349.93
+        },
+        {
+            "word": "been",
+            "time": 1350.13,
+            "duration": "2.53"
+        },
+        {
+            "word": "a",
+            "time": 1361.35,
+            "duration": "0.03"
+        },
+        {
+            "duration": "1.01",
+            "word": "state",
+            "time": 1361.38
+        },
+        {
+            "duration": "0.21",
+            "time": 10.81,
+            "word": "he's"
+        },
+        {
+            "duration": "3.34",
+            "word": "been",
+            "time": 11.02
+        },
+        {
+            "time": 21.16,
+            "word": "has",
+            "duration": "0.21"
+        },
+        {
+            "time": 21.37,
+            "word": "been",
+            "duration": "5.62"
+        },
+        {
+            "word": "has",
+            "time": 56.51,
+            "duration": "0.14"
+        },
+        {
+            "duration": "1.92",
+            "word": "been",
+            "time": 56.65
+        },
+        {
+            "duration": "0.20",
+            "time": 19.11,
+            "word": "it's"
+        },
+        {
+            "time": 19.31,
+            "word": "been",
+            "duration": "1.26"
+        },
+        {
+            "time": 32.56,
+            "word": "nice",
+            "duration": "0.17"
+        },
+        {
+            "duration": "1.17",
+            "word": "but",
+            "time": 32.73
+        },
+        {
+            "word": "is",
+            "time": 52.12,
+            "duration": "0.09"
+        },
+        {
+            "duration": "3.26",
+            "time": 52.21,
+            "word": "busy"
+        },
+        {
+            "time": 71.56,
+            "word": "week",
+            "duration": "0.69"
+        },
+        {
+            "word": "thanks",
+            "time": 1564.08,
+            "duration": "0.28"
+        },
+        {
+            "duration": "0.54",
+            "word": "bob",
+            "time": 1564.36
+        },
+        {
+            "duration": "0.06",
+            "word": "the",
+            "time": 1581.8
+        },
+        {
+            "duration": "1.22",
+            "word": "panel",
+            "time": 1581.86
+        },
+        {
+            "time": 1583.08,
+            "word": "says",
+            "duration": "0.39"
+        },
+        {
+            "duration": "0.86",
+            "time": 1583.47,
+            "word": "because"
+        },
+        {
+            "word": "that's",
+            "time": 1586.63,
+            "duration": "0.28"
+        },
+        {
+            "duration": "3.08",
+            "word": "because",
+            "time": 1586.91
+        },
+        {
+            "word": "he's",
+            "time": 1617.1,
+            "duration": "0.29"
+        },
+        {
+            "duration": "0.92",
+            "time": 1617.39,
+            "word": "bright"
+        },
+        {
+            "time": 1680.49,
+            "word": "that's",
+            "duration": "0.18"
+        },
+        {
+            "time": 1680.67,
+            "word": "behind",
+            "duration": "3.70"
+        },
+        {
+            "duration": "0.33",
+            "time": 1684.37,
+            "word": "it"
+        },
+        {
+            "duration": "0.13",
+            "word": "has",
+            "time": 1687.61
+        },
+        {
+            "time": 1687.74,
+            "word": "been",
+            "duration": "1.26"
+        },
+        {
+            "duration": "0.75",
+            "time": 1699.97,
+            "word": "success"
+        },
+        {
+            "duration": "0.50",
+            "time": 1713.06,
+            "word": "it"
+        },
+        {
+            "duration": "0.15",
+            "time": 1713.63,
+            "word": "is"
+        },
+        {
+            "word": "being",
+            "time": 1713.78,
+            "duration": "1.45"
+        },
+        {
+            "word": "depleted",
+            "time": 1724.66,
+            "duration": "0.96"
+        },
+        {
+            "duration": "0.06",
+            "time": 1743.29,
+            "word": "the"
+        },
+        {
+            "time": 1743.35,
+            "word": "plant",
+            "duration": "0.83"
+        },
+        {
+            "time": 1752.9,
+            "word": "is",
+            "duration": "0.07"
+        },
+        {
+            "duration": "1.81",
+            "word": "booming",
+            "time": 1752.97
+        },
+        {
+            "duration": "0.09",
+            "time": 1770.87,
+            "word": "it's"
+        },
+        {
+            "time": 1770.96,
+            "word": "been",
+            "duration": "0.49"
+        },
+        {
+            "time": 1788.74,
+            "word": "years",
+            "duration": "0.34"
+        },
+        {
+            "duration": "0.30",
+            "time": 1803.94,
+            "word": "that"
+        },
+        {
+            "word": "there's",
+            "time": 1825.03,
+            "duration": "0.21"
+        },
+        {
+            "duration": "1.84",
+            "word": "burns",
+            "time": 1825.24
+        },
+        {
+            "time": 1847.64,
+            "word": "it's",
+            "duration": "0.09"
+        },
+        {
+            "word": "been",
+            "time": 1847.73,
+            "duration": "0.88"
+        },
+        {
+            "duration": "0.38",
+            "word": "her",
+            "time": 1880.65
+        },
+        {
+            "duration": "0.93",
+            "word": "baby",
+            "time": 1904.72
+        },
+        {
+            "word": "it's",
+            "time": 1931.15,
+            "duration": "0.54"
+        },
+        {
+            "duration": "0.28",
+            "time": 1959.01,
+            "word": "morning"
+        },
+        {
+            "duration": "0.40",
+            "word": "edition",
+            "time": 1965.36
+        },
+        {
+            "duration": "0.09",
+            "word": "it's",
+            "time": 1990.22
+        },
+        {
+            "word": "beans",
+            "time": 1990.31,
+            "duration": "1.83"
+        },
+        {
+            "duration": "0.23",
+            "time": 2025.01,
+            "word": "oh"
+        },
+        {
+            "duration": "0.22",
+            "time": 2025.34,
+            "word": "yeah"
+        },
+        {
+            "duration": "0.40",
+            "word": "say",
+            "time": 2028.74
+        },
+        {
+            "duration": "0.53",
+            "time": 2034.41,
+            "word": "it"
+        },
+        {
+            "duration": "0.43",
+            "word": "it",
+            "time": 2049.21
+        },
+        {
+            "word": "was",
+            "time": 2060.51,
+            "duration": "0.17"
+        },
+        {
+            "time": 2060.68,
+            "word": "built",
+            "duration": "2.84"
+        },
+        {
+            "word": "to",
+            "time": 2075.19,
+            "duration": "0.06"
+        },
+        {
+            "word": "be",
+            "time": 2075.25,
+            "duration": "2.52"
+        },
+        {
+            "duration": "0.35",
+            "word": "this",
+            "time": 2102.19
+        },
+        {
+            "duration": "0.06",
+            "word": "is",
+            "time": 2103.65
+        },
+        {
+            "word": "big",
+            "time": 2103.71,
+            "duration": "2.63"
+        },
+        {
+            "duration": "0.73",
+            "time": 2114.14,
+            "word": "mac"
+        },
+        {
+            "duration": "0.32",
+            "word": "there's",
+            "time": 2172
+        },
+        {
+            "duration": "1.64",
+            "time": 2172.32,
+            "word": "been"
+        },
+        {
+            "time": 2191.6,
+            "word": "the",
+            "duration": "0.06"
+        },
+        {
+            "word": "purpose",
+            "time": 2191.66,
+            "duration": "1.75"
+        },
+        {
+            "word": "be",
+            "time": 2193.41,
+            "duration": "1.44"
+        },
+        {
+            "time": 2224.69,
+            "word": "ms",
+            "duration": "0.14"
+        },
+        {
+            "duration": "1.20",
+            "time": 2224.83,
+            "word": "bauer"
+        },
+        {
+            "time": 2267.84,
+            "word": "says",
+            "duration": "0.28"
+        },
+        {
+            "duration": "2.88",
+            "word": "because",
+            "time": 2268.12
+        },
+        {
+            "duration": "0.27",
+            "word": "it",
+            "time": 2271
+        },
+        {
+            "duration": "0.14",
+            "time": 2274.33,
+            "word": "has"
+        },
+        {
+            "duration": "1.57",
+            "time": 2274.47,
+            "word": "been"
+        },
+        {
+            "duration": "0.29",
+            "word": "here",
+            "time": 2281.46
+        },
+        {
+            "duration": "0.06",
+            "word": "is",
+            "time": 2281.75
+        },
+        {
+            "duration": "3.18",
+            "word": "bleak",
+            "time": 2281.81
+        },
+        {
+            "word": "fbi",
+            "time": 2285.97,
+            "duration": "1.67"
+        },
+        {
+            "duration": "0.11",
+            "time": 2301.39,
+            "word": "has"
+        },
+        {
+            "time": 2301.5,
+            "word": "been",
+            "duration": "1.20"
+        },
+        {
+            "word": "leaks",
+            "time": 2318.57,
+            "duration": "1.33"
+        },
+        {
+            "duration": "2.80",
+            "word": "big",
+            "time": 2319.9
+        },
+        {
+            "word": "data",
+            "time": 2327.13,
+            "duration": "0.26"
+        },
+        {
+            "duration": "0.09",
+            "time": 2332.65,
+            "word": "it's"
+        },
+        {
+            "duration": "2.39",
+            "time": 2332.74,
+            "word": "bleak"
+        },
+        {
+            "time": 2391.14,
+            "word": "nice",
+            "duration": "1.05"
+        },
+        {
+            "time": 2392.19,
+            "word": "boy",
+            "duration": "4.56"
+        },
+        {
+            "duration": "0.77",
+            "word": "who",
+            "time": 2396.75
+        },
+        {
+            "time": 2415.21,
+            "word": "think",
+            "duration": "0.69"
+        },
+        {
+            "time": 2418.23,
+            "word": "it's",
+            "duration": "0.11"
+        },
+        {
+            "time": 2418.34,
+            "word": "beneath",
+            "duration": "2.86"
+        },
+        {
+            "time": 2432.52,
+            "word": "us",
+            "duration": "0.59"
+        },
+        {
+            "word": "he's",
+            "time": 2450.92,
+            "duration": "0.17"
+        },
+        {
+            "word": "been",
+            "time": 2451.09,
+            "duration": "7.44"
+        },
+        {
+            "time": 2493.72,
+            "word": "doing",
+            "duration": "0.24"
+        },
+        {
+            "time": 2493.96,
+            "word": "this",
+            "duration": "0.60"
+        },
+        {
+            "duration": "0.15",
+            "time": 2505.62,
+            "word": "mm"
+        },
+        {
+            "word": "hmm",
+            "time": 2513.59,
+            "duration": "0.16"
+        },
+        {
+            "duration": "0.34",
+            "time": 2522.74,
+            "word": "thank"
+        },
+        {
+            "duration": "0.13",
+            "time": 2523.08,
+            "word": "you"
+        },
+        {
+            "duration": "0.12",
+            "time": 2539.88,
+            "word": "he"
+        },
+        {
+            "duration": "0.66",
+            "time": 2540,
+            "word": "did"
+        },
+        {
+            "duration": "0.27",
+            "word": "so",
+            "time": 2545.47
+        },
+        {
+            "word": "are",
+            "time": 2545.74,
+            "duration": "0.41"
+        },
+        {
+            "time": 2561.89,
+            "word": "the",
+            "duration": "0.06"
+        },
+        {
+            "word": "polls",
+            "time": 2561.95,
+            "duration": "1.65"
+        },
+        {
+            "duration": "2.84",
+            "word": "be",
+            "time": 2563.6
+        },
+        {
+            "duration": "0.41",
+            "word": "it",
+            "time": 2566.44
+        },
+        {
+            "duration": "0.26",
+            "word": "as",
+            "time": 2579.96
+        },
+        {
+            "duration": "2.36",
+            "time": 2580.22,
+            "word": "billy"
+        },
+        {
+            "word": "he's",
+            "time": 2610.92,
+            "duration": "0.43"
+        },
+        {
+            "word": "been",
+            "time": 2611.35,
+            "duration": "2.13"
+        },
+        {
+            "word": "it",
+            "time": 2615.76,
+            "duration": "1.00"
+        },
+        {
+            "time": 2619.42,
+            "word": "is",
+            "duration": "1.02"
+        },
+        {
+            "duration": "0.23",
+            "time": 2649.01,
+            "word": "it's"
+        },
+        {
+            "word": "very",
+            "time": 2649.97,
+            "duration": "0.27"
+        },
+        {
+            "duration": "0.59",
+            "time": 2650.24,
+            "word": "simple"
+        },
+        {
+            "duration": "0.59",
+            "word": "there's",
+            "time": 2662.29
+        },
+        {
+            "duration": "0.10",
+            "word": "this",
+            "time": 2670.35
+        },
+        {
+            "time": 2670.45,
+            "word": "big",
+            "duration": "0.42"
+        },
+        {
+            "word": "part",
+            "time": 2672.84,
+            "duration": "0.31"
+        },
+        {
+            "word": "it",
+            "time": 2685.61,
+            "duration": "0.34"
+        },
+        {
+            "word": "says",
+            "time": 2692.42,
+            "duration": "0.54"
+        },
+        {
+            "duration": "0.06",
+            "word": "the",
+            "time": 2700.16
+        },
+        {
+            "duration": "7.42",
+            "word": "peak",
+            "time": 2700.22
+        },
+        {
+            "time": 2708.12,
+            "word": "my",
+            "duration": "0.31"
+        },
+        {
+            "word": "name",
+            "time": 2718.77,
+            "duration": "0.60"
+        },
+        {
+            "time": 2721.33,
+            "word": "is",
+            "duration": "0.16"
+        },
+        {
+            "time": 2734.42,
+            "word": "this",
+            "duration": "1.52"
+        },
+        {
+            "word": "nikos",
+            "time": 2754.57,
+            "duration": "1.41"
+        },
+        {
+            "word": "bed",
+            "time": 2755.98,
+            "duration": "1.84"
+        },
+        {
+            "time": 2793.69,
+            "word": "and",
+            "duration": "0.48"
+        },
+        {
+            "time": 2795.15,
+            "word": "right",
+            "duration": "0.57"
+        },
+        {
+            "duration": "0.28",
+            "time": 2797.55,
+            "word": "now"
+        },
+        {
+            "word": "the",
+            "time": 2811.49,
+            "duration": "0.18"
+        },
+        {
+            "word": "law",
+            "time": 2818.67,
+            "duration": "0.30"
+        },
+        {
+            "duration": "0.26",
+            "time": 2848.02,
+            "word": "now"
+        },
+        {
+            "duration": "0.10",
+            "time": 2869.11,
+            "word": "it's"
+        },
+        {
+            "word": "back",
+            "time": 2869.21,
+            "duration": "1.86"
+        },
+        {
+            "duration": "0.11",
+            "word": "ms",
+            "time": 2885.57
+        },
+        {
+            "duration": "1.81",
+            "word": "babb",
+            "time": 2885.68
+        },
+        {
+            "duration": "0.14",
+            "word": "right",
+            "time": 2887.49
+        },
+        {
+            "time": 2902.53,
+            "word": "since",
+            "duration": "0.54"
+        },
+        {
+            "time": 2906.53,
+            "word": "that",
+            "duration": "0.35"
+        },
+        {
+            "word": "day",
+            "time": 2916.64,
+            "duration": "0.40"
+        },
+        {
+            "word": "oh",
+            "time": 2929.15,
+            "duration": "0.18"
+        },
+        {
+            "word": "yeah",
+            "time": 2931.79,
+            "duration": "0.24"
+        },
+        {
+            "time": 2952.14,
+            "word": "that's",
+            "duration": "0.33"
+        },
+        {
+            "duration": "0.41",
+            "time": 2959.3,
+            "word": "it"
+        },
+        {
+            "time": 2961.7,
+            "word": "there",
+            "duration": "0.16"
+        },
+        {
+            "duration": "0.17",
+            "time": 2961.86,
+            "word": "is"
+        },
+        {
+            "word": "it's",
+            "time": 2997.45,
+            "duration": "0.09"
+        },
+        {
+            "time": 2997.54,
+            "word": "been",
+            "duration": "1.21"
+        },
+        {
+            "duration": "0.31",
+            "time": 3002.84,
+            "word": "that"
+        },
+        {
+            "time": 3012.46,
+            "word": "way",
+            "duration": "0.42"
+        },
+        {
+            "duration": "0.43",
+            "time": 3024.51,
+            "word": "i"
+        },
+        {
+            "word": "know",
+            "time": 3027.81,
+            "duration": "0.42"
+        },
+        {
+            "duration": "0.18",
+            "word": "the",
+            "time": 3037.01
+        },
+        {
+            "duration": "1.81",
+            "time": 3037.19,
+            "word": "fbi"
+        },
+        {
+            "time": 3069.08,
+            "word": "ms",
+            "duration": "0.09"
+        },
+        {
+            "duration": "1.21",
+            "time": 3069.17,
+            "word": "briar"
+        },
+        {
+            "word": "has",
+            "time": 3073.65,
+            "duration": "0.25"
+        },
+        {
+            "duration": "1.42",
+            "time": 3073.9,
+            "word": "been"
+        },
+        {
+            "time": 3083.11,
+            "word": "has",
+            "duration": "0.20"
+        },
+        {
+            "time": 3083.31,
+            "word": "been",
+            "duration": "0.72"
+        },
+        {
+            "duration": "0.47",
+            "time": 3099.52,
+            "word": "nice"
+        },
+        {
+            "duration": "0.62",
+            "word": "job",
+            "time": 3106.67
+        },
+        {
+            "duration": "0.67",
+            "word": "when",
+            "time": 3145.81
+        },
+        {
+            "time": 3159.14,
+            "word": "owen",
+            "duration": "0.94"
+        },
+        {
+            "duration": "0.49",
+            "word": "was",
+            "time": 3163.05
+        },
+        {
+            "duration": "1.21",
+            "word": "for",
+            "time": 3175.61
+        },
+        {
+            "duration": "0.09",
+            "word": "as",
+            "time": 3199.4
+        },
+        {
+            "duration": "8.19",
+            "word": "bell",
+            "time": 3199.49
+        },
+        {
+            "time": 3239.22,
+            "word": "there",
+            "duration": "0.12"
+        },
+        {
+            "word": "is",
+            "time": 3239.34,
+            "duration": "0.93"
+        },
+        {
+            "duration": "0.29",
+            "word": "it's",
+            "time": 3278
+        },
+        {
+            "duration": "0.37",
+            "word": "a",
+            "time": 3284.22
+        },
+        {
+            "duration": "0.13",
+            "time": 3314.72,
+            "word": "it's"
+        },
+        {
+            "time": 3314.85,
+            "word": "b",
+            "duration": "0.72"
+        },
+        {
+            "duration": "0.06",
+            "word": "the",
+            "time": 3353.71
+        },
+        {
+            "duration": "1.52",
+            "time": 3353.77,
+            "word": "path"
+        },
+        {
+            "word": "the",
+            "time": 3378.21,
+            "duration": "0.48"
+        },
+        {
+            "word": "fbi",
+            "time": 3388.24,
+            "duration": "1.22"
+        },
+        {
+            "time": 3415,
+            "word": "it",
+            "duration": "0.37"
+        },
+        {
+            "word": "is",
+            "time": 3421.48,
+            "duration": "0.43"
+        },
+        {
+            "duration": "0.17",
+            "word": "oh",
+            "time": 3437.94
+        },
+        {
+            "word": "yeah",
+            "time": 3443.35,
+            "duration": "0.28"
+        },
+        {
+            "duration": "0.06",
+            "word": "the",
+            "time": 3450.31
+        },
+        {
+            "duration": "0.94",
+            "word": "court",
+            "time": 3450.37
+        },
+        {
+            "time": 3473.52,
+            "word": "he's",
+            "duration": "0.32"
+        },
+        {
+            "word": "bright",
+            "time": 3473.84,
+            "duration": "0.98"
+        },
+        {
+            "time": 3498.1,
+            "word": "speaker",
+            "duration": "2.19"
+        },
+        {
+            "duration": "0.13",
+            "time": 3500.73,
+            "word": "has"
+        },
+        {
+            "duration": "0.46",
+            "word": "been",
+            "time": 3500.86
+        },
+        {
+            "word": "oh",
+            "time": 3502.46,
+            "duration": "0.26"
+        },
+        {
+            "time": 3507.27,
+            "word": "yeah",
+            "duration": "0.28"
+        },
+        {
+            "duration": "0.31",
+            "time": 3532.57,
+            "word": "oh"
+        },
+        {
+            "duration": "0.28",
+            "time": 3536.96,
+            "word": "boy"
+        },
+        {
+            "word": "right",
+            "time": 3552.29,
+            "duration": "0.20"
+        },
+        {
+            "duration": "0.29",
+            "word": "right",
+            "time": 3569.89
+        },
+        {
+            "duration": "0.42",
+            "time": 3589.21,
+            "word": "all"
+        },
+        {
+            "time": 3590.68,
+            "word": "right",
+            "duration": "0.27"
+        },
+        {
+            "duration": "0.21",
+            "word": "it's",
+            "time": 3609.76
+        },
+        {
+            "word": "b",
+            "time": 3609.97,
+            "duration": "8.06"
+        },
+        {
+            "duration": "0.15",
+            "word": "ms",
+            "time": 3634.49
+        },
+        {
+            "word": "babb",
+            "time": 3634.64,
+            "duration": "2.65"
+        },
+        {
+            "duration": "0.82",
+            "time": 3655.46,
+            "word": "right"
+        },
+        {
+            "duration": "0.30",
+            "time": 3657.42,
+            "word": "so"
+        },
+        {
+            "word": "there's",
+            "time": 3657.72,
+            "duration": "0.41"
+        },
+        {
+            "duration": "2.29",
+            "word": "bb",
+            "time": 3658.13
+        },
+        {
+            "duration": "0.34",
+            "word": "there's",
+            "time": 3668.35
+        },
+        {
+            "time": 3668.69,
+            "word": "been",
+            "duration": "0.74"
+        },
+        {
+            "duration": "0.07",
+            "time": 3669.99,
+            "word": "a"
+        },
+        {
+            "duration": "0.45",
+            "time": 3670.06,
+            "word": "lot"
+        },
+        {
+            "duration": "0.34",
+            "time": 3670.51,
+            "word": "more"
+        },
+        {
+            "word": "consideration",
+            "time": 3670.85,
+            "duration": "0.92"
+        },
+        {
+            "duration": "0.72",
+            "time": 3672.9,
+            "word": "abortion"
+        },
+        {
+            "duration": "0.38",
+            "time": 3690.3,
+            "word": "it"
+        },
+        {
+            "duration": "0.24",
+            "time": 3694.11,
+            "word": "was"
+        },
+        {
+            "time": 3694.35,
+            "word": "both",
+            "duration": "0.63"
+        },
+        {
+            "duration": "0.15",
+            "word": "i'm",
+            "time": 3735.7
+        },
+        {
+            "word": "here",
+            "time": 3735.85,
+            "duration": "0.47"
+        },
+        {
+            "time": 3742.19,
+            "word": "his",
+            "duration": "0.13"
+        },
+        {
+            "duration": "0.79",
+            "time": 3742.32,
+            "word": "bar"
+        },
+        {
+            "duration": "0.07",
+            "time": 3746.35,
+            "word": "is"
+        },
+        {
+            "duration": "1.07",
+            "word": "because",
+            "time": 3746.42
+        },
+        {
+            "time": 3751.82,
+            "word": "the",
+            "duration": "0.06"
+        },
+        {
+            "time": 3751.88,
+            "word": "census",
+            "duration": "0.78"
+        },
+        {
+            "duration": "0.89",
+            "time": 3752.66,
+            "word": "bureau"
+        }
+    ]
+}
