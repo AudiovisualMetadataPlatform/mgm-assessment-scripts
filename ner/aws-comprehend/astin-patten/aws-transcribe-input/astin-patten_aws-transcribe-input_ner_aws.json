@@ -1,0 +1,1104 @@
+{
+    "Entities": [
+        {
+            "BeginOffset": 61,
+            "EndOffset": 75,
+            "Score": 0.7489129304885864,
+            "Text": "second lecture",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 80,
+            "EndOffset": 89,
+            "Score": 0.9732224345207214,
+            "Text": "this week",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 214,
+            "EndOffset": 228,
+            "Score": 0.9897138476371765,
+            "Text": "9,000 students",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 294,
+            "EndOffset": 299,
+            "Score": 0.9520930051803589,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 351,
+            "EndOffset": 357,
+            "Score": 0.5906944870948792,
+            "Text": "Balkan",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 363,
+            "EndOffset": 369,
+            "Score": 0.708640992641449,
+            "Text": "Balkan",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 427,
+            "EndOffset": 436,
+            "Score": 0.7908240556716919,
+            "Text": "this year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 444,
+            "EndOffset": 448,
+            "Score": 0.9342560768127441,
+            "Text": "Bill",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 489,
+            "EndOffset": 498,
+            "Score": 0.9652993083000183,
+            "Text": "100 years",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 499,
+            "EndOffset": 513,
+            "Score": 0.920423150062561,
+            "Text": "18 93 students",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 598,
+            "EndOffset": 602,
+            "Score": 0.7239544987678528,
+            "Text": "Lord",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 655,
+            "EndOffset": 661,
+            "Score": 0.9936680197715759,
+            "Text": "Louise",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 736,
+            "EndOffset": 744,
+            "Score": 0.9839515686035156,
+            "Text": "New York",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 754,
+            "EndOffset": 764,
+            "Score": 0.9814183115959167,
+            "Text": "West Coast",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 827,
+            "EndOffset": 831,
+            "Score": 0.7719695568084717,
+            "Text": "Lord",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 835,
+            "EndOffset": 842,
+            "Score": 0.9986355900764465,
+            "Text": "Georgia",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 864,
+            "EndOffset": 876,
+            "Score": 0.9854235053062439,
+            "Text": "40 years ago",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1110,
+            "EndOffset": 1118,
+            "Score": 0.9967834949493408,
+            "Text": "Ji Young",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 1143,
+            "EndOffset": 1148,
+            "Score": 0.395669162273407,
+            "Text": "Lewis",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 1156,
+            "EndOffset": 1177,
+            "Score": 0.986050009727478,
+            "Text": "Department of English",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 1269,
+            "EndOffset": 1277,
+            "Score": 0.6072467565536499,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 1412,
+            "EndOffset": 1417,
+            "Score": 0.8531585335731506,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1482,
+            "EndOffset": 1490,
+            "Score": 0.9980896711349487,
+            "Text": "40 years",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1649,
+            "EndOffset": 1667,
+            "Score": 0.9647809267044067,
+            "Text": "more than 30 years",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1802,
+            "EndOffset": 1812,
+            "Score": 0.675162672996521,
+            "Text": "Lady Place",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 2133,
+            "EndOffset": 2171,
+            "Score": 0.9962304830551147,
+            "Text": "National Merit Scholarship Corporation",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2187,
+            "EndOffset": 2213,
+            "Score": 0.9318971037864685,
+            "Text": "Research Council Education",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2267,
+            "EndOffset": 2273,
+            "Score": 0.8824329376220703,
+            "Text": "Carter",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 2315,
+            "EndOffset": 2340,
+            "Score": 0.9316978454589844,
+            "Text": "Higher Education Research",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2372,
+            "EndOffset": 2393,
+            "Score": 0.7620557546615601,
+            "Text": "three of the articles",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2442,
+            "EndOffset": 2463,
+            "Score": 0.8512678742408752,
+            "Text": "1/4 of our profession",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2494,
+            "EndOffset": 2506,
+            "Score": 0.9232051968574524,
+            "Text": "The Land Far",
+            "Type": "TITLE"
+        },
+        {
+            "BeginOffset": 2619,
+            "EndOffset": 2634,
+            "Score": 0.6496909260749817,
+            "Text": "Matters College",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2666,
+            "EndOffset": 2670,
+            "Score": 0.996778666973114,
+            "Text": "1993",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 2672,
+            "EndOffset": 2677,
+            "Score": 0.9746415019035339,
+            "Text": "First",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2708,
+            "EndOffset": 2717,
+            "Score": 0.9924948811531067,
+            "Text": "20 pounds",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2719,
+            "EndOffset": 2724,
+            "Score": 0.9893344640731812,
+            "Text": "3,000",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2911,
+            "EndOffset": 2924,
+            "Score": 0.9883699417114258,
+            "Text": "1,000 degrees",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3126,
+            "EndOffset": 3135,
+            "Score": 0.9719727635383606,
+            "Text": "This week",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3583,
+            "EndOffset": 3589,
+            "Score": 0.9021356701850891,
+            "Text": "Daniel",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 4660,
+            "EndOffset": 4667,
+            "Score": 0.7607131004333496,
+            "Text": "one way",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4850,
+            "EndOffset": 4854,
+            "Score": 0.6168449521064758,
+            "Text": "four",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4969,
+            "EndOffset": 4983,
+            "Score": 0.9312993884086609,
+            "Text": "this afternoon",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 5469,
+            "EndOffset": 5482,
+            "Score": 0.9825540781021118,
+            "Text": "United States",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 6176,
+            "EndOffset": 6180,
+            "Score": 0.3895132839679718,
+            "Text": "each",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 6338,
+            "EndOffset": 6342,
+            "Score": 0.5188722014427185,
+            "Text": "each",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 6840,
+            "EndOffset": 6843,
+            "Score": 0.5577969551086426,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 7163,
+            "EndOffset": 7176,
+            "Score": 0.9806395769119263,
+            "Text": "Tuesday night",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 8361,
+            "EndOffset": 8384,
+            "Score": 0.9904995560646057,
+            "Text": "Robert Maynard Hutchins",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 8920,
+            "EndOffset": 8928,
+            "Score": 0.6914991736412048,
+            "Text": "American",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 9690,
+            "EndOffset": 9695,
+            "Score": 0.6997875571250916,
+            "Text": "twins",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 10026,
+            "EndOffset": 10033,
+            "Score": 0.8409441709518433,
+            "Text": "America",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 10089,
+            "EndOffset": 10103,
+            "Score": 0.9794615507125854,
+            "Text": "Western Europe",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 10154,
+            "EndOffset": 10165,
+            "Score": 0.9905999302864075,
+            "Text": "Pacific Rim",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 12406,
+            "EndOffset": 12416,
+            "Score": 0.995934009552002,
+            "Text": "John Dewey",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 12632,
+            "EndOffset": 12640,
+            "Score": 0.48388537764549255,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 13865,
+            "EndOffset": 13874,
+            "Score": 0.7978319525718689,
+            "Text": "one thing",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 14256,
+            "EndOffset": 14264,
+            "Score": 0.6348333358764648,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 14857,
+            "EndOffset": 14859,
+            "Score": 0.9914916157722473,
+            "Text": "US",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 15429,
+            "EndOffset": 15443,
+            "Score": 0.9983664155006409,
+            "Text": "Daniel Goldman",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 15947,
+            "EndOffset": 15959,
+            "Score": 0.9007370471954346,
+            "Text": "two examples",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 16090,
+            "EndOffset": 16098,
+            "Score": 0.6345202922821045,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 16631,
+            "EndOffset": 16635,
+            "Score": 0.7935661673545837,
+            "Text": "both",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 16820,
+            "EndOffset": 16827,
+            "Score": 0.9174739122390747,
+            "Text": "English",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 17164,
+            "EndOffset": 17172,
+            "Score": 0.8395671248435974,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 18022,
+            "EndOffset": 18037,
+            "Score": 0.9868510961532593,
+            "Text": "Tuesday evening",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 18198,
+            "EndOffset": 18212,
+            "Score": 0.8905150294303894,
+            "Text": "this afternoon",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 18313,
+            "EndOffset": 18318,
+            "Score": 0.9268954992294312,
+            "Text": "Sandy",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 18503,
+            "EndOffset": 18518,
+            "Score": 0.9874584674835205,
+            "Text": "Tuesday evening",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 19029,
+            "EndOffset": 19037,
+            "Score": 0.7602099776268005,
+            "Text": "Diminish",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 19042,
+            "EndOffset": 19046,
+            "Score": 0.9732953906059265,
+            "Text": "Andi",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 19105,
+            "EndOffset": 19118,
+            "Score": 0.9616279006004333,
+            "Text": "Tuesday night",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 19783,
+            "EndOffset": 19788,
+            "Score": 0.5832183361053467,
+            "Text": "three",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 20295,
+            "EndOffset": 20302,
+            "Score": 0.829685389995575,
+            "Text": "one way",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 22075,
+            "EndOffset": 22083,
+            "Score": 0.5812337398529053,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 22862,
+            "EndOffset": 22867,
+            "Score": 0.689296543598175,
+            "Text": "first",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 23000,
+            "EndOffset": 23006,
+            "Score": 0.8785533905029297,
+            "Text": "second",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 23525,
+            "EndOffset": 23558,
+            "Score": 0.8569980263710022,
+            "Text": "two largest racial minority group",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 23846,
+            "EndOffset": 23854,
+            "Score": 0.8072016835212708,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 24580,
+            "EndOffset": 24583,
+            "Score": 0.45733335614204407,
+            "Text": "two",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 24696,
+            "EndOffset": 24717,
+            "Score": 0.9302654266357422,
+            "Text": "100 prepared students",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 24863,
+            "EndOffset": 24866,
+            "Score": 0.608640730381012,
+            "Text": "One",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 26468,
+            "EndOffset": 26471,
+            "Score": 0.4766479730606079,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 26576,
+            "EndOffset": 26579,
+            "Score": 0.5117907524108887,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 27275,
+            "EndOffset": 27279,
+            "Score": 0.7078808546066284,
+            "Text": "Khun",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 27339,
+            "EndOffset": 27342,
+            "Score": 0.9231939315795898,
+            "Text": "two",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 30882,
+            "EndOffset": 30890,
+            "Score": 0.5218870043754578,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 30913,
+            "EndOffset": 30919,
+            "Score": 0.9539598226547241,
+            "Text": "Khun B",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 30994,
+            "EndOffset": 31012,
+            "Score": 0.9758772850036621,
+            "Text": "3,000 institutions",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 33202,
+            "EndOffset": 33205,
+            "Score": 0.5388060212135315,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 33464,
+            "EndOffset": 33470,
+            "Score": 0.8595521450042725,
+            "Text": "Big 10",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 34618,
+            "EndOffset": 34626,
+            "Score": 0.6760194301605225,
+            "Text": "one hand",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 34692,
+            "EndOffset": 34696,
+            "Score": 0.5353784561157227,
+            "Text": "Anna",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 35240,
+            "EndOffset": 35254,
+            "Score": 0.804197371006012,
+            "Text": "second patient",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 37357,
+            "EndOffset": 37362,
+            "Score": 0.910713255405426,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 37883,
+            "EndOffset": 37890,
+            "Score": 0.9779286980628967,
+            "Text": "1/2 ago",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 38307,
+            "EndOffset": 38320,
+            "Score": 0.9828261137008667,
+            "Text": "Tuesday night",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 38366,
+            "EndOffset": 38372,
+            "Score": 0.44193190336227417,
+            "Text": "single",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 38551,
+            "EndOffset": 38556,
+            "Score": 0.9503965973854065,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 38678,
+            "EndOffset": 38692,
+            "Score": 0.7850560545921326,
+            "Text": "this afternoon",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 39680,
+            "EndOffset": 39687,
+            "Score": 0.8597869873046875,
+            "Text": "six fat",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 39998,
+            "EndOffset": 40007,
+            "Score": 0.8465701341629028,
+            "Text": "one thing",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 40224,
+            "EndOffset": 40238,
+            "Score": 0.8895544409751892,
+            "Text": "past few years",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 41864,
+            "EndOffset": 41868,
+            "Score": 0.5747462511062622,
+            "Text": "Mohr",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 42186,
+            "EndOffset": 42197,
+            "Score": 0.9823166728019714,
+            "Text": "Dick McCabe",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 42217,
+            "EndOffset": 42221,
+            "Score": 0.970497727394104,
+            "Text": "100%",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 42342,
+            "EndOffset": 42345,
+            "Score": 0.9633498787879944,
+            "Text": "Teo",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 42435,
+            "EndOffset": 42463,
+            "Score": 0.918046236038208,
+            "Text": "17th annual Spring Symposium",
+            "Type": "EVENT"
+        },
+        {
+            "BeginOffset": 42574,
+            "EndOffset": 42583,
+            "Score": 0.8558577299118042,
+            "Text": "this year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 42625,
+            "EndOffset": 42652,
+            "Score": 0.9816727042198181,
+            "Text": "Office for American Affairs",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 43017,
+            "EndOffset": 43021,
+            "Score": 0.8285801410675049,
+            "Text": "5 30",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 43060,
+            "EndOffset": 43065,
+            "Score": 0.9415299296379089,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 43120,
+            "EndOffset": 43128,
+            "Score": 0.9743006825447083,
+            "Text": "tomorrow",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 43141,
+            "EndOffset": 43147,
+            "Score": 0.4973336458206177,
+            "Text": "SYRIZA",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 43174,
+            "EndOffset": 43186,
+            "Score": 0.9991141557693481,
+            "Text": "nine o'clock",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 43238,
+            "EndOffset": 43248,
+            "Score": 0.8291101455688477,
+            "Text": "three sets",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 43273,
+            "EndOffset": 43304,
+            "Score": 0.9224860668182373,
+            "Text": "over 70 different presentations",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 43315,
+            "EndOffset": 43334,
+            "Score": 0.955554723739624,
+            "Text": "45 different themes",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 43510,
+            "EndOffset": 43521,
+            "Score": 0.8317825198173523,
+            "Text": "Bloomington",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 43637,
+            "EndOffset": 43651,
+            "Score": 0.9317726492881775,
+            "Text": "this afternoon",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 43932,
+            "EndOffset": 43948,
+            "Score": 0.9923079013824463,
+            "Text": "Tomorrow morning",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 43992,
+            "EndOffset": 44009,
+            "Score": 0.9544399976730347,
+            "Text": "15 in the morning",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 44324,
+            "EndOffset": 44338,
+            "Score": 0.950602114200592,
+            "Text": "this afternoon",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 45096,
+            "EndOffset": 45105,
+            "Score": 0.6891107559204102,
+            "Text": "Christian",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 45777,
+            "EndOffset": 45780,
+            "Score": 0.9516361355781555,
+            "Text": "Ana",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 46483,
+            "EndOffset": 46487,
+            "Score": 0.9519378542900085,
+            "Text": "Berg",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 46613,
+            "EndOffset": 46631,
+            "Score": 0.9557580351829529,
+            "Text": "Indiana University",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 47109,
+            "EndOffset": 47119,
+            "Score": 0.9148333668708801,
+            "Text": "two issues",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 47179,
+            "EndOffset": 47191,
+            "Score": 0.8960477709770203,
+            "Text": "two examples",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 47317,
+            "EndOffset": 47320,
+            "Score": 0.5327051281929016,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 47669,
+            "EndOffset": 47673,
+            "Score": 0.5884906649589539,
+            "Text": "both",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 48041,
+            "EndOffset": 48045,
+            "Score": 0.6133116483688354,
+            "Text": "both",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 48297,
+            "EndOffset": 48300,
+            "Score": 0.9698005318641663,
+            "Text": "two",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 48302,
+            "EndOffset": 48312,
+            "Score": 0.9042896628379822,
+            "Text": "two adults",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 48597,
+            "EndOffset": 48610,
+            "Score": 0.8937104344367981,
+            "Text": "Alex Research",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 49091,
+            "EndOffset": 49094,
+            "Score": 0.37963634729385376,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 49202,
+            "EndOffset": 49206,
+            "Score": 0.8415793776512146,
+            "Text": "both",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 49259,
+            "EndOffset": 49264,
+            "Score": 0.8325901031494141,
+            "Text": "two T",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 49870,
+            "EndOffset": 49874,
+            "Score": 0.6404104828834534,
+            "Text": "both",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 50065,
+            "EndOffset": 50069,
+            "Score": 0.7495425939559937,
+            "Text": "Both",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 50877,
+            "EndOffset": 50879,
+            "Score": 0.9886916875839233,
+            "Text": "LA",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 50996,
+            "EndOffset": 51003,
+            "Score": 0.9938008189201355,
+            "Text": "10 year",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 52222,
+            "EndOffset": 52234,
+            "Score": 0.9514086842536926,
+            "Text": "40 years ago",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 52257,
+            "EndOffset": 52268,
+            "Score": 0.9886952638626099,
+            "Text": "Jacob Booth",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 52302,
+            "EndOffset": 52312,
+            "Score": 0.8039182424545288,
+            "Text": "eight year",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 52363,
+            "EndOffset": 52377,
+            "Score": 0.9772964715957642,
+            "Text": "20 years later",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 52688,
+            "EndOffset": 52693,
+            "Score": 0.985123336315155,
+            "Text": "Jacob",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 53306,
+            "EndOffset": 53312,
+            "Score": 0.7598180174827576,
+            "Text": "Jacobs",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 54072,
+            "EndOffset": 54081,
+            "Score": 0.9655872583389282,
+            "Text": "Five guys",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 54257,
+            "EndOffset": 54260,
+            "Score": 0.6058593988418579,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 54286,
+            "EndOffset": 54289,
+            "Score": 0.7037563920021057,
+            "Text": "One",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 54495,
+            "EndOffset": 54508,
+            "Score": 0.9764173626899719,
+            "Text": "Tuesday night",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 54572,
+            "EndOffset": 54577,
+            "Score": 0.9086049795150757,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 55645,
+            "EndOffset": 55658,
+            "Score": 0.9831969141960144,
+            "Text": "Tuesday night",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 55686,
+            "EndOffset": 55692,
+            "Score": 0.4411519765853882,
+            "Text": "couple",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 55693,
+            "EndOffset": 55698,
+            "Score": 0.9747471809387207,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 56336,
+            "EndOffset": 56342,
+            "Score": 0.41787686944007874,
+            "Text": "Harbor",
+            "Type": "LOCATION"
+        }
+    ],
+    "File": "MDPI_40000002758839_01_access_plaintxt.txt"
+}

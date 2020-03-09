@@ -1,0 +1,854 @@
+{
+  "entities": [
+    {
+      "name": "morning edition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.72542834,
+      "mentions": [
+        {
+          "text": {
+            "content": "baseball",
+            "beginOffset": 5
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "poem",
+            "beginOffset": 110
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bass",
+            "beginOffset": 193
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "being",
+            "beginOffset": 650
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "success",
+            "beginOffset": 850
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "morning edition",
+            "beginOffset": 959
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mac",
+            "beginOffset": 1032
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08111822,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020047376,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nikos bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017905114,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 1338
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "nikos bed",
+            "beginOffset": 1351
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "law",
+            "beginOffset": 1379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "speaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013710431,
+      "mentions": [
+        {
+          "text": {
+            "content": "speaker",
+            "beginOffset": 1625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bing crosby",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01vsy9_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bing_Crosby"
+      },
+      "salience": 0.013315419,
+      "mentions": [
+        {
+          "text": {
+            "content": "bing crosby",
+            "beginOffset": 562
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011280808,
+      "mentions": [
+        {
+          "text": {
+            "content": "ms",
+            "beginOffset": 327
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beach",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009429237,
+      "mentions": [
+        {
+          "text": {
+            "content": "beach",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "half",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009112619,
+      "mentions": [
+        {
+          "text": {
+            "content": "half",
+            "beginOffset": 357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brahms",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007855571,
+      "mentions": [
+        {
+          "text": {
+            "content": "brahms",
+            "beginOffset": 43
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007855571,
+      "mentions": [
+        {
+          "text": {
+            "content": "b",
+            "beginOffset": 39
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bob",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007855571,
+      "mentions": [
+        {
+          "text": {
+            "content": "bob",
+            "beginOffset": 183
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baseball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007260844,
+      "mentions": [
+        {
+          "text": {
+            "content": "baseball",
+            "beginOffset": 84
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056206477,
+      "mentions": [
+        {
+          "text": {
+            "content": "ms",
+            "beginOffset": 413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beans",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003727664,
+      "mentions": [
+        {
+          "text": {
+            "content": "beans",
+            "beginOffset": 280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beans",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003727664,
+      "mentions": [
+        {
+          "text": {
+            "content": "beans",
+            "beginOffset": 317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003444297,
+      "mentions": [
+        {
+          "text": {
+            "content": "ms",
+            "beginOffset": 1064
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003401086,
+      "mentions": [
+        {
+          "text": {
+            "content": "bell",
+            "beginOffset": 289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033468693,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1468
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 1519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bar",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0031655699,
+      "mentions": [
+        {
+          "text": {
+            "content": "bar",
+            "beginOffset": 1786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "piano player",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029885946,
+      "mentions": [
+        {
+          "text": {
+            "content": "piano player",
+            "beginOffset": 255
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pay",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024258175,
+      "mentions": [
+        {
+          "text": {
+            "content": "pay",
+            "beginOffset": 671
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024258175,
+      "mentions": [
+        {
+          "text": {
+            "content": "problem",
+            "beginOffset": 238
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pics",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0024258175,
+      "mentions": [
+        {
+          "text": {
+            "content": "pics",
+            "beginOffset": 349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beans",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023387177,
+      "mentions": [
+        {
+          "text": {
+            "content": "beans",
+            "beginOffset": 980
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purpose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023095573,
+      "mentions": [
+        {
+          "text": {
+            "content": "purpose",
+            "beginOffset": 1053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "polls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022966077,
+      "mentions": [
+        {
+          "text": {
+            "content": "polls",
+            "beginOffset": 474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "burns",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002253527,
+      "mentions": [
+        {
+          "text": {
+            "content": "burns",
+            "beginOffset": 929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plant",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020426363,
+      "mentions": [
+        {
+          "text": {
+            "content": "plant",
+            "beginOffset": 883
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0020426363,
+      "mentions": [
+        {
+          "text": {
+            "content": "panel",
+            "beginOffset": 778
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "band",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0020176983,
+      "mentions": [
+        {
+          "text": {
+            "content": "band",
+            "beginOffset": 451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "press",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020176983,
+      "mentions": [
+        {
+          "text": {
+            "content": "press",
+            "beginOffset": 532
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015209311,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 949
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "briar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010687587,
+      "mentions": [
+        {
+          "text": {
+            "content": "briar",
+            "beginOffset": 1490
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fbi",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02_1m",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation"
+      },
+      "salience": 0.0010464496,
+      "mentions": [
+        {
+          "text": {
+            "content": "fbi",
+            "beginOffset": 1112
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010121015,
+      "mentions": [
+        {
+          "text": {
+            "content": "ms",
+            "beginOffset": 1397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "data",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008996731,
+      "mentions": [
+        {
+          "text": {
+            "content": "data",
+            "beginOffset": 1135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007718182,
+      "mentions": [
+        {
+          "text": {
+            "content": "bell",
+            "beginOffset": 1544
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "court",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00074804854,
+      "mentions": [
+        {
+          "text": {
+            "content": "court",
+            "beginOffset": 1607
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leaks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00072986283,
+      "mentions": [
+        {
+          "text": {
+            "content": "leaks",
+            "beginOffset": 1125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00070837646,
+      "mentions": [
+        {
+          "text": {
+            "content": "ms",
+            "beginOffset": 1686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "path",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00067791314,
+      "mentions": [
+        {
+          "text": {
+            "content": "path",
+            "beginOffset": 1576
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "census bureau",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0006068331,
+      "mentions": [
+        {
+          "text": {
+            "content": "census bureau",
+            "beginOffset": 1805
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fbi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005922367,
+      "mentions": [
+        {
+          "text": {
+            "content": "fbi",
+            "beginOffset": 1585
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "consideration abortion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00057061395,
+      "mentions": [
+        {
+          "text": {
+            "content": "consideration abortion",
+            "beginOffset": 1738
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00047441066,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": 1653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00047441066,
+      "mentions": [
+        {
+          "text": {
+            "content": "babb",
+            "beginOffset": 1689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00047441066,
+      "mentions": [
+        {
+          "text": {
+            "content": "bb",
+            "beginOffset": 1711
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "polls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0004171018,
+      "mentions": [
+        {
+          "text": {
+            "content": "polls",
+            "beginOffset": 1242
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peak",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00035742208,
+      "mentions": [
+        {
+          "text": {
+            "content": "peak",
+            "beginOffset": 1330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00035742208,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": 1313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00029714746,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": 1156
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

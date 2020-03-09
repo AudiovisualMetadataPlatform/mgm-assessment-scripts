@@ -1,0 +1,4 @@
+text,label,start_char,end_char
+half,CARDINAL,357,361
+morning,TIME,959,966
+mm,PERSON,1207,1209

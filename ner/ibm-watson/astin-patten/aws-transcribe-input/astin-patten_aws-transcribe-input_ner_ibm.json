@@ -1,0 +1,2951 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 3
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "much evidence of a core commitment",
+      "relevance": 0.582614,
+      "count": 1
+    },
+    {
+      "text": "field of fire education",
+      "relevance": 0.567014,
+      "count": 1
+    },
+    {
+      "text": "kind of student success",
+      "relevance": 0.562267,
+      "count": 1
+    },
+    {
+      "text": "higher education",
+      "relevance": 0.555282,
+      "count": 8
+    },
+    {
+      "text": "people others",
+      "relevance": 0.553832,
+      "count": 1
+    },
+    {
+      "text": "question of beliefs",
+      "relevance": 0.549218,
+      "count": 1
+    },
+    {
+      "text": "concerned administrators student",
+      "relevance": 0.548823,
+      "count": 1
+    },
+    {
+      "text": "much headway",
+      "relevance": 0.538761,
+      "count": 1
+    },
+    {
+      "text": "public school system",
+      "relevance": 0.538466,
+      "count": 1
+    },
+    {
+      "text": "better understanding needs of factory",
+      "relevance": 0.53339,
+      "count": 1
+    },
+    {
+      "text": "students",
+      "relevance": 0.532369,
+      "count": 49
+    },
+    {
+      "text": "uses students",
+      "relevance": 0.53085,
+      "count": 1
+    },
+    {
+      "text": "research results",
+      "relevance": 0.52919,
+      "count": 1
+    },
+    {
+      "text": "conception of students success",
+      "relevance": 0.528051,
+      "count": 2
+    },
+    {
+      "text": "students success means",
+      "relevance": 0.526267,
+      "count": 1
+    },
+    {
+      "text": "extraordinary collection of data of value",
+      "relevance": 0.525948,
+      "count": 1
+    },
+    {
+      "text": "educational policies",
+      "relevance": 0.525606,
+      "count": 1
+    },
+    {
+      "text": "quality of civic life",
+      "relevance": 0.524933,
+      "count": 1
+    },
+    {
+      "text": "much contact",
+      "relevance": 0.524197,
+      "count": 1
+    },
+    {
+      "text": "number of other related issues",
+      "relevance": 0.52241,
+      "count": 1
+    },
+    {
+      "text": "research program",
+      "relevance": 0.522149,
+      "count": 1
+    },
+    {
+      "text": "issue of success",
+      "relevance": 0.521834,
+      "count": 1
+    },
+    {
+      "text": "higher education literature",
+      "relevance": 0.521543,
+      "count": 1
+    },
+    {
+      "text": "Traditional academic measures",
+      "relevance": 0.521405,
+      "count": 1
+    },
+    {
+      "text": "greater numbers of underprepared students",
+      "relevance": 0.52011,
+      "count": 1
+    },
+    {
+      "text": "educational institutions",
+      "relevance": 0.519836,
+      "count": 2
+    },
+    {
+      "text": "different people",
+      "relevance": 0.519815,
+      "count": 1
+    },
+    {
+      "text": "college species diversity",
+      "relevance": 0.519563,
+      "count": 1
+    },
+    {
+      "text": "success path",
+      "relevance": 0.519547,
+      "count": 1
+    },
+    {
+      "text": "discussions of educational policy",
+      "relevance": 0.51953,
+      "count": 1
+    },
+    {
+      "text": "Former record of service",
+      "relevance": 0.518988,
+      "count": 1
+    },
+    {
+      "text": "high level",
+      "relevance": 0.51889,
+      "count": 1
+    },
+    {
+      "text": "conception of student success",
+      "relevance": 0.518812,
+      "count": 1
+    },
+    {
+      "text": "societal problems",
+      "relevance": 0.518658,
+      "count": 1
+    },
+    {
+      "text": "higher education system",
+      "relevance": 0.518401,
+      "count": 2
+    },
+    {
+      "text": "terms of such things",
+      "relevance": 0.518344,
+      "count": 1
+    },
+    {
+      "text": "mission statements",
+      "relevance": 0.518075,
+      "count": 5
+    },
+    {
+      "text": "definer excellence",
+      "relevance": 0.517893,
+      "count": 1
+    },
+    {
+      "text": "larger society",
+      "relevance": 0.51777,
+      "count": 6
+    },
+    {
+      "text": "smartest students",
+      "relevance": 0.51719,
+      "count": 1
+    },
+    {
+      "text": "part of the problem",
+      "relevance": 0.517104,
+      "count": 1
+    },
+    {
+      "text": "sort of my current preoccupation",
+      "relevance": 0.517078,
+      "count": 1
+    },
+    {
+      "text": "little sense",
+      "relevance": 0.517012,
+      "count": 1
+    },
+    {
+      "text": "social problems",
+      "relevance": 0.516847,
+      "count": 1
+    },
+    {
+      "text": "civic engagement",
+      "relevance": 0.516551,
+      "count": 6
+    },
+    {
+      "text": "director of Research Council Education move",
+      "relevance": 0.516437,
+      "count": 1
+    },
+    {
+      "text": "view of the role",
+      "relevance": 0.516307,
+      "count": 1
+    },
+    {
+      "text": "terms of the time",
+      "relevance": 0.51592,
+      "count": 1
+    },
+    {
+      "text": "different views",
+      "relevance": 0.515582,
+      "count": 2
+    },
+    {
+      "text": "difficult challenge",
+      "relevance": 0.515398,
+      "count": 1
+    },
+    {
+      "text": "individual economic benefits",
+      "relevance": 0.515209,
+      "count": 1
+    },
+    {
+      "text": "terms of the test scores of the entering students",
+      "relevance": 0.515054,
+      "count": 1
+    },
+    {
+      "text": "important faculty talents",
+      "relevance": 0.514883,
+      "count": 1
+    },
+    {
+      "text": "great point average",
+      "relevance": 0.514865,
+      "count": 1
+    },
+    {
+      "text": "service learning",
+      "relevance": 0.514449,
+      "count": 2
+    },
+    {
+      "text": "higher education community",
+      "relevance": 0.51437,
+      "count": 1
+    },
+    {
+      "text": "small number of hard core",
+      "relevance": 0.514275,
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "relevance": 0.513636,
+      "count": 1
+    },
+    {
+      "text": "economic disparities",
+      "relevance": 0.513131,
+      "count": 1
+    },
+    {
+      "text": "important social Trans",
+      "relevance": 0.51296,
+      "count": 1
+    },
+    {
+      "text": "health care",
+      "relevance": 0.512815,
+      "count": 2
+    },
+    {
+      "text": "Campus level",
+      "relevance": 0.512587,
+      "count": 1
+    },
+    {
+      "text": "little need",
+      "relevance": 0.512548,
+      "count": 1
+    },
+    {
+      "text": "campus today",
+      "relevance": 0.512449,
+      "count": 1
+    },
+    {
+      "text": "student success",
+      "relevance": 0.512431,
+      "count": 2
+    },
+    {
+      "text": "push others",
+      "relevance": 0.512428,
+      "count": 1
+    },
+    {
+      "text": "measures of success",
+      "relevance": 0.512138,
+      "count": 2
+    },
+    {
+      "text": "Tuesday night",
+      "relevance": 0.512086,
+      "count": 3
+    },
+    {
+      "text": "lot of books",
+      "relevance": 0.512003,
+      "count": 1
+    },
+    {
+      "text": "good colleague ship",
+      "relevance": 0.511921,
+      "count": 1
+    },
+    {
+      "text": "educational opportunities",
+      "relevance": 0.511685,
+      "count": 1
+    },
+    {
+      "text": "long list",
+      "relevance": 0.511446,
+      "count": 1
+    },
+    {
+      "text": "general education content",
+      "relevance": 0.511444,
+      "count": 1
+    },
+    {
+      "text": "minimal kind",
+      "relevance": 0.511297,
+      "count": 1
+    },
+    {
+      "text": "couple of meetings",
+      "relevance": 0.510885,
+      "count": 1
+    },
+    {
+      "text": "critical years",
+      "relevance": 0.510772,
+      "count": 1
+    },
+    {
+      "text": "institution",
+      "relevance": 0.510748,
+      "count": 6
+    },
+    {
+      "text": "competitiveness argument",
+      "relevance": 0.510558,
+      "count": 1
+    },
+    {
+      "text": "private economic benefit view",
+      "relevance": 0.510419,
+      "count": 1
+    },
+    {
+      "text": "sense of the g p A",
+      "relevance": 0.510352,
+      "count": 1
+    },
+    {
+      "text": "alternative belief system",
+      "relevance": 0.510296,
+      "count": 1
+    },
+    {
+      "text": "university fingers business directorship",
+      "relevance": 0.51028,
+      "count": 1
+    },
+    {
+      "text": "issue of students",
+      "relevance": 0.51019,
+      "count": 1
+    },
+    {
+      "text": "graduate students",
+      "relevance": 0.509925,
+      "count": 1
+    },
+    {
+      "text": "honors of various kinds",
+      "relevance": 0.509911,
+      "count": 1
+    },
+    {
+      "text": "test scores",
+      "relevance": 0.50967,
+      "count": 2
+    },
+    {
+      "text": "problems",
+      "relevance": 0.509572,
+      "count": 6
+    },
+    {
+      "text": "student learning",
+      "relevance": 0.509558,
+      "count": 2
+    },
+    {
+      "text": "Matters College",
+      "relevance": 0.509519,
+      "count": 1
+    },
+    {
+      "text": "students successor",
+      "relevance": 0.509479,
+      "count": 1
+    },
+    {
+      "text": "scope of his research",
+      "relevance": 0.509465,
+      "count": 1
+    },
+    {
+      "text": "professor of education",
+      "relevance": 0.509316,
+      "count": 1
+    },
+    {
+      "text": "recent years",
+      "relevance": 0.509202,
+      "count": 1
+    },
+    {
+      "text": "prison inmates",
+      "relevance": 0.509173,
+      "count": 1
+    },
+    {
+      "text": "mention of private economic benefits",
+      "relevance": 0.509158,
+      "count": 1
+    },
+    {
+      "text": "narrow definition of students",
+      "relevance": 0.509117,
+      "count": 1
+    },
+    {
+      "text": "competitive competitiveness views",
+      "relevance": 0.5091,
+      "count": 1
+    },
+    {
+      "text": "central focus",
+      "relevance": 0.509073,
+      "count": 1
+    },
+    {
+      "text": "racial tensions",
+      "relevance": 0.509065,
+      "count": 1
+    },
+    {
+      "text": "collaborative effort",
+      "relevance": 0.50902,
+      "count": 1
+    },
+    {
+      "text": "increasing effect excuse",
+      "relevance": 0.508685,
+      "count": 1
+    },
+    {
+      "text": "major today",
+      "relevance": 0.508511,
+      "count": 1
+    },
+    {
+      "text": "best talent",
+      "relevance": 0.508408,
+      "count": 1
+    },
+    {
+      "text": "main problem",
+      "relevance": 0.508341,
+      "count": 1
+    },
+    {
+      "text": "center's research service awards",
+      "relevance": 0.508307,
+      "count": 1
+    },
+    {
+      "text": "hard time",
+      "relevance": 0.50826,
+      "count": 1
+    },
+    {
+      "text": "purpose of a liberal education",
+      "relevance": 0.508237,
+      "count": 1
+    },
+    {
+      "text": "part time tutors",
+      "relevance": 0.508149,
+      "count": 1
+    },
+    {
+      "text": "Higher Education Research",
+      "relevance": 0.508142,
+      "count": 1
+    },
+    {
+      "text": "possible causes",
+      "relevance": 0.508078,
+      "count": 1
+    },
+    {
+      "text": "American diversity",
+      "relevance": 0.508029,
+      "count": 1
+    },
+    {
+      "text": "inner cities",
+      "relevance": 0.508024,
+      "count": 2
+    },
+    {
+      "text": "effective democratic self government",
+      "relevance": 0.507859,
+      "count": 1
+    },
+    {
+      "text": "real threat",
+      "relevance": 0.507834,
+      "count": 1
+    },
+    {
+      "text": "keynote address",
+      "relevance": 0.507665,
+      "count": 1
+    },
+    {
+      "text": "part of the institution",
+      "relevance": 0.507618,
+      "count": 1
+    },
+    {
+      "text": "higher education institutions",
+      "relevance": 0.50761,
+      "count": 1
+    },
+    {
+      "text": "community relations",
+      "relevance": 0.507603,
+      "count": 1
+    },
+    {
+      "text": "remedial students",
+      "relevance": 0.507576,
+      "count": 3
+    },
+    {
+      "text": "responsible citizenship",
+      "relevance": 0.507571,
+      "count": 3
+    },
+    {
+      "text": "pegboard view",
+      "relevance": 0.507556,
+      "count": 3
+    },
+    {
+      "text": "faculty discussions of curricular reform",
+      "relevance": 0.50753,
+      "count": 1
+    },
+    {
+      "text": "academic community",
+      "relevance": 0.507483,
+      "count": 1
+    },
+    {
+      "text": "close cousin of the pegboard view",
+      "relevance": 0.507462,
+      "count": 1
+    },
+    {
+      "text": "such pure tutoring",
+      "relevance": 0.507435,
+      "count": 1
+    },
+    {
+      "text": "labor market",
+      "relevance": 0.507412,
+      "count": 3
+    },
+    {
+      "text": "view",
+      "relevance": 0.507383,
+      "count": 3
+    },
+    {
+      "text": "New York",
+      "relevance": 0.507325,
+      "count": 1
+    },
+    {
+      "text": "early success",
+      "relevance": 0.507108,
+      "count": 1
+    },
+    {
+      "text": "admissions process",
+      "relevance": 0.506977,
+      "count": 1
+    },
+    {
+      "text": "academic elitist",
+      "relevance": 0.506959,
+      "count": 1
+    },
+    {
+      "text": "peer group",
+      "relevance": 0.506887,
+      "count": 1
+    },
+    {
+      "text": "individual scholarly accomplishments of our students",
+      "relevance": 0.506881,
+      "count": 1
+    },
+    {
+      "text": "better facilities",
+      "relevance": 0.506847,
+      "count": 1
+    },
+    {
+      "text": "magnet school education",
+      "relevance": 0.50681,
+      "count": 1
+    },
+    {
+      "text": "local levels",
+      "relevance": 0.5068,
+      "count": 1
+    },
+    {
+      "text": "belief systems",
+      "relevance": 0.506643,
+      "count": 1
+    },
+    {
+      "text": "dominant belief system",
+      "relevance": 0.506608,
+      "count": 1
+    },
+    {
+      "text": "collegiate level",
+      "relevance": 0.506525,
+      "count": 1
+    },
+    {
+      "text": "institutional terms",
+      "relevance": 0.506408,
+      "count": 1
+    },
+    {
+      "text": "competitive disadvantage",
+      "relevance": 0.506401,
+      "count": 2
+    },
+    {
+      "text": "Toe advocate",
+      "relevance": 0.506393,
+      "count": 1
+    },
+    {
+      "text": "couple of announcements",
+      "relevance": 0.506369,
+      "count": 2
+    },
+    {
+      "text": "educational mission",
+      "relevance": 0.506343,
+      "count": 1
+    },
+    {
+      "text": "direct conflict",
+      "relevance": 0.506284,
+      "count": 1
+    },
+    {
+      "text": "experience results",
+      "relevance": 0.506259,
+      "count": 1
+    },
+    {
+      "text": "powerful influence",
+      "relevance": 0.506258,
+      "count": 1
+    },
+    {
+      "text": "government business",
+      "relevance": 0.506172,
+      "count": 1
+    },
+    {
+      "text": "low levels of educational attainment account",
+      "relevance": 0.506129,
+      "count": 1
+    },
+    {
+      "text": "public institutions",
+      "relevance": 0.506117,
+      "count": 1
+    },
+    {
+      "text": "major problems",
+      "relevance": 0.506116,
+      "count": 1
+    },
+    {
+      "text": "institutional conversation",
+      "relevance": 0.505991,
+      "count": 1
+    },
+    {
+      "text": "experiences of their graduates",
+      "relevance": 0.505975,
+      "count": 1
+    },
+    {
+      "text": "highest value",
+      "relevance": 0.505881,
+      "count": 1
+    },
+    {
+      "text": "disproportionate number of welfare recipients",
+      "relevance": 0.505814,
+      "count": 1
+    },
+    {
+      "text": "terms",
+      "relevance": 0.505787,
+      "count": 9
+    },
+    {
+      "text": "Tuesday evening",
+      "relevance": 0.505782,
+      "count": 2
+    },
+    {
+      "text": "good colleague",
+      "relevance": 0.505757,
+      "count": 1
+    },
+    {
+      "text": "best interests",
+      "relevance": 0.505722,
+      "count": 1
+    },
+    {
+      "text": "government ineffectiveness",
+      "relevance": 0.505692,
+      "count": 1
+    },
+    {
+      "text": "resource",
+      "relevance": 0.505683,
+      "count": 8
+    },
+    {
+      "text": "different kind of belief system",
+      "relevance": 0.505677,
+      "count": 1
+    },
+    {
+      "text": "example",
+      "relevance": 0.505663,
+      "count": 10
+    },
+    {
+      "text": "little value",
+      "relevance": 0.505655,
+      "count": 1
+    },
+    {
+      "text": "political process",
+      "relevance": 0.505616,
+      "count": 1
+    },
+    {
+      "text": "issues of contemporary American civic life",
+      "relevance": 0.50554,
+      "count": 1
+    },
+    {
+      "text": "poor people",
+      "relevance": 0.50552,
+      "count": 1
+    },
+    {
+      "text": "such language",
+      "relevance": 0.505506,
+      "count": 1
+    },
+    {
+      "text": "traditional notions",
+      "relevance": 0.505432,
+      "count": 1
+    },
+    {
+      "text": "beliefs",
+      "relevance": 0.505412,
+      "count": 21
+    },
+    {
+      "text": "research universities",
+      "relevance": 0.505406,
+      "count": 1
+    },
+    {
+      "text": "student",
+      "relevance": 0.505402,
+      "count": 5
+    },
+    {
+      "text": "institutions",
+      "relevance": 0.505375,
+      "count": 10
+    },
+    {
+      "text": "kind of graduate school",
+      "relevance": 0.505371,
+      "count": 1
+    },
+    {
+      "text": "new generation of leaders",
+      "relevance": 0.505323,
+      "count": 2
+    },
+    {
+      "text": "broader conception of Studentssuccess",
+      "relevance": 0.505277,
+      "count": 1
+    },
+    {
+      "text": "fact remains",
+      "relevance": 0.505239,
+      "count": 1
+    },
+    {
+      "text": "premise of my talk",
+      "relevance": 0.505227,
+      "count": 1
+    },
+    {
+      "text": "particular belief system",
+      "relevance": 0.505226,
+      "count": 1
+    },
+    {
+      "text": "ivory tower concept",
+      "relevance": 0.505221,
+      "count": 1
+    },
+    {
+      "text": "traditional beliefs",
+      "relevance": 0.505155,
+      "count": 3
+    },
+    {
+      "text": "society",
+      "relevance": 0.505153,
+      "count": 15
+    },
+    {
+      "text": "value statement",
+      "relevance": 0.505061,
+      "count": 1
+    },
+    {
+      "text": "various groups",
+      "relevance": 0.505052,
+      "count": 1
+    },
+    {
+      "text": "degree program",
+      "relevance": 0.505036,
+      "count": 1
+    },
+    {
+      "text": "collaborative learning",
+      "relevance": 0.505005,
+      "count": 3
+    },
+    {
+      "text": "external pressures",
+      "relevance": 0.504978,
+      "count": 1
+    },
+    {
+      "text": "best students",
+      "relevance": 0.504976,
+      "count": 1
+    },
+    {
+      "text": "talent development",
+      "relevance": 0.504899,
+      "count": 1
+    },
+    {
+      "text": "importance of teaching",
+      "relevance": 0.504862,
+      "count": 1
+    },
+    {
+      "text": "universities",
+      "relevance": 0.504832,
+      "count": 2
+    },
+    {
+      "text": "viable conception of higher education",
+      "relevance": 0.504794,
+      "count": 1
+    },
+    {
+      "text": "irresponsible mass media",
+      "relevance": 0.504679,
+      "count": 1
+    },
+    {
+      "text": "approach",
+      "relevance": 0.504553,
+      "count": 5
+    },
+    {
+      "text": "teaching methods",
+      "relevance": 0.504502,
+      "count": 1
+    },
+    {
+      "text": "fact",
+      "relevance": 0.504495,
+      "count": 7
+    },
+    {
+      "text": "civic life",
+      "relevance": 0.504471,
+      "count": 4
+    },
+    {
+      "text": "entire population",
+      "relevance": 0.504437,
+      "count": 1
+    },
+    {
+      "text": "service concept of our missions",
+      "relevance": 0.504437,
+      "count": 1
+    },
+    {
+      "text": "particular form of democratic self government",
+      "relevance": 0.504415,
+      "count": 1
+    },
+    {
+      "text": "academic colleagues",
+      "relevance": 0.504383,
+      "count": 1
+    },
+    {
+      "text": "resources conception",
+      "relevance": 0.504383,
+      "count": 1
+    },
+    {
+      "text": "research talent",
+      "relevance": 0.504343,
+      "count": 2
+    },
+    {
+      "text": "self understanding",
+      "relevance": 0.504327,
+      "count": 3
+    },
+    {
+      "text": "second lecture",
+      "relevance": 0.504267,
+      "count": 1
+    },
+    {
+      "text": "Shaky race relations",
+      "relevance": 0.504251,
+      "count": 1
+    },
+    {
+      "text": "public service",
+      "relevance": 0.504239,
+      "count": 1
+    },
+    {
+      "text": "significant changes",
+      "relevance": 0.504228,
+      "count": 1
+    },
+    {
+      "text": "different themes",
+      "relevance": 0.504204,
+      "count": 1
+    },
+    {
+      "text": "massive number",
+      "relevance": 0.504183,
+      "count": 1
+    },
+    {
+      "text": "powerful tool",
+      "relevance": 0.504162,
+      "count": 1
+    },
+    {
+      "text": "role of higher education",
+      "relevance": 0.504158,
+      "count": 2
+    },
+    {
+      "text": "narrow approach",
+      "relevance": 0.504149,
+      "count": 3
+    },
+    {
+      "text": "real problem",
+      "relevance": 0.504097,
+      "count": 1
+    },
+    {
+      "text": "social responsibility",
+      "relevance": 0.504071,
+      "count": 2
+    },
+    {
+      "text": "way",
+      "relevance": 0.50405,
+      "count": 7
+    },
+    {
+      "text": "few of these things",
+      "relevance": 0.503976,
+      "count": 1
+    },
+    {
+      "text": "positions of the National Merit Scholarship Corporation",
+      "relevance": 0.503932,
+      "count": 1
+    },
+    {
+      "text": "major revisions",
+      "relevance": 0.50389,
+      "count": 1
+    },
+    {
+      "text": "modern management techniques",
+      "relevance": 0.503877,
+      "count": 1
+    },
+    {
+      "text": "affirmative action",
+      "relevance": 0.503831,
+      "count": 2
+    },
+    {
+      "text": "guest of the foundation election programme",
+      "relevance": 0.503827,
+      "count": 1
+    },
+    {
+      "text": "extreme view",
+      "relevance": 0.503795,
+      "count": 1
+    },
+    {
+      "text": "delivery education",
+      "relevance": 0.503729,
+      "count": 1
+    },
+    {
+      "text": "development of those personal qualities",
+      "relevance": 0.503727,
+      "count": 1
+    },
+    {
+      "text": "healthy development",
+      "relevance": 0.503704,
+      "count": 1
+    },
+    {
+      "text": "external world of practical affairs",
+      "relevance": 0.50369,
+      "count": 1
+    },
+    {
+      "text": "academic work",
+      "relevance": 0.50368,
+      "count": 1
+    },
+    {
+      "text": "young people",
+      "relevance": 0.503638,
+      "count": 1
+    },
+    {
+      "text": "individual individualistic tendencies",
+      "relevance": 0.503624,
+      "count": 1
+    },
+    {
+      "text": "Indiana University",
+      "relevance": 0.503622,
+      "count": 1
+    },
+    {
+      "text": "paid staff",
+      "relevance": 0.503595,
+      "count": 1
+    },
+    {
+      "text": "academic institutions",
+      "relevance": 0.503525,
+      "count": 1
+    },
+    {
+      "text": "schools",
+      "relevance": 0.503519,
+      "count": 1
+    },
+    {
+      "text": "greater depth",
+      "relevance": 0.503512,
+      "count": 1
+    },
+    {
+      "text": "leadership of major organizations",
+      "relevance": 0.503505,
+      "count": 1
+    },
+    {
+      "text": "large number of hospitals",
+      "relevance": 0.50349,
+      "count": 1
+    },
+    {
+      "text": "work",
+      "relevance": 0.50348,
+      "count": 4
+    },
+    {
+      "text": "emotional intelligence",
+      "relevance": 0.503474,
+      "count": 1
+    },
+    {
+      "text": "Lady Place",
+      "relevance": 0.503473,
+      "count": 1
+    },
+    {
+      "text": "economic problems",
+      "relevance": 0.50347,
+      "count": 1
+    },
+    {
+      "text": "initial check",
+      "relevance": 0.503465,
+      "count": 1
+    },
+    {
+      "text": "job lots",
+      "relevance": 0.503433,
+      "count": 1
+    },
+    {
+      "text": "human qualities",
+      "relevance": 0.503408,
+      "count": 1
+    },
+    {
+      "text": "future leaders",
+      "relevance": 0.503398,
+      "count": 1
+    },
+    {
+      "text": "group",
+      "relevance": 0.503348,
+      "count": 2
+    },
+    {
+      "text": "success",
+      "relevance": 0.503327,
+      "count": 9
+    },
+    {
+      "text": "external threats",
+      "relevance": 0.503314,
+      "count": 1
+    },
+    {
+      "text": "academic achievement",
+      "relevance": 0.503313,
+      "count": 1
+    },
+    {
+      "text": "general education",
+      "relevance": 0.503313,
+      "count": 1
+    },
+    {
+      "text": "private economic benefits",
+      "relevance": 0.50328,
+      "count": 1
+    },
+    {
+      "text": "heart of these problems",
+      "relevance": 0.503262,
+      "count": 1
+    },
+    {
+      "text": "cases",
+      "relevance": 0.503224,
+      "count": 1
+    },
+    {
+      "text": "democracy",
+      "relevance": 0.503219,
+      "count": 5
+    },
+    {
+      "text": "medical health care system",
+      "relevance": 0.503213,
+      "count": 1
+    },
+    {
+      "text": "important value messages",
+      "relevance": 0.503212,
+      "count": 1
+    },
+    {
+      "text": "significant contributions",
+      "relevance": 0.503209,
+      "count": 1
+    },
+    {
+      "text": "mass media",
+      "relevance": 0.50319,
+      "count": 1
+    },
+    {
+      "text": "considerable success",
+      "relevance": 0.503185,
+      "count": 1
+    },
+    {
+      "text": "pecking order",
+      "relevance": 0.503174,
+      "count": 1
+    },
+    {
+      "text": "brightest students",
+      "relevance": 0.50314,
+      "count": 1
+    },
+    {
+      "text": "modern American society",
+      "relevance": 0.503132,
+      "count": 1
+    },
+    {
+      "text": "sum total of our individual uncoordinated efforts",
+      "relevance": 0.503114,
+      "count": 1
+    },
+    {
+      "text": "values",
+      "relevance": 0.503111,
+      "count": 6
+    },
+    {
+      "text": "hand",
+      "relevance": 0.503056,
+      "count": 3
+    },
+    {
+      "text": "community service",
+      "relevance": 0.503014,
+      "count": 1
+    },
+    {
+      "text": "recent research",
+      "relevance": 0.50298,
+      "count": 1
+    },
+    {
+      "text": "particular viewpoint",
+      "relevance": 0.502958,
+      "count": 1
+    },
+    {
+      "text": "thing",
+      "relevance": 0.502955,
+      "count": 4
+    },
+    {
+      "text": "educational excellence",
+      "relevance": 0.502941,
+      "count": 1
+    },
+    {
+      "text": "practices",
+      "relevance": 0.502873,
+      "count": 4
+    },
+    {
+      "text": "public schools",
+      "relevance": 0.502858,
+      "count": 1
+    },
+    {
+      "text": "systems approach",
+      "relevance": 0.502816,
+      "count": 1
+    },
+    {
+      "text": "ivory tower view",
+      "relevance": 0.502793,
+      "count": 1
+    },
+    {
+      "text": "curriculum teaching practices",
+      "relevance": 0.50275,
+      "count": 1
+    },
+    {
+      "text": "community colleges",
+      "relevance": 0.502718,
+      "count": 1
+    },
+    {
+      "text": "leadership skills",
+      "relevance": 0.502684,
+      "count": 1
+    },
+    {
+      "text": "sense",
+      "relevance": 0.502682,
+      "count": 3
+    },
+    {
+      "text": "modern equipment",
+      "relevance": 0.502664,
+      "count": 1
+    },
+    {
+      "text": "growing interest",
+      "relevance": 0.502663,
+      "count": 1
+    },
+    {
+      "text": "American society",
+      "relevance": 0.502651,
+      "count": 2
+    },
+    {
+      "text": "postsecondary education",
+      "relevance": 0.502639,
+      "count": 1
+    },
+    {
+      "text": "sort of a populist view",
+      "relevance": 0.502633,
+      "count": 1
+    },
+    {
+      "text": "high value",
+      "relevance": 0.502597,
+      "count": 3
+    },
+    {
+      "text": "people",
+      "relevance": 0.502594,
+      "count": 9
+    },
+    {
+      "text": "citizen disengagement",
+      "relevance": 0.502591,
+      "count": 2
+    },
+    {
+      "text": "fear of remedial students",
+      "relevance": 0.502583,
+      "count": 1
+    },
+    {
+      "text": "great deal of appeal",
+      "relevance": 0.502575,
+      "count": 1
+    },
+    {
+      "text": "distinct pleasure",
+      "relevance": 0.502533,
+      "count": 1
+    },
+    {
+      "text": "words",
+      "relevance": 0.502525,
+      "count": 4
+    },
+    {
+      "text": "annual Spring Symposium",
+      "relevance": 0.502504,
+      "count": 1
+    },
+    {
+      "text": "efforts",
+      "relevance": 0.502463,
+      "count": 4
+    },
+    {
+      "text": "public pronouncements",
+      "relevance": 0.502447,
+      "count": 1
+    },
+    {
+      "text": "local community",
+      "relevance": 0.50244,
+      "count": 1
+    },
+    {
+      "text": "Skulls students Higher Education Nascent Annual survey",
+      "relevance": 0.502399,
+      "count": 1
+    },
+    {
+      "text": "educational resources",
+      "relevance": 0.50239,
+      "count": 1
+    },
+    {
+      "text": "simplistic yardstick",
+      "relevance": 0.502375,
+      "count": 1
+    },
+    {
+      "text": "colleagues",
+      "relevance": 0.502373,
+      "count": 3
+    },
+    {
+      "text": "excellence",
+      "relevance": 0.502334,
+      "count": 9
+    },
+    {
+      "text": "curriculum",
+      "relevance": 0.502334,
+      "count": 3
+    },
+    {
+      "text": "light",
+      "relevance": 0.502319,
+      "count": 2
+    },
+    {
+      "text": "medicine",
+      "relevance": 0.5023,
+      "count": 4
+    },
+    {
+      "text": "racial problems",
+      "relevance": 0.502283,
+      "count": 1
+    },
+    {
+      "text": "sets of concurrent session",
+      "relevance": 0.502255,
+      "count": 1
+    },
+    {
+      "text": "common values",
+      "relevance": 0.502245,
+      "count": 1
+    },
+    {
+      "text": "ultimate definition of our excellence",
+      "relevance": 0.502168,
+      "count": 1
+    },
+    {
+      "text": "Student Affairs",
+      "relevance": 0.502131,
+      "count": 1
+    },
+    {
+      "text": "philosophy studies",
+      "relevance": 0.502124,
+      "count": 1
+    },
+    {
+      "text": "purposes of education",
+      "relevance": 0.502123,
+      "count": 1
+    },
+    {
+      "text": "days",
+      "relevance": 0.502119,
+      "count": 1
+    },
+    {
+      "text": "personnel practices",
+      "relevance": 0.502088,
+      "count": 1
+    },
+    {
+      "text": "model",
+      "relevance": 0.502085,
+      "count": 3
+    },
+    {
+      "text": "responsibility",
+      "relevance": 0.502067,
+      "count": 3
+    },
+    {
+      "text": "faculty",
+      "relevance": 0.502057,
+      "count": 3
+    },
+    {
+      "text": "common cold",
+      "relevance": 0.502044,
+      "count": 1
+    },
+    {
+      "text": "prediction argument",
+      "relevance": 0.502029,
+      "count": 3
+    },
+    {
+      "text": "reputations",
+      "relevance": 0.502003,
+      "count": 1
+    },
+    {
+      "text": "presidential state of the college reports",
+      "relevance": 0.501997,
+      "count": 1
+    },
+    {
+      "text": "Program",
+      "relevance": 0.501992,
+      "count": 3
+    },
+    {
+      "text": "monies",
+      "relevance": 0.501981,
+      "count": 1
+    },
+    {
+      "text": "such things",
+      "relevance": 0.501962,
+      "count": 1
+    },
+    {
+      "text": "professional lives",
+      "relevance": 0.501932,
+      "count": 1
+    },
+    {
+      "text": "belief system",
+      "relevance": 0.501928,
+      "count": 1
+    },
+    {
+      "text": "success of our pedagogical efforts",
+      "relevance": 0.50191,
+      "count": 1
+    },
+    {
+      "text": "tremendous effects",
+      "relevance": 0.501905,
+      "count": 1
+    },
+    {
+      "text": "limited conception",
+      "relevance": 0.501899,
+      "count": 1
+    },
+    {
+      "text": "lot of politicians",
+      "relevance": 0.501897,
+      "count": 1
+    },
+    {
+      "text": "examples",
+      "relevance": 0.501888,
+      "count": 3
+    },
+    {
+      "text": "kind of job",
+      "relevance": 0.501877,
+      "count": 1
+    },
+    {
+      "text": "politicians",
+      "relevance": 0.501852,
+      "count": 2
+    },
+    {
+      "text": "afternoon",
+      "relevance": 0.501847,
+      "count": 5
+    },
+    {
+      "text": "Uh",
+      "relevance": 0.501836,
+      "count": 14
+    },
+    {
+      "text": "current state of our democracy",
+      "relevance": 0.501786,
+      "count": 1
+    },
+    {
+      "text": "high scoring student",
+      "relevance": 0.501782,
+      "count": 1
+    },
+    {
+      "text": "West Coast",
+      "relevance": 0.501743,
+      "count": 1
+    },
+    {
+      "text": "Pacific Rim",
+      "relevance": 0.501743,
+      "count": 1
+    },
+    {
+      "text": "religious traditions",
+      "relevance": 0.501743,
+      "count": 1
+    },
+    {
+      "text": "curricular discussions",
+      "relevance": 0.501739,
+      "count": 1
+    },
+    {
+      "text": "typical college university",
+      "relevance": 0.501739,
+      "count": 1
+    },
+    {
+      "text": "issue of individualism",
+      "relevance": 0.501724,
+      "count": 1
+    },
+    {
+      "text": "obvious relevance",
+      "relevance": 0.501716,
+      "count": 1
+    },
+    {
+      "text": "conception of studentssuccess",
+      "relevance": 0.5017,
+      "count": 2
+    },
+    {
+      "text": "clinics",
+      "relevance": 0.501692,
+      "count": 2
+    },
+    {
+      "text": "corporate influence",
+      "relevance": 0.50169,
+      "count": 1
+    },
+    {
+      "text": "change magazine",
+      "relevance": 0.501679,
+      "count": 1
+    },
+    {
+      "text": "groups",
+      "relevance": 0.501674,
+      "count": 1
+    },
+    {
+      "text": "person",
+      "relevance": 0.501659,
+      "count": 2
+    },
+    {
+      "text": "classroom",
+      "relevance": 0.501654,
+      "count": 4
+    },
+    {
+      "text": "effective agents of positive social change",
+      "relevance": 0.501647,
+      "count": 1
+    },
+    {
+      "text": "Colleges",
+      "relevance": 0.501639,
+      "count": 2
+    },
+    {
+      "text": "case",
+      "relevance": 0.501612,
+      "count": 4
+    },
+    {
+      "text": "general education curriculum",
+      "relevance": 0.501595,
+      "count": 1
+    },
+    {
+      "text": "concept of civic responsibility",
+      "relevance": 0.501576,
+      "count": 1
+    },
+    {
+      "text": "captives",
+      "relevance": 0.501573,
+      "count": 1
+    },
+    {
+      "text": "largest racial minority group",
+      "relevance": 0.501545,
+      "count": 1
+    },
+    {
+      "text": "decreasing effectiveness of governmental agencies",
+      "relevance": 0.501532,
+      "count": 1
+    },
+    {
+      "text": "own rhetoric",
+      "relevance": 0.501528,
+      "count": 1
+    },
+    {
+      "text": "scholars",
+      "relevance": 0.501498,
+      "count": 2
+    },
+    {
+      "text": "end",
+      "relevance": 0.501497,
+      "count": 2
+    },
+    {
+      "text": "environment",
+      "relevance": 0.501438,
+      "count": 2
+    },
+    {
+      "text": "claims",
+      "relevance": 0.501438,
+      "count": 1
+    },
+    {
+      "text": "courses",
+      "relevance": 0.501436,
+      "count": 3
+    },
+    {
+      "text": "basis",
+      "relevance": 0.501429,
+      "count": 3
+    },
+    {
+      "text": "welfare",
+      "relevance": 0.501419,
+      "count": 1
+    },
+    {
+      "text": "serious discussion of our mutual ambivalence",
+      "relevance": 0.501399,
+      "count": 1
+    },
+    {
+      "text": "Berg",
+      "relevance": 0.501399,
+      "count": 1
+    },
+    {
+      "text": "point",
+      "relevance": 0.501378,
+      "count": 2
+    },
+    {
+      "text": "rhetoric",
+      "relevance": 0.501369,
+      "count": 1
+    },
+    {
+      "text": "problem",
+      "relevance": 0.501368,
+      "count": 6
+    },
+    {
+      "text": "development",
+      "relevance": 0.50136,
+      "count": 1
+    },
+    {
+      "text": "intellectual capacities",
+      "relevance": 0.501358,
+      "count": 1
+    },
+    {
+      "text": "velvet",
+      "relevance": 0.501358,
+      "count": 1
+    },
+    {
+      "text": "ways",
+      "relevance": 0.50135,
+      "count": 3
+    },
+    {
+      "text": "academia",
+      "relevance": 0.501343,
+      "count": 3
+    },
+    {
+      "text": "reasons",
+      "relevance": 0.501341,
+      "count": 3
+    },
+    {
+      "text": "aspects of what Daniel Goldman",
+      "relevance": 0.50133,
+      "count": 1
+    },
+    {
+      "text": "job",
+      "relevance": 0.501311,
+      "count": 1
+    },
+    {
+      "text": "preparation",
+      "relevance": 0.501272,
+      "count": 3
+    },
+    {
+      "text": "trust",
+      "relevance": 0.501271,
+      "count": 1
+    },
+    {
+      "text": "roots",
+      "relevance": 0.501267,
+      "count": 1
+    },
+    {
+      "text": "citizenship",
+      "relevance": 0.501257,
+      "count": 6
+    },
+    {
+      "text": "mind",
+      "relevance": 0.501247,
+      "count": 2
+    },
+    {
+      "text": "effort",
+      "relevance": 0.501231,
+      "count": 1
+    },
+    {
+      "text": "iceberg",
+      "relevance": 0.501231,
+      "count": 1
+    },
+    {
+      "text": "horizon",
+      "relevance": 0.501231,
+      "count": 1
+    },
+    {
+      "text": "college",
+      "relevance": 0.501229,
+      "count": 4
+    },
+    {
+      "text": "honesty",
+      "relevance": 0.501214,
+      "count": 4
+    },
+    {
+      "text": "university",
+      "relevance": 0.501208,
+      "count": 2
+    },
+    {
+      "text": "smaller group of instant",
+      "relevance": 0.501205,
+      "count": 1
+    },
+    {
+      "text": "different presentations",
+      "relevance": 0.501199,
+      "count": 1
+    },
+    {
+      "text": "service",
+      "relevance": 0.501185,
+      "count": 6
+    },
+    {
+      "text": "school",
+      "relevance": 0.501173,
+      "count": 1
+    },
+    {
+      "text": "Office of the vice chancellor",
+      "relevance": 0.501173,
+      "count": 2
+    },
+    {
+      "text": "catalogs",
+      "relevance": 0.501165,
+      "count": 3
+    },
+    {
+      "text": "autonomy",
+      "relevance": 0.501163,
+      "count": 2
+    },
+    {
+      "text": "freshman",
+      "relevance": 0.501145,
+      "count": 1
+    },
+    {
+      "text": "win win game aspect",
+      "relevance": 0.501144,
+      "count": 1
+    },
+    {
+      "text": "quality",
+      "relevance": 0.501141,
+      "count": 1
+    },
+    {
+      "text": "various public pronouncements",
+      "relevance": 0.501139,
+      "count": 1
+    },
+    {
+      "text": "sane institution",
+      "relevance": 0.50111,
+      "count": 1
+    },
+    {
+      "text": "resource acquisition",
+      "relevance": 0.501106,
+      "count": 1
+    },
+    {
+      "text": "funding",
+      "relevance": 0.5011,
+      "count": 1
+    },
+    {
+      "text": "opportunity",
+      "relevance": 0.501088,
+      "count": 2
+    },
+    {
+      "text": "part time instructors",
+      "relevance": 0.501086,
+      "count": 1
+    },
+    {
+      "text": "decisions",
+      "relevance": 0.50108,
+      "count": 1
+    },
+    {
+      "text": "issue",
+      "relevance": 0.501076,
+      "count": 2
+    },
+    {
+      "text": "contributions",
+      "relevance": 0.501067,
+      "count": 1
+    },
+    {
+      "text": "Earnings",
+      "relevance": 0.501066,
+      "count": 2
+    },
+    {
+      "text": "high student",
+      "relevance": 0.501065,
+      "count": 1
+    },
+    {
+      "text": "achievement",
+      "relevance": 0.501063,
+      "count": 1
+    },
+    {
+      "text": "day",
+      "relevance": 0.50106,
+      "count": 2
+    },
+    {
+      "text": "G p A",
+      "relevance": 0.501029,
+      "count": 2
+    },
+    {
+      "text": "law",
+      "relevance": 0.501022,
+      "count": 2
+    },
+    {
+      "text": "Daniel",
+      "relevance": 0.501009,
+      "count": 1
+    },
+    {
+      "text": "defense",
+      "relevance": 0.501006,
+      "count": 1
+    },
+    {
+      "text": "tomorrow",
+      "relevance": 0.501006,
+      "count": 1
+    },
+    {
+      "text": "reputation",
+      "relevance": 0.501002,
+      "count": 6
+    },
+    {
+      "text": "Business",
+      "relevance": 0.500996,
+      "count": 1
+    },
+    {
+      "text": "Teo",
+      "relevance": 0.500994,
+      "count": 1
+    },
+    {
+      "text": "personnel",
+      "relevance": 0.500992,
+      "count": 1
+    },
+    {
+      "text": "analogy",
+      "relevance": 0.500991,
+      "count": 1
+    },
+    {
+      "text": "money",
+      "relevance": 0.50099,
+      "count": 3
+    },
+    {
+      "text": "things",
+      "relevance": 0.500985,
+      "count": 2
+    },
+    {
+      "text": "professionals",
+      "relevance": 0.500983,
+      "count": 1
+    },
+    {
+      "text": "politics",
+      "relevance": 0.500976,
+      "count": 3
+    },
+    {
+      "text": "attention",
+      "relevance": 0.500974,
+      "count": 2
+    },
+    {
+      "text": "world",
+      "relevance": 0.500973,
+      "count": 1
+    },
+    {
+      "text": "practice",
+      "relevance": 0.500958,
+      "count": 1
+    },
+    {
+      "text": "Office",
+      "relevance": 0.500956,
+      "count": 1
+    },
+    {
+      "text": "close eye",
+      "relevance": 0.500954,
+      "count": 1
+    },
+    {
+      "text": "regulation",
+      "relevance": 0.500951,
+      "count": 1
+    },
+    {
+      "text": "academics",
+      "relevance": 0.50095,
+      "count": 4
+    },
+    {
+      "text": "multiculturalism",
+      "relevance": 0.500936,
+      "count": 3
+    },
+    {
+      "text": "developmental students",
+      "relevance": 0.500934,
+      "count": 1
+    },
+    {
+      "text": "experience",
+      "relevance": 0.500933,
+      "count": 2
+    },
+    {
+      "text": "afe s",
+      "relevance": 0.500931,
+      "count": 1
+    },
+    {
+      "text": "concern",
+      "relevance": 0.500925,
+      "count": 1
+    },
+    {
+      "text": "importance",
+      "relevance": 0.500924,
+      "count": 1
+    },
+    {
+      "text": "poorly staff",
+      "relevance": 0.500919,
+      "count": 1
+    },
+    {
+      "text": "inequities",
+      "relevance": 0.500917,
+      "count": 2
+    },
+    {
+      "text": "question",
+      "relevance": 0.500914,
+      "count": 4
+    },
+    {
+      "text": "effect",
+      "relevance": 0.500902,
+      "count": 2
+    },
+    {
+      "text": "unemployment",
+      "relevance": 0.500895,
+      "count": 1
+    },
+    {
+      "text": "Andi value",
+      "relevance": 0.500885,
+      "count": 1
+    },
+    {
+      "text": "policies",
+      "relevance": 0.500885,
+      "count": 4
+    },
+    {
+      "text": "preoccupation",
+      "relevance": 0.500885,
+      "count": 3
+    },
+    {
+      "text": "shift",
+      "relevance": 0.500872,
+      "count": 1
+    },
+    {
+      "text": "answer",
+      "relevance": 0.500872,
+      "count": 1
+    },
+    {
+      "text": "matters",
+      "relevance": 0.500865,
+      "count": 1
+    },
+    {
+      "text": "relationship",
+      "relevance": 0.500865,
+      "count": 2
+    },
+    {
+      "text": "toe function",
+      "relevance": 0.500862,
+      "count": 1
+    },
+    {
+      "text": "mass media theory of democracy",
+      "relevance": 0.500861,
+      "count": 1
+    },
+    {
+      "text": "skills",
+      "relevance": 0.50086,
+      "count": 1
+    },
+    {
+      "text": "evidence",
+      "relevance": 0.500856,
+      "count": 2
+    },
+    {
+      "text": "qualities",
+      "relevance": 0.500855,
+      "count": 3
+    },
+    {
+      "text": "direction",
+      "relevance": 0.500855,
+      "count": 1
+    },
+    {
+      "text": "tension",
+      "relevance": 0.500847,
+      "count": 2
+    },
+    {
+      "text": "depth",
+      "relevance": 0.500846,
+      "count": 1
+    },
+    {
+      "text": "mentoring",
+      "relevance": 0.50084,
+      "count": 1
+    },
+    {
+      "text": "competitive hierarchical system",
+      "relevance": 0.500831,
+      "count": 1
+    },
+    {
+      "text": "nobody",
+      "relevance": 0.500829,
+      "count": 2
+    },
+    {
+      "text": "desire",
+      "relevance": 0.500823,
+      "count": 2
+    },
+    {
+      "text": "hospitals",
+      "relevance": 0.500821,
+      "count": 2
+    },
+    {
+      "text": "decade",
+      "relevance": 0.500819,
+      "count": 1
+    },
+    {
+      "text": "competitiveness",
+      "relevance": 0.500819,
+      "count": 2
+    },
+    {
+      "text": "navy",
+      "relevance": 0.500805,
+      "count": 1
+    },
+    {
+      "text": "institutional conversations",
+      "relevance": 0.500801,
+      "count": 1
+    },
+    {
+      "text": "programs",
+      "relevance": 0.500797,
+      "count": 2
+    },
+    {
+      "text": "content",
+      "relevance": 0.500791,
+      "count": 1
+    },
+    {
+      "text": "behavior",
+      "relevance": 0.500784,
+      "count": 1
+    },
+    {
+      "text": "peer tutoring",
+      "relevance": 0.500784,
+      "count": 1
+    },
+    {
+      "text": "places",
+      "relevance": 0.500783,
+      "count": 1
+    },
+    {
+      "text": "little bit of reflection",
+      "relevance": 0.50078,
+      "count": 1
+    },
+    {
+      "text": "role",
+      "relevance": 0.500776,
+      "count": 1
+    },
+    {
+      "text": "idea",
+      "relevance": 0.500771,
+      "count": 1
+    },
+    {
+      "text": "articles",
+      "relevance": 0.50076,
+      "count": 1
+    },
+    {
+      "text": "control",
+      "relevance": 0.500759,
+      "count": 1
+    },
+    {
+      "text": "empathy",
+      "relevance": 0.500755,
+      "count": 2
+    },
+    {
+      "text": "nomination",
+      "relevance": 0.500754,
+      "count": 1
+    },
+    {
+      "text": "irony",
+      "relevance": 0.500752,
+      "count": 1
+    },
+    {
+      "text": "equity",
+      "relevance": 0.500749,
+      "count": 1
+    },
+    {
+      "text": "purpose of higher education",
+      "relevance": 0.500743,
+      "count": 1
+    },
+    {
+      "text": "procedures",
+      "relevance": 0.500742,
+      "count": 1
+    },
+    {
+      "text": "graduates",
+      "relevance": 0.500737,
+      "count": 1
+    },
+    {
+      "text": "toe",
+      "relevance": 0.500737,
+      "count": 1
+    },
+    {
+      "text": "emphasis",
+      "relevance": 0.500735,
+      "count": 2
+    },
+    {
+      "text": "divers",
+      "relevance": 0.500725,
+      "count": 1
+    },
+    {
+      "text": "results",
+      "relevance": 0.500718,
+      "count": 2
+    },
+    {
+      "text": "ast",
+      "relevance": 0.500715,
+      "count": 1
+    },
+    {
+      "text": "respects",
+      "relevance": 0.500714,
+      "count": 1
+    },
+    {
+      "text": "expertise",
+      "relevance": 0.500712,
+      "count": 1
+    },
+    {
+      "text": "today",
+      "relevance": 0.500711,
+      "count": 1
+    },
+    {
+      "text": "ist",
+      "relevance": 0.500706,
+      "count": 1
+    },
+    {
+      "text": "tea",
+      "relevance": 0.500701,
+      "count": 1
+    },
+    {
+      "text": "ability",
+      "relevance": 0.500699,
+      "count": 4
+    },
+    {
+      "text": "haste",
+      "relevance": 0.500699,
+      "count": 1
+    },
+    {
+      "text": "study",
+      "relevance": 0.500698,
+      "count": 1
+    },
+    {
+      "text": "unwillingness",
+      "relevance": 0.500697,
+      "count": 1
+    },
+    {
+      "text": "lot",
+      "relevance": 0.500694,
+      "count": 3
+    },
+    {
+      "text": "America's economy",
+      "relevance": 0.500693,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Studentssuccess",
+      "relevance": 0.735633,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 9
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "relevance": 0.406629,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Daniel Goldman",
+      "relevance": 0.384092,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Daniel Goldman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Daniel_Goldman"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Higher Education Research",
+      "relevance": 0.376656,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "American society",
+      "relevance": 0.366863,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Khun B",
+      "relevance": 0.353382,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Research Council Education",
+      "relevance": 0.345934,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Georgia",
+      "relevance": 0.344869,
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "administrators Factory Campus",
+      "relevance": 0.341352,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Department of English",
+      "relevance": 0.339272,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "relevance": 0.336634,
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bill",
+      "relevance": 0.333641,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Spear",
+      "relevance": 0.330314,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "professor of education",
+      "relevance": 0.328183,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Maynard Hutchins",
+      "relevance": 0.326682,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Robert Maynard Hutchins",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Maynard_Hutchins"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "National Merit Scholarship Corporation",
+      "relevance": 0.324854,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Louise",
+      "relevance": 0.323264,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Dewey",
+      "relevance": 0.321771,
+      "disambiguation": {
+        "subtype": [
+          "Philosopher"
+        ],
+        "name": "John Dewey",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Dewey"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carter",
+      "relevance": 0.316352,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "director",
+      "relevance": 0.314878,
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Indiana University",
+      "relevance": 0.312476,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Indiana University Bloomington",
+        "dbpedia_resource": "http://dbpedia.org/resource/Indiana_University_Bloomington"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "West Coast",
+      "relevance": 0.310223,
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Toe",
+      "relevance": 0.301901,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "relevance": 0.300157,
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sandy",
+      "relevance": 0.290413,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alex Research",
+      "relevance": 0.288846,
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Pacific Rim",
+      "relevance": 0.28827,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Berg",
+      "relevance": 0.288019,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "DH",
+      "relevance": 0.286736,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Division One",
+      "relevance": 0.285953,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Of of medicine",
+      "relevance": 0.285334,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "principal",
+      "relevance": 0.278956,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Officer Academic Affairs",
+      "relevance": 0.276038,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Western Europe",
+      "relevance": 0.275092,
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Office for American Affairs",
+      "relevance": 0.273488,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice Chancellor for Student Affairs",
+      "relevance": 0.271543,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mohr",
+      "relevance": 0.26927,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dick McCabe",
+      "relevance": 0.269129,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Teo",
+      "relevance": 0.268645,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Bloomington",
+      "relevance": 0.266928,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "chancellor",
+      "relevance": 0.263941,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "40 years",
+      "relevance": 0.263941,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "1,000 degrees",
+      "relevance": 0.263941,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "100 years",
+      "relevance": 0.263941,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "20 pounds",
+      "relevance": 0.263941,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "30 years",
+      "relevance": 0.263941,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "one hand",
+      "relevance": 0.263941,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "100%",
+      "relevance": 0.263941,
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Higher education",
+      "relevance": 0.965634,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higher_education"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.881337,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "College",
+      "relevance": 0.446046,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Curriculum",
+      "relevance": 0.398229,
+      "dbpedia_resource": "http://dbpedia.org/resource/Curriculum"
+    },
+    {
+      "text": "University",
+      "relevance": 0.365471,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Educational psychology",
+      "relevance": 0.353488,
+      "dbpedia_resource": "http://dbpedia.org/resource/Educational_psychology"
+    },
+    {
+      "text": "School",
+      "relevance": 0.299327,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Postgraduate education",
+      "relevance": 0.266447,
+      "dbpedia_resource": "http://dbpedia.org/resource/Postgraduate_education"
+    },
+    {
+      "text": "Higher Learning",
+      "relevance": 0.258731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higher_Learning"
+    },
+    {
+      "text": "The Higher",
+      "relevance": 0.258515,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Higher"
+    },
+    {
+      "text": "Student",
+      "relevance": 0.25671,
+      "dbpedia_resource": "http://dbpedia.org/resource/Student"
+    },
+    {
+      "text": "Remedial education",
+      "relevance": 0.250277,
+      "dbpedia_resource": "http://dbpedia.org/resource/Remedial_education"
+    },
+    {
+      "text": "Madrasah",
+      "relevance": 0.242349,
+      "dbpedia_resource": "http://dbpedia.org/resource/Madrasah"
+    },
+    {
+      "text": "Tertiary education",
+      "relevance": 0.24179,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tertiary_education"
+    }
+  ],
+  "warnings": [
+    "100000 exceeds allowable limit of 50000",
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

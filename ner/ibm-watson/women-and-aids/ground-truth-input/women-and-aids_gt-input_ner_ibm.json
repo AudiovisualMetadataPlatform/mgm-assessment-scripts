@@ -1,0 +1,3425 @@
+{
+    "usage": {
+        "text_units": 5,
+        "text_characters": 50000,
+        "features": 3
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "status of women",
+            "relevance": 0.643544,
+            "count": 4
+        },
+        {
+            "text": "women's experience",
+            "relevance": 0.595838,
+            "count": 1
+        },
+        {
+            "text": "good health",
+            "relevance": 0.57257,
+            "count": 1
+        },
+        {
+            "text": "feminist health movement",
+            "relevance": 0.571714,
+            "count": 17
+        },
+        {
+            "text": "feminist health activists",
+            "relevance": 0.568155,
+            "count": 1
+        },
+        {
+            "text": "women",
+            "relevance": 0.560833,
+            "count": 119
+        },
+        {
+            "text": "traditional medical treatment",
+            "relevance": 0.545659,
+            "count": 1
+        },
+        {
+            "text": "different takes",
+            "relevance": 0.541106,
+            "count": 1
+        },
+        {
+            "text": "effective means",
+            "relevance": 0.537364,
+            "count": 1
+        },
+        {
+            "text": "detriment of others",
+            "relevance": 0.536326,
+            "count": 1
+        },
+        {
+            "text": "much money",
+            "relevance": 0.535717,
+            "count": 1
+        },
+        {
+            "text": "public health",
+            "relevance": 0.535668,
+            "count": 1
+        },
+        {
+            "text": "hard work",
+            "relevance": 0.535459,
+            "count": 1
+        },
+        {
+            "text": "people of color",
+            "relevance": 0.534257,
+            "count": 2
+        },
+        {
+            "text": "care of a doctor",
+            "relevance": 0.533136,
+            "count": 1
+        },
+        {
+            "text": "feminist clinics",
+            "relevance": 0.53132,
+            "count": 5
+        },
+        {
+            "text": "principles of that movement",
+            "relevance": 0.53092,
+            "count": 1
+        },
+        {
+            "text": "use of state funds",
+            "relevance": 0.529345,
+            "count": 1
+        },
+        {
+            "text": "women's lives",
+            "relevance": 0.528836,
+            "count": 2
+        },
+        {
+            "text": "um",
+            "relevance": 0.525737,
+            "count": 68
+        },
+        {
+            "text": "token women",
+            "relevance": 0.525391,
+            "count": 1
+        },
+        {
+            "text": "different ways",
+            "relevance": 0.52539,
+            "count": 2
+        },
+        {
+            "text": "AIDS crisis",
+            "relevance": 0.523206,
+            "count": 5
+        },
+        {
+            "text": "potential child bearers",
+            "relevance": 0.52103,
+            "count": 1
+        },
+        {
+            "text": "medical help",
+            "relevance": 0.52074,
+            "count": 1
+        },
+        {
+            "text": "black women's health project",
+            "relevance": 0.520596,
+            "count": 1
+        },
+        {
+            "text": "public health campaigns call",
+            "relevance": 0.52029,
+            "count": 1
+        },
+        {
+            "text": "first part of this speech",
+            "relevance": 0.519821,
+            "count": 1
+        },
+        {
+            "text": "last year",
+            "relevance": 0.519702,
+            "count": 2
+        },
+        {
+            "text": "form of medical insurance",
+            "relevance": 0.519249,
+            "count": 1
+        },
+        {
+            "text": "medical establishment",
+            "relevance": 0.519198,
+            "count": 9
+        },
+        {
+            "text": "medical profession take precedence",
+            "relevance": 0.518381,
+            "count": 1
+        },
+        {
+            "text": "AIDS activist movement",
+            "relevance": 0.517821,
+            "count": 2
+        },
+        {
+            "text": "United States",
+            "relevance": 0.517176,
+            "count": 5
+        },
+        {
+            "text": "poor people",
+            "relevance": 0.517102,
+            "count": 3
+        },
+        {
+            "text": "basic point of this framework",
+            "relevance": 0.517032,
+            "count": 1
+        },
+        {
+            "text": "important point",
+            "relevance": 0.516903,
+            "count": 1
+        },
+        {
+            "text": "cultural background",
+            "relevance": 0.516845,
+            "count": 1
+        },
+        {
+            "text": "individual discrimination",
+            "relevance": 0.516385,
+            "count": 1
+        },
+        {
+            "text": "backbone of the feminist health movement",
+            "relevance": 0.516286,
+            "count": 1
+        },
+        {
+            "text": "racial group",
+            "relevance": 0.515805,
+            "count": 2
+        },
+        {
+            "text": "front of other women",
+            "relevance": 0.515779,
+            "count": 1
+        },
+        {
+            "text": "labor force",
+            "relevance": 0.515018,
+            "count": 4
+        },
+        {
+            "text": "Witch hunts",
+            "relevance": 0.514425,
+            "count": 2
+        },
+        {
+            "text": "control of their own bodies",
+            "relevance": 0.514344,
+            "count": 1
+        },
+        {
+            "text": "history of sterilization",
+            "relevance": 0.514342,
+            "count": 1
+        },
+        {
+            "text": "institutional discrimination",
+            "relevance": 0.514243,
+            "count": 4
+        },
+        {
+            "text": "Latin men",
+            "relevance": 0.514062,
+            "count": 2
+        },
+        {
+            "text": "only access",
+            "relevance": 0.51401,
+            "count": 1
+        },
+        {
+            "text": "social power",
+            "relevance": 0.51392,
+            "count": 1
+        },
+        {
+            "text": "White women",
+            "relevance": 0.513659,
+            "count": 2
+        },
+        {
+            "text": "new contraceptive methods",
+            "relevance": 0.513603,
+            "count": 1
+        },
+        {
+            "text": "entire female organism",
+            "relevance": 0.513467,
+            "count": 1
+        },
+        {
+            "text": "only means of protection",
+            "relevance": 0.513435,
+            "count": 1
+        },
+        {
+            "text": "amounts of money",
+            "relevance": 0.513431,
+            "count": 1
+        },
+        {
+            "text": "result of long-term",
+            "relevance": 0.513271,
+            "count": 1
+        },
+        {
+            "text": "less access",
+            "relevance": 0.513128,
+            "count": 2
+        },
+        {
+            "text": "class differences",
+            "relevance": 0.51297,
+            "count": 1
+        },
+        {
+            "text": "White men",
+            "relevance": 0.512555,
+            "count": 1
+        },
+        {
+            "text": "number of married couple households",
+            "relevance": 0.512457,
+            "count": 1
+        },
+        {
+            "text": "affordable abortion",
+            "relevance": 0.512325,
+            "count": 1
+        },
+        {
+            "text": "sexual harassment",
+            "relevance": 0.512281,
+            "count": 1
+        },
+        {
+            "text": "self-help groups",
+            "relevance": 0.512271,
+            "count": 2
+        },
+        {
+            "text": "American women",
+            "relevance": 0.512148,
+            "count": 1
+        },
+        {
+            "text": "image of women",
+            "relevance": 0.512096,
+            "count": 1
+        },
+        {
+            "text": "use of men",
+            "relevance": 0.51196,
+            "count": 1
+        },
+        {
+            "text": "Florence Nightingale",
+            "relevance": 0.511835,
+            "count": 1
+        },
+        {
+            "text": "Jane Collective",
+            "relevance": 0.511569,
+            "count": 1
+        },
+        {
+            "text": "married women",
+            "relevance": 0.51137,
+            "count": 1
+        },
+        {
+            "text": "poverty level",
+            "relevance": 0.511265,
+            "count": 4
+        },
+        {
+            "text": "men",
+            "relevance": 0.51115,
+            "count": 31
+        },
+        {
+            "text": "younger women",
+            "relevance": 0.511013,
+            "count": 2
+        },
+        {
+            "text": "drug trials",
+            "relevance": 0.510931,
+            "count": 2
+        },
+        {
+            "text": "medical profession",
+            "relevance": 0.510807,
+            "count": 2
+        },
+        {
+            "text": "early 20th centuries",
+            "relevance": 0.510642,
+            "count": 2
+        },
+        {
+            "text": "birth control",
+            "relevance": 0.510319,
+            "count": 3
+        },
+        {
+            "text": "forms of media",
+            "relevance": 0.510308,
+            "count": 1
+        },
+        {
+            "text": "safest methods",
+            "relevance": 0.510285,
+            "count": 1
+        },
+        {
+            "text": "terms of the AIDS crisis",
+            "relevance": 0.510177,
+            "count": 1
+        },
+        {
+            "text": "Women's incomes",
+            "relevance": 0.510003,
+            "count": 1
+        },
+        {
+            "text": "own lives",
+            "relevance": 0.509931,
+            "count": 1
+        },
+        {
+            "text": "experimental treatment",
+            "relevance": 0.509886,
+            "count": 1
+        },
+        {
+            "text": "heterosexual supremacy result",
+            "relevance": 0.509867,
+            "count": 1
+        },
+        {
+            "text": "slide show",
+            "relevance": 0.509847,
+            "count": 1
+        },
+        {
+            "text": "population control groups",
+            "relevance": 0.509798,
+            "count": 1
+        },
+        {
+            "text": "unmarried women",
+            "relevance": 0.509593,
+            "count": 1
+        },
+        {
+            "text": "educational system",
+            "relevance": 0.509588,
+            "count": 1
+        },
+        {
+            "text": "first part of your handbook",
+            "relevance": 0.509404,
+            "count": 1
+        },
+        {
+            "text": "ethnic group",
+            "relevance": 0.509319,
+            "count": 1
+        },
+        {
+            "text": "maker of Depo-Provera",
+            "relevance": 0.509167,
+            "count": 1
+        },
+        {
+            "text": "entire body",
+            "relevance": 0.509024,
+            "count": 1
+        },
+        {
+            "text": "development of other drugs",
+            "relevance": 0.508946,
+            "count": 1
+        },
+        {
+            "text": "first half of that year",
+            "relevance": 0.508943,
+            "count": 1
+        },
+        {
+            "text": "Latin women",
+            "relevance": 0.508868,
+            "count": 2
+        },
+        {
+            "text": "medical issue",
+            "relevance": 0.50886,
+            "count": 2
+        },
+        {
+            "text": "support systems",
+            "relevance": 0.508855,
+            "count": 1
+        },
+        {
+            "text": "poor women",
+            "relevance": 0.508835,
+            "count": 4
+        },
+        {
+            "text": "AIDS",
+            "relevance": 0.508749,
+            "count": 18
+        },
+        {
+            "text": "injectable contraceptive",
+            "relevance": 0.508443,
+            "count": 1
+        },
+        {
+            "text": "waiting period",
+            "relevance": 0.508349,
+            "count": 1
+        },
+        {
+            "text": "feminist movement",
+            "relevance": 0.508347,
+            "count": 1
+        },
+        {
+            "text": "consumer health movement",
+            "relevance": 0.508216,
+            "count": 1
+        },
+        {
+            "text": "increase access",
+            "relevance": 0.507988,
+            "count": 1
+        },
+        {
+            "text": "success rate",
+            "relevance": 0.50798,
+            "count": 1
+        },
+        {
+            "text": "care of children",
+            "relevance": 0.507895,
+            "count": 1
+        },
+        {
+            "text": "latest drug trials",
+            "relevance": 0.507789,
+            "count": 1
+        },
+        {
+            "text": "discriminatory practices",
+            "relevance": 0.507628,
+            "count": 1
+        },
+        {
+            "text": "normal changes",
+            "relevance": 0.507619,
+            "count": 1
+        },
+        {
+            "text": "pill study",
+            "relevance": 0.507129,
+            "count": 1
+        },
+        {
+            "text": "such deadly side effects",
+            "relevance": 0.507092,
+            "count": 1
+        },
+        {
+            "text": "abortion rights",
+            "relevance": 0.507052,
+            "count": 2
+        },
+        {
+            "text": "Cultural discrimination",
+            "relevance": 0.507046,
+            "count": 5
+        },
+        {
+            "text": "abortion",
+            "relevance": 0.507011,
+            "count": 13
+        },
+        {
+            "text": "medical professionals",
+            "relevance": 0.50701,
+            "count": 1
+        },
+        {
+            "text": "racism affect",
+            "relevance": 0.506984,
+            "count": 1
+        },
+        {
+            "text": "immune system",
+            "relevance": 0.506966,
+            "count": 4
+        },
+        {
+            "text": "history of women healers",
+            "relevance": 0.506876,
+            "count": 1
+        },
+        {
+            "text": "long hours",
+            "relevance": 0.506782,
+            "count": 2
+        },
+        {
+            "text": "common STD",
+            "relevance": 0.506694,
+            "count": 1
+        },
+        {
+            "text": "name's Heidi",
+            "relevance": 0.506583,
+            "count": 1
+        },
+        {
+            "text": "use of the morning",
+            "relevance": 0.506573,
+            "count": 1
+        },
+        {
+            "text": "medical establishment's response",
+            "relevance": 0.506506,
+            "count": 1
+        },
+        {
+            "text": "main point",
+            "relevance": 0.506506,
+            "count": 1
+        },
+        {
+            "text": "Carol Downer",
+            "relevance": 0.506449,
+            "count": 2
+        },
+        {
+            "text": "alternative media",
+            "relevance": 0.506389,
+            "count": 1
+        },
+        {
+            "text": "menstrual cycle",
+            "relevance": 0.506371,
+            "count": 1
+        },
+        {
+            "text": "different kind of treatment",
+            "relevance": 0.506337,
+            "count": 1
+        },
+        {
+            "text": "monetary issues",
+            "relevance": 0.506152,
+            "count": 1
+        },
+        {
+            "text": "Dalkon Shield",
+            "relevance": 0.506139,
+            "count": 2
+        },
+        {
+            "text": "drugs",
+            "relevance": 0.506077,
+            "count": 2
+        },
+        {
+            "text": "examples of law",
+            "relevance": 0.50604,
+            "count": 1
+        },
+        {
+            "text": "pharmaceutical industry",
+            "relevance": 0.505914,
+            "count": 1
+        },
+        {
+            "text": "joint pain",
+            "relevance": 0.505906,
+            "count": 1
+        },
+        {
+            "text": "AMA of the American College of Obstetrics",
+            "relevance": 0.505906,
+            "count": 1
+        },
+        {
+            "text": "Supreme Court",
+            "relevance": 0.505827,
+            "count": 1
+        },
+        {
+            "text": "Planned Parenthood",
+            "relevance": 0.505801,
+            "count": 2
+        },
+        {
+            "text": "test animals",
+            "relevance": 0.5058,
+            "count": 1
+        },
+        {
+            "text": "Heidi",
+            "relevance": 0.505767,
+            "count": 7
+        },
+        {
+            "text": "New York City",
+            "relevance": 0.505766,
+            "count": 1
+        },
+        {
+            "text": "dangers of the pill",
+            "relevance": 0.505746,
+            "count": 2
+        },
+        {
+            "text": "HIV infection",
+            "relevance": 0.505685,
+            "count": 1
+        },
+        {
+            "text": "constant attacks",
+            "relevance": 0.505665,
+            "count": 1
+        },
+        {
+            "text": "Depo-Provera",
+            "relevance": 0.505599,
+            "count": 1
+        },
+        {
+            "text": "group",
+            "relevance": 0.505549,
+            "count": 2
+        },
+        {
+            "text": "lots",
+            "relevance": 0.50554,
+            "count": 1
+        },
+        {
+            "text": "own court physicians",
+            "relevance": 0.505479,
+            "count": 1
+        },
+        {
+            "text": "example",
+            "relevance": 0.505455,
+            "count": 10
+        },
+        {
+            "text": "health care",
+            "relevance": 0.505372,
+            "count": 1
+        },
+        {
+            "text": "Puerto Rican women",
+            "relevance": 0.505363,
+            "count": 1
+        },
+        {
+            "text": "direct service work",
+            "relevance": 0.505353,
+            "count": 1
+        },
+        {
+            "text": "thing",
+            "relevance": 0.505344,
+            "count": 3
+        },
+        {
+            "text": "FDA",
+            "relevance": 0.505342,
+            "count": 10
+        },
+        {
+            "text": "sorts of things",
+            "relevance": 0.505306,
+            "count": 1
+        },
+        {
+            "text": "vaginal self exam",
+            "relevance": 0.50529,
+            "count": 1
+        },
+        {
+            "text": "Census Bureau",
+            "relevance": 0.505263,
+            "count": 1
+        },
+        {
+            "text": "percent women",
+            "relevance": 0.50519,
+            "count": 1
+        },
+        {
+            "text": "women's liberation movement",
+            "relevance": 0.505168,
+            "count": 2
+        },
+        {
+            "text": "only general medical practitioners",
+            "relevance": 0.505165,
+            "count": 1
+        },
+        {
+            "text": "women's health",
+            "relevance": 0.505134,
+            "count": 2
+        },
+        {
+            "text": "financial interests of the medical profession",
+            "relevance": 0.505125,
+            "count": 1
+        },
+        {
+            "text": "control",
+            "relevance": 0.505125,
+            "count": 4
+        },
+        {
+            "text": "African American communities",
+            "relevance": 0.505106,
+            "count": 1
+        },
+        {
+            "text": "good health care",
+            "relevance": 0.505093,
+            "count": 2
+        },
+        {
+            "text": "next principle",
+            "relevance": 0.505066,
+            "count": 1
+        },
+        {
+            "text": "advisory committee",
+            "relevance": 0.504886,
+            "count": 1
+        },
+        {
+            "text": "Santa Cruz",
+            "relevance": 0.504848,
+            "count": 1
+        },
+        {
+            "text": "voluntary sterilization",
+            "relevance": 0.504837,
+            "count": 1
+        },
+        {
+            "text": "internal struggles",
+            "relevance": 0.50481,
+            "count": 1
+        },
+        {
+            "text": "legality of abortion",
+            "relevance": 0.504792,
+            "count": 1
+        },
+        {
+            "text": "financial interests of the drug industry",
+            "relevance": 0.504766,
+            "count": 1
+        },
+        {
+            "text": "fourth time",
+            "relevance": 0.50476,
+            "count": 1
+        },
+        {
+            "text": "result of official population control policies",
+            "relevance": 0.504753,
+            "count": 1
+        },
+        {
+            "text": "pill",
+            "relevance": 0.504689,
+            "count": 5
+        },
+        {
+            "text": "pelvic inflammatory disease",
+            "relevance": 0.504612,
+            "count": 1
+        },
+        {
+            "text": "health workers",
+            "relevance": 0.504591,
+            "count": 1
+        },
+        {
+            "text": "Dr. Lucien Warner",
+            "relevance": 0.504564,
+            "count": 1
+        },
+        {
+            "text": "operation of actual barriers",
+            "relevance": 0.504545,
+            "count": 1
+        },
+        {
+            "text": "female invalidism",
+            "relevance": 0.504446,
+            "count": 1
+        },
+        {
+            "text": "appropriate treatment",
+            "relevance": 0.504423,
+            "count": 1
+        },
+        {
+            "text": "civil disobedience",
+            "relevance": 0.504419,
+            "count": 1
+        },
+        {
+            "text": "independent service providers",
+            "relevance": 0.504388,
+            "count": 1
+        },
+        {
+            "text": "issues",
+            "relevance": 0.50438,
+            "count": 4
+        },
+        {
+            "text": "drug companies",
+            "relevance": 0.50437,
+            "count": 2
+        },
+        {
+            "text": "Gram stain test",
+            "relevance": 0.504307,
+            "count": 1
+        },
+        {
+            "text": "AUDIENCE",
+            "relevance": 0.504303,
+            "count": 8
+        },
+        {
+            "text": "young people",
+            "relevance": 0.504237,
+            "count": 1
+        },
+        {
+            "text": "great threat",
+            "relevance": 0.504225,
+            "count": 1
+        },
+        {
+            "text": "female sexuality",
+            "relevance": 0.504209,
+            "count": 1
+        },
+        {
+            "text": "government",
+            "relevance": 0.504179,
+            "count": 9
+        },
+        {
+            "text": "lot of problems",
+            "relevance": 0.504156,
+            "count": 1
+        },
+        {
+            "text": "information",
+            "relevance": 0.504116,
+            "count": 11
+        },
+        {
+            "text": "case of VD",
+            "relevance": 0.504103,
+            "count": 1
+        },
+        {
+            "text": "US hospitals",
+            "relevance": 0.504096,
+            "count": 1
+        },
+        {
+            "text": "amount of money",
+            "relevance": 0.504078,
+            "count": 1
+        },
+        {
+            "text": "political decisions",
+            "relevance": 0.504051,
+            "count": 1
+        },
+        {
+            "text": "legal system",
+            "relevance": 0.504025,
+            "count": 1
+        },
+        {
+            "text": "spousal consent bills",
+            "relevance": 0.503963,
+            "count": 1
+        },
+        {
+            "text": "great example",
+            "relevance": 0.503959,
+            "count": 1
+        },
+        {
+            "text": "activist groups",
+            "relevance": 0.503931,
+            "count": 2
+        },
+        {
+            "text": "Women of the lower classes",
+            "relevance": 0.503916,
+            "count": 1
+        },
+        {
+            "text": "people",
+            "relevance": 0.503886,
+            "count": 14
+        },
+        {
+            "text": "Unmarried men's incomes",
+            "relevance": 0.50384,
+            "count": 1
+        },
+        {
+            "text": "Doctors",
+            "relevance": 0.503823,
+            "count": 13
+        },
+        {
+            "text": "economic system",
+            "relevance": 0.503808,
+            "count": 1
+        },
+        {
+            "text": "Gonorrhea",
+            "relevance": 0.503763,
+            "count": 8
+        },
+        {
+            "text": "rape victim",
+            "relevance": 0.503751,
+            "count": 1
+        },
+        {
+            "text": "popular medical authority",
+            "relevance": 0.503737,
+            "count": 1
+        },
+        {
+            "text": "case",
+            "relevance": 0.503686,
+            "count": 5
+        },
+        {
+            "text": "images",
+            "relevance": 0.503678,
+            "count": 4
+        },
+        {
+            "text": "phone number",
+            "relevance": 0.503582,
+            "count": 1
+        },
+        {
+            "text": "service",
+            "relevance": 0.503569,
+            "count": 3
+        },
+        {
+            "text": "major industries",
+            "relevance": 0.503524,
+            "count": 1
+        },
+        {
+            "text": "work",
+            "relevance": 0.503448,
+            "count": 3
+        },
+        {
+            "text": "guinea pigs",
+            "relevance": 0.5034,
+            "count": 1
+        },
+        {
+            "text": "makers of the IUD",
+            "relevance": 0.503377,
+            "count": 1
+        },
+        {
+            "text": "law enforcement",
+            "relevance": 0.503324,
+            "count": 1
+        },
+        {
+            "text": "whole year",
+            "relevance": 0.503306,
+            "count": 1
+        },
+        {
+            "text": "good example",
+            "relevance": 0.503277,
+            "count": 1
+        },
+        {
+            "text": "age vis-a-vis",
+            "relevance": 0.503259,
+            "count": 1
+        },
+        {
+            "text": "local doctors",
+            "relevance": 0.503258,
+            "count": 2
+        },
+        {
+            "text": "study",
+            "relevance": 0.503249,
+            "count": 4
+        },
+        {
+            "text": "women of our country invalids",
+            "relevance": 0.503241,
+            "count": 1
+        },
+        {
+            "text": "clinics",
+            "relevance": 0.503215,
+            "count": 9
+        },
+        {
+            "text": "medical school",
+            "relevance": 0.503215,
+            "count": 1
+        },
+        {
+            "text": "country today",
+            "relevance": 0.503198,
+            "count": 1
+        },
+        {
+            "text": "day",
+            "relevance": 0.503182,
+            "count": 3
+        },
+        {
+            "text": "irreparable damage",
+            "relevance": 0.503175,
+            "count": 1
+        },
+        {
+            "text": "women end",
+            "relevance": 0.503133,
+            "count": 1
+        },
+        {
+            "text": "federal intervention",
+            "relevance": 0.503129,
+            "count": 1
+        },
+        {
+            "text": "training programs",
+            "relevance": 0.503092,
+            "count": 1
+        },
+        {
+            "text": "early days of healers",
+            "relevance": 0.50306,
+            "count": 1
+        },
+        {
+            "text": "health advocacy",
+            "relevance": 0.503017,
+            "count": 1
+        },
+        {
+            "text": "long time",
+            "relevance": 0.502972,
+            "count": 1
+        },
+        {
+            "text": "community",
+            "relevance": 0.502907,
+            "count": 3
+        },
+        {
+            "text": "early '80s",
+            "relevance": 0.502877,
+            "count": 1
+        },
+        {
+            "text": "important parallel",
+            "relevance": 0.50287,
+            "count": 1
+        },
+        {
+            "text": "question",
+            "relevance": 0.502842,
+            "count": 5
+        },
+        {
+            "text": "federal funding",
+            "relevance": 0.502805,
+            "count": 1
+        },
+        {
+            "text": "consent",
+            "relevance": 0.5028,
+            "count": 3
+        },
+        {
+            "text": "utmost care",
+            "relevance": 0.502795,
+            "count": 1
+        },
+        {
+            "text": "preventative measures",
+            "relevance": 0.502794,
+            "count": 1
+        },
+        {
+            "text": "name",
+            "relevance": 0.50278,
+            "count": 1
+        },
+        {
+            "text": "country",
+            "relevance": 0.502779,
+            "count": 4
+        },
+        {
+            "text": "involved communities of color",
+            "relevance": 0.502772,
+            "count": 1
+        },
+        {
+            "text": "lot",
+            "relevance": 0.50277,
+            "count": 6
+        },
+        {
+            "text": "hair loss",
+            "relevance": 0.502763,
+            "count": 1
+        },
+        {
+            "text": "distinct views of women",
+            "relevance": 0.502759,
+            "count": 1
+        },
+        {
+            "text": "different sense",
+            "relevance": 0.502752,
+            "count": 1
+        },
+        {
+            "text": "alternative treatments",
+            "relevance": 0.502717,
+            "count": 1
+        },
+        {
+            "text": "vitamin C",
+            "relevance": 0.502675,
+            "count": 1
+        },
+        {
+            "text": "things",
+            "relevance": 0.502672,
+            "count": 10
+        },
+        {
+            "text": "ideas",
+            "relevance": 0.502662,
+            "count": 7
+        },
+        {
+            "text": "Research",
+            "relevance": 0.50265,
+            "count": 4
+        },
+        {
+            "text": "married couples",
+            "relevance": 0.502586,
+            "count": 2
+        },
+        {
+            "text": "children",
+            "relevance": 0.502579,
+            "count": 10
+        },
+        {
+            "text": "consciousness-raising model",
+            "relevance": 0.502558,
+            "count": 1
+        },
+        {
+            "text": "doctor",
+            "relevance": 0.502548,
+            "count": 8
+        },
+        {
+            "text": "moral issue",
+            "relevance": 0.502521,
+            "count": 1
+        },
+        {
+            "text": "local state",
+            "relevance": 0.502518,
+            "count": 1
+        },
+        {
+            "text": "researchers",
+            "relevance": 0.502516,
+            "count": 2
+        },
+        {
+            "text": "AIDS movement",
+            "relevance": 0.50249,
+            "count": 6
+        },
+        {
+            "text": "first principle",
+            "relevance": 0.502469,
+            "count": 1
+        },
+        {
+            "text": "minority populations",
+            "relevance": 0.502454,
+            "count": 1
+        },
+        {
+            "text": "safe abortions",
+            "relevance": 0.502445,
+            "count": 1
+        },
+        {
+            "text": "fact",
+            "relevance": 0.50244,
+            "count": 4
+        },
+        {
+            "text": "radical projects",
+            "relevance": 0.502408,
+            "count": 1
+        },
+        {
+            "text": "sex",
+            "relevance": 0.50238,
+            "count": 3
+        },
+        {
+            "text": "magic acts",
+            "relevance": 0.502376,
+            "count": 1
+        },
+        {
+            "text": "Latino community",
+            "relevance": 0.502347,
+            "count": 1
+        },
+        {
+            "text": "attack",
+            "relevance": 0.502329,
+            "count": 2
+        },
+        {
+            "text": "INTERVIEWER",
+            "relevance": 0.502295,
+            "count": 4
+        },
+        {
+            "text": "business decisions",
+            "relevance": 0.502287,
+            "count": 1
+        },
+        {
+            "text": "holy land",
+            "relevance": 0.502278,
+            "count": 1
+        },
+        {
+            "text": "contraception",
+            "relevance": 0.502258,
+            "count": 3
+        },
+        {
+            "text": "medical treatments",
+            "relevance": 0.502248,
+            "count": 1
+        },
+        {
+            "text": "lot of information",
+            "relevance": 0.502245,
+            "count": 1
+        },
+        {
+            "text": "impact of government intervention",
+            "relevance": 0.502206,
+            "count": 1
+        },
+        {
+            "text": "effects",
+            "relevance": 0.502169,
+            "count": 2
+        },
+        {
+            "text": "fallopian tubes",
+            "relevance": 0.502161,
+            "count": 1
+        },
+        {
+            "text": "sterilization abuse",
+            "relevance": 0.5021,
+            "count": 3
+        },
+        {
+            "text": "actual barriers",
+            "relevance": 0.502092,
+            "count": 1
+        },
+        {
+            "text": "vaginal cancer",
+            "relevance": 0.502071,
+            "count": 1
+        },
+        {
+            "text": "demand",
+            "relevance": 0.50207,
+            "count": 1
+        },
+        {
+            "text": "points",
+            "relevance": 0.502066,
+            "count": 2
+        },
+        {
+            "text": "gay community",
+            "relevance": 0.50206,
+            "count": 1
+        },
+        {
+            "text": "basic health maintenance measures",
+            "relevance": 0.50204,
+            "count": 1
+        },
+        {
+            "text": "sterilization groups",
+            "relevance": 0.502038,
+            "count": 1
+        },
+        {
+            "text": "African negress",
+            "relevance": 0.502028,
+            "count": 1
+        },
+        {
+            "text": "support",
+            "relevance": 0.502026,
+            "count": 1
+        },
+        {
+            "text": "Greek word",
+            "relevance": 0.502006,
+            "count": 1
+        },
+        {
+            "text": "Medicaid",
+            "relevance": 0.502003,
+            "count": 6
+        },
+        {
+            "text": "way",
+            "relevance": 0.502,
+            "count": 6
+        },
+        {
+            "text": "AL721 kitchen labs",
+            "relevance": 0.501947,
+            "count": 1
+        },
+        {
+            "text": "Biomedical thought",
+            "relevance": 0.50193,
+            "count": 1
+        },
+        {
+            "text": "memory loss",
+            "relevance": 0.501904,
+            "count": 1
+        },
+        {
+            "text": "STDs",
+            "relevance": 0.501877,
+            "count": 7
+        },
+        {
+            "text": "drug company",
+            "relevance": 0.501855,
+            "count": 1
+        },
+        {
+            "text": "access",
+            "relevance": 0.501844,
+            "count": 6
+        },
+        {
+            "text": "number of feminist groups",
+            "relevance": 0.501844,
+            "count": 1
+        },
+        {
+            "text": "cases",
+            "relevance": 0.501843,
+            "count": 2
+        },
+        {
+            "text": "attempts",
+            "relevance": 0.501842,
+            "count": 1
+        },
+        {
+            "text": "lot of this work",
+            "relevance": 0.501832,
+            "count": 1
+        },
+        {
+            "text": "relationship",
+            "relevance": 0.50182,
+            "count": 3
+        },
+        {
+            "text": "examples",
+            "relevance": 0.501818,
+            "count": 1
+        },
+        {
+            "text": "lesbians",
+            "relevance": 0.501813,
+            "count": 7
+        },
+        {
+            "text": "disease",
+            "relevance": 0.501799,
+            "count": 2
+        },
+        {
+            "text": "Latin people",
+            "relevance": 0.501789,
+            "count": 2
+        },
+        {
+            "text": "decline",
+            "relevance": 0.501783,
+            "count": 3
+        },
+        {
+            "text": "Contagious Diseases Act",
+            "relevance": 0.501781,
+            "count": 1
+        },
+        {
+            "text": "et cetera",
+            "relevance": 0.501781,
+            "count": 2
+        },
+        {
+            "text": "operating room",
+            "relevance": 0.501781,
+            "count": 1
+        },
+        {
+            "text": "severe cramps",
+            "relevance": 0.50178,
+            "count": 1
+        },
+        {
+            "text": "pressure",
+            "relevance": 0.501778,
+            "count": 1
+        },
+        {
+            "text": "mention of abortion",
+            "relevance": 0.501777,
+            "count": 1
+        },
+        {
+            "text": "nurse",
+            "relevance": 0.501774,
+            "count": 1
+        },
+        {
+            "text": "less income",
+            "relevance": 0.501772,
+            "count": 2
+        },
+        {
+            "text": "cervix",
+            "relevance": 0.501768,
+            "count": 3
+        },
+        {
+            "text": "Number",
+            "relevance": 0.501709,
+            "count": 5
+        },
+        {
+            "text": "governmental procedures",
+            "relevance": 0.501698,
+            "count": 1
+        },
+        {
+            "text": "cross-country tour",
+            "relevance": 0.50167,
+            "count": 1
+        },
+        {
+            "text": "Jane",
+            "relevance": 0.501657,
+            "count": 3
+        },
+        {
+            "text": "Popular mythology",
+            "relevance": 0.501652,
+            "count": 1
+        },
+        {
+            "text": "90,000-women sample",
+            "relevance": 0.50165,
+            "count": 1
+        },
+        {
+            "text": "activation of this principle",
+            "relevance": 0.501646,
+            "count": 1
+        },
+        {
+            "text": "alliances",
+            "relevance": 0.501614,
+            "count": 5
+        },
+        {
+            "text": "mind",
+            "relevance": 0.50161,
+            "count": 3
+        },
+        {
+            "text": "lack",
+            "relevance": 0.501601,
+            "count": 1
+        },
+        {
+            "text": "fires",
+            "relevance": 0.501594,
+            "count": 1
+        },
+        {
+            "text": "seconds",
+            "relevance": 0.501591,
+            "count": 1
+        },
+        {
+            "text": "differences",
+            "relevance": 0.50159,
+            "count": 3
+        },
+        {
+            "text": "male customers",
+            "relevance": 0.501589,
+            "count": 1
+        },
+        {
+            "text": "knowledge",
+            "relevance": 0.501583,
+            "count": 3
+        },
+        {
+            "text": "situations",
+            "relevance": 0.501571,
+            "count": 2
+        },
+        {
+            "text": "heterosexual supremacy",
+            "relevance": 0.501569,
+            "count": 1
+        },
+        {
+            "text": "cost of care",
+            "relevance": 0.501567,
+            "count": 1
+        },
+        {
+            "text": "repression",
+            "relevance": 0.50156,
+            "count": 2
+        },
+        {
+            "text": "age",
+            "relevance": 0.501559,
+            "count": 3
+        },
+        {
+            "text": "Hysteria",
+            "relevance": 0.501558,
+            "count": 3
+        },
+        {
+            "text": "challenge",
+            "relevance": 0.501527,
+            "count": 2
+        },
+        {
+            "text": "pregnancy",
+            "relevance": 0.501524,
+            "count": 3
+        },
+        {
+            "text": "total money",
+            "relevance": 0.501493,
+            "count": 1
+        },
+        {
+            "text": "Minorities",
+            "relevance": 0.501455,
+            "count": 2
+        },
+        {
+            "text": "own decisions",
+            "relevance": 0.501454,
+            "count": 2
+        },
+        {
+            "text": "Menopause",
+            "relevance": 0.501427,
+            "count": 1
+        },
+        {
+            "text": "Prostitutes",
+            "relevance": 0.501422,
+            "count": 3
+        },
+        {
+            "text": "activists",
+            "relevance": 0.501411,
+            "count": 1
+        },
+        {
+            "text": "temporary infertility",
+            "relevance": 0.501409,
+            "count": 1
+        },
+        {
+            "text": "invisibility",
+            "relevance": 0.501386,
+            "count": 2
+        },
+        {
+            "text": "touch",
+            "relevance": 0.501384,
+            "count": 1
+        },
+        {
+            "text": "form",
+            "relevance": 0.50134,
+            "count": 1
+        },
+        {
+            "text": "attempt of arrest",
+            "relevance": 0.501321,
+            "count": 1
+        },
+        {
+            "text": "Roe",
+            "relevance": 0.501316,
+            "count": 2
+        },
+        {
+            "text": "concern",
+            "relevance": 0.501313,
+            "count": 2
+        },
+        {
+            "text": "statistics",
+            "relevance": 0.50131,
+            "count": 3
+        },
+        {
+            "text": "elements of the attack",
+            "relevance": 0.501304,
+            "count": 1
+        },
+        {
+            "text": "IUD-related hospitalizations",
+            "relevance": 0.501302,
+            "count": 1
+        },
+        {
+            "text": "places",
+            "relevance": 0.501298,
+            "count": 1
+        },
+        {
+            "text": "power",
+            "relevance": 0.501287,
+            "count": 4
+        },
+        {
+            "text": "class",
+            "relevance": 0.501282,
+            "count": 1
+        },
+        {
+            "text": "TMS",
+            "relevance": 0.501281,
+            "count": 1
+        },
+        {
+            "text": "self-help supplies",
+            "relevance": 0.501279,
+            "count": 1
+        },
+        {
+            "text": "help of the devil",
+            "relevance": 0.501267,
+            "count": 1
+        },
+        {
+            "text": "female specialists",
+            "relevance": 0.501267,
+            "count": 1
+        },
+        {
+            "text": "researcher",
+            "relevance": 0.501258,
+            "count": 2
+        },
+        {
+            "text": "historic reporting of health information",
+            "relevance": 0.501248,
+            "count": 1
+        },
+        {
+            "text": "coincidence",
+            "relevance": 0.501245,
+            "count": 1
+        },
+        {
+            "text": "gay men",
+            "relevance": 0.501236,
+            "count": 1
+        },
+        {
+            "text": "cancer",
+            "relevance": 0.501217,
+            "count": 2
+        },
+        {
+            "text": "instances",
+            "relevance": 0.501216,
+            "count": 3
+        },
+        {
+            "text": "common sense treatments",
+            "relevance": 0.50121,
+            "count": 1
+        },
+        {
+            "text": "job",
+            "relevance": 0.501207,
+            "count": 3
+        },
+        {
+            "text": "basis",
+            "relevance": 0.501206,
+            "count": 2
+        },
+        {
+            "text": "sexuality",
+            "relevance": 0.501203,
+            "count": 2
+        },
+        {
+            "text": "Tallahassee",
+            "relevance": 0.501196,
+            "count": 2
+        },
+        {
+            "text": "Bodies",
+            "relevance": 0.50119,
+            "count": 4
+        },
+        {
+            "text": "kings",
+            "relevance": 0.501186,
+            "count": 1
+        },
+        {
+            "text": "abortions",
+            "relevance": 0.501169,
+            "count": 4
+        },
+        {
+            "text": "explanation",
+            "relevance": 0.501167,
+            "count": 2
+        },
+        {
+            "text": "majority",
+            "relevance": 0.501154,
+            "count": 4
+        },
+        {
+            "text": "failures",
+            "relevance": 0.501137,
+            "count": 1
+        },
+        {
+            "text": "Chicago",
+            "relevance": 0.501128,
+            "count": 2
+        },
+        {
+            "text": "groups of women",
+            "relevance": 0.50112,
+            "count": 1
+        },
+        {
+            "text": "fields",
+            "relevance": 0.501114,
+            "count": 1
+        },
+        {
+            "text": "JUDITH",
+            "relevance": 0.501112,
+            "count": 4
+        },
+        {
+            "text": "framework",
+            "relevance": 0.501109,
+            "count": 2
+        },
+        {
+            "text": "third class of sick women surfacing",
+            "relevance": 0.501108,
+            "count": 1
+        },
+        {
+            "text": "indication",
+            "relevance": 0.501101,
+            "count": 2
+        },
+        {
+            "text": "April",
+            "relevance": 0.501098,
+            "count": 1
+        },
+        {
+            "text": "households",
+            "relevance": 0.501096,
+            "count": 2
+        },
+        {
+            "text": "issue",
+            "relevance": 0.501095,
+            "count": 4
+        },
+        {
+            "text": "books",
+            "relevance": 0.501074,
+            "count": 3
+        },
+        {
+            "text": "United States of America",
+            "relevance": 0.501066,
+            "count": 1
+        },
+        {
+            "text": "treatment",
+            "relevance": 0.501065,
+            "count": 3
+        },
+        {
+            "text": "development",
+            "relevance": 0.501046,
+            "count": 1
+        },
+        {
+            "text": "message",
+            "relevance": 0.501044,
+            "count": 2
+        },
+        {
+            "text": "male contraception",
+            "relevance": 0.501044,
+            "count": 2
+        },
+        {
+            "text": "coalition",
+            "relevance": 0.50104,
+            "count": 1
+        },
+        {
+            "text": "contraceptive",
+            "relevance": 0.501039,
+            "count": 1
+        },
+        {
+            "text": "conditions",
+            "relevance": 0.501039,
+            "count": 3
+        },
+        {
+            "text": "hand",
+            "relevance": 0.501038,
+            "count": 1
+        },
+        {
+            "text": "mother",
+            "relevance": 0.501036,
+            "count": 1
+        },
+        {
+            "text": "relatives",
+            "relevance": 0.501028,
+            "count": 2
+        },
+        {
+            "text": "custody of children",
+            "relevance": 0.501025,
+            "count": 1
+        },
+        {
+            "text": "women healers",
+            "relevance": 0.501012,
+            "count": 1
+        },
+        {
+            "text": "logic",
+            "relevance": 0.501007,
+            "count": 2
+        },
+        {
+            "text": "feminists",
+            "relevance": 0.501004,
+            "count": 2
+        },
+        {
+            "text": "ultrasound",
+            "relevance": 0.501003,
+            "count": 3
+        },
+        {
+            "text": "terms",
+            "relevance": 0.500997,
+            "count": 1
+        },
+        {
+            "text": "clean needles",
+            "relevance": 0.500996,
+            "count": 1
+        },
+        {
+            "text": "homes",
+            "relevance": 0.500983,
+            "count": 1
+        },
+        {
+            "text": "circumstances",
+            "relevance": 0.500958,
+            "count": 1
+        },
+        {
+            "text": "questions",
+            "relevance": 0.500947,
+            "count": 2
+        },
+        {
+            "text": "Gynecology",
+            "relevance": 0.500942,
+            "count": 1
+        },
+        {
+            "text": "cures",
+            "relevance": 0.500936,
+            "count": 1
+        },
+        {
+            "text": "experience",
+            "relevance": 0.50093,
+            "count": 2
+        },
+        {
+            "text": "Prevention",
+            "relevance": 0.50093,
+            "count": 3
+        },
+        {
+            "text": "residencies",
+            "relevance": 0.500929,
+            "count": 1
+        },
+        {
+            "text": "plastic speculum",
+            "relevance": 0.500924,
+            "count": 2
+        },
+        {
+            "text": "mistake",
+            "relevance": 0.500921,
+            "count": 1
+        },
+        {
+            "text": "different self-help kinds of remedies",
+            "relevance": 0.50092,
+            "count": 1
+        },
+        {
+            "text": "medicine",
+            "relevance": 0.500915,
+            "count": 1
+        },
+        {
+            "text": "money",
+            "relevance": 0.500914,
+            "count": 7
+        },
+        {
+            "text": "operation",
+            "relevance": 0.500911,
+            "count": 1
+        },
+        {
+            "text": "education",
+            "relevance": 0.500906,
+            "count": 2
+        },
+        {
+            "text": "laws",
+            "relevance": 0.500903,
+            "count": 1
+        },
+        {
+            "text": "VD",
+            "relevance": 0.5009,
+            "count": 4
+        },
+        {
+            "text": "actions of individuals",
+            "relevance": 0.5009,
+            "count": 1
+        },
+        {
+            "text": "services",
+            "relevance": 0.500892,
+            "count": 7
+        },
+        {
+            "text": "proper kind of treatment",
+            "relevance": 0.500887,
+            "count": 1
+        },
+        {
+            "text": "common procedures",
+            "relevance": 0.50088,
+            "count": 1
+        },
+        {
+            "text": "pants",
+            "relevance": 0.500874,
+            "count": 2
+        },
+        {
+            "text": "miscarriage",
+            "relevance": 0.50087,
+            "count": 2
+        },
+        {
+            "text": "surveillance",
+            "relevance": 0.500864,
+            "count": 1
+        },
+        {
+            "text": "address",
+            "relevance": 0.50086,
+            "count": 1
+        },
+        {
+            "text": "first easy access",
+            "relevance": 0.500857,
+            "count": 1
+        },
+        {
+            "text": "very act of self-examination",
+            "relevance": 0.500856,
+            "count": 1
+        },
+        {
+            "text": "months",
+            "relevance": 0.500852,
+            "count": 2
+        },
+        {
+            "text": "animals",
+            "relevance": 0.500851,
+            "count": 2
+        },
+        {
+            "text": "inserts",
+            "relevance": 0.500843,
+            "count": 1
+        },
+        {
+            "text": "CDC",
+            "relevance": 0.500828,
+            "count": 1
+        },
+        {
+            "text": "point",
+            "relevance": 0.500826,
+            "count": 1
+        },
+        {
+            "text": "cities",
+            "relevance": 0.500822,
+            "count": 1
+        },
+        {
+            "text": "CRI",
+            "relevance": 0.500818,
+            "count": 1
+        },
+        {
+            "text": "welfare",
+            "relevance": 0.500814,
+            "count": 1
+        },
+        {
+            "text": "facts",
+            "relevance": 0.500813,
+            "count": 1
+        },
+        {
+            "text": "symptoms",
+            "relevance": 0.50081,
+            "count": 3
+        },
+        {
+            "text": "1860s England",
+            "relevance": 0.500808,
+            "count": 1
+        },
+        {
+            "text": "campaign",
+            "relevance": 0.500805,
+            "count": 1
+        },
+        {
+            "text": "handbooks",
+            "relevance": 0.5008,
+            "count": 1
+        },
+        {
+            "text": "ways",
+            "relevance": 0.5008,
+            "count": 1
+        },
+        {
+            "text": "period",
+            "relevance": 0.500795,
+            "count": 5
+        },
+        {
+            "text": "price",
+            "relevance": 0.500794,
+            "count": 1
+        },
+        {
+            "text": "chlamydia",
+            "relevance": 0.500789,
+            "count": 1
+        },
+        {
+            "text": "Protests",
+            "relevance": 0.500781,
+            "count": 1
+        },
+        {
+            "text": "contraceptives",
+            "relevance": 0.50078,
+            "count": 1
+        },
+        {
+            "text": "intermission",
+            "relevance": 0.500779,
+            "count": 1
+        },
+        {
+            "text": "positions of privilege",
+            "relevance": 0.500779,
+            "count": 1
+        },
+        {
+            "text": "anatomy",
+            "relevance": 0.500779,
+            "count": 1
+        },
+        {
+            "text": "blood",
+            "relevance": 0.500778,
+            "count": 1
+        },
+        {
+            "text": "success",
+            "relevance": 0.500775,
+            "count": 1
+        },
+        {
+            "text": "problems",
+            "relevance": 0.500774,
+            "count": 2
+        },
+        {
+            "text": "category",
+            "relevance": 0.500772,
+            "count": 2
+        },
+        {
+            "text": "tomorrow",
+            "relevance": 0.500769,
+            "count": 2
+        },
+        {
+            "text": "responsibility",
+            "relevance": 0.500764,
+            "count": 3
+        },
+        {
+            "text": "vasectomy",
+            "relevance": 0.500761,
+            "count": 1
+        },
+        {
+            "text": "drug",
+            "relevance": 0.50076,
+            "count": 4
+        },
+        {
+            "text": "deal",
+            "relevance": 0.500752,
+            "count": 2
+        },
+        {
+            "text": "residents",
+            "relevance": 0.500746,
+            "count": 1
+        },
+        {
+            "text": "tool",
+            "relevance": 0.500744,
+            "count": 1
+        },
+        {
+            "text": "images of women",
+            "relevance": 0.500742,
+            "count": 2
+        },
+        {
+            "text": "Parental consent bills",
+            "relevance": 0.500735,
+            "count": 1
+        },
+        {
+            "text": "times",
+            "relevance": 0.500734,
+            "count": 2
+        },
+        {
+            "text": "midwives",
+            "relevance": 0.500733,
+            "count": 4
+        },
+        {
+            "text": "Boston",
+            "relevance": 0.500729,
+            "count": 1
+        },
+        {
+            "text": "action",
+            "relevance": 0.500727,
+            "count": 1
+        },
+        {
+            "text": "popular images of women",
+            "relevance": 0.500726,
+            "count": 1
+        },
+        {
+            "text": "AMA",
+            "relevance": 0.500724,
+            "count": 1
+        },
+        {
+            "text": "regular annual exam",
+            "relevance": 0.500713,
+            "count": 1
+        },
+        {
+            "text": "health",
+            "relevance": 0.500712,
+            "count": 1
+        },
+        {
+            "text": "minutes",
+            "relevance": 0.500711,
+            "count": 2
+        },
+        {
+            "text": "reason",
+            "relevance": 0.500708,
+            "count": 1
+        },
+        {
+            "text": "scrubs",
+            "relevance": 0.500707,
+            "count": 1
+        },
+        {
+            "text": "marriage",
+            "relevance": 0.500707,
+            "count": 1
+        },
+        {
+            "text": "newsprint",
+            "relevance": 0.500706,
+            "count": 1
+        },
+        {
+            "text": "reference",
+            "relevance": 0.500703,
+            "count": 1
+        },
+        {
+            "text": "assumption",
+            "relevance": 0.500702,
+            "count": 1
+        },
+        {
+            "text": "infighting",
+            "relevance": 0.5007,
+            "count": 1
+        },
+        {
+            "text": "continuation",
+            "relevance": 0.500696,
+            "count": 1
+        },
+        {
+            "text": "whites",
+            "relevance": 0.500696,
+            "count": 1
+        },
+        {
+            "text": "strokes",
+            "relevance": 0.500692,
+            "count": 1
+        },
+        {
+            "text": "heat",
+            "relevance": 0.500691,
+            "count": 1
+        },
+        {
+            "text": "nobles",
+            "relevance": 0.50069,
+            "count": 1
+        },
+        {
+            "text": "Florida",
+            "relevance": 0.500687,
+            "count": 1
+        },
+        {
+            "text": "mirror",
+            "relevance": 0.500684,
+            "count": 1
+        },
+        {
+            "text": "victim",
+            "relevance": 0.500682,
+            "count": 1
+        },
+        {
+            "text": "Latin",
+            "relevance": 0.500679,
+            "count": 1
+        },
+        {
+            "text": "order",
+            "relevance": 0.500673,
+            "count": 1
+        },
+        {
+            "text": "susceptibility",
+            "relevance": 0.500672,
+            "count": 1
+        },
+        {
+            "text": "harassment",
+            "relevance": 0.500667,
+            "count": 1
+        },
+        {
+            "text": "one-parent families",
+            "relevance": 0.500657,
+            "count": 1
+        }
+    ],
+    "entities": [
+        {
+            "type": "HealthCondition",
+            "text": "AIDS",
+            "relevance": 0.781632,
+            "disambiguation": {
+                "subtype": [
+                    "Organization",
+                    "DiseaseOrMedicalCondition",
+                    "CauseOfDeath",
+                    "DiseaseCause",
+                    "RiskFactor",
+                    "Disease",
+                    "OrganizationSector"
+                ],
+                "name": "AIDS",
+                "dbpedia_resource": "http://dbpedia.org/resource/AIDS"
+            },
+            "count": 25
+        },
+        {
+            "type": "Location",
+            "text": "United States",
+            "relevance": 0.470954,
+            "disambiguation": {
+                "subtype": [
+                    "Region",
+                    "AdministrativeDivision",
+                    "GovernmentalJurisdiction",
+                    "FilmEditor",
+                    "Country"
+                ],
+                "name": "United States",
+                "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+            },
+            "count": 11
+        },
+        {
+            "type": "Organization",
+            "text": "National Women's Health Network",
+            "relevance": 0.367727,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "government",
+            "relevance": 0.35889,
+            "disambiguation": {
+                "subtype": [
+                    "FieldOfStudy",
+                    "BuildingFunction"
+                ],
+                "name": "Government",
+                "dbpedia_resource": "http://dbpedia.org/resource/Government"
+            },
+            "count": 9
+        },
+        {
+            "type": "Organization",
+            "text": "FDA",
+            "relevance": 0.356081,
+            "disambiguation": {
+                "subtype": [
+                    "GovernmentAgency"
+                ],
+                "name": "Food and Drug Administration",
+                "dbpedia_resource": "http://dbpedia.org/resource/Food_and_Drug_Administration"
+            },
+            "count": 10
+        },
+        {
+            "type": "Organization",
+            "text": "Chicago Women's Liberation Union",
+            "relevance": 0.347622,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Medicaid",
+            "relevance": 0.340114,
+            "count": 6
+        },
+        {
+            "type": "Person",
+            "text": "Heidi",
+            "relevance": 0.336085,
+            "count": 7
+        },
+        {
+            "type": "Person",
+            "text": "Judith",
+            "relevance": 0.317723,
+            "count": 4
+        },
+        {
+            "type": "Crime",
+            "text": "rape",
+            "relevance": 0.294469,
+            "count": 3
+        },
+        {
+            "type": "Organization",
+            "text": "AIDS",
+            "relevance": 0.294089,
+            "count": 3
+        },
+        {
+            "type": "HealthCondition",
+            "text": "gonorrhea",
+            "relevance": 0.286041,
+            "disambiguation": {
+                "subtype": [
+                    "DiseaseOrMedicalCondition",
+                    "DiseaseCause",
+                    "InfectiousDisease",
+                    "RiskFactor",
+                    "Disease"
+                ],
+                "name": "Gonorrhea",
+                "dbpedia_resource": "http://dbpedia.org/resource/Gonorrhea"
+            },
+            "count": 7
+        },
+        {
+            "type": "Company",
+            "text": "PWAs",
+            "relevance": 0.284293,
+            "count": 5
+        },
+        {
+            "type": "Person",
+            "text": "Carol Downer",
+            "relevance": 0.279071,
+            "disambiguation": {
+                "subtype": [],
+                "name": "Carol Downer",
+                "dbpedia_resource": "http://dbpedia.org/resource/Carol_Downer"
+            },
+            "count": 3
+        },
+        {
+            "type": "Person",
+            "text": "MARIAN",
+            "relevance": 0.277079,
+            "count": 3
+        },
+        {
+            "type": "Person",
+            "text": "Jane",
+            "relevance": 0.277057,
+            "count": 5
+        },
+        {
+            "type": "Organization",
+            "text": "Census Bureau",
+            "relevance": 0.273301,
+            "disambiguation": {
+                "subtype": [
+                    "GovernmentAgency"
+                ],
+                "name": "United States Census Bureau",
+                "dbpedia_resource": "http://dbpedia.org/resource/United_States_Census_Bureau"
+            },
+            "count": 1
+        },
+        {
+            "type": "Crime",
+            "text": "harassment",
+            "relevance": 0.26581,
+            "count": 4
+        },
+        {
+            "type": "Organization",
+            "text": "AMA",
+            "relevance": 0.26049,
+            "count": 2
+        },
+        {
+            "type": "Location",
+            "text": "New York City",
+            "relevance": 0.252348,
+            "disambiguation": {
+                "subtype": [
+                    "PoliticalDistrict",
+                    "GovernmentalJurisdiction",
+                    "PlaceWithNeighborhoods",
+                    "WineRegion",
+                    "FilmScreeningVenue",
+                    "City"
+                ],
+                "name": "New York City",
+                "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+            },
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "HIV infection",
+            "relevance": 0.248776,
+            "disambiguation": {
+                "subtype": [
+                    "OrganismClassification",
+                    "DiseaseOrMedicalCondition",
+                    "CauseOfDeath",
+                    "InfectiousDisease",
+                    "RiskFactor",
+                    "MedicalSpecialty"
+                ],
+                "name": "HIV",
+                "dbpedia_resource": "http://dbpedia.org/resource/HIV"
+            },
+            "count": 2
+        },
+        {
+            "type": "Person",
+            "text": "Florence Nightingale",
+            "relevance": 0.247675,
+            "disambiguation": {
+                "subtype": [],
+                "name": "Florence Nightingale",
+                "dbpedia_resource": "http://dbpedia.org/resource/Florence_Nightingale"
+            },
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "inflammatory disease",
+            "relevance": 0.247524,
+            "disambiguation": {
+                "subtype": [
+                    "DiseaseOrMedicalCondition",
+                    "DiseaseCause",
+                    "RiskFactor",
+                    "Symptom"
+                ],
+                "name": "Inflammation",
+                "dbpedia_resource": "http://dbpedia.org/resource/Inflammation"
+            },
+            "count": 2
+        },
+        {
+            "type": "HealthCondition",
+            "text": "Menopause",
+            "relevance": 0.246279,
+            "disambiguation": {
+                "subtype": [
+                    "DiseaseOrMedicalCondition",
+                    "DiseaseCause",
+                    "RiskFactor"
+                ],
+                "name": "Menopause",
+                "dbpedia_resource": "http://dbpedia.org/resource/Menopause"
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "American College of Obstetrics and Gynecology",
+            "relevance": 0.245465,
+            "count": 1
+        },
+        {
+            "type": "PrintMedia",
+            "text": "Temporary Male Sterilization",
+            "relevance": 0.244014,
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "vaginal cancer",
+            "relevance": 0.244007,
+            "disambiguation": {
+                "subtype": [
+                    "DiseaseOrMedicalCondition",
+                    "CauseOfDeath",
+                    "Disease"
+                ],
+                "name": "Vaginal cancer",
+                "dbpedia_resource": "http://dbpedia.org/resource/Vaginal_cancer"
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "HEW",
+            "relevance": 0.242763,
+            "disambiguation": {
+                "subtype": [],
+                "name": "United States Department of Health and Human Services",
+                "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Health_and_Human_Services"
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Population Council",
+            "relevance": 0.24213,
+            "disambiguation": {
+                "subtype": [],
+                "name": "Population Council",
+                "dbpedia_resource": "http://dbpedia.org/resource/Population_Council"
+            },
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "America",
+            "relevance": 0.23693,
+            "disambiguation": {
+                "subtype": [
+                    "Continent"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "chlamydia",
+            "relevance": 0.235264,
+            "disambiguation": {
+                "subtype": [
+                    "DiseaseOrMedicalCondition",
+                    "DiseaseCause",
+                    "InfectiousDisease",
+                    "RiskFactor"
+                ],
+                "name": "Chlamydia infection",
+                "dbpedia_resource": "http://dbpedia.org/resource/Chlamydia_infection"
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Committee Against Abortion Rights",
+            "relevance": 0.22945,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Tallahassee",
+            "relevance": 0.228596,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Tallahassee, Florida",
+                "dbpedia_resource": "http://dbpedia.org/resource/Tallahassee,_Florida"
+            },
+            "count": 2
+        },
+        {
+            "type": "HealthCondition",
+            "text": "uterine disease",
+            "relevance": 0.227683,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Europe",
+            "relevance": 0.227008,
+            "disambiguation": {
+                "subtype": [
+                    "Continent"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "JobTitle",
+            "text": "researcher",
+            "relevance": 0.226672,
+            "count": 2
+        },
+        {
+            "type": "Person",
+            "text": "Dr. Lucien Warner",
+            "relevance": 0.226511,
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "Sickness",
+            "relevance": 0.226184,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Chicago",
+            "relevance": 0.22496,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Chicago",
+                "dbpedia_resource": "http://dbpedia.org/resource/Chicago"
+            },
+            "count": 2
+        },
+        {
+            "type": "Organization",
+            "text": "AH Robins",
+            "relevance": 0.223216,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "CDC",
+            "relevance": 0.222765,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Supreme Court",
+            "relevance": 0.221193,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Jane Collective",
+            "relevance": 0.218834,
+            "count": 1
+        },
+        {
+            "type": "JobTitle",
+            "text": "official",
+            "relevance": 0.217911,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Everett",
+            "relevance": 0.217702,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Everett, Washington",
+                "dbpedia_resource": "http://dbpedia.org/resource/Everett,_Washington"
+            },
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "England",
+            "relevance": 0.216852,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Dalkon Shield",
+            "relevance": 0.215111,
+            "count": 2
+        },
+        {
+            "type": "Location",
+            "text": "Ourselves",
+            "relevance": 0.21505,
+            "disambiguation": {
+                "subtype": [
+                    "Country"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "Gonorrhea.",
+            "relevance": 0.214478,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Florida",
+            "relevance": 0.209675,
+            "disambiguation": {
+                "subtype": [
+                    "PoliticalDistrict",
+                    "AdministrativeDivision",
+                    "GovernmentalJurisdiction",
+                    "USState",
+                    "StateOrCounty"
+                ],
+                "name": "Florida",
+                "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+            },
+            "count": 1
+        },
+        {
+            "type": "Company",
+            "text": "CRI",
+            "relevance": 0.203257,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Lorraine Rothman",
+            "relevance": 0.203169,
+            "disambiguation": {
+                "subtype": [],
+                "name": "Lorraine Rothman",
+                "dbpedia_resource": "http://dbpedia.org/resource/Lorraine_Rothman"
+            },
+            "count": 1
+        },
+        {
+            "type": "HealthCondition",
+            "text": "asymptomatic",
+            "relevance": 0.202776,
+            "count": 2
+        },
+        {
+            "type": "Location",
+            "text": "Santa Cruz",
+            "relevance": 0.202603,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "DES",
+            "relevance": 0.202089,
+            "count": 2
+        },
+        {
+            "type": "Location",
+            "text": "Minneapolis",
+            "relevance": 0.202012,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Minneapolis",
+                "dbpedia_resource": "http://dbpedia.org/resource/Minneapolis"
+            },
+            "count": 1
+        },
+        {
+            "type": "Crime",
+            "text": "classism",
+            "relevance": 0.201901,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Boston",
+            "relevance": 0.201164,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "Company",
+            "text": "Operation Rescue",
+            "relevance": 0.19922,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Roe",
+            "relevance": 0.195793,
+            "count": 2
+        },
+        {
+            "type": "PrintMedia",
+            "text": "Body Positive",
+            "relevance": 0.195113,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Washington",
+            "relevance": 0.187342,
+            "disambiguation": {
+                "subtype": [
+                    "StateOrCounty"
+                ]
+            },
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Wade",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "30-day",
+            "relevance": 0.175377,
+            "count": 4
+        },
+        {
+            "type": "Quantity",
+            "text": "50%",
+            "relevance": 0.175377,
+            "count": 4
+        },
+        {
+            "type": "Quantity",
+            "text": "$10,000",
+            "relevance": 0.175377,
+            "count": 3
+        },
+        {
+            "type": "Quantity",
+            "text": "five months",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "five years",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "30 days",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "$7,610",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "30%",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "40%",
+            "relevance": 0.175377,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "$1.6 billion",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$305 million",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "eight years",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "three hours",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "three years",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "10 minutes",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "15 seconds",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "15 years",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "20 years",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$21,000",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$32,000",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$8,000",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$0.44",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "11.9%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "88.1%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "100%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$50",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "20%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "60%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "80%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "90%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "95%",
+            "relevance": 0.175377,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "99%",
+            "relevance": 0.175377,
+            "count": 1
+        }
+    ],
+    "concepts": [
+        {
+            "text": "Abortion",
+            "relevance": 0.966096,
+            "dbpedia_resource": "http://dbpedia.org/resource/Abortion"
+        },
+        {
+            "text": "Feminism",
+            "relevance": 0.8771,
+            "dbpedia_resource": "http://dbpedia.org/resource/Feminism"
+        },
+        {
+            "text": "Health care",
+            "relevance": 0.758926,
+            "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+        },
+        {
+            "text": "Feminist movement",
+            "relevance": 0.712561,
+            "dbpedia_resource": "http://dbpedia.org/resource/Feminist_movement"
+        },
+        {
+            "text": "Abortion in the United States",
+            "relevance": 0.697977,
+            "dbpedia_resource": "http://dbpedia.org/resource/Abortion_in_the_United_States"
+        },
+        {
+            "text": "Feminist theory",
+            "relevance": 0.688679,
+            "dbpedia_resource": "http://dbpedia.org/resource/Feminist_theory"
+        },
+        {
+            "text": "Medicine",
+            "relevance": 0.683577,
+            "dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+        },
+        {
+            "text": "Birth control",
+            "relevance": 0.584638,
+            "dbpedia_resource": "http://dbpedia.org/resource/Birth_control"
+        },
+        {
+            "text": "AIDS",
+            "relevance": 0.521885,
+            "dbpedia_resource": "http://dbpedia.org/resource/AIDS"
+        },
+        {
+            "text": "Feminist theology",
+            "relevance": 0.520795,
+            "dbpedia_resource": "http://dbpedia.org/resource/Feminist_theology"
+        },
+        {
+            "text": "White people",
+            "relevance": 0.459929,
+            "dbpedia_resource": "http://dbpedia.org/resource/White_people"
+        },
+        {
+            "text": "Culture",
+            "relevance": 0.45271,
+            "dbpedia_resource": "http://dbpedia.org/resource/Culture"
+        },
+        {
+            "text": "Abortion law",
+            "relevance": 0.445568,
+            "dbpedia_resource": "http://dbpedia.org/resource/Abortion_law"
+        },
+        {
+            "text": "Audre Lorde",
+            "relevance": 0.431128,
+            "dbpedia_resource": "http://dbpedia.org/resource/Audre_Lorde"
+        },
+        {
+            "text": "Racism",
+            "relevance": 0.410577,
+            "dbpedia_resource": "http://dbpedia.org/resource/Racism"
+        },
+        {
+            "text": "Health",
+            "relevance": 0.4042,
+            "dbpedia_resource": "http://dbpedia.org/resource/Health"
+        },
+        {
+            "text": "Women's rights",
+            "relevance": 0.385673,
+            "dbpedia_resource": "http://dbpedia.org/resource/Women's_rights"
+        },
+        {
+            "text": "Health care provider",
+            "relevance": 0.384166,
+            "dbpedia_resource": "http://dbpedia.org/resource/Health_care_provider"
+        },
+        {
+            "text": "Race",
+            "relevance": 0.377683,
+            "dbpedia_resource": "http://dbpedia.org/resource/Race"
+        },
+        {
+            "text": "Black people",
+            "relevance": 0.369544,
+            "dbpedia_resource": "http://dbpedia.org/resource/Black_people"
+        },
+        {
+            "text": "Physician",
+            "relevance": 0.366195,
+            "dbpedia_resource": "http://dbpedia.org/resource/Physician"
+        },
+        {
+            "text": "Gender",
+            "relevance": 0.36331,
+            "dbpedia_resource": "http://dbpedia.org/resource/Gender"
+        },
+        {
+            "text": "Poverty",
+            "relevance": 0.362734,
+            "dbpedia_resource": "http://dbpedia.org/resource/Poverty"
+        },
+        {
+            "text": "Vasectomy",
+            "relevance": 0.351512,
+            "dbpedia_resource": "http://dbpedia.org/resource/Vasectomy"
+        }
+    ],
+    "warnings": [
+        "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+    ]
+}

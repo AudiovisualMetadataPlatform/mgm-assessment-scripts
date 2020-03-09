@@ -1,0 +1,1924 @@
+type,text,proper_or_common,salience,num_mentions,mentions
+PERSON,students,COMMON,0.2866907,12,"students, students, students, students, students, students, students, students, students, students, students, students"
+OTHER,education,COMMON,0.2753675,16,"education, education, education, education, education, education, creature, education, education, education, education, education, education, education, education, education"
+ORGANIZATION,institutions,COMMON,0.019959157,5,"institutions, institutions, institutions, institutions, institutions"
+OTHER,society,COMMON,0.0085531585,6,"society, society, society, society, society, society"
+OTHER,Campus level,COMMON,0.0050960206,1,Campus level
+PERSON,students,COMMON,0.003728143,8,"students, students, students, students, students, students, piers, students"
+OTHER,curriculum,COMMON,0.0035879216,3,"problem, curriculum, teaching"
+OTHER,education,COMMON,0.0035009517,2,"education, education"
+OTHER,life,COMMON,0.002884697,4,"life, life, life, life"
+PERSON,students,COMMON,0.002861641,1,students
+OTHER,development,COMMON,0.0027115738,2,"fact, development"
+OTHER,measures,COMMON,0.002436466,2,"things, measures"
+OTHER,society,COMMON,0.0022189978,4,"society, society, society, society"
+PERSON,Studentssuccess,PROPER,0.0018032272,5,"Studentssuccess, Studentssuccess, Studentssuccess, Studentssuccess, Studentssuccess"
+PERSON,students,COMMON,0.001781154,2,"students, students"
+ORGANIZATION,Colleges,COMMON,0.0017685248,1,Colleges
+OTHER,problems,COMMON,0.0017528022,1,problems
+PERSON,students,COMMON,0.0017360157,1,students
+PERSON,People,COMMON,0.001452776,1,People
+OTHER,sort,COMMON,0.0014288882,1,sort
+OTHER,belief system,COMMON,0.0014252723,1,belief system
+OTHER,excellence,COMMON,0.00142461,5,"excellence, excellence, excellence, excellence, excellence"
+OTHER,beliefs,COMMON,0.0014141025,2,"beliefs, beliefs"
+OTHER,conception,COMMON,0.0013822067,2,"conception, conception"
+PERSON,Bill,PROPER,0.0013800617,1,Bill
+OTHER,way,COMMON,0.0013766006,2,"way, way"
+OTHER,engagement,COMMON,0.0013515163,3,"engagement, engagement, engagement"
+ORGANIZATION,institution,COMMON,0.0013370996,1,institution
+PERSON,student,COMMON,0.0013062183,1,student
+OTHER,resource,COMMON,0.0012851005,1,resource
+OTHER,commitment,COMMON,0.0012765741,2,"commitment, definition"
+OTHER,nothing,COMMON,0.0012765172,2,"nothing, nothing"
+ORGANIZATION,organizations,COMMON,0.0012468884,1,organizations
+OTHER,hand in hand,COMMON,0.0012317956,1,hand in hand
+OTHER,job,COMMON,0.0012220623,1,job
+PERSON,students,COMMON,0.0012148935,1,students
+PERSON,students,COMMON,0.0012148158,1,students
+PERSON,students,COMMON,0.0012130111,1,students
+OTHER,generation,COMMON,0.0011988885,2,"generation, generation"
+PERSON,personnel,COMMON,0.0011679765,1,personnel
+OTHER,sort,COMMON,0.0011633284,1,sort
+OTHER,problem,COMMON,0.0011471275,1,problem
+ORGANIZATION,institutions,COMMON,0.0011464433,1,institutions
+PERSON,professionals,COMMON,0.0011445584,1,professionals
+PERSON,colleagues,COMMON,0.0011073097,2,"colleagues, colleagues"
+PERSON,student,COMMON,0.0011015934,1,student
+PERSON,students,COMMON,0.0011007716,1,students
+OTHER,college species diversity,COMMON,0.0010930059,1,college species diversity
+OTHER,philosophy studies,COMMON,0.0010899252,1,philosophy studies
+PERSON,studentssuccess,COMMON,0.001086249,1,studentssuccess
+OTHER,pegboard view,COMMON,0.0010618874,2,"pegboard view, pegboard view"
+OTHER,engagement,COMMON,0.0010543684,2,"engagement, engagement"
+OTHER,education,COMMON,0.0010500004,2,"education, mission"
+OTHER,Earnings,COMMON,0.0010408169,1,Earnings
+OTHER,thing,COMMON,0.0010340597,2,"thing, thing"
+PERSON,students,COMMON,0.0010307198,1,students
+OTHER,change,COMMON,0.0010218953,2,"change, change"
+LOCATION,American,PROPER,0.0010032778,12,"American, American, American, American, American, American, American, American, American, United States, US, America"
+OTHER,qualities,COMMON,0.000979029,2,"qualities, ones"
+OTHER,development,COMMON,0.0009576783,1,development
+OTHER,gospel,COMMON,0.0009552142,1,gospel
+OTHER,equation,COMMON,0.0009548101,1,equation
+OTHER,irony,COMMON,0.00095404184,1,irony
+OTHER,citizenship,COMMON,0.0009510567,3,"citizenship, citizenship, citizenship"
+PERSON,twins,COMMON,0.00093360036,1,twins
+OTHER,Ji Young,PROPER,0.000909169,2,"Ji Young, task"
+WORK_OF_ART,lecture,COMMON,0.0008740808,1,lecture
+OTHER,system,COMMON,0.00085236924,1,system
+PERSON,Lord,COMMON,0.00084209966,1,Lord
+PERSON,students,COMMON,0.0008329163,1,students
+OTHER,problems,COMMON,0.0008257508,1,problems
+OTHER,fire education,COMMON,0.0008105292,1,fire education
+OTHER,Higher Education,COMMON,0.00080992444,1,Higher Education
+OTHER,education,COMMON,0.00080735737,1,education
+OTHER,education,COMMON,0.0008060876,1,education
+OTHER,delivery education,COMMON,0.0008024766,1,delivery education
+OTHER,magnet school education,COMMON,0.0008019426,1,magnet school education
+OTHER,republic systems,COMMON,0.0008012091,1,republic systems
+OTHER,kind,COMMON,0.00079476106,1,kind
+OTHER,kind,COMMON,0.00079176517,1,kind
+OTHER,kind,COMMON,0.00078244664,1,kind
+OTHER,beliefs,COMMON,0.0007702073,1,beliefs
+PERSON,people,COMMON,0.0007690667,1,people
+OTHER,toe function,COMMON,0.0007664565,2,"resource, toe function"
+OTHER,society,COMMON,0.0007589485,2,"society, society"
+OTHER,R. Smartness,PROPER,0.00074973627,4,"term, Smartness, R. Smartness, o"
+OTHER,conception,COMMON,0.00073944393,2,"conception, conception"
+OTHER,monies,COMMON,0.0007369753,1,monies
+OTHER,effectiveness,COMMON,0.00073444017,1,effectiveness
+OTHER,Trans,PROPER,0.00073154917,1,Trans
+OTHER,institution,COMMON,0.00071941776,1,institution
+OTHER,wonder,COMMON,0.00071736844,1,wonder
+PERSON,colleagues,COMMON,0.0007173268,1,colleagues
+OTHER,college,COMMON,0.0007147326,1,college
+OTHER,college,COMMON,0.00071439415,1,college
+ORGANIZATION,colleges,COMMON,0.0007124671,1,colleges
+ORGANIZATION,Matters College,COMMON,0.00071186695,1,Matters College
+OTHER,resource,COMMON,0.0007099184,1,resource
+PERSON,students,COMMON,0.000699722,1,students
+OTHER,student success,COMMON,0.00069056073,1,student success
+OTHER,question,COMMON,0.00068826554,1,question
+OTHER,success,COMMON,0.0006879575,1,success
+OTHER,success,COMMON,0.0006877992,1,success
+OTHER,success,COMMON,0.00068719423,1,success
+OTHER,students success,COMMON,0.00068690744,1,students success
+OTHER,student success,COMMON,0.00068690744,1,student success
+OTHER,problem,COMMON,0.0006859747,1,problem
+OTHER,problems,COMMON,0.0006859747,1,problems
+OTHER,problems,COMMON,0.0006857263,1,problems
+OTHER,problems,COMMON,0.0006857263,1,problems
+OTHER,ivory tower concept,COMMON,0.000673034,1,ivory tower concept
+ORGANIZATION,schools,COMMON,0.00066529284,1,schools
+OTHER,higher education system,COMMON,0.0006645716,1,higher education system
+OTHER,sense,COMMON,0.0006620539,3,"sense, sense, sense"
+OTHER,service,COMMON,0.00066121673,1,service
+OTHER,sort,COMMON,0.0006611323,1,sort
+OTHER,problems,COMMON,0.0006594804,1,problems
+OTHER,career,COMMON,0.00065854215,1,career
+OTHER,society,COMMON,0.00065816083,1,society
+OTHER,belief system,COMMON,0.0006565734,1,belief system
+OTHER,value,COMMON,0.0006446424,1,value
+PERSON,Carter,PROPER,0.00064350606,2,"Carter, professor"
+OTHER,higher education community,COMMON,0.00063396443,1,higher education community
+OTHER,research,COMMON,0.00062812987,1,research
+OTHER,kinds,COMMON,0.00061907916,1,kinds
+OTHER,kind,COMMON,0.000618934,1,kind
+OTHER,conception,COMMON,0.0006179892,1,conception
+OTHER,pleasure,COMMON,0.0006149022,1,pleasure
+PERSON,colleagues,COMMON,0.00061377237,1,colleagues
+OTHER,terms,COMMON,0.00061062584,1,terms
+OTHER,terms,COMMON,0.00061047694,1,terms
+OTHER,terms,COMMON,0.000610331,1,terms
+OTHER,terms,COMMON,0.0006101879,1,terms
+PERSON,people,COMMON,0.0006043007,1,people
+PERSON,students,COMMON,0.000603373,1,students
+OTHER,view,COMMON,0.000595345,1,view
+PERSON,people,COMMON,0.0005929563,1,people
+PERSON,assistant professors,COMMON,0.00058629643,2,"people, assistant professors"
+OTHER,thing,COMMON,0.00058371003,1,thing
+OTHER,things,COMMON,0.00058220903,1,things
+OTHER,things,COMMON,0.0005809712,1,things
+PERSON,student,COMMON,0.0005809628,1,student
+PERSON,people,COMMON,0.00058085856,1,people
+PERSON,students,COMMON,0.00056757743,1,students
+LOCATION,cities,COMMON,0.00056672766,1,cities
+ORGANIZATION,universities,COMMON,0.00056492066,1,universities
+OTHER,politics,COMMON,0.0005604305,1,politics
+ORGANIZATION,universities,COMMON,0.00056032516,1,universities
+OTHER,part,COMMON,0.00055989,1,part
+ORGANIZATION,public school system,COMMON,0.00055975217,1,public school system
+OTHER,running research program,COMMON,0.0005588106,1,running research program
+WORK_OF_ART,works,COMMON,0.0005549366,1,works
+OTHER,Program,COMMON,0.0005544749,1,Program
+OTHER,foundation election programme,COMMON,0.0005534845,1,foundation election programme
+OTHER,collection,COMMON,0.00055254396,1,collection
+OTHER,degree program,COMMON,0.0005513016,1,degree program
+OTHER,courses,COMMON,0.0005513016,1,courses
+OTHER,example,COMMON,0.000550667,1,example
+OTHER,way,COMMON,0.00055019936,1,way
+OTHER,course,COMMON,0.00054965727,1,course
+OTHER,contributions,COMMON,0.00054822647,1,contributions
+OTHER,experiences,COMMON,0.00054728007,1,experiences
+PERSON,students,COMMON,0.00054515403,1,students
+PERSON,citizens,COMMON,0.00054466724,1,citizens
+PERSON,people,COMMON,0.00054459844,1,people
+OTHER,policies,COMMON,0.0005406989,1,policies
+PERSON,students,COMMON,0.0005364213,1,students
+OTHER,preoccupation,COMMON,0.00053426885,2,"preoccupation, part"
+OTHER,qualities,COMMON,0.0005330721,1,qualities
+OTHER,fact,COMMON,0.0005312787,2,"fact, fact"
+ORGANIZATION,graduate school,COMMON,0.0005279782,1,graduate school
+OTHER,graduate school,COMMON,0.0005279782,1,graduate school
+LOCATION,factory,COMMON,0.00052182295,1,factory
+OTHER,relationship,COMMON,0.0005153405,2,"relationship, relationship"
+OTHER,equivalent,COMMON,0.00051459565,1,equivalent
+OTHER,benefits,COMMON,0.0005136053,2,"benefits, benefits"
+OTHER,concept,COMMON,0.0005089906,1,concept
+OTHER,sense,COMMON,0.0005024363,1,sense
+OTHER,sense,COMMON,0.00050221133,1,sense
+OTHER,reputation,COMMON,0.0005020773,3,"reputation, reputation, reputation"
+OTHER,effect,COMMON,0.0005013862,1,effect
+OTHER,responsibility,COMMON,0.00050119625,1,responsibility
+PERSON,administrators,COMMON,0.00049600645,1,administrators
+PERSON,student,COMMON,0.00049096043,1,student
+PERSON,administrators,COMMON,0.0004909121,1,administrators
+PERSON,administrators,COMMON,0.00049075094,1,administrators
+LOCATION,campus,COMMON,0.00048938236,1,campus
+OTHER,beliefs,COMMON,0.0004892147,1,beliefs
+OTHER,quality,COMMON,0.00048780127,1,quality
+OTHER,democracy,COMMON,0.0004875175,1,democracy
+PERSON,students,COMMON,0.00048305688,1,students
+LOCATION,campus,COMMON,0.00048233033,1,campus
+OTHER,lot,COMMON,0.00048178135,1,lot
+OTHER,work,COMMON,0.0004800815,1,work
+OTHER,work,COMMON,0.00047846173,1,work
+OTHER,experience results,COMMON,0.00047762558,1,experience results
+ORGANIZATION,Research Council Education,PROPER,0.00047727185,1,Research Council Education
+OTHER,research results,COMMON,0.00047524663,1,research results
+OTHER,measures,COMMON,0.00047394555,1,measures
+OTHER,measures,COMMON,0.00047383847,1,measures
+OTHER,measures,COMMON,0.00047383847,1,measures
+OTHER,measures,COMMON,0.00047342898,1,measures
+OTHER,prediction argument,COMMON,0.0004691242,1,prediction argument
+PERSON,person,COMMON,0.00046633033,1,person
+OTHER,admissions,COMMON,0.0004658592,2,"admissions, admissions"
+OTHER,leadership,COMMON,0.0004651394,1,leadership
+PERSON,students,COMMON,0.00046475782,1,students
+OTHER,content,COMMON,0.0004618139,1,content
+OTHER,teaching,COMMON,0.00046142537,2,"teaching, teaching"
+OTHER,part,COMMON,0.00046140875,1,part
+PERSON,person,COMMON,0.00046067717,1,person
+OTHER,level,COMMON,0.00045843664,1,level
+PERSON,leaders,COMMON,0.00045717857,1,leaders
+OTHER,level,COMMON,0.00045709262,1,level
+PERSON,leaders,COMMON,0.00045709262,1,leaders
+OTHER,evidence,COMMON,0.0004558563,1,evidence
+LOCATION,grounds,COMMON,0.00045356987,1,grounds
+PERSON,most,COMMON,0.0004475899,3,"most, most, most"
+OTHER,profession,COMMON,0.00044569324,1,profession
+ORGANIZATION,institution,COMMON,0.00044131602,2,"institution, institution"
+OTHER,cases,COMMON,0.00044126442,1,cases
+OTHER,few,COMMON,0.0004404275,1,few
+OTHER,few,COMMON,0.00044034212,1,few
+OTHER,mass media,COMMON,0.00044034212,1,mass media
+ORGANIZATION,government,COMMON,0.00044025804,1,government
+OTHER,medicine,COMMON,0.00044025804,1,medicine
+OTHER,professions,COMMON,0.00044025804,1,professions
+OTHER,approach,COMMON,0.00043053707,2,"approach, approach"
+OTHER,diversity,COMMON,0.00042951782,1,diversity
+OTHER,fact,COMMON,0.0004278689,1,fact
+PERSON,graduates,COMMON,0.00042521104,1,graduates
+ORGANIZATION,institutions,COMMON,0.00042451237,1,institutions
+OTHER,way,COMMON,0.00042260977,1,way
+PERSON,Alex Research,PROPER,0.00041997642,1,Alex Research
+OTHER,question,COMMON,0.00041955343,1,question
+PERSON,students,COMMON,0.00041907182,1,students
+PERSON,scoring student,COMMON,0.00041477339,1,scoring student
+PERSON,student,COMMON,0.00041477339,1,student
+PERSON,graduates,COMMON,0.00041141454,1,graduates
+OTHER,slots,COMMON,0.00041107286,2,"slots, slots"
+OTHER,values,COMMON,0.0004092959,1,values
+OTHER,smartness,COMMON,0.00040900614,2,"smartness, smartness"
+OTHER,responsibility,COMMON,0.00040880422,2,"responsibility, responsibility"
+OTHER,study,COMMON,0.00040853347,1,study
+OTHER,research talent,COMMON,0.00040816225,1,research talent
+PERSON,students,COMMON,0.00040785392,1,students
+PERSON,director,COMMON,0.0004071416,1,director
+PERSON,graduate students,COMMON,0.00040710514,1,graduate students
+PERSON,director,COMMON,0.00040690842,1,director
+PERSON,students,COMMON,0.00040672315,1,students
+OTHER,experience,COMMON,0.0004066013,2,"howto, experience"
+OTHER,problems,COMMON,0.0004060511,2,"problems, problems"
+ORGANIZATION,institutions,COMMON,0.00040509494,1,institutions
+OTHER,university fingers business directorship,COMMON,0.00040431155,1,university fingers business directorship
+OTHER,Business,COMMON,0.00040417878,1,Business
+OTHER,job,COMMON,0.0004025261,1,job
+OTHER,another,COMMON,0.00040243345,1,another
+OTHER,college equivalent,COMMON,0.00040225324,1,college equivalent
+OTHER,peer tutoring,COMMON,0.0004020455,2,"peer tutoring, model"
+OTHER,race relations,COMMON,0.0004015923,1,race relations
+OTHER,materialism,COMMON,0.0004015923,1,materialism
+OTHER,government business,COMMON,0.0004015156,1,government business
+OTHER,beliefs,COMMON,0.0003985272,2,"beliefs, beliefs"
+OTHER,record,COMMON,0.00039358425,1,record
+OTHER,terms,COMMON,0.00039206515,1,terms
+OTHER,experience,COMMON,0.0003914762,1,experience
+OTHER,paradox,COMMON,0.0003912738,1,paradox
+OTHER,nothing,COMMON,0.00039023266,1,nothing
+LOCATION,hospitals,COMMON,0.00038927532,1,hospitals
+OTHER,light,COMMON,0.00037997216,1,light
+PERSON,students,COMMON,0.0003799252,1,students
+OTHER,capacity,COMMON,0.0003787464,1,capacity
+OTHER,results,COMMON,0.00037797895,1,results
+OTHER,kind,COMMON,0.00037546468,1,kind
+PERSON,others,COMMON,0.0003706723,1,others
+EVENT,enhancement,COMMON,0.00037047273,2,"enhancement, enhancement"
+OTHER,Higher Education Research,PROPER,0.00036964068,1,Higher Education Research
+OTHER,system,COMMON,0.00036897368,1,system
+OTHER,crisis,COMMON,0.0003672275,2,"word, crisis"
+OTHER,move,COMMON,0.00036638786,1,move
+PERSON,artists,COMMON,0.00036394547,1,artists
+OTHER,test scores,COMMON,0.00036140694,1,test scores
+OTHER,beliefs,COMMON,0.00035875564,1,beliefs
+OTHER,challenge,COMMON,0.00035741442,2,"issue, challenge"
+WORK_OF_ART,articles,COMMON,0.00035716922,1,articles
+OTHER,positivity,COMMON,0.0003561387,1,positivity
+PERSON,students,COMMON,0.00035457936,1,students
+PERSON,everybody,COMMON,0.00035453017,1,everybody
+OTHER,gp A,COMMON,0.0003532763,1,g p A
+OTHER,increasing,COMMON,0.0003526958,1,increasing
+ORGANIZATION,agencies,COMMON,0.0003526958,1,agencies
+LOCATION,areas,COMMON,0.00035249686,1,areas
+LOCATION,world,COMMON,0.00035243257,1,world
+OTHER,research service awards,COMMON,0.0003489103,1,research service awards
+OTHER,honesty,COMMON,0.00034641518,2,"honesty, belief"
+PERSON,many,COMMON,0.0003404627,1,many
+OTHER,premise,COMMON,0.00034015172,1,premise
+PERSON,students,COMMON,0.00033835534,1,students
+PERSON,students,COMMON,0.00033835534,1,students
+PERSON,students,COMMON,0.00033793275,1,students
+OTHER,nomination,COMMON,0.00033781363,1,nomination
+OTHER,issues,COMMON,0.00033377812,1,issues
+OTHER,issues,COMMON,0.00033376043,1,issues
+OTHER,issues,COMMON,0.0003336217,1,issues
+LOCATION,clinics,COMMON,0.00033189,1,clinics
+PERSON,student,COMMON,0.00033187875,1,student
+LOCATION,north,COMMON,0.00032952314,1,north
+PERSON,students,COMMON,0.00032908426,1,students
+OTHER,views,COMMON,0.00032892343,1,views
+OTHER,achievement,COMMON,0.00032719638,1,achievement
+LOCATION,field,COMMON,0.00032719638,1,field
+OTHER,data,COMMON,0.00032695217,1,data
+PERSON,freshman,COMMON,0.00032695217,1,freshman
+OTHER,way,COMMON,0.00032684053,1,way
+OTHER,needs,COMMON,0.0003262984,1,needs
+OTHER,positions,COMMON,0.0003261024,1,positions
+WORK_OF_ART,books,COMMON,0.00032573723,1,books
+OTHER,publication,COMMON,0.00032573723,1,publication
+OTHER,data,COMMON,0.00032494904,1,data
+LOCATION,center,COMMON,0.00032405724,1,center
+OTHER,higher education system,COMMON,0.0003237445,1,higher education system
+OTHER,Thanks,COMMON,0.0003233304,1,Thanks
+OTHER,back,COMMON,0.00032279908,1,back
+OTHER,earnings,COMMON,0.00032218685,1,earnings
+OTHER,anything,COMMON,0.00032182978,1,anything
+OTHER,inequities,COMMON,0.00032165743,1,inequities
+OTHER,law,COMMON,0.00032159602,1,law
+OTHER,fields,COMMON,0.00032153554,1,fields
+OTHER,heart,COMMON,0.00032135955,1,heart
+OTHER,effects,COMMON,0.00031426034,1,effects
+OTHER,citizenship talents,COMMON,0.00031377698,1,citizenship talents
+EVENT,citizen disengagement,COMMON,0.00031377128,1,citizen disengagement
+OTHER,honors,COMMON,0.00031254115,1,honors
+OTHER,problem,COMMON,0.00031162592,1,problem
+OTHER,problem,COMMON,0.00031081343,1,problem
+OTHER,efforts,COMMON,0.00031053496,2,"efforts, efforts"
+OTHER,pronouncements,COMMON,0.00030905727,1,pronouncements
+OTHER,qualities,COMMON,0.00030759265,1,qualities
+OTHER,test score,COMMON,0.0003073004,1,test score
+OTHER,learning,COMMON,0.00030520925,1,learning
+PERSON,some,COMMON,0.00030436472,1,some
+PERSON,politicians,COMMON,0.00030210053,1,politicians
+OTHER,belief system,COMMON,0.00030088806,1,belief system
+OTHER,education,COMMON,0.0003008119,1,education
+OTHER,education,COMMON,0.0003008119,1,education
+OTHER,education,COMMON,0.0003008119,1,education
+OTHER,education,COMMON,0.00029977405,1,education
+OTHER,education,COMMON,0.0002995457,1,education
+ORGANIZATION,group,COMMON,0.0002945973,1,group
+LOCATION,building,COMMON,0.00029334254,1,building
+OTHER,views,COMMON,0.00029304464,1,views
+OTHER,cure,COMMON,0.00029230502,1,cure
+OTHER,beliefs,COMMON,0.00029103504,1,beliefs
+OTHER,beliefs,COMMON,0.00029103504,1,beliefs
+OTHER,beliefs,COMMON,0.00029103504,1,beliefs
+OTHER,beliefs,COMMON,0.0002909849,1,beliefs
+OTHER,request,COMMON,0.00028902487,1,request
+OTHER,examples,COMMON,0.00028772058,1,examples
+OTHER,one,COMMON,0.0002875843,1,one
+OTHER,gender,COMMON,0.00028735664,1,gender
+OTHER,Skulls,COMMON,0.00028714217,1,Skulls
+OTHER,survey,COMMON,0.00028714217,1,survey
+PERSON,journalists,COMMON,0.00028694008,1,journalists
+OTHER,shape,COMMON,0.00028674907,1,shape
+OTHER,chapters,COMMON,0.00028607514,1,chapters
+OTHER,arguments,COMMON,0.00028589315,1,arguments
+OTHER,literature,COMMON,0.0002857815,1,literature
+PERSON,people,COMMON,0.00028492644,1,people
+OTHER,association,COMMON,0.00028459966,1,association
+OTHER,quote,COMMON,0.00028450094,1,quote
+PERSON,buyers,COMMON,0.00028450094,1,buyers
+PERSON,guest,COMMON,0.00028440496,1,guest
+OTHER,means,COMMON,0.00028429742,1,means
+OTHER,keynote address,COMMON,0.00028422062,1,keynote address
+OTHER,body,COMMON,0.0002840456,1,body
+OTHER,success path,COMMON,0.0002832831,1,success path
+OTHER,point average,COMMON,0.0002832831,1,point average
+OTHER,att,COMMON,0.00028314893,1,att
+OTHER,entry,COMMON,0.00028314893,1,entry
+PERSON,some,COMMON,0.0002829488,1,some
+OTHER,talk,COMMON,0.00028277517,1,talk
+OTHER,prison ist,COMMON,0.00028271665,1,prison ist
+PERSON,families,COMMON,0.00028258978,1,families
+OTHER,disparities,COMMON,0.00028249202,1,disparities
+OTHER,infrastructure,COMMON,0.00028249202,1,infrastructure
+OTHER,things,COMMON,0.00028244656,1,things
+OTHER,ineffectiveness,COMMON,0.00028243806,1,ineffectiveness
+PERSON,clergy,COMMON,0.00028243806,1,clergy
+PERSON,population,COMMON,0.00028238498,1,population
+OTHER,scope,COMMON,0.00028224298,1,scope
+LOCATION,Factory Campus,PROPER,0.0002812996,1,Factory Campus
+OTHER,learning,COMMON,0.0002799896,1,learning
+ORGANIZATION,Indiana University,PROPER,0.0002769712,1,Indiana University
+OTHER,statements,COMMON,0.00027628278,1,statements
+PERSON,studentssuccess,COMMON,0.00027606986,1,studentssuccess
+PERSON,students,COMMON,0.00027601141,1,students
+PERSON,students,COMMON,0.00027589747,1,students
+PERSON,students,COMMON,0.0002758054,1,students
+PERSON,students,COMMON,0.00027576927,1,students
+PERSON,students,COMMON,0.00027571578,1,students
+PERSON,students,COMMON,0.00027550998,1,students
+PERSON,students,COMMON,0.0002754934,1,students
+PERSON,students,COMMON,0.00027536353,1,students
+OTHER,college,COMMON,0.00027388908,1,college
+PERSON,student,COMMON,0.00027354987,1,student
+PERSON,studentssuccess,COMMON,0.0002735248,1,studentssuccess
+PERSON,students,COMMON,0.00027349996,1,students
+PERSON,students,COMMON,0.00027312554,1,students
+PERSON,studentssuccess,COMMON,0.00027305982,1,studentssuccess
+PERSON,students,COMMON,0.00027287006,1,students
+OTHER,hook,COMMON,0.0002720975,1,hook
+OTHER,manner,COMMON,0.00027110433,1,manner
+OTHER,experience,COMMON,0.00027052156,2,"experience, experience"
+PERSON,colleagues,COMMON,0.0002687529,1,colleagues
+ORGANIZATION,institutions,COMMON,0.00026806648,1,institutions
+OTHER,college,COMMON,0.0002679984,1,college
+OTHER,college,COMMON,0.0002679984,1,college
+ORGANIZATION,institutions,COMMON,0.0002678989,1,institutions
+OTHER,college,COMMON,0.000267558,1,college
+LOCATION,states,COMMON,0.00026754357,1,states
+PERSON,students,COMMON,0.00026547475,1,students
+OTHER,standard,COMMON,0.00026466793,2,"standard, standard"
+OTHER,desire,COMMON,0.00026229685,2,"desire, desire"
+OTHER,ways,COMMON,0.0002615985,1,ways
+ORGANIZATION,university,COMMON,0.00026070428,1,university
+OTHER,registration,COMMON,0.00025920584,2,"registration, part"
+OTHER,success,COMMON,0.00025910503,1,success
+OTHER,success,COMMON,0.00025910503,1,success
+PERSON,students successor,COMMON,0.00025910503,1,students successor
+OTHER,student success,COMMON,0.00025864577,1,student success
+OTHER,problems,COMMON,0.00025834938,1,problems
+OTHER,problems,COMMON,0.00025831422,1,problems
+OTHER,problems,COMMON,0.00025831422,1,problems
+OTHER,Success,COMMON,0.00025771165,1,Success
+PERSON,students,COMMON,0.00025254572,1,students
+PERSON,scoring student,COMMON,0.00025251732,1,scoring student
+PERSON,student,COMMON,0.0002524613,1,student
+PERSON,studentssuccess,COMMON,0.00025241994,1,studentssuccess
+PERSON,students,COMMON,0.0002523522,1,students
+PERSON,studentssuccess,COMMON,0.0002523522,1,studentssuccess
+PERSON,students,COMMON,0.00025229907,1,students
+PERSON,students,COMMON,0.00025204642,1,students
+ORGANIZATION,change magazine,COMMON,0.00025162022,1,change magazine
+OTHER,belief system,COMMON,0.00025003878,1,belief system
+OTHER,belief system,COMMON,0.00024982847,1,belief system
+OTHER,belief systems,COMMON,0.0002497426,1,belief systems
+PERSON,students,COMMON,0.00024945434,1,students
+OTHER,society,COMMON,0.0002482592,1,society
+OTHER,society,COMMON,0.00024817427,1,society
+OTHER,some,COMMON,0.00024797185,1,some
+OTHER,society,COMMON,0.00024793294,1,society
+OTHER,society,COMMON,0.00024789455,1,society
+OTHER,society,COMMON,0.00024789455,1,society
+OTHER,society,COMMON,0.00024789455,1,society
+PERSON,students,COMMON,0.00024739024,1,students
+OTHER,society,COMMON,0.0002473385,1,society
+OTHER,recommendations,COMMON,0.0002473216,1,recommendations
+OTHER,society,COMMON,0.0002472142,1,society
+OTHER,society,COMMON,0.0002471242,1,society
+OTHER,society,COMMON,0.00024709478,1,society
+ORGANIZATION,universities,COMMON,0.00024704763,1,universities
+ORGANIZATION,Go,PROPER,0.0002468607,1,Go
+OTHER,tension,COMMON,0.00024569692,2,"total, tension"
+OTHER,examples,COMMON,0.00024530897,1,examples
+OTHER,way,COMMON,0.0002453005,1,way
+OTHER,beliefs,COMMON,0.00024433294,1,beliefs
+OTHER,service,COMMON,0.00024417654,1,service
+ORGANIZATION,institutions,COMMON,0.00024327826,1,institutions
+OTHER,democracy work,COMMON,0.00024091017,1,democracy work
+OTHER,content,COMMON,0.00024026637,1,content
+OTHER,basis,COMMON,0.00023930734,1,basis
+OTHER,basis,COMMON,0.00023930734,1,basis
+ORGANIZATION,business,COMMON,0.00023891577,1,business
+OTHER,values,COMMON,0.00023804478,1,values
+OTHER,commitment,COMMON,0.00023801895,1,commitment
+OTHER,view,COMMON,0.00023310319,1,view
+OTHER,views,COMMON,0.0002329844,1,views
+OTHER,ivory tower view,COMMON,0.0002328704,1,ivory tower view
+OTHER,pegboard view,COMMON,0.00023272519,1,pegboard view
+OTHER,pegboard view,COMMON,0.00023269001,1,pegboard view
+OTHER,competitiveness views,COMMON,0.00023245536,1,competitiveness views
+OTHER,consumer viewpoint,COMMON,0.00023236047,1,consumer viewpoint
+OTHER,benefit view,COMMON,0.00023236047,1,benefit view
+OTHER,viewpoint,COMMON,0.00023232953,1,viewpoint
+OTHER,view,COMMON,0.00023229893,1,view
+OTHER,view,COMMON,0.00023229893,1,view
+OTHER,kind,COMMON,0.0002321507,1,kind
+OTHER,conception,COMMON,0.00023212197,1,conception
+OTHER,service concept,COMMON,0.00023198251,1,service concept
+OTHER,citizenship view,COMMON,0.00023192861,1,citizenship view
+OTHER,conception,COMMON,0.00023192861,1,conception
+OTHER,view,COMMON,0.0002318238,1,view
+OTHER,autonomy,COMMON,0.00023166137,2,"autonomy, tool"
+OTHER,mission,COMMON,0.00022966572,1,mission
+OTHER,terms,COMMON,0.0002294012,1,terms
+OTHER,terms,COMMON,0.00022901564,1,terms
+PERSON,students,COMMON,0.00022732481,1,students
+PERSON,some,COMMON,0.00022676567,1,some
+OTHER,lot,COMMON,0.00022606396,1,lot
+PERSON,Louise,PROPER,0.00022449633,1,Louise
+OTHER,impressions,COMMON,0.0002223138,1,impressions
+OTHER,colleague ship,COMMON,0.00022200847,1,colleague ship
+OTHER,mention,COMMON,0.00022178877,1,mention
+LOCATION,Balkan,PROPER,0.00022148895,2,"Balkan, Balkan"
+OTHER,evidence,COMMON,0.00022148514,1,evidence
+OTHER,students success,COMMON,0.00022076957,1,students success
+PERSON,people,COMMON,0.00021869011,1,people
+LOCATION,cities,COMMON,0.00021859983,1,cities
+OTHER,citizenship,COMMON,0.00021821489,1,citizenship
+PERSON,people,COMMON,0.00021808989,1,people
+OTHER,thing,COMMON,0.00021806559,1,thing
+OTHER,human qualities,COMMON,0.00021767973,1,human qualities
+PERSON,folks,COMMON,0.00021582465,1,folks
+OTHER,issue,COMMON,0.0002157316,1,issue
+PERSON,students,COMMON,0.00021563048,1,students
+LOCATION,Lady Place on the Road,PROPER,0.00021163728,1,Lady Place on the Road
+OTHER,issue,COMMON,0.00021159658,1,issue
+OTHER,mission statements,COMMON,0.00021128576,1,mission statements
+OTHER,policy,COMMON,0.00021125344,1,policy
+PERSON,politicians,COMMON,0.00021106759,1,politicians
+PERSON,policymakers,COMMON,0.00021106759,1,policymakers
+LOCATION,state,COMMON,0.00021073196,1,state
+OTHER,mission statements,COMMON,0.00021073196,1,mission statements
+OTHER,mission statements,COMMON,0.00021068005,1,mission statements
+OTHER,mission statements,COMMON,0.00021068005,1,mission statements
+LOCATION,state,COMMON,0.0002104352,1,state
+ORGANIZATION,university,COMMON,0.00021041196,1,university
+OTHER,policies,COMMON,0.00021038893,1,policies
+OTHER,problem,COMMON,0.0002099259,1,problem
+OTHER,Success,COMMON,0.0002084621,1,Success
+OTHER,concept,COMMON,0.00020723717,1,concept
+OTHER,expertise,COMMON,0.0002069803,1,expertise
+OTHER,course,COMMON,0.00020636641,1,course
+OTHER,all,COMMON,0.00020429147,1,all
+PERSON,students,COMMON,0.00020390016,1,students
+OTHER,leadership,COMMON,0.0002038534,1,leadership
+OTHER,education,COMMON,0.00020303062,1,education
+OTHER,education,COMMON,0.00020297505,1,education
+OTHER,education,COMMON,0.00020294773,1,education
+PERSON,teachers,COMMON,0.000202775,1,teachers
+OTHER,education,COMMON,0.00020276451,1,education
+OTHER,contrary,COMMON,0.00020235381,1,contrary
+OTHER,education,COMMON,0.00020142028,1,education
+OTHER,kind,COMMON,0.00020122115,1,kind
+OTHER,purpose,COMMON,0.00019928263,1,purpose
+OTHER,view,COMMON,0.00019861438,1,view
+OTHER,approach,COMMON,0.00019810369,1,approach
+OTHER,approach,COMMON,0.00019802863,1,approach
+ORGANIZATION,group,COMMON,0.00019797985,1,group
+OTHER,beliefs,COMMON,0.0001965004,1,beliefs
+OTHER,beliefs,COMMON,0.00019627369,1,beliefs
+OTHER,beliefs,COMMON,0.00019618624,1,beliefs
+OTHER,beliefs,COMMON,0.000196174,1,beliefs
+OTHER,belief,COMMON,0.0001961257,1,belief
+OTHER,conception,COMMON,0.00019592528,1,conception
+OTHER,conception,COMMON,0.00019563787,1,conception
+PERSON,few,COMMON,0.00019485524,1,few
+OTHER,beliefs,COMMON,0.00019467113,1,beliefs
+OTHER,things,COMMON,0.0001946058,1,things
+OTHER,beliefs,COMMON,0.00019458459,1,beliefs
+ORGANIZATION,Department of English,PROPER,0.00019378634,1,Department of English
+OTHER,much,COMMON,0.00019358513,1,much
+OTHER,fact,COMMON,0.00019333669,1,fact
+OTHER,missions,COMMON,0.00019324422,1,missions
+OTHER,problem,COMMON,0.00019239091,1,problem
+OTHER,much,COMMON,0.00019169314,1,much
+OTHER,beliefs,COMMON,0.00019142452,1,beliefs
+OTHER,problem,COMMON,0.00018969436,1,problem
+PERSON,students,COMMON,0.00018916526,1,students
+PERSON,students,COMMON,0.00018913184,1,students
+PERSON,students,COMMON,0.00018907935,1,students
+PERSON,Students,COMMON,0.00018904076,1,Students
+PERSON,students,COMMON,0.00018900279,1,students
+PERSON,students,COMMON,0.00018898405,1,students
+PERSON,students,COMMON,0.00018898405,1,students
+PERSON,students,COMMON,0.00018897784,1,students
+PERSON,student,COMMON,0.00018897164,1,student
+PERSON,students,COMMON,0.00018895314,1,students
+PERSON,students,COMMON,0.00018895314,1,students
+PERSON,people,COMMON,0.00018851443,1,people
+OTHER,fear,COMMON,0.00018841735,1,fear
+OTHER,hand,COMMON,0.00018806,1,hand
+PERSON,Lord,COMMON,0.00018757686,1,Lord
+OTHER,resources conception,COMMON,0.00018724213,1,resources conception
+OTHER,education,COMMON,0.00018565239,1,education
+OTHER,education,COMMON,0.00018549996,1,education
+OTHER,education,COMMON,0.00018548161,1,education
+OTHER,service,COMMON,0.00018346072,1,service
+OTHER,lot,COMMON,0.00018342778,1,lot
+OTHER,student learning,COMMON,0.00018333101,1,student learning
+OTHER,democracy,COMMON,0.0001830526,1,democracy
+OTHER,democracy,COMMON,0.0001830526,1,democracy
+OTHER,college experience,COMMON,0.0001821172,1,college experience
+ORGANIZATION,higher education institutions,COMMON,0.00018163981,1,higher education institutions
+ORGANIZATION,institution,COMMON,0.00018153984,1,institution
+ORGANIZATION,community colleges,COMMON,0.00018150349,1,community colleges
+ORGANIZATION,colleges,COMMON,0.00018150349,1,colleges
+PERSON,instructors,COMMON,0.00018146772,1,instructors
+ORGANIZATION,institutions,COMMON,0.00018142092,1,institutions
+OTHER,institution,COMMON,0.00018134133,1,institution
+ORGANIZATION,institution,COMMON,0.00018121123,1,institution
+OTHER,sort,COMMON,0.00018098523,1,sort
+OTHER,resource,COMMON,0.00018043819,1,resource
+ORGANIZATION,institution,COMMON,0.0001799907,1,institution
+OTHER,beliefs,COMMON,0.00017956155,1,beliefs
+PERSON,colleague,COMMON,0.00017951975,1,colleague
+OTHER,ship collaboration,COMMON,0.00017951975,1,ship collaboration
+PERSON,students,COMMON,0.00017889217,1,students
+OTHER,discussions,COMMON,0.00017824024,1,discussions
+OTHER,work,COMMON,0.00017821332,1,work
+OTHER,resource,COMMON,0.0001779861,1,resource
+OTHER,competitiveness,COMMON,0.00017798487,1,competitiveness
+OTHER,competitiveness,COMMON,0.00017773488,1,competitiveness
+OTHER,competitiveness,COMMON,0.0001776507,1,competitiveness
+OTHER,co curriculum,COMMON,0.00017753025,1,co curriculum
+OTHER,resource,COMMON,0.00017603427,1,resource
+OTHER,health care system,COMMON,0.00017553686,1,health care system
+OTHER,students success,COMMON,0.0001749162,1,students success
+OTHER,problems,COMMON,0.00017490392,1,problems
+OTHER,success,COMMON,0.00017485552,1,success
+OTHER,students success,COMMON,0.00017472781,1,students success
+OTHER,students success,COMMON,0.00017467221,1,students success
+PERSON,people,COMMON,0.0001745534,1,people
+OTHER,success,COMMON,0.00017445338,1,success
+ORGANIZATION,navy,COMMON,0.00017375231,1,navy
+OTHER,problems,COMMON,0.00017342521,1,problems
+OTHER,success,COMMON,0.00017329674,1,success
+OTHER,faculty success,COMMON,0.0001732658,1,faculty success
+OTHER,success,COMMON,0.00017323531,1,success
+OTHER,problems,COMMON,0.00017297915,1,problems
+OTHER,other,COMMON,0.00017286226,1,other
+OTHER,practices,COMMON,0.00017257682,1,practices
+OTHER,competitiveness argument,COMMON,0.00017224946,1,competitiveness argument
+OTHER,arguments,COMMON,0.00017198859,1,arguments
+OTHER,argument,COMMON,0.0001719664,1,argument
+PERSON,leaders,COMMON,0.0001718174,1,leaders
+OTHER,personnel practices,COMMON,0.00017162142,1,personnel practices
+LOCATION,New York,PROPER,0.00017120999,1,New York
+LOCATION,West Coast,PROPER,0.00017120999,1,West Coast
+OTHER,experience,COMMON,0.00017110638,1,experience
+LOCATION,Georgia,PROPER,0.0001709618,1,Georgia
+OTHER,source,COMMON,0.00017083116,1,source
+PERSON,Lewis,PROPER,0.00017018922,1,Lewis
+OTHER,all,COMMON,0.00016942766,1,all
+PERSON,people,COMMON,0.0001692095,1,people
+ORGANIZATION,National Merit Scholarship Corporation,PROPER,0.0001691869,1,National Merit Scholarship Corporation
+WORK_OF_ART,The Land Far,PROPER,0.00016890887,1,The Land Far
+OTHER,problem,COMMON,0.00016859474,1,problem
+PERSON,Dude,PROPER,0.00016831141,1,Dude
+OTHER,priority,COMMON,0.00016820246,1,priority
+OTHER,Spear,PROPER,0.00016795553,1,Spear
+OTHER,reward system,COMMON,0.000167934,1,reward system
+OTHER,value,COMMON,0.00016781356,1,value
+OTHER,belief system,COMMON,0.00016758533,1,belief system
+OTHER,purposes,COMMON,0.00016621729,1,purposes
+OTHER,role,COMMON,0.00016621729,1,role
+OTHER,purpose,COMMON,0.00016621729,1,purpose
+OTHER,role,COMMON,0.00016621729,1,role
+ORGANIZATION,colleges,COMMON,0.00016609316,1,colleges
+OTHER,collection,COMMON,0.00016609316,1,collection
+ORGANIZATION,institutions,COMMON,0.00016605758,1,institutions
+OTHER,collaborative,COMMON,0.00016601397,1,collaborative
+OTHER,role,COMMON,0.00016599885,1,role
+OTHER,college,COMMON,0.00016595447,1,college
+OTHER,instant,COMMON,0.00016588044,1,instant
+ORGANIZATION,institutions,COMMON,0.00016585636,1,institutions
+OTHER,role,COMMON,0.00016575532,1,role
+OTHER,role,COMMON,0.00016551759,1,role
+OTHER,values,COMMON,0.0001654443,2,"values, values"
+ORGANIZATION,self government,COMMON,0.00016543764,1,self government
+OTHER,governance,COMMON,0.0001652686,1,governance
+OTHER,service,COMMON,0.00016447407,1,service
+OTHER,university service,COMMON,0.00016410512,1,university service
+OTHER,lip service,COMMON,0.00016410512,1,lip service
+OTHER,service,COMMON,0.0001638575,1,service
+OTHER,community service,COMMON,0.00016372003,1,community service
+OTHER,economy,COMMON,0.00016370502,1,economy
+OTHER,research talent,COMMON,0.00016367796,1,research talent
+OTHER,some,COMMON,0.00016343706,1,some
+OTHER,more,COMMON,0.0001627896,1,more
+OTHER,more,COMMON,0.00016154267,1,more
+OTHER,more,COMMON,0.00016145711,1,more
+OTHER,value,COMMON,0.00016119308,1,value
+OTHER,service commitments,COMMON,0.00016046996,1,service commitments
+OTHER,commitment,COMMON,0.00016015336,1,commitment
+OTHER,community,COMMON,0.00016009576,1,community
+OTHER,success,COMMON,0.00015996232,1,success
+OTHER,value,COMMON,0.00015990665,1,value
+OTHER,preparation problem,COMMON,0.00015986871,1,preparation problem
+OTHER,success,COMMON,0.00015984394,1,success
+OTHER,success,COMMON,0.0001598114,1,success
+PERSON,community,COMMON,0.00015979412,1,community
+OTHER,more,COMMON,0.000159782,1,more
+OTHER,community,COMMON,0.00015974611,1,community
+OTHER,problem,COMMON,0.00015965641,1,problem
+OTHER,number,COMMON,0.00015915181,1,number
+PERSON,faculty,COMMON,0.00015912583,1,faculty
+OTHER,management techniques,COMMON,0.00015883877,1,management techniques
+OTHER,technology,COMMON,0.00015883877,1,technology
+OTHER,pegboard,COMMON,0.00015881666,1,pegboard
+PERSON,Daniel Goldman,PROPER,0.0001587217,2,"Daniel, Daniel Goldman"
+OTHER,college university,COMMON,0.00015866765,1,college university
+OTHER,things,COMMON,0.00015817887,1,things
+OTHER,other,COMMON,0.00015816311,1,other
+OTHER,mission,COMMON,0.00015731186,1,mission
+OTHER,win win game aspect,COMMON,0.0001572607,1,win win game aspect
+OTHER,all,COMMON,0.0001566396,1,all
+ORGANIZATION,institutions,COMMON,0.0001565859,1,institutions
+OTHER,kind,COMMON,0.00015609681,1,kind
+OTHER,research,COMMON,0.00015587741,1,research
+OTHER,mission,COMMON,0.00015580928,1,mission
+OTHER,concern,COMMON,0.00015565603,1,concern
+OTHER,research,COMMON,0.0001555837,1,research
+OTHER,conception,COMMON,0.00015550265,1,conception
+OTHER,talent development view,COMMON,0.00015548013,1,talent development view
+OTHER,excellence,COMMON,0.00015515993,1,excellence
+OTHER,excellence,COMMON,0.00015506303,1,excellence
+OTHER,excellent,COMMON,0.00015506303,1,excellent
+OTHER,system,COMMON,0.00015502372,1,system
+OTHER,system,COMMON,0.00015498139,1,system
+OTHER,system,COMMON,0.00015495645,1,system
+OTHER,systems,COMMON,0.0001549482,1,systems
+OTHER,system,COMMON,0.0001549482,1,system
+OTHER,excellence,COMMON,0.00015494112,1,excellence
+OTHER,systems,COMMON,0.00015488351,1,systems
+OTHER,terms,COMMON,0.000154883,1,terms
+OTHER,terms,COMMON,0.0001548735,1,terms
+OTHER,system,COMMON,0.00015479047,1,system
+OTHER,health care system,COMMON,0.0001547679,1,health care system
+OTHER,policy,COMMON,0.00015452274,1,policy
+OTHER,policies,COMMON,0.0001544937,1,policies
+OTHER,decision,COMMON,0.00015367515,1,decision
+OTHER,terms,COMMON,0.00015367416,1,terms
+OTHER,terms,COMMON,0.00015359418,1,terms
+OTHER,excellence,COMMON,0.00015359418,1,excellence
+OTHER,terms,COMMON,0.00015354271,1,terms
+OTHER,excellence,COMMON,0.0001535175,1,excellence
+OTHER,excellence,COMMON,0.00015346808,1,excellence
+OTHER,terms,COMMON,0.00015346808,1,terms
+OTHER,terms,COMMON,0.00015336141,1,terms
+OTHER,excellence,COMMON,0.00015334993,1,excellence
+OTHER,excellence,COMMON,0.0001533047,1,excellence
+OTHER,society,COMMON,0.00015322484,1,society
+OTHER,society,COMMON,0.00015321668,1,society
+PERSON,captains of industry,COMMON,0.00015304209,1,captains of industry
+OTHER,society,COMMON,0.00015302368,1,society
+OTHER,honesty,COMMON,0.0001528995,1,honesty
+OTHER,work,COMMON,0.00015215391,1,work
+OTHER,preoccupation,COMMON,0.00015161473,1,preoccupation
+OTHER,words,COMMON,0.00015158825,1,words
+OTHER,matters,COMMON,0.00015156213,1,matters
+OTHER,affairs,COMMON,0.00015148595,1,affairs
+OTHER,community service,COMMON,0.00015143458,1,community service
+OTHER,words,COMMON,0.00015134242,1,words
+OTHER,money,COMMON,0.00015106521,1,money
+OTHER,sort,COMMON,0.00015106521,1,sort
+OTHER,words,COMMON,0.00015100677,1,words
+OTHER,ways,COMMON,0.00015095012,1,ways
+OTHER,words,COMMON,0.00015087721,1,words
+OTHER,benefits,COMMON,0.00015084182,1,benefits
+OTHER,lives,COMMON,0.00015077302,1,lives
+OTHER,sense,COMMON,0.00014977284,1,sense
+OTHER,aspects,COMMON,0.00014969075,1,aspects
+OTHER,fact,COMMON,0.00014958961,1,fact
+ORGANIZATION,group,COMMON,0.00014954928,1,group
+OTHER,student learning,COMMON,0.00014886647,1,student learning
+OTHER,intelligence,COMMON,0.00014877752,1,intelligence
+OTHER,some,COMMON,0.00014816175,1,some
+PERSON,citizen,COMMON,0.00014800203,1,citizen
+OTHER,Ah,PROPER,0.00014799605,2,"Ah, autonomy"
+PERSON,people,COMMON,0.00014798154,1,people
+OTHER,things,COMMON,0.00014787288,1,things
+OTHER,Community,COMMON,0.0001477401,1,Community
+OTHER,more,COMMON,0.00014771691,1,more
+OTHER,community,COMMON,0.00014756959,1,community
+OTHER,reputation,COMMON,0.00014744222,1,reputation
+OTHER,citizenship,COMMON,0.00014696878,1,citizenship
+PERSON,teaching students,COMMON,0.00014685208,1,teaching students
+OTHER,citizenship,COMMON,0.00014684709,1,citizenship
+PERSON,people,COMMON,0.00014660027,1,people
+OTHER,resource,COMMON,0.00014653736,1,resource
+OTHER,citizenship,COMMON,0.000146295,1,citizenship
+PERSON,many,COMMON,0.00014589973,1,many
+OTHER,idea,COMMON,0.00014566419,1,idea
+OTHER,admissions,COMMON,0.0001453042,1,admissions
+OTHER,concept,COMMON,0.00014386247,1,concept
+OTHER,conception,COMMON,0.00014380242,1,conception
+OTHER,kinds,COMMON,0.00014380242,1,kinds
+OTHER,conceptions,COMMON,0.00014377314,1,conceptions
+OTHER,kind,COMMON,0.00014371602,1,kind
+OTHER,kind,COMMON,0.0001436337,1,kind
+OTHER,distractions,COMMON,0.00014287102,1,distractions
+OTHER,issue,COMMON,0.00014284306,1,issue
+OTHER,issue,COMMON,0.0001428033,1,issue
+OTHER,issue,COMMON,0.0001428033,1,issue
+OTHER,research university,COMMON,0.00014259084,1,research university
+OTHER,distribution,COMMON,0.00014255439,1,distribution
+OTHER,problem,COMMON,0.00014241821,1,problem
+OTHER,terms,COMMON,0.00014192982,1,terms
+OTHER,excellence,COMMON,0.0001418671,1,excellence
+OTHER,terms,COMMON,0.00014184417,1,terms
+OTHER,excellence,COMMON,0.00014183659,1,excellence
+OTHER,evidence,COMMON,0.00014179977,1,evidence
+OTHER,excellence,COMMON,0.00014178445,1,excellence
+OTHER,excellence,COMMON,0.00014176984,1,excellence
+OTHER,issues,COMMON,0.0001416804,1,issues
+OTHER,terms,COMMON,0.00014165038,1,terms
+OTHER,politics,COMMON,0.00014161196,1,politics
+OTHER,policies,COMMON,0.00014153328,1,policies
+OTHER,research universities,COMMON,0.00014152052,1,research universities
+OTHER,issue,COMMON,0.00014122864,1,issue
+OTHER,approach,COMMON,0.00014041369,1,approach
+OTHER,course,COMMON,0.00013999139,1,course
+OTHER,example,COMMON,0.00013998215,1,example
+OTHER,example,COMMON,0.0001399547,1,example
+OTHER,experience,COMMON,0.00013986632,1,experience
+OTHER,test scores,COMMON,0.00013981857,1,test scores
+OTHER,courses,COMMON,0.0001397498,1,courses
+OTHER,exams,COMMON,0.00013974178,1,exams
+OTHER,system,COMMON,0.00013968421,1,system
+OTHER,education,COMMON,0.00013924125,1,education
+OTHER,thes,COMMON,0.00013922635,1,thes
+OTHER,education,COMMON,0.00013911162,1,education
+OTHER,example,COMMON,0.00013906948,1,example
+OTHER,examples,COMMON,0.00013895624,1,examples
+OTHER,course,COMMON,0.00013872617,1,course
+OTHER,example,COMMON,0.00013851316,1,example
+OTHER,course,COMMON,0.00013845114,1,course
+OTHER,mission statements,COMMON,0.00013824651,1,mission statements
+OTHER,contact,COMMON,0.0001371007,1,contact
+PERSON,one,COMMON,0.00013703071,1,one
+OTHER,one,COMMON,0.00013702216,1,one
+OTHER,research,COMMON,0.0001362738,1,research
+OTHER,problems,COMMON,0.00013623587,1,problems
+OTHER,teaching,COMMON,0.00013594796,1,teaching
+OTHER,teaching,COMMON,0.00013574283,1,teaching
+PERSON,teachers,COMMON,0.00013566946,1,teachers
+OTHER,question,COMMON,0.0001355894,1,question
+OTHER,things,COMMON,0.00013535317,1,things
+OTHER,resource,COMMON,0.00013530276,1,resource
+OTHER,resources,COMMON,0.00013526768,1,resources
+OTHER,resources,COMMON,0.0001351602,1,resources
+OTHER,forms,COMMON,0.00013483618,1,forms
+OTHER,beliefs,COMMON,0.00013472536,1,beliefs
+OTHER,beliefs,COMMON,0.00013472032,1,beliefs
+OTHER,beliefs,COMMON,0.0001347153,1,beliefs
+OTHER,belief,COMMON,0.00013434855,1,belief
+OTHER,trick,COMMON,0.00013433157,1,trick
+ORGANIZATION,minority group,COMMON,0.00013418533,1,minority group
+ORGANIZATION,groups,COMMON,0.00013417618,1,groups
+PERSON,scholar,COMMON,0.00013399488,1,scholar
+OTHER,approach,COMMON,0.00013380972,1,approach
+OTHER,end,COMMON,0.00013312914,1,end
+OTHER,meaning,COMMON,0.00013312914,1,meaning
+LOCATION,world,COMMON,0.0001330393,1,world
+OTHER,part,COMMON,0.00013301318,1,part
+OTHER,appeal,COMMON,0.00013297505,1,appeal
+OTHER,faculty talents,COMMON,0.00013296535,1,faculty talents
+OTHER,scholarship,COMMON,0.00013296535,1,scholarship
+OTHER,catalogs,COMMON,0.0001329336,1,catalogs
+OTHER,rhetoric,COMMON,0.00013291325,1,rhetoric
+OTHER,approach,COMMON,0.0001328298,1,approach
+OTHER,economies,COMMON,0.00013277763,1,economies
+OTHER,economies,COMMON,0.00013277763,1,economies
+OTHER,experiences,COMMON,0.00013273844,1,experiences
+OTHER,wealth,COMMON,0.00013272281,1,wealth
+OTHER,labor market,COMMON,0.00013272281,1,labor market
+PERSON,scholars,COMMON,0.00013270475,1,scholars
+ORGANIZATION,groups,COMMON,0.00013268481,1,groups
+OTHER,talent,COMMON,0.00013263604,1,talent
+OTHER,talents,COMMON,0.00013261693,1,talents
+OTHER,catalogs,COMMON,0.00013258513,1,catalogs
+OTHER,anything,COMMON,0.00013256872,1,anything
+OTHER,labor market,COMMON,0.00013253638,1,labor market
+OTHER,rhetoric,COMMON,0.00013250469,1,rhetoric
+OTHER,labor market,COMMON,0.00013247361,1,labor market
+EVENT,lecture,COMMON,0.00013223155,2,"lecture, lecture"
+PERSON,students,COMMON,0.00013206674,1,students
+PERSON,student,COMMON,0.0001320161,1,student
+OTHER,beliefs,COMMON,0.00013147182,1,beliefs
+OTHER,appeal appeal,COMMON,0.00013134722,1,appeal appeal
+OTHER,much,COMMON,0.00013085223,1,much
+OTHER,fact,COMMON,0.00013084427,1,fact
+PERSON,Most,COMMON,0.00013083636,1,Most
+OTHER,much,COMMON,0.00013075926,1,much
+PERSON,politicians,COMMON,0.00013068898,1,politicians
+OTHER,talents,COMMON,0.00013065654,1,talents
+ORGANIZATION,universities,COMMON,0.0001306168,1,universities
+LOCATION,state,COMMON,0.00013058881,1,state
+LOCATION,state,COMMON,0.00013054775,1,state
+LOCATION,colleges universities,COMMON,0.00013054775,1,colleges universities
+LOCATION,state,COMMON,0.00013054101,1,state
+OTHER,admissions policy,COMMON,0.00013048809,1,admissions policy
+PERSON,Most,COMMON,0.00013005565,1,Most
+OTHER,fact,COMMON,0.0001300296,1,fact
+OTHER,research mission,COMMON,0.00012965222,1,research mission
+OTHER,Success,COMMON,0.00012900008,1,Success
+LOCATION,state,COMMON,0.00012899018,1,state
+PERSON,students,COMMON,0.0001287925,1,students
+PERSON,students,COMMON,0.0001287814,1,students
+OTHER,service learning programs,COMMON,0.00012807111,1,service learning programs
+OTHER,example,COMMON,0.00012801135,1,example
+OTHER,little,COMMON,0.00012796489,1,little
+OTHER,way,COMMON,0.00012787423,1,way
+PERSON,cousin,COMMON,0.0001278564,1,cousin
+OTHER,interventions,COMMON,0.0001277573,1,interventions
+OTHER,opportunity,COMMON,0.00012763691,1,opportunity
+OTHER,focus,COMMON,0.00012763351,1,focus
+PERSON,academics,COMMON,0.00012758005,1,academics
+OTHER,intelligence,COMMON,0.00012754847,1,intelligence
+OTHER,sense,COMMON,0.00012748716,1,sense
+OTHER,effort,COMMON,0.00012745004,1,effort
+OTHER,interest,COMMON,0.00012685654,1,interest
+ORGANIZATION,academy,COMMON,0.00012685654,1,academy
+OTHER,responsibility,COMMON,0.00012675149,1,responsibility
+OTHER,efforts,COMMON,0.00012672631,1,efforts
+OTHER,effectiveness,COMMON,0.000126391,1,effectiveness
+LOCATION,academia,COMMON,0.00012635133,1,academia
+OTHER,opportunities,COMMON,0.0001262937,1,opportunities
+OTHER,sense,COMMON,0.0001262843,1,sense
+OTHER,applications,COMMON,0.00012597199,1,applications
+PERSON,under,COMMON,0.00012571666,1,under
+OTHER,continuum,COMMON,0.00012554706,1,continuum
+PERSON,others,COMMON,0.00012530456,1,others
+OTHER,decision,COMMON,0.00012462404,1,decision
+ORGANIZATION,institutions,COMMON,0.00012454925,1,institutions
+ORGANIZATION,institutions,COMMON,0.00012447663,1,institutions
+ORGANIZATION,institution,COMMON,0.00012445901,1,institution
+OTHER,institution,COMMON,0.00012433704,1,institution
+OTHER,instruction,COMMON,0.000124333,1,instruction
+OTHER,admissions,COMMON,0.00012402073,1,admissions
+OTHER,admissions,COMMON,0.00012397645,1,admissions
+OTHER,democracy,COMMON,0.00012334425,1,democracy
+OTHER,lot,COMMON,0.00012334425,1,lot
+OTHER,quality,COMMON,0.00012333132,1,quality
+OTHER,smartness,COMMON,0.00012331855,2,"smartness, smartness"
+OTHER,qualities,COMMON,0.00012328068,1,qualities
+OTHER,democracy,COMMON,0.00012324381,1,democracy
+OTHER,democracy,COMMON,0.00012321971,1,democracy
+OTHER,approach,COMMON,0.00012281047,1,approach
+ORGANIZATION,schools,COMMON,0.00012281047,1,schools
+ORGANIZATION,schools,COMMON,0.00012281047,1,schools
+OTHER,student talents,COMMON,0.00012280354,1,student talents
+OTHER,approach,COMMON,0.00012280354,1,approach
+OTHER,talent,COMMON,0.00012275596,1,talent
+OTHER,approach,COMMON,0.00012268411,1,approach
+OTHER,student talent,COMMON,0.00012264014,1,student talent
+PERSON,talent,COMMON,0.0001226095,1,talent
+OTHER,talent,COMMON,0.0001226095,1,talent
+OTHER,systems approach,COMMON,0.00012251548,1,systems approach
+OTHER,systems perspective,COMMON,0.00012199446,1,systems perspective
+OTHER,measures,COMMON,0.00012188208,1,measures
+ORGANIZATION,institutions,COMMON,0.000121396675,1,institutions
+OTHER,pronouncements,COMMON,0.0001212337,1,pronouncements
+PERSON,parents,COMMON,0.00012110851,1,parents
+PERSON,captives,COMMON,0.00012110851,1,captives
+OTHER,science,COMMON,0.00012109146,1,science
+ORGANIZATION,group,COMMON,0.000121084784,1,group
+OTHER,inequities,COMMON,0.00012104147,1,inequities
+OTHER,productivity,COMMON,0.000120977355,1,productivity
+OTHER,whole,COMMON,0.000120961755,1,whole
+OTHER,gold,COMMON,0.000120946315,1,gold
+OTHER,well being,COMMON,0.000120946315,1,well being
+OTHER,techniques,COMMON,0.00012086276,2,"Some, techniques"
+PERSON,character,COMMON,0.00012085694,1,character
+OTHER,form,COMMON,0.00012084255,1,form
+OTHER,measures,COMMON,0.00012047803,1,measures
+OTHER,measures,COMMON,0.00012046981,1,measures
+OTHER,competitiveness,COMMON,0.00012042143,1,competitiveness
+OTHER,scores,COMMON,0.0001203823,1,scores
+LOCATION,campus,COMMON,0.00012036693,1,campus
+EVENT,discussion,COMMON,0.00012031439,1,discussion
+OTHER,test scores,COMMON,0.00012026367,1,test scores
+PERSON,others,COMMON,0.0001202495,1,others
+OTHER,smartness,COMMON,0.00012024246,1,smartness
+OTHER,measures,COMMON,0.000120228484,1,measures
+OTHER,smartness,COMMON,0.00012020778,1,smartness
+OTHER,success,COMMON,0.00011990338,1,success
+OTHER,success,COMMON,0.000119843455,1,success
+PERSON,many,COMMON,0.00011962509,1,many
+OTHER,curriculum,COMMON,0.000119611315,1,curriculum
+OTHER,faculty discussions,COMMON,0.00011956262,1,faculty discussions
+OTHER,discussions,COMMON,0.00011955069,1,discussions
+OTHER,education curriculum,COMMON,0.000119469856,1,education curriculum
+OTHER,test scores,COMMON,0.0001191397,1,test scores
+LOCATION,campus,COMMON,0.00011912191,1,campus
+PERSON,each other,COMMON,0.000118523174,1,each other
+OTHER,classes,COMMON,0.000116952055,1,classes
+OTHER,efforts,COMMON,0.00011690156,1,efforts
+OTHER,effect,COMMON,0.00011688179,1,effect
+OTHER,responsibility,COMMON,0.00011684944,1,responsibility
+PERSON,opponents,COMMON,0.00011684306,1,opponents
+OTHER,efforts,COMMON,0.00011682408,1,efforts
+OTHER,efforts,COMMON,0.00011681157,1,efforts
+OTHER,systems responsibilities,COMMON,0.00011681157,1,systems responsibilities
+OTHER,effort,COMMON,0.000116799165,1,effort
+OTHER,interest,COMMON,0.00011666381,1,interest
+OTHER,interest,COMMON,0.00011666381,1,interest
+OTHER,interests,COMMON,0.00011665821,1,interests
+OTHER,level,COMMON,0.000116496754,1,level
+OTHER,levels,COMMON,0.000116488714,1,levels
+OTHER,reasons,COMMON,0.00011646487,1,reasons
+OTHER,tracking practices,COMMON,0.00011640318,1,tracking practices
+OTHER,practices,COMMON,0.000116351315,1,practices
+OTHER,part,COMMON,0.00011633714,1,part
+OTHER,reason,COMMON,0.000116239455,1,reason
+OTHER,Systems,COMMON,0.0001160646,1,Systems
+OTHER,practice,COMMON,0.00011569147,1,practice
+OTHER,development,COMMON,0.0001156669,1,development
+OTHER,leadership,COMMON,0.00011561902,1,leadership
+OTHER,developments,COMMON,0.00011558415,1,developments
+OTHER,changes,COMMON,0.00011545271,1,changes
+OTHER,practices,COMMON,0.00011545271,1,practices
+OTHER,curriculum teaching practices,COMMON,0.00011545271,1,curriculum teaching practices
+OTHER,reputation,COMMON,0.00011525777,1,reputation
+OTHER,development,COMMON,0.00011513582,1,development
+OTHER,some,COMMON,0.000114859096,1,some
+OTHER,some,COMMON,0.00011471466,1,some
+OTHER,some,COMMON,0.00011468894,1,some
+OTHER,reputations,COMMON,0.000113883245,1,reputations
+OTHER,lives,COMMON,0.00011381199,1,lives
+OTHER,quality,COMMON,0.00011368258,1,quality
+PERSON,persons,COMMON,0.00011365412,1,persons
+OTHER,reasons,COMMON,0.00011353433,1,reasons
+OTHER,DH service,COMMON,0.00011345783,1,DH service
+OTHER,service,COMMON,0.00011339371,1,service
+OTHER,community services,COMMON,0.000113382695,1,community services
+OTHER,catalogs,COMMON,0.000112654685,1,catalogs
+OTHER,process,COMMON,0.00011219212,1,process
+PERSON,tutors,COMMON,0.00011210151,1,tutors
+OTHER,influence,COMMON,0.00011209422,1,influence
+OTHER,admissions process,COMMON,0.00011209422,1,admissions process
+PERSON,some,COMMON,0.0001120722,1,some
+OTHER,issues,COMMON,0.00011205303,1,issues
+OTHER,value statement,COMMON,0.000112021415,1,value statement
+OTHER,purposes,COMMON,0.00011201654,1,purposes
+OTHER,influence,COMMON,0.00011200288,1,influence
+OTHER,test,COMMON,0.00011191728,1,test
+OTHER,discussion,COMMON,0.00011154608,1,discussion
+ORGANIZATION,self government,COMMON,0.000111385205,1,self government
+PERSON,Academie,PROPER,0.00011127972,1,Academie
+OTHER,influence,COMMON,0.00011124075,1,influence
+ORGANIZATION,government,COMMON,0.00011124075,1,government
+OTHER,role,COMMON,0.00011124075,1,role
+ORGANIZATION,major,COMMON,0.00011123025,1,major
+OTHER,purposes,COMMON,0.00011099121,1,purposes
+OTHER,values,COMMON,0.00011080137,1,values
+OTHER,community,COMMON,0.00011069187,1,community
+OTHER,value,COMMON,0.000110633075,1,value
+OTHER,value,COMMON,0.000110633075,1,value
+OTHER,value,COMMON,0.000110633075,1,value
+OTHER,value,COMMON,0.00011060814,1,value
+OTHER,smartness,COMMON,0.000110258836,1,smartness
+OTHER,test score,COMMON,0.00011011213,1,test score
+EVENT,competitions,COMMON,0.00011008462,1,competitions
+OTHER,role,COMMON,0.000109910565,1,role
+OTHER,mass media,COMMON,0.00010854417,1,mass media
+OTHER,values,COMMON,0.000108085434,1,values
+OTHER,kind,COMMON,0.00010783887,1,kind
+OTHER,kind,COMMON,0.00010783887,1,kind
+OTHER,conception,COMMON,0.000107789885,1,conception
+OTHER,research,COMMON,0.00010771443,1,research
+OTHER,life,COMMON,0.00010752579,1,life
+OTHER,number,COMMON,0.00010748064,1,number
+OTHER,importance,COMMON,0.000107360596,1,importance
+OTHER,importance,COMMON,0.00010734717,1,importance
+OTHER,engagement,COMMON,0.000106722386,1,engagement
+OTHER,self understanding,COMMON,0.000106711195,1,self understanding
+OTHER,Self understanding,COMMON,0.000106678206,1,Self understanding
+OTHER,life,COMMON,0.000106635474,1,life
+OTHER,leadership,COMMON,0.00010656509,1,leadership
+PERSON,elitist,COMMON,0.00010655537,1,elitist
+OTHER,kind,COMMON,0.00010654168,1,kind
+OTHER,truth,COMMON,0.00010653799,1,truth
+OTHER,levels,COMMON,0.00010652488,1,levels
+OTHER,level,COMMON,0.00010652488,1,level
+OTHER,importance,COMMON,0.0001065056,1,importance
+OTHER,deal,COMMON,0.00010650391,1,deal
+OTHER,turn,COMMON,0.0001064707,1,turn
+OTHER,prediction argument,COMMON,0.000106469524,1,prediction argument
+OTHER,peg board,COMMON,0.000106422434,1,peg board
+OTHER,best,COMMON,0.00010640607,1,best
+PERSON,faculty,COMMON,0.00010637892,1,faculty
+OTHER,job lots,COMMON,0.00010630188,1,job lots
+OTHER,importance,COMMON,0.00010629546,1,importance
+PERSON,faculty,COMMON,0.00010626353,1,faculty
+OTHER,existence,COMMON,0.00010623186,1,existence
+OTHER,comfort,COMMON,0.00010621831,1,comfort
+OTHER,terms,COMMON,0.0001061919,1,terms
+OTHER,college reports,COMMON,0.000106191605,1,college reports
+OTHER,language,COMMON,0.000106139814,1,language
+OTHER,prediction,COMMON,0.000106078325,1,prediction
+OTHER,responsibility,COMMON,0.000105284,1,responsibility
+OTHER,prediction argument,COMMON,0.00010515548,1,prediction argument
+OTHER,choice,COMMON,0.000104743915,1,choice
+PERSON,academics,COMMON,0.0001046894,1,academics
+OTHER,concept,COMMON,0.00010437712,1,concept
+PERSON,staff,COMMON,0.000103719314,1,staff
+OTHER,learning,COMMON,0.00010317869,1,learning
+OTHER,learning,COMMON,0.000103064645,1,learning
+OTHER,learning,COMMON,0.000103016355,1,learning
+OTHER,learning,COMMON,0.0001030096,1,learning
+OTHER,service learning,COMMON,0.00010299955,1,service learning
+OTHER,student learning,COMMON,0.00010299955,1,student learning
+OTHER,case,COMMON,0.00010254402,1,case
+OTHER,case,COMMON,0.00010250244,1,case
+OTHER,medicine,COMMON,0.00010249734,1,medicine
+OTHER,case,COMMON,0.00010249226,1,case
+OTHER,purposes,COMMON,0.00010249226,1,purposes
+OTHER,case,COMMON,0.000102442566,1,case
+OTHER,medicine,COMMON,0.000102442566,1,medicine
+OTHER,medicine,COMMON,0.000102442566,1,medicine
+OTHER,health care,COMMON,0.00010231765,1,health care
+OTHER,race relations,COMMON,0.00010230349,1,race relations
+OTHER,basis,COMMON,0.00010229647,1,basis
+OTHER,equity,COMMON,0.00010222837,1,equity
+OTHER,one,COMMON,0.00010215128,1,one
+LOCATION,classroom,COMMON,0.00010213888,1,classroom
+OTHER,preoccupation,COMMON,0.000102090504,1,preoccupation
+LOCATION,classroom,COMMON,0.00010158175,1,classroom
+OTHER,basis,COMMON,0.0001015711,1,basis
+PERSON,citizens,COMMON,0.00010145299,1,citizens
+OTHER,money,COMMON,0.00010145001,1,money
+OTHER,community relations,COMMON,0.00010139364,1,community relations
+OTHER,ways,COMMON,0.00010138449,1,ways
+OTHER,citizenship,COMMON,0.00010137855,1,citizenship
+EVENT,patent lecture,COMMON,0.00010134856,1,patent lecture
+OTHER,resources,COMMON,0.00010133131,1,resources
+OTHER,things,COMMON,0.000101295416,1,things
+OTHER,preoccupation,COMMON,0.00010119869,1,preoccupation
+OTHER,equity,COMMON,0.00010117539,1,equity
+OTHER,another,COMMON,0.00010117539,1,another
+OTHER,need,COMMON,0.00010101012,1,need
+OTHER,answer,COMMON,9.851908e-05,1,answer
+OTHER,diversity,COMMON,9.835711e-05,1,diversity
+OTHER,importance,COMMON,9.8324366e-05,1,importance
+OTHER,self understanding,COMMON,9.8324366e-05,1,self understanding
+OTHER,diversity,COMMON,9.830833e-05,1,diversity
+PERSON,divers,COMMON,9.830303e-05,1,divers
+OTHER,diversity,COMMON,9.827688e-05,1,diversity
+OTHER,numbers,COMMON,9.824624e-05,1,numbers
+OTHER,hand,COMMON,9.820657e-05,1,hand
+OTHER,number,COMMON,9.815408e-05,1,number
+OTHER,politics,COMMON,9.7927754e-05,1,politics
+LOCATION,state,COMMON,9.787493e-05,1,state
+OTHER,issues,COMMON,9.7830976e-05,1,issues
+OTHER,list,COMMON,9.773411e-05,1,list
+OTHER,opportunity,COMMON,9.7378324e-05,1,opportunity
+OTHER,opportunity,COMMON,9.715736e-05,1,opportunity
+OTHER,number,COMMON,9.698522e-05,1,number
+OTHER,ability,COMMON,9.654168e-05,1,ability
+OTHER,distribution,COMMON,9.651449e-05,1,distribution
+OTHER,preparation,COMMON,9.650114e-05,1,preparation
+OTHER,affirmative action,COMMON,9.650114e-05,1,affirmative action
+OTHER,action,COMMON,9.648794e-05,1,action
+WORK_OF_ART,value messages,COMMON,9.642404e-05,1,value messages
+OTHER,message,COMMON,9.641784e-05,1,message
+OTHER,presence,COMMON,9.6405536e-05,1,presence
+OTHER,capacities,COMMON,9.630023e-05,1,capacities
+OTHER,capacities,COMMON,9.630023e-05,1,capacities
+ORGANIZATION,court,COMMON,9.6066186e-05,1,court
+OTHER,example,COMMON,9.603776e-05,1,example
+OTHER,example,COMMON,9.600659e-05,1,example
+OTHER,way,COMMON,9.598962e-05,1,way
+OTHER,way,COMMON,9.5982905e-05,1,way
+OTHER,way,COMMON,9.59729e-05,1,way
+OTHER,education program,COMMON,9.59729e-05,1,education program
+OTHER,education program,COMMON,9.596628e-05,1,education program
+OTHER,example,COMMON,9.595641e-05,1,example
+OTHER,course,COMMON,9.588652e-05,1,course
+OTHER,way,COMMON,9.587425e-05,1,way
+OTHER,ability,COMMON,9.578066e-05,1,ability
+OTHER,honesty,COMMON,9.578066e-05,1,honesty
+OTHER,mentoring,COMMON,9.562569e-05,1,mentoring
+PERSON,agents,COMMON,9.557945e-05,1,agents
+PERSON,mentors,COMMON,9.542979e-05,1,mentors
+PERSON,people,COMMON,9.519775e-05,1,people
+ORGANIZATION,institutions,COMMON,9.513231e-05,1,institutions
+OTHER,Discussions,COMMON,9.499677e-05,1,Discussions
+OTHER,questions,COMMON,9.4125935e-05,1,questions
+OTHER,questions,COMMON,9.4125935e-05,1,questions
+OTHER,question,COMMON,9.4101e-05,1,question
+OTHER,question,COMMON,9.407316e-05,1,question
+OTHER,contributions,COMMON,9.402931e-05,1,contributions
+OTHER,contributions,COMMON,9.402601e-05,1,contributions
+OTHER,curriculum content,COMMON,9.400963e-05,1,curriculum content
+OTHER,one,COMMON,9.400638e-05,1,one
+OTHER,curriculum content,COMMON,9.399669e-05,1,curriculum content
+OTHER,belief,COMMON,9.3991606e-05,1,belief
+OTHER,belief,COMMON,9.3991606e-05,1,belief
+OTHER,content,COMMON,9.3968105e-05,1,content
+OTHER,teaching,COMMON,9.395873e-05,1,teaching
+OTHER,question,COMMON,9.395873e-05,1,question
+OTHER,teaching,COMMON,9.394636e-05,1,teaching
+OTHER,beliefs,COMMON,9.389255e-05,1,beliefs
+OTHER,Beliefs,COMMON,9.388234e-05,1,Beliefs
+OTHER,beliefs,COMMON,9.3879804e-05,1,beliefs
+OTHER,college material,COMMON,9.360371e-05,1,college material
+OTHER,toe,COMMON,9.35579e-05,1,toe
+OTHER,health care,COMMON,9.3476105e-05,1,health care
+ORGANIZATION,businesses,COMMON,9.347147e-05,1,businesses
+CONSUMER_GOOD,equipment,COMMON,9.344858e-05,1,equipment
+OTHER,matter,COMMON,9.34306e-05,1,matter
+OTHER,basis,COMMON,9.340851e-05,1,basis
+OTHER,value,COMMON,9.304189e-05,1,value
+OTHER,things,COMMON,9.2942304e-05,1,things
+OTHER,sense,COMMON,9.235203e-05,1,sense
+OTHER,sense,COMMON,9.2347465e-05,1,sense
+PERSON,guys,COMMON,9.198305e-05,1,guys
+OTHER,door,COMMON,9.1886686e-05,2,"door, door"
+OTHER,approaches,COMMON,9.1878406e-05,1,approaches
+OTHER,'s,COMMON,9.185934e-05,1,'s
+OTHER,ones,COMMON,9.134642e-05,1,ones
+WORK_OF_ART,chronicle,COMMON,9.0821704e-05,1,chronicle
+OTHER,ones,COMMON,9.022816e-05,1,ones
+OTHER,education,COMMON,9.008064e-05,1,education
+OTHER,wealth,COMMON,8.9858e-05,1,wealth
+OTHER,tensions,COMMON,8.9858e-05,1,tensions
+OTHER,G p A,COMMON,8.98394e-05,1,G p A
+OTHER,fact,COMMON,8.983646e-05,1,fact
+EVENT,race,COMMON,8.9833266e-05,1,race
+OTHER,lot,COMMON,8.9787754e-05,1,lot
+OTHER,multiculturalism,COMMON,8.977959e-05,1,multiculturalism
+OTHER,wonder,COMMON,8.976227e-05,1,wonder
+OTHER,most,COMMON,8.975886e-05,1,most
+OTHER,wonder,COMMON,8.9668974e-05,1,wonder
+OTHER,Toe,PROPER,8.9238274e-05,1,Toe
+OTHER,generosity,COMMON,8.917478e-05,1,generosity
+OTHER,aspects,COMMON,8.916573e-05,1,aspects
+OTHER,rhetoric,COMMON,8.914788e-05,1,rhetoric
+LOCATION,area,COMMON,8.914788e-05,1,area
+OTHER,multiculturalism,COMMON,8.913906e-05,1,multiculturalism
+OTHER,environment,COMMON,8.913906e-05,1,environment
+LOCATION,area,COMMON,8.9104484e-05,1,area
+LOCATION,places,COMMON,8.902258e-05,1,places
+OTHER,end,COMMON,8.891741e-05,1,end
+OTHER,three,COMMON,8.887529e-05,1,three
+OTHER,individualism,COMMON,8.885483e-05,1,individualism
+OTHER,presentations,COMMON,8.853991e-05,2,"sets, presentations"
+OTHER,message,COMMON,8.83046e-05,1,message
+OTHER,ability,COMMON,8.828501e-05,1,ability
+OTHER,honesty,COMMON,8.828016e-05,1,honesty
+OTHER,ability,COMMON,8.828016e-05,1,ability
+OTHER,affirmative action,COMMON,8.827534e-05,1,affirmative action
+OTHER,conversation,COMMON,8.824685e-05,1,conversation
+OTHER,preparation,COMMON,8.824685e-05,1,preparation
+OTHER,conversation,COMMON,8.8205496e-05,1,conversation
+OTHER,preparation,COMMON,8.810241e-05,1,preparation
+OTHER,sixties,COMMON,8.803356e-05,1,sixties
+EVENT,shift,COMMON,8.8032866e-05,1,shift
+OTHER,intention,COMMON,8.7556604e-05,1,intention
+OTHER,opportunity,COMMON,8.744429e-05,1,opportunity
+OTHER,college,COMMON,8.692148e-05,1,college
+OTHER,college,COMMON,8.685971e-05,1,college
+OTHER,college,COMMON,8.684236e-05,1,college
+ORGANIZATION,institution,COMMON,8.678028e-05,1,institution
+OTHER,Collaborative learning,COMMON,8.6526146e-05,1,Collaborative learning
+OTHER,effects,COMMON,8.638494e-05,1,effects
+PERSON,Either,COMMON,8.571806e-05,1,Either
+OTHER,prophecies,COMMON,8.5293635e-05,1,prophecies
+OTHER,yardstick,COMMON,8.5267304e-05,1,yardstick
+OTHER,lot,COMMON,8.51354e-05,1,lot
+OTHER,democracy,COMMON,8.510015e-05,1,democracy
+OTHER,citizenship qualities,COMMON,8.504944e-05,1,citizenship qualities
+OTHER,lot,COMMON,8.503307e-05,1,lot
+OTHER,money,COMMON,8.427949e-05,1,money
+OTHER,problem,COMMON,8.37349e-05,1,problem
+OTHER,problems,COMMON,8.3651576e-05,1,problems
+OTHER,problems,COMMON,8.3622894e-05,1,problems
+PERSON,students,COMMON,8.312764e-05,1,students
+PERSON,students,COMMON,8.310892e-05,1,students
+PERSON,student,COMMON,8.310522e-05,1,student
+PERSON,studentssuccess,COMMON,8.310153e-05,1,studentssuccess
+PERSON,students,COMMON,8.303734e-05,1,students
+PERSON,students,COMMON,8.3016814e-05,1,students
+LOCATION,ones,COMMON,8.298136e-05,1,ones
+OTHER,way,COMMON,8.2664475e-05,1,way
+OTHER,discussion,COMMON,8.260841e-05,1,discussion
+PERSON,others,COMMON,8.2536244e-05,1,others
+PERSON,others,COMMON,8.249799e-05,1,others
+OTHER,indicator,COMMON,8.2196064e-05,1,indicator
+OTHER,notions,COMMON,8.218259e-05,1,notions
+ORGANIZATION,peer group,COMMON,8.216546e-05,1,peer group
+OTHER,multiculturalism,COMMON,8.2151855e-05,1,multiculturalism
+OTHER,mindset,COMMON,8.214324e-05,1,mindset
+LOCATION,region,COMMON,8.2130464e-05,1,region
+LOCATION,region,COMMON,8.2130464e-05,1,region
+OTHER,issues,COMMON,8.2112936e-05,1,issues
+CONSUMER_GOOD,model,COMMON,8.208495e-05,1,model
+PERSON,patient,COMMON,8.20769e-05,1,patient
+LOCATION,clinics,COMMON,8.20769e-05,1,clinics
+PERSON,patients,COMMON,8.20729e-05,1,patients
+PERSON,staff,COMMON,8.20729e-05,1,staff
+LOCATION,hospitals,COMMON,8.20729e-05,1,hospitals
+EVENT,clinics,COMMON,8.20689e-05,1,clinics
+PERSON,staff,COMMON,8.20689e-05,1,staff
+LOCATION,hospitals,COMMON,8.20689e-05,1,hospitals
+PERSON,patients,COMMON,8.20689e-05,1,patients
+OTHER,mind,COMMON,8.202606e-05,1,mind
+OTHER,depth,COMMON,8.196063e-05,1,depth
+OTHER,welfare,COMMON,8.1949154e-05,1,welfare
+OTHER,disengagement,COMMON,8.1949154e-05,1,disengagement
+OTHER,account,COMMON,8.193781e-05,1,account
+PERSON,welfare recipients,COMMON,8.193781e-05,1,welfare recipients
+OTHER,disadvantage,COMMON,8.193219e-05,1,disadvantage
+OTHER,threat,COMMON,8.192104e-05,1,threat
+OTHER,law,COMMON,8.191001e-05,1,law
+OTHER,risk,COMMON,8.1904545e-05,1,risk
+OTHER,athletics,COMMON,8.18937e-05,1,athletics
+PERSON,revenue sports athlete,COMMON,8.188832e-05,1,revenue sports athlete
+PERSON,nobody,COMMON,8.188832e-05,1,nobody
+OTHER,equality,COMMON,8.1877646e-05,1,equality
+OTHER,bit,COMMON,8.1846294e-05,1,bit
+OTHER,resource acquisition,COMMON,8.1846294e-05,1,resource acquisition
+OTHER,reflection,COMMON,8.1846294e-05,1,reflection
+OTHER,beings,COMMON,8.183606e-05,1,beings
+OTHER,creativity,COMMON,8.18209e-05,1,creativity
+OTHER,fear,COMMON,8.18159e-05,1,fear
+OTHER,scope,COMMON,8.1810926e-05,1,scope
+OTHER,award,COMMON,8.180597e-05,1,award
+PERSON,freshmen,COMMON,8.1786406e-05,1,freshmen
+OTHER,attention,COMMON,8.135974e-05,1,attention
+OTHER,listening skills,COMMON,8.132606e-05,1,listening skills
+OTHER,empathy,COMMON,8.132606e-05,1,empathy
+OTHER,reform,COMMON,8.130964e-05,1,reform
+OTHER,emphasis,COMMON,8.129349e-05,1,emphasis
+OTHER,wait,COMMON,8.1180086e-05,1,wait
+OTHER,definition,COMMON,8.109135e-05,1,definition
+OTHER,resource acquisition,COMMON,8.105293e-05,1,resource acquisition
+CONSUMER_GOOD,products,COMMON,8.104045e-05,1,products
+OTHER,disadvantage,COMMON,8.101596e-05,1,disadvantage
+OTHER,justification,COMMON,8.101547e-05,1,justification
+OTHER,accomplishments,COMMON,8.100993e-05,1,accomplishments
+OTHER,heart,COMMON,8.099206e-05,1,heart
+PERSON,adults,COMMON,8.086924e-05,1,adults
+OTHER,process,COMMON,8.06691e-05,1,process
+OTHER,service,COMMON,8.0370875e-05,1,service
+PERSON,electorate,COMMON,8.0282596e-05,1,electorate
+OTHER,society,COMMON,8.0129015e-05,1,society
+PERSON,students,COMMON,8.01229e-05,1,students
+OTHER,course content,COMMON,8.0024845e-05,1,course content
+OTHER,reasons,COMMON,7.9873316e-05,1,reasons
+OTHER,reasons,COMMON,7.9873316e-05,1,reasons
+OTHER,development,COMMON,7.975817e-05,1,development
+OTHER,distinction,COMMON,7.959591e-05,1,distinction
+OTHER,community service,COMMON,7.918556e-05,1,community service
+EVENT,Sharing,COMMON,7.914609e-05,1,Sharing
+OTHER,defense,COMMON,7.911748e-05,1,defense
+OTHER,another,COMMON,7.8717465e-05,1,another
+OTHER,group effect,COMMON,7.813292e-05,1,group effect
+WORK_OF_ART,article,COMMON,7.782647e-05,1,article
+OTHER,progress,COMMON,7.759358e-05,1,progress
+OTHER,work,COMMON,7.742579e-05,1,work
+OTHER,freedom,COMMON,7.74076e-05,1,freedom
+OTHER,values,COMMON,7.733176e-05,1,values
+OTHER,values,COMMON,7.733176e-05,1,values
+OTHER,commitment,COMMON,7.732478e-05,1,commitment
+OTHER,values,COMMON,7.732478e-05,1,values
+OTHER,Commitment,COMMON,7.732247e-05,1,Commitment
+OTHER,community service commitment,COMMON,7.732247e-05,1,community service commitment
+OTHER,value,COMMON,7.728619e-05,1,value
+ORGANIZATION,peer group,COMMON,7.725311e-05,1,peer group
+OTHER,part,COMMON,7.7201315e-05,1,part
+OTHER,case,COMMON,7.689439e-05,1,case
+ORGANIZATION,government,COMMON,7.68808e-05,1,government
+OTHER,process,COMMON,7.682072e-05,1,process
+OTHER,tutoring,COMMON,7.6815675e-05,1,tutoring
+EVENT,tutoring,COMMON,7.681316e-05,1,tutoring
+OTHER,case,COMMON,7.680815e-05,1,case
+OTHER,learning,COMMON,7.649212e-05,1,learning
+OTHER,use,COMMON,7.623951e-05,1,use
+OTHER,sense,COMMON,7.5361364e-05,1,sense
+OTHER,research,COMMON,7.532175e-05,1,research
+OTHER,kind,COMMON,7.530319e-05,1,kind
+OTHER,research,COMMON,7.5294054e-05,1,research
+OTHER,kind,COMMON,7.5276046e-05,1,kind
+OTHER,research,COMMON,7.525402e-05,1,research
+OTHER,kind,COMMON,7.523678e-05,1,kind
+OTHER,conceptions,COMMON,7.5234646e-05,1,conceptions
+OTHER,pegboard view,COMMON,7.523252e-05,1,pegboard view
+OTHER,viewpoints,COMMON,7.52304e-05,1,viewpoints
+PERSON,public,COMMON,7.498662e-05,1,public
+OTHER,empathy,COMMON,7.495744e-05,1,empathy
+OTHER,merit,COMMON,7.495334e-05,1,merit
+OTHER,challenge,COMMON,7.494927e-05,1,challenge
+OTHER,whole,COMMON,7.494117e-05,1,whole
+OTHER,attention,COMMON,7.491338e-05,1,attention
+OTHER,consortium,COMMON,7.490948e-05,1,consortium
+OTHER,risk,COMMON,7.489788e-05,1,risk
+OTHER,analog,COMMON,7.485654e-05,1,analog
+OTHER,analogy,COMMON,7.482762e-05,1,analogy
+OTHER,terms,COMMON,7.423425e-05,1,terms
+OTHER,terms,COMMON,7.417964e-05,1,terms
+OTHER,point,COMMON,7.405122e-05,1,point
+LOCATION,facilities,COMMON,7.393653e-05,1,facilities
+OTHER,techniques,COMMON,7.364951e-05,1,techniques
+OTHER,teaching techniques,COMMON,7.363938e-05,1,teaching techniques
+OTHER,techniques,COMMON,7.3631854e-05,1,techniques
+OTHER,service learning experience,COMMON,7.306218e-05,1,service learning experience
+OTHER,experience service learning,COMMON,7.1985276e-05,1,experience service learning
+OTHER,crime,COMMON,7.1969764e-05,1,crime
+OTHER,unemployment,COMMON,7.1969764e-05,1,unemployment
+PERSON,prison inmates,COMMON,7.19598e-05,1,prison inmates
+OTHER,attainment,COMMON,7.19598e-05,1,attainment
+OTHER,privilege,COMMON,7.195486e-05,1,privilege
+OTHER,learning,COMMON,7.195372e-05,1,learning
+OTHER,pariah,COMMON,7.194507e-05,1,pariah
+OTHER,dilemma,COMMON,7.1935385e-05,1,dilemma
+OTHER,outside,COMMON,7.1911636e-05,1,outside
+OTHER,attitudes,COMMON,7.190696e-05,1,attitudes
+OTHER,tirade,COMMON,7.187044e-05,1,tirade
+OTHER,brilliance,COMMON,7.1857125e-05,1,brilliance
+PERSON,employee,COMMON,7.185274e-05,1,employee
+OTHER,unwillingness,COMMON,7.185274e-05,1,unwillingness
+OTHER,acceptance,COMMON,7.185274e-05,1,acceptance
+OTHER,power,COMMON,7.1848364e-05,1,power
+OTHER,aid,COMMON,7.184401e-05,1,aid
+OTHER,brightness,COMMON,7.183969e-05,1,brightness
+OTHER,ranking,COMMON,7.180582e-05,1,ranking
+OTHER,rating,COMMON,7.180582e-05,1,rating
+CONSUMER_GOOD,assessment devices,COMMON,7.179345e-05,1,assessment devices
+OTHER,traditions,COMMON,7.1444636e-05,1,traditions
+OTHER,information,COMMON,7.137998e-05,1,information
+OTHER,mass media theory,COMMON,7.137998e-05,1,mass media theory
+OTHER,causes,COMMON,7.1359456e-05,1,causes
+OTHER,trust,COMMON,7.1359456e-05,1,trust
+OTHER,default,COMMON,7.130064e-05,1,default
+OTHER,ego,COMMON,7.122795e-05,1,ego
+OTHER,roots,COMMON,7.118267e-05,1,roots
+OTHER,struggle,COMMON,7.116629e-05,1,struggle
+EVENT,conflict,COMMON,7.115021e-05,1,conflict
+OTHER,tendencies,COMMON,7.114491e-05,1,tendencies
+PERSON,people,COMMON,7.0833754e-05,1,people
+OTHER,things,COMMON,7.082945e-05,1,things
+OTHER,things,COMMON,7.082516e-05,1,things
+PERSON,people,COMMON,7.082516e-05,1,people
+OTHER,resource,COMMON,7.078955e-05,1,resource
+OTHER,thing,COMMON,7.077936e-05,1,thing
+OTHER,thing,COMMON,7.075734e-05,1,thing
+EVENT,conversations,COMMON,7.0694594e-05,1,conversations
+OTHER,parallel,COMMON,7.039581e-05,1,parallel
+EVENT,lecture,COMMON,7.019671e-05,1,lecture
+OTHER,ones,COMMON,7.015183e-05,1,ones
+OTHER,result,COMMON,7.012649e-05,1,result
+OTHER,kinds,COMMON,7.009238e-05,1,kinds
+OTHER,course material,COMMON,7.007092e-05,1,course material
+OTHER,results,COMMON,7.006626e-05,1,results
+OTHER,recipient benefit,COMMON,7.00547e-05,1,recipient benefit
+OTHER,direction,COMMON,7.005241e-05,1,direction
+OTHER,tenure,COMMON,7.003206e-05,1,tenure
+PERSON,students,COMMON,6.9979826e-05,1,students
+OTHER,responsibility,COMMON,6.993604e-05,1,responsibility
+OTHER,decisions,COMMON,6.914965e-05,1,decisions
+OTHER,environment,COMMON,6.906576e-05,1,environment
+OTHER,funding,COMMON,6.874831e-05,1,funding
+OTHER,research university,COMMON,6.837611e-05,1,research university
+OTHER,one,COMMON,6.780859e-05,1,one
+WORK_OF_ART,game,COMMON,6.759612e-05,1,game
+OTHER,money,COMMON,6.756574e-05,1,money
+OTHER,experience,COMMON,6.705301e-05,1,experience
+OTHER,way,COMMON,6.704065e-05,1,way
+OTHER,example,COMMON,6.702647e-05,1,example
+OTHER,reason,COMMON,6.701308e-05,1,reason
+OTHER,course,COMMON,6.6975845e-05,1,course
+OTHER,course,COMMON,6.696646e-05,1,course
+OTHER,experience,COMMON,6.694256e-05,1,experience
+OTHER,way,COMMON,6.6940745e-05,1,way
+OTHER,logs,COMMON,6.6565466e-05,1,logs
+PERSON,assistant professor,COMMON,6.622258e-05,1,assistant professor
+OTHER,panel presentation,COMMON,6.621785e-05,1,panel presentation
+OTHER,memory,COMMON,6.620371e-05,1,memory
+OTHER,light,COMMON,6.611901e-05,1,light
+OTHER,evidence,COMMON,6.611449e-05,1,evidence
+OTHER,Both,COMMON,6.607059e-05,1,Both
+OTHER,violence,COMMON,6.585135e-05,1,violence
+OTHER,college age,COMMON,6.583668e-05,1,college age
+OTHER,tea,COMMON,6.583305e-05,1,tea
+OTHER,bullet,COMMON,6.581162e-05,1,bullet
+OTHER,rest,COMMON,6.58046e-05,1,rest
+OTHER,types,COMMON,6.58046e-05,1,types
+OTHER,remediation,COMMON,6.58046e-05,1,remediation
+OTHER,ambivalence,COMMON,6.58046e-05,1,ambivalence
+OTHER,coordination,COMMON,6.580111e-05,1,coordination
+EVENT,expansion,COMMON,6.580111e-05,1,expansion
+OTHER,transfer credits,COMMON,6.5794186e-05,1,transfer credits
+OTHER,necessity,COMMON,6.5790744e-05,1,necessity
+OTHER,nutshell,COMMON,6.576706e-05,1,nutshell
+PERSON,G p A.,COMMON,6.5763736e-05,1,G p A.
+OTHER,performance,COMMON,6.5763736e-05,1,performance
+OTHER,illnesses,COMMON,6.57344e-05,1,illnesses
+OTHER,common cold,COMMON,6.5731205e-05,1,common cold
+OTHER,fence,COMMON,6.5728025e-05,1,fence
+OTHER,arrangement,COMMON,6.5721695e-05,1,arrangement
+OTHER,treatment,COMMON,6.570302e-05,1,treatment
+OTHER,question,COMMON,6.566323e-05,1,question
+OTHER,context,COMMON,6.559654e-05,1,context
+OTHER,eye,COMMON,6.50865e-05,1,eye
+OTHER,questions,COMMON,6.475647e-05,1,questions
+OTHER,participation,COMMON,6.421861e-05,1,participation
+OTHER,service,COMMON,6.373544e-05,1,service
+OTHER,plenty,COMMON,6.356807e-05,1,plenty
+PERSON,scientists,COMMON,6.33354e-05,1,scientists
+OTHER,problem,COMMON,6.33086e-05,1,problem
+OTHER,question,COMMON,6.327915e-05,1,question
+PERSON,Robert Maynard Hutchins,PROPER,6.2944484e-05,1,Robert Maynard Hutchins
+LOCATION,Western Europe,PROPER,6.282067e-05,1,Western Europe
+LOCATION,Pacific Rim,PROPER,6.282067e-05,1,Pacific Rim
+PERSON,John Dewey,PROPER,6.272183e-05,1,John Dewey
+OTHER,fact,COMMON,6.2652914e-05,1,fact
+OTHER,job,COMMON,6.259105e-05,1,job
+OTHER,bit,COMMON,6.1702e-05,1,bit
+OTHER,behavior,COMMON,6.15359e-05,1,behavior
+OTHER,model,COMMON,6.1523715e-05,1,model
+LOCATION,world,COMMON,6.150776e-05,1,world
+OTHER,education,COMMON,6.116285e-05,1,education
+OTHER,intent,COMMON,6.1147504e-05,1,intent
+OTHER,responsibility,COMMON,6.113629e-05,1,responsibility
+OTHER,effect,COMMON,6.113259e-05,1,effect
+OTHER,effect,COMMON,6.112707e-05,1,effect
+OTHER,opportunity,COMMON,6.112707e-05,1,opportunity
+OTHER,change effort,COMMON,6.1053855e-05,1,change effort
+OTHER,effort,COMMON,6.1053855e-05,1,effort
+OTHER,efforts,COMMON,6.104069e-05,1,efforts
+OTHER,wealth,COMMON,6.08178e-05,1,wealth
+OTHER,number,COMMON,6.0791914e-05,1,number
+ORGANIZATION,Division One,PROPER,6.0400213e-05,1,Division One
+OTHER,service,COMMON,6.038728e-05,1,service
+OTHER,opportunity,COMMON,6.037334e-05,1,opportunity
+OTHER,Part,COMMON,5.9697264e-05,1,Part
+OTHER,lot,COMMON,5.9452574e-05,1,lot
+OTHER,lot,COMMON,5.9452574e-05,1,lot
+OTHER,iceberg,COMMON,5.9330214e-05,1,iceberg
+OTHER,belief,COMMON,5.9155915e-05,1,belief
+OTHER,beliefs,COMMON,5.9132453e-05,1,beliefs
+OTHER,beliefs,COMMON,5.9129896e-05,1,beliefs
+OTHER,beliefs,COMMON,5.9124803e-05,1,beliefs
+OTHER,beliefs,COMMON,5.911472e-05,1,beliefs
+OTHER,beliefs,COMMON,5.9112226e-05,1,beliefs
+OTHER,discussions,COMMON,5.8611175e-05,1,discussions
+OTHER,sum total,COMMON,5.85775e-05,1,sum total
+OTHER,times,COMMON,5.764467e-05,1,times
+PERSON,others,COMMON,5.7608428e-05,1,others
+OTHER,headway,COMMON,5.695608e-05,1,headway
+OTHER,emphasis,COMMON,5.6200995e-05,1,emphasis
+PERSON,parents,COMMON,5.6174173e-05,1,parents
+OTHER,funding,COMMON,5.61562e-05,1,funding
+OTHER,formative,COMMON,5.6154233e-05,1,formative
+ORGANIZATION,department,COMMON,5.614448e-05,1,department
+OTHER,T,COMMON,5.610863e-05,1,T
+OTHER,extent,COMMON,5.610132e-05,1,extent
+OTHER,reasons,COMMON,5.575193e-05,1,reasons
+OTHER,change,COMMON,5.5743567e-05,1,change
+OTHER,self development,COMMON,5.5717475e-05,1,self development
+OTHER,argument,COMMON,5.570637e-05,1,argument
+OTHER,reasons,COMMON,5.570323e-05,1,reasons
+OTHER,self,COMMON,5.5681645e-05,1,self
+OTHER,one,COMMON,5.563166e-05,1,one
+OTHER,source,COMMON,5.5556622e-05,1,source
+OTHER,resources,COMMON,5.4908258e-05,1,resources
+OTHER,leadership skills,COMMON,5.4799355e-05,1,leadership skills
+OTHER,hands,COMMON,5.4696786e-05,1,hands
+ORGANIZATION,institutions,COMMON,5.4651522e-05,1,institutions
+LOCATION,facilities,COMMON,5.433762e-05,1,facilities
+OTHER,process,COMMON,5.3707812e-05,1,process
+PERSON,assistant professors,COMMON,5.370448e-05,1,assistant professors
+OTHER,influence,COMMON,5.368645e-05,1,influence
+OTHER,influence,COMMON,5.3683223e-05,1,influence
+OTHER,learning process,COMMON,5.361023e-05,1,learning process
+PERSON,agent,COMMON,5.30086e-05,1,agent
+OTHER,success,COMMON,5.2651063e-05,1,success
+OTHER,success,COMMON,5.262174e-05,1,success
+OTHER,student success,COMMON,5.2593703e-05,1,student success
+OTHER,light,COMMON,5.222574e-05,1,light
+PERSON,each other,COMMON,5.2132284e-05,1,each other
+OTHER,all,COMMON,5.1576244e-05,1,all
+OTHER,all,COMMON,5.155615e-05,1,all
+OTHER,all,COMMON,5.1511623e-05,1,all
+OTHER,understanding,COMMON,5.1434323e-05,1,understanding
+OTHER,hands,COMMON,5.1420633e-05,1,hands
+PERSON,peers,COMMON,5.1391246e-05,1,peers
+PERSON,peers,COMMON,5.1391246e-05,1,peers
+OTHER,chart,COMMON,5.080518e-05,1,chart
+OTHER,some,COMMON,5.045807e-05,1,some
+OTHER,joy,COMMON,5.0139333e-05,1,joy
+ORGANIZATION,peer group,COMMON,4.9824735e-05,1,peer group
+OTHER,service,COMMON,4.9820548e-05,1,service
+PERSON,part,COMMON,4.9755705e-05,1,part
+OTHER,qualities,COMMON,4.9737937e-05,1,qualities
+OTHER,topics,COMMON,4.9377686e-05,1,topics
+OTHER,acoustics,COMMON,4.9364447e-05,1,acoustics
+OTHER,leash,COMMON,4.9340604e-05,1,leash
+LOCATION,towns,COMMON,4.9329912e-05,1,towns
+OTHER,byproduct,COMMON,4.9324633e-05,1,byproduct
+OTHER,horizon,COMMON,4.9321145e-05,1,horizon
+OTHER,velvet,COMMON,4.9321145e-05,1,velvet
+OTHER,steer,COMMON,4.9321145e-05,1,steer
+EVENT,crash,COMMON,4.9321145e-05,1,crash
+OTHER,pockets,COMMON,4.931422e-05,1,pockets
+OTHER,description,COMMON,4.93125e-05,1,description
+OTHER,anod,COMMON,4.9307375e-05,1,anod
+OTHER,teaching methods,COMMON,4.9303984e-05,1,teaching methods
+EVENT,scuffing,COMMON,4.9303984e-05,1,scuffing
+OTHER,relevance,COMMON,4.9297254e-05,1,relevance
+OTHER,tutoring regulation,COMMON,4.9285656e-05,1,tutoring regulation
+OTHER,half,COMMON,4.9280756e-05,1,half
+OTHER,chagrin,COMMON,4.9261536e-05,1,chagrin
+OTHER,control,COMMON,4.9083425e-05,1,control
+OTHER,tenure,COMMON,4.8986763e-05,1,tenure
+OTHER,ways,COMMON,4.8980637e-05,1,ways
+OTHER,Tenure,COMMON,4.8974576e-05,1,Tenure
+OTHER,tenure,COMMON,4.8971568e-05,1,tenure
+OTHER,toe,COMMON,4.8938015e-05,1,toe
+OTHER,materialism,COMMON,4.8925387e-05,1,materialism
+OTHER,reign,COMMON,4.8705428e-05,1,reign
+PERSON,community,COMMON,4.86705e-05,1,community
+PERSON,community,COMMON,4.866829e-05,1,community
+OTHER,community,COMMON,4.8659538e-05,1,community
+OTHER,door,COMMON,4.86412e-05,1,door
+OTHER,values,COMMON,4.862783e-05,1,values
+OTHER,values,COMMON,4.8625774e-05,1,values
+OTHER,value,COMMON,4.8621685e-05,1,value
+OTHER,part,COMMON,4.8550737e-05,1,part
+ORGANIZATION,Division One,PROPER,4.837287e-05,1,Division One
+PERSON,Khun,PROPER,4.8330094e-05,1,Khun
+OTHER,ways,COMMON,4.8319613e-05,1,ways
+OTHER,English,PROPER,4.798927e-05,1,English
+OTHER,kinds,COMMON,4.737312e-05,1,kinds
+OTHER,research,COMMON,4.7364785e-05,1,research
+OTHER,kind,COMMON,4.7354533e-05,1,kind
+OTHER,kinds,COMMON,4.731147e-05,1,kinds
+OTHER,questions,COMMON,4.7260615e-05,1,questions
+OTHER,plenty,COMMON,4.7140435e-05,1,plenty
+OTHER,resistance,COMMON,4.7102723e-05,1,resistance
+OTHER,importance,COMMON,4.6838166e-05,1,importance
+PERSON,many,COMMON,4.68243e-05,1,many
+OTHER,excellence,COMMON,4.671393e-05,1,excellence
+OTHER,excellence,COMMON,4.6703484e-05,1,excellence
+OTHER,excellence,COMMON,4.6691202e-05,1,excellence
+OTHER,source,COMMON,4.618137e-05,1,source
+OTHER,capabilities,COMMON,4.612983e-05,1,capabilities
+OTHER,do learning,COMMON,4.5240482e-05,1,do learning
+OTHER,resource,COMMON,4.4587658e-05,1,resource
+OTHER,resources,COMMON,4.4581477e-05,1,resources
+OTHER,citizenship,COMMON,4.4561362e-05,1,citizenship
+OTHER,research,COMMON,4.4547454e-05,1,research
+OTHER,S a T,PROPER,4.4281038e-05,1,S a T
+OTHER,behavior,COMMON,4.301457e-05,1,behavior
+OTHER,anything,COMMON,4.300139e-05,1,anything
+OTHER,policies,COMMON,4.2994398e-05,1,policies
+OTHER,notion,COMMON,4.2993637e-05,1,notion
+OTHER,policies,COMMON,4.2988795e-05,1,policies
+OTHER,issues,COMMON,4.298325e-05,1,issues
+OTHER,issues,COMMON,4.2981414e-05,1,issues
+OTHER,place,COMMON,4.2945878e-05,1,place
+OTHER,MALP,PROPER,4.2513708e-05,1,MALP
+ORGANIZATION,GPA,PROPER,4.2416865e-05,1,G P A
+OTHER,program,COMMON,4.218835e-05,1,program
+OTHER,example,COMMON,4.218835e-05,1,example
+OTHER,way,COMMON,4.2173233e-05,1,way
+OTHER,courses,COMMON,4.2169522e-05,1,courses
+OTHER,co curricular programs,COMMON,4.2169522e-05,1,co curricular programs
+OTHER,program,COMMON,4.212358e-05,1,program
+OTHER,program,COMMON,4.2118536e-05,1,program
+OTHER,programmes,COMMON,4.211354e-05,1,programmes
+OTHER,programs,COMMON,4.2108593e-05,1,programs
+EVENT,Sandy,PROPER,4.2103726e-05,1,Sandy
+PERSON,Andi,PROPER,4.2068685e-05,1,Andi
+OTHER,idea,COMMON,4.1673607e-05,1,idea
+OTHER,program,COMMON,4.160291e-05,1,program
+OTHER,er,COMMON,4.139276e-05,1,er
+OTHER,questions,COMMON,4.1123796e-05,1,questions
+ORGANIZATION,schools,COMMON,4.0422194e-05,1,schools
+PERSON,group,COMMON,4.039191e-05,1,group
+PERSON,scholars,COMMON,4.0390187e-05,1,scholars
+OTHER,approach,COMMON,4.037828e-05,1,approach
+PERSON,star,COMMON,3.997941e-05,1,star
+OTHER,advantage,COMMON,3.990588e-05,1,advantage
+OTHER,eyes,COMMON,3.9886603e-05,1,eyes
+OTHER,something,COMMON,3.9756895e-05,1,something
+OTHER,most,COMMON,3.944285e-05,1,most
+OTHER,mission,COMMON,3.943617e-05,1,mission
+OTHER,matter,COMMON,3.9401337e-05,1,matter
+PERSON,doctors,COMMON,3.9230996e-05,1,doctors
+OTHER,freedom,COMMON,3.9223713e-05,1,freedom
+OTHER,call waiting,COMMON,3.9218914e-05,1,call waiting
+OTHER,doctor's orders,COMMON,3.9218914e-05,1,doctor's orders
+OTHER,fifties,COMMON,3.9215352e-05,1,fifties
+OTHER,fifties,COMMON,3.9215352e-05,1,fifties
+WORK_OF_ART,book,COMMON,3.9215352e-05,1,book
+PERSON,guys,COMMON,3.9202503e-05,1,guys
+OTHER,back,COMMON,3.920135e-05,1,back
+OTHER,joy,COMMON,3.9191113e-05,1,joy
+OTHER,resistance,COMMON,3.9155355e-05,1,resistance
+EVENT,reception,COMMON,3.915431e-05,1,reception
+OTHER,revisions,COMMON,3.901447e-05,1,revisions
+PERSON,Khun B,PROPER,3.888012e-05,1,Khun B
+ORGANIZATION,Big 10,PROPER,3.885756e-05,1,Big 10
+PERSON,Anna,PROPER,3.8839873e-05,1,Anna
+OTHER,difference,COMMON,3.8766e-05,1,difference
+OTHER,difference,COMMON,3.8746854e-05,1,difference
+ORGANIZATION,Uh,PROPER,3.874426e-05,1,Uh
+OTHER,difference,COMMON,3.873987e-05,1,difference
+OTHER,difference,COMMON,3.873987e-05,1,difference
+OTHER,difference,COMMON,3.8738715e-05,1,difference
+OTHER,money,COMMON,3.8715112e-05,1,money
+OTHER,tools,COMMON,3.8680148e-05,1,tools
+OTHER,service learning opportunities,COMMON,3.8475056e-05,1,service learning opportunities
+OTHER,respects,COMMON,3.847331e-05,1,respects
+OTHER,effect,COMMON,3.845119e-05,1,effect
+PERSON,academia,COMMON,3.845119e-05,1,academia
+LOCATION,academia,COMMON,3.844788e-05,1,academia
+PERSON,academics,COMMON,3.8446233e-05,1,academics
+PERSON,academics,COMMON,3.8438084e-05,1,academics
+OTHER,interests,COMMON,3.8438084e-05,1,interests
+OTHER,effects,COMMON,3.8438084e-05,1,effects
+PERSON,academics,COMMON,3.843326e-05,1,academics
+OTHER,responsibility,COMMON,3.843326e-05,1,responsibility
+OTHER,opportunities,COMMON,3.7972328e-05,1,opportunities
+OTHER,decentralisation,COMMON,3.7601643e-05,1,decentralisation
+OTHER,opportunities,COMMON,3.750587e-05,1,opportunities
+OTHER,democracy,COMMON,3.7415994e-05,1,democracy
+OTHER,democracy,COMMON,3.740594e-05,1,democracy
+OTHER,discussion,COMMON,3.6705755e-05,1,discussion
+OTHER,notes,COMMON,3.6616664e-05,1,notes
+OTHER,curriculum,COMMON,3.629777e-05,1,curriculum
+PERSON,others,COMMON,3.629777e-05,1,others
+OTHER,students toe work,COMMON,3.6292793e-05,1,students toe work
+OTHER,work,COMMON,3.6265603e-05,1,work
+PERSON,others,COMMON,3.6259444e-05,1,others
+LOCATION,campus,COMMON,3.6244408e-05,1,campus
+LOCATION,campus,COMMON,3.6234178e-05,1,campus
+LOCATION,campus,COMMON,3.6232734e-05,1,campus
+OTHER,subject matter,COMMON,3.614946e-05,1,subject matter
+OTHER,many,COMMON,3.614883e-05,1,many
+OTHER,connection,COMMON,3.5306297e-05,1,connection
+OTHER,level,COMMON,3.5085413e-05,1,level
+OTHER,practices,COMMON,3.5066827e-05,1,practices
+PERSON,person,COMMON,3.5040382e-05,1,person
+PERSON,vice chancellor,COMMON,3.503192e-05,1,vice chancellor
+PERSON,Vice Chancellor for Student Affairs,COMMON,3.503192e-05,1,Vice Chancellor for Student Affairs
+OTHER,situation,COMMON,3.4452452e-05,1,situation
+OTHER,job security,COMMON,3.444819e-05,1,job security
+PERSON,foreigners,COMMON,3.4442917e-05,1,foreigners
+WORK_OF_ART,papers,COMMON,3.443053e-05,1,papers
+OTHER,trends,COMMON,3.4420482e-05,1,trends
+OTHER,reality,COMMON,3.4417513e-05,1,reality
+PERSON,members,COMMON,3.440298e-05,1,members
+PERSON,anybody,COMMON,3.4398246e-05,1,anybody
+OTHER,protection,COMMON,3.4030676e-05,1,protection
+OTHER,tutoring,COMMON,3.3794277e-05,1,tutoring
+OTHER,tutoring,COMMON,3.378964e-05,1,tutoring
+OTHER,influence,COMMON,3.378053e-05,1,influence
+OTHER,procedures,COMMON,3.3773085e-05,1,procedures
+OTHER,influence,COMMON,3.3767225e-05,1,influence
+OTHER,purpose,COMMON,3.376433e-05,1,purpose
+OTHER,prophecy,COMMON,3.3370583e-05,1,prophecy
+OTHER,ship,COMMON,3.325622e-05,1,ship
+PERSON,others,COMMON,3.2479948e-05,1,others
+OTHER,source,COMMON,3.1676787e-05,1,source
+OTHER,something,COMMON,3.153745e-05,1,something
+OTHER,schedule,COMMON,3.1515974e-05,1,schedule
+OTHER,bonds,COMMON,3.0981537e-05,1,bonds
+OTHER,course material,COMMON,3.081979e-05,1,course material
+OTHER,direction,COMMON,3.0805884e-05,1,direction
+OTHER,tenure,COMMON,3.0801813e-05,1,tenure
+OTHER,lives,COMMON,3.079645e-05,1,lives
+OTHER,lives,COMMON,3.0795123e-05,1,lives
+OTHER,preoccupation,COMMON,3.0787247e-05,1,preoccupation
+OTHER,Officer Academic Affairs,COMMON,3.0767023e-05,1,Officer Academic Affairs
+EVENT,affair,COMMON,3.0765794e-05,1,affair
+LOCATION,classroom,COMMON,3.076457e-05,1,classroom
+LOCATION,classroom,COMMON,3.076457e-05,1,classroom
+PERSON,nobody,COMMON,2.967898e-05,1,nobody
+EVENT,reception,COMMON,2.9640487e-05,1,reception
+OTHER,Question answers,COMMON,2.9289446e-05,1,Question answers
+PERSON,Ana,PROPER,2.9142977e-05,1,Ana
+WORK_OF_ART,Titanic,PROPER,2.9134653e-05,1,Titanic
+PERSON,Berg,PROPER,2.9134653e-05,1,Berg
+LOCATION,LA,PROPER,2.9097586e-05,1,LA
+PERSON,couple,COMMON,2.9070385e-05,1,couple
+OTHER,mentoring,COMMON,2.9067733e-05,1,mentoring
+OTHER,light,COMMON,2.9058603e-05,1,light
+OTHER,pressures,COMMON,2.9058603e-05,1,pressures
+EVENT,conversations,COMMON,2.9042249e-05,1,conversations
+PERSON,couple,COMMON,2.9030163e-05,1,couple
+PERSON,couple,COMMON,2.9030163e-05,1,couple
+ORGANIZATION,Office,COMMON,2.9020786e-05,1,Office
+WORK_OF_ART,messages,COMMON,2.9020786e-05,1,messages
+LOCATION,office,COMMON,2.9020786e-05,1,office
+OTHER,activities,COMMON,2.901278e-05,1,activities
+OTHER,reputation,COMMON,2.8433067e-05,1,reputation
+PERSON,everyone,COMMON,2.7066604e-05,1,everyone
+OTHER,tension,COMMON,2.705801e-05,1,tension
+OTHER,notions,COMMON,2.7054393e-05,1,notions
+OTHER,point,COMMON,2.7046108e-05,1,point
+OTHER,meaning,COMMON,2.7042619e-05,1,meaning
+OTHER,everything,COMMON,2.7036886e-05,1,everything
+EVENT,announcements,COMMON,2.7027916e-05,1,announcements
+EVENT,announcements,COMMON,2.7027916e-05,1,announcements
+OTHER,symposium,COMMON,2.701811e-05,1,symposium
+OTHER,university environment,COMMON,2.701811e-05,1,university environment
+OTHER,symposium,COMMON,2.7017037e-05,1,symposium
+OTHER,I'm Sorry,PROPER,2.6289752e-05,1,I'm Sorry
+PERSON,folks,COMMON,2.6198108e-05,1,folks
+OTHER,check,COMMON,2.6057887e-05,1,check
+ORGANIZATION,Jacobs,PROPER,2.5398394e-05,1,Jacobs
+LOCATION,North,PROPER,2.53808e-05,1,North
+OTHER,depth,COMMON,2.4684265e-05,1,depth
+EVENT,competitiveness inquest,COMMON,2.4678644e-05,1,competitiveness inquest
+OTHER,pecking order,COMMON,2.4677533e-05,1,pecking order
+OTHER,threats,COMMON,2.4673127e-05,1,threats
+OTHER,reward,COMMON,2.4669866e-05,1,reward
+OTHER,inquiry,COMMON,2.4663446e-05,1,inquiry
+LOCATION,country,COMMON,2.466239e-05,1,country
+OTHER,reforms,COMMON,2.4654068e-05,1,reforms
+OTHER,reflections,COMMON,2.4654068e-05,1,reflections
+OTHER,Thanks,COMMON,2.4653044e-05,1,Thanks
+OTHER,achievement,COMMON,2.4642988e-05,1,achievement
+OTHER,schedule,COMMON,2.4637115e-05,1,schedule
+OTHER,claims,COMMON,2.4555102e-05,1,claims
+PERSON,Umm,PROPER,2.4484649e-05,1,Umm
+OTHER,howto,COMMON,2.348483e-05,1,howto
+ORGANIZATION,Harbor,PROPER,2.3268543e-05,1,Harbor
+OTHER,lives,COMMON,2.318768e-05,1,lives
+OTHER,operation,COMMON,2.3012242e-05,1,operation
+PERSON,Jacob Booth,PROPER,2.298326e-05,2,"Jacob Booth, Jacob"
+OTHER,fashion,COMMON,2.1678243e-05,1,fashion
+EVENT,meetings,COMMON,2.167725e-05,1,meetings
+OTHER,variety,COMMON,2.167527e-05,1,variety
+OTHER,ism,COMMON,2.1674288e-05,1,ism
+OTHER,ventures,COMMON,2.1668464e-05,1,ventures
+OTHER,haste,COMMON,2.1668464e-05,1,haste
+OTHER,barricades,COMMON,2.1668464e-05,1,barricades
+EVENT,closing,COMMON,2.1663705e-05,1,closing
+OTHER,fat,COMMON,2.1663705e-05,1,fat
+OTHER,spirituality,COMMON,2.1659032e-05,1,spirituality
+OTHER,room pack,COMMON,2.1642865e-05,1,room pack
+OTHER,frying,COMMON,2.1641996e-05,1,frying
+OTHER,climate,COMMON,2.1640264e-05,1,climate
+OTHER,fusion,COMMON,2.1640264e-05,1,fusion
+EVENT,session,COMMON,2.1639402e-05,1,session
+OTHER,themes,COMMON,2.1639402e-05,1,themes
+OTHER,breakfast,COMMON,2.1634294e-05,1,breakfast
+OTHER,wherewithal,COMMON,2.140319e-05,1,wherewithal
+LOCATION,venues,COMMON,2.1392962e-05,1,venues
+OTHER,announcement,COMMON,2.138538e-05,1,announcement
+OTHER,copies,COMMON,2.1371949e-05,1,copies
+LOCATION,University club,PROPER,2.0312304e-05,1,University club
+OTHER,Tto,COMMON,1.9297438e-05,1,Tto
+OTHER,Persistence Graduation,PROPER,1.9094954e-05,1,Persistence Graduation
+OTHER,worship,COMMON,1.7562454e-05,1,worship
+ORGANIZATION,Office for American Affairs,PROPER,1.7144255e-05,1,Office for American Affairs
+OTHER,Spring Symposium,PROPER,1.5961787e-05,1,Spring Symposium
+PERSON,Dick McCabe,PROPER,1.5381676e-05,1,Dick McCabe
+PERSON,Mohr,PROPER,1.278988e-05,1,Mohr
+PERSON,Teo,PROPER,1.2784647e-05,1,Teo
+ORGANIZATION,SYRIZA,PROPER,1.27826015e-05,1,SYRIZA
+LOCATION,Bloomington,PROPER,1.27826015e-05,1,Bloomington
+PERSON,Christian,PROPER,1.0358778e-05,1,Christian
+NUMBER,"3,000",COMMON,0,1,"3,000"
+NUMBER,one,COMMON,0,1,one
+NUMBER,45,COMMON,0,1,45
+NUMBER,one,COMMON,0,1,one
+NUMBER,One,COMMON,0,1,One
+NUMBER,One,COMMON,0,1,One
+NUMBER,15,COMMON,0,1,15
+NUMBER,17,COMMON,0,1,17
+NUMBER,three,COMMON,0,1,three
+NUMBER,40,COMMON,0,1,40
+NUMBER,20,COMMON,0,1,20
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,100,COMMON,0,1,100
+NUMBER,"1,000",COMMON,0,1,"1,000"
+NUMBER,four,COMMON,0,1,four
+NUMBER,six,COMMON,0,1,six
+NUMBER,one,COMMON,0,1,one
+NUMBER,100,COMMON,0,1,100
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,1/2,COMMON,0,1,1/2
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,nine,COMMON,0,1,nine
+NUMBER,two,COMMON,0,1,two
+NUMBER,three,COMMON,0,1,three
+NUMBER,two,COMMON,0,1,two
+NUMBER,40,COMMON,0,1,40
+NUMBER,one,COMMON,0,1,one
+NUMBER,100,COMMON,0,1,100
+NUMBER,two,COMMON,0,1,two
+NUMBER,one,COMMON,0,1,one
+DATE,1993,COMMON,0,1,1993
+NUMBER,two,COMMON,0,1,two
+NUMBER,two,COMMON,0,1,two
+NUMBER,One,COMMON,0,1,One
+NUMBER,5,COMMON,0,1,5
+NUMBER,30,COMMON,0,1,30
+NUMBER,40,COMMON,0,1,40
+NUMBER,two,COMMON,0,1,two
+NUMBER,eight,COMMON,0,1,eight
+NUMBER,Five,COMMON,0,1,Five
+NUMBER,70,COMMON,0,1,70
+NUMBER,1/4,COMMON,0,1,1/4
+NUMBER,10,COMMON,0,1,10
+NUMBER,one,COMMON,0,1,one
+NUMBER,two,COMMON,0,1,two
+NUMBER,two,COMMON,0,1,two
+NUMBER,"3,000",COMMON,0,1,"3,000"
+NUMBER,10,COMMON,0,1,10
+NUMBER,three,COMMON,0,1,three
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,two,COMMON,0,1,two
+NUMBER,20,COMMON,0,1,20
+NUMBER,93,COMMON,0,1,93
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,18,COMMON,0,1,18
+NUMBER,30,COMMON,0,1,30
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,1993,COMMON,0,1,1993

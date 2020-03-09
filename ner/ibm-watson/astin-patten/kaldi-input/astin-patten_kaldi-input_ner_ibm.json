@@ -1,0 +1,251 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 44113,
+    "features": 3
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "minimal kind of bomb success",
+      "relevance": 0.661057,
+      "count": 1
+    },
+    {
+      "text": "blind student success",
+      "relevance": 0.657863,
+      "count": 1
+    },
+    {
+      "text": "day of the battle",
+      "relevance": 0.626536,
+      "count": 1
+    },
+    {
+      "text": "degree program",
+      "relevance": 0.62579,
+      "count": 1
+    },
+    {
+      "text": "good news",
+      "relevance": 0.625059,
+      "count": 1
+    },
+    {
+      "text": "various kinds",
+      "relevance": 0.623479,
+      "count": 1
+    },
+    {
+      "text": "high level",
+      "relevance": 0.621085,
+      "count": 1
+    },
+    {
+      "text": "laws bankruptcy today",
+      "relevance": 0.616487,
+      "count": 1
+    },
+    {
+      "text": "management thing",
+      "relevance": 0.585906,
+      "count": 1
+    },
+    {
+      "text": "b dollars bow",
+      "relevance": 0.584325,
+      "count": 1
+    },
+    {
+      "text": "terms of the time",
+      "relevance": 0.57889,
+      "count": 1
+    },
+    {
+      "text": "honored grade point",
+      "relevance": 0.567809,
+      "count": 1
+    },
+    {
+      "text": "terms",
+      "relevance": 0.556427,
+      "count": 2
+    },
+    {
+      "text": "day of the others",
+      "relevance": 0.551342,
+      "count": 1
+    },
+    {
+      "text": "nice work",
+      "relevance": 0.547517,
+      "count": 1
+    },
+    {
+      "text": "kind of graduate school",
+      "relevance": 0.532326,
+      "count": 1
+    },
+    {
+      "text": "college",
+      "relevance": 0.531287,
+      "count": 2
+    },
+    {
+      "text": "bill",
+      "relevance": 0.520977,
+      "count": 1
+    },
+    {
+      "text": "boy",
+      "relevance": 0.520902,
+      "count": 1
+    },
+    {
+      "text": "party",
+      "relevance": 0.520473,
+      "count": 1
+    },
+    {
+      "text": "yoda",
+      "relevance": 0.520118,
+      "count": 1
+    },
+    {
+      "text": "beer",
+      "relevance": 0.519755,
+      "count": 1
+    },
+    {
+      "text": "honoree",
+      "relevance": 0.519708,
+      "count": 1
+    },
+    {
+      "text": "pope",
+      "relevance": 0.519487,
+      "count": 1
+    },
+    {
+      "text": "backyard",
+      "relevance": 0.519378,
+      "count": 1
+    },
+    {
+      "text": "courses",
+      "relevance": 0.51913,
+      "count": 1
+    },
+    {
+      "text": "light",
+      "relevance": 0.517827,
+      "count": 1
+    },
+    {
+      "text": "school war",
+      "relevance": 0.517358,
+      "count": 1
+    },
+    {
+      "text": "honors",
+      "relevance": 0.516359,
+      "count": 1
+    },
+    {
+      "text": "success",
+      "relevance": 0.514884,
+      "count": 1
+    },
+    {
+      "text": "entry",
+      "relevance": 0.512974,
+      "count": 1
+    },
+    {
+      "text": "terms of the things",
+      "relevance": 0.511091,
+      "count": 1
+    },
+    {
+      "text": "job",
+      "relevance": 0.50369,
+      "count": 1
+    },
+    {
+      "text": "look",
+      "relevance": 0.43839,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "eighty eight day",
+      "relevance": 0.01,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five years",
+      "relevance": 0.01,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six feet",
+      "relevance": 0.01,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten year",
+      "relevance": 0.01,
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.9734,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Higher education",
+      "relevance": 0.849557,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higher_education"
+    },
+    {
+      "text": "University",
+      "relevance": 0.462623,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Curriculum",
+      "relevance": 0.396544,
+      "dbpedia_resource": "http://dbpedia.org/resource/Curriculum"
+    },
+    {
+      "text": "College",
+      "relevance": 0.371282,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "The Higher",
+      "relevance": 0.320054,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Higher"
+    },
+    {
+      "text": "Student",
+      "relevance": 0.318437,
+      "dbpedia_resource": "http://dbpedia.org/resource/Student"
+    },
+    {
+      "text": "James Brown",
+      "relevance": 0.311311,
+      "dbpedia_resource": "http://dbpedia.org/resource/James_Brown"
+    }
+  ],
+  "warnings": [
+    "100000 exceeds allowable limit of 50000"
+  ]
+}

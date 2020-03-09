@@ -1,0 +1,1978 @@
+type,text,proper_or_common,salience,num_mentions,mentions
+PERSON,professor,COMMON,0.022007534,3,"professor, teacher, Father"
+PERSON,students,COMMON,0.01927423,1,students
+PERSON,people,COMMON,0.018584436,2,"people, people"
+PERSON,Carter,PROPER,0.017229086,19,"Carter, Chancellor, President, Carter, Carter, Carter, Carter, Carter, Carter, Carter, Carter, Carter, Carter, Chancellor, Carter, Chancellor, Carter, Carter, Chancellor"
+PERSON,Sutton,PROPER,0.01649912,13,"Sutton, President, Sutton, President, Sutton, President, Sutton, President, Sutton, Sutton, President, Sutton, President"
+PERSON,Chancellor,COMMON,0.011038698,9,"Chancellor, Chancellor, Chancellor, Chancellor, Chancellor, Chancellor, Chancellor, Chancellor, Chancellor"
+OTHER,obligation,COMMON,0.010988355,2,"cz, obligation"
+OTHER,format,COMMON,0.008875014,1,format
+ORGANIZATION,Bloomington Faculty Council,PROPER,0.007867011,5,"Council, Bloomington Faculty Council, Faculty Council, Faculty Council, Faculty Council"
+PERSON,Keith Parker,PROPER,0.0075664874,6,"Parker, Keith Parker, Parker, Mr, Parker, Parker"
+PERSON,students,COMMON,0.007464337,1,students
+OTHER,policy,COMMON,0.0072157476,1,policy
+LOCATION,Bloomington,PROPER,0.006983775,7,"Bloomington, Bloomington, town, Bloomington, Bloomington, Bloomington, Bloomington"
+OTHER,rights,COMMON,0.006782214,6,"rights, rights, rights, rights, rights, rights"
+PERSON,students,COMMON,0.006289251,1,students
+PERSON,Sutton,PROPER,0.0058605564,9,"Sutton, Mr, Sutton, Mr, Sutton, Mr, Sutton, Mr, Mr"
+PERSON,each other,COMMON,0.0054175355,1,each other
+PERSON,Professor,COMMON,0.0049952343,1,Professor
+PERSON,students,COMMON,0.00489374,1,students
+PERSON,students,COMMON,0.00487292,1,students
+OTHER,question,COMMON,0.004738165,2,"question, anything"
+PERSON,moderator,COMMON,0.004722333,2,"moderator, student"
+PERSON,students,COMMON,0.0046166494,1,students
+OTHER,thing,COMMON,0.0045248633,1,thing
+OTHER,recommendation,COMMON,0.0042812275,3,"recommendation, plan, plan"
+PERSON,president,COMMON,0.004103396,2,"president, member"
+OTHER,something,COMMON,0.0036140569,1,something
+PERSON,president,COMMON,0.0035759849,2,"president, president"
+PERSON,one,COMMON,0.003555393,1,one
+OTHER,thing,COMMON,0.003431921,1,thing
+OTHER,kind,COMMON,0.0032414848,1,kind
+ORGANIZATION,Indiana University,PROPER,0.0032115811,6,"Indiana University, Indiana University, Indiana University, Indiana University, Indiana University, Indiana University"
+PERSON,Waller,PROPER,0.0031612169,2,"Waller, student"
+OTHER,result,COMMON,0.0030330108,2,"b, result"
+OTHER,something,COMMON,0.0029851333,2,"something, something"
+OTHER,issues,COMMON,0.002946638,1,issues
+EVENT,mayhem,COMMON,0.0029243652,1,mayhem
+PERSON,Professor of Law Harry,PROPER,0.002906744,3,"moderator, Professor of Law Harry, Harry"
+OTHER,feet,COMMON,0.002846063,3,"feet, feet, feet"
+PERSON,students,COMMON,0.0028202622,1,students
+PERSON,Keith Parker,PROPER,0.0027900091,7,"Keith, Keith, Keith, Keith, president, Keith, Keith Parker"
+ORGANIZATION,Evansville Press,PROPER,0.0027822042,2,"Evansville Press, Evansville Press"
+OTHER,case,COMMON,0.0027588408,1,case
+OTHER,stuff,COMMON,0.0027484677,1,stuff
+PERSON,students,COMMON,0.0027476465,1,students
+CONSUMER_GOOD,bag,COMMON,0.002658808,1,bag
+OTHER,question,COMMON,0.002651395,4,"question, question, question, question"
+OTHER,any,COMMON,0.0025706694,3,"any, any, any"
+PERSON,Mike Jones,PROPER,0.0025440254,9,"Mike, Mike Jones, Mike, Mike, Mike, Mike, Mike, Mike, Mike"
+OTHER,way,COMMON,0.0024792126,1,way
+OTHER,diversion,COMMON,0.0024336462,2,"issue, diversion"
+EVENT,classes,COMMON,0.0024331252,1,classes
+PERSON,students,COMMON,0.002370945,2,"students, students"
+PERSON,students,COMMON,0.0023701868,2,"students, students"
+LOCATION,state,COMMON,0.0023439045,2,"state, state"
+OTHER,choice,COMMON,0.0022945239,1,choice
+OTHER,picket lines,COMMON,0.0022778912,1,picket lines
+EVENT,meeting,COMMON,0.0022764902,1,meeting
+EVENT,violation,COMMON,0.0022464332,1,violation
+LOCATION,Thailand,PROPER,0.0022418892,11,"Thailand, Thailand, Thailand, Thailand, Thailand, Thailand, Thailand, Thailand, Thailand, Thailand, Thailand"
+OTHER,sentiment,COMMON,0.0022404424,1,sentiment
+OTHER,something,COMMON,0.002229162,1,something
+PERSON,people,COMMON,0.002191595,1,people
+OTHER,B plus,COMMON,0.0021296896,1,B plus
+LOCATION,Indiana,PROPER,0.0021190578,6,"Indiana, Indiana, Indiana, Indiana, Indiana, Indiana"
+OTHER,things,COMMON,0.0020793239,1,things
+PERSON,people,COMMON,0.002075215,1,people
+OTHER,recommendation,COMMON,0.0020723594,1,recommendation
+OTHER,problems,COMMON,0.0020316362,1,problems
+OTHER,examination,COMMON,0.0019824128,2,"examination, possibility"
+PERSON,administrators,COMMON,0.0019592727,1,administrators
+OTHER,Number,COMMON,0.0019501831,2,"Number, thing"
+PERSON,students,COMMON,0.001945772,1,students
+PERSON,people,COMMON,0.0019339427,1,people
+PERSON,students,COMMON,0.0019075933,1,students
+OTHER,move,COMMON,0.0019031717,1,move
+ORGANIZATION,university,COMMON,0.0018773857,1,university
+PERSON,students,COMMON,0.0018758936,1,students
+PERSON,student,COMMON,0.0018753089,1,student
+PERSON,everybody,COMMON,0.0018746844,2,"everybody, Everybody"
+PERSON,student,COMMON,0.0018741826,1,student
+PERSON,student,COMMON,0.0018701635,1,student
+PERSON,student,COMMON,0.0018697076,1,student
+PERSON,students,COMMON,0.0018547317,1,students
+PERSON,people,COMMON,0.0018457904,1,people
+PERSON,kids,COMMON,0.0018326393,1,kids
+PERSON,demonstrators,COMMON,0.0018245989,1,demonstrators
+PERSON,people,COMMON,0.0018204977,1,people
+OTHER,thing,COMMON,0.0018117783,1,thing
+WORK_OF_ART,statement,COMMON,0.0017930267,1,statement
+PERSON,one,COMMON,0.0017855181,1,one
+OTHER,rights,COMMON,0.0017660406,2,"rights, rights"
+PERSON,people,COMMON,0.0017446306,1,people
+OTHER,Question,COMMON,0.0017440817,1,Question
+OTHER,question,COMMON,0.0017420991,1,question
+OTHER,answer,COMMON,0.0017337928,1,answer
+OTHER,question,COMMON,0.0017331541,1,question
+OTHER,thing,COMMON,0.001718533,1,thing
+ORGANIZATION,College of Arts and Sciences Policy Committee,PROPER,0.0017181332,4,"College of Arts and Sciences Policy Committee, College of Arts and Sciences, College of Arts and Sciences, College of Arts and Sciences"
+OTHER,obligation,COMMON,0.0017022983,1,obligation
+OTHER,question,COMMON,0.0016822862,1,question
+OTHER,one,COMMON,0.0016789066,1,one
+PERSON,people,COMMON,0.001657027,2,"people, people"
+EVENT,occasion,COMMON,0.0016485698,1,occasion
+OTHER,access,COMMON,0.0016382706,1,access
+LOCATION,halls,COMMON,0.0016382706,1,halls
+PERSON,people,COMMON,0.0016306818,1,people
+PERSON,people,COMMON,0.0016306543,1,people
+PERSON,people,COMMON,0.0016300366,1,people
+EVENT,workshops,COMMON,0.0016285335,1,workshops
+EVENT,speech,COMMON,0.001627801,1,speech
+LOCATION,campus,COMMON,0.0016030669,1,campus
+OTHER,chance,COMMON,0.0015925412,1,chance
+ORGANIZATION,student government,COMMON,0.0015792447,1,student government
+PERSON,marshals,COMMON,0.0015725705,1,marshals
+OTHER,money,COMMON,0.0015707236,1,money
+OTHER,matter,COMMON,0.0015697167,1,matter
+PERSON,people,COMMON,0.0015589594,2,"people, people"
+OTHER,thing,COMMON,0.00155302,1,thing
+OTHER,question,COMMON,0.0015357864,2,"question, question"
+PERSON,student body president,COMMON,0.0015234337,1,student body president
+PERSON,people,COMMON,0.0015174351,1,people
+ORGANIZATION,university,COMMON,0.0015091462,1,university
+OTHER,All,COMMON,0.0015069176,1,All
+OTHER,DH,COMMON,0.0014902918,3,"DH, DH, DH"
+PERSON,president,COMMON,0.0014901898,1,president
+OTHER,violence,COMMON,0.0014804602,1,violence
+OTHER,student government demands,COMMON,0.0014768387,1,student government demands
+PERSON,President,COMMON,0.0014727588,1,President
+OTHER,ugliness,COMMON,0.0014551207,1,ugliness
+WORK_OF_ART,statement,COMMON,0.0014543742,1,statement
+OTHER,government contracts,COMMON,0.0014440543,2,"government contracts, government contracts"
+OTHER,statements,COMMON,0.0014432389,1,statements
+PERSON,students,COMMON,0.0014382517,1,students
+WORK_OF_ART,statement,COMMON,0.0014366943,1,statement
+ORGANIZATION,Law school,COMMON,0.001430675,1,Law school
+WORK_OF_ART,Harvey Report,PROPER,0.0013959171,1,Harvey Report
+OTHER,one,COMMON,0.0013953949,1,one
+OTHER,administration building,COMMON,0.0013911015,1,administration building
+OTHER,rights,COMMON,0.0013886096,2,"rights, rights"
+EVENT,war,COMMON,0.0013730143,1,war
+OTHER,something,COMMON,0.0013627514,1,something
+ORGANIZATION,Um,PROPER,0.0013400759,3,"Um, Um, Um"
+LOCATION,campus,COMMON,0.0013231093,1,campus
+EVENT,meeting,COMMON,0.0013219564,1,meeting
+LOCATION,campuses,COMMON,0.0013101628,1,campuses
+OTHER,some,COMMON,0.0013101628,1,some
+PERSON,Tom Shortlist,PROPER,0.0012906953,5,"Tom, Tom Shortlist, Tom, Tom, Tom"
+EVENT,meeting,COMMON,0.0012893261,1,meeting
+LOCATION,campus,COMMON,0.0012885927,1,campus
+OTHER,obligation,COMMON,0.0012868812,2,"obligation, obligation"
+LOCATION,world,COMMON,0.0012792074,1,world
+OTHER,number,COMMON,0.001266548,2,"number, number"
+OTHER,divisions,COMMON,0.0012434929,1,divisions
+OTHER,campus matter,COMMON,0.0012364617,2,"statement, campus matter"
+OTHER,understanding,COMMON,0.00122923,1,understanding
+WORK_OF_ART,report,COMMON,0.0012209535,1,report
+OTHER,cz,COMMON,0.0012087811,1,cz
+PERSON,girl,COMMON,0.0012063626,1,girl
+OTHER,community,COMMON,0.0012032306,1,community
+OTHER,issue,COMMON,0.0011967224,1,issue
+OTHER,diversion,COMMON,0.0011965862,1,diversion
+OTHER,lot,COMMON,0.0011956666,1,lot
+PERSON,student leaders,COMMON,0.0011941704,2,"student leaders, student leaders"
+OTHER,answer,COMMON,0.0011748811,1,answer
+PERSON,people,COMMON,0.0011734792,1,people
+ORGANIZATION,police,COMMON,0.0011714483,2,"police, police"
+OTHER,answer,COMMON,0.0011664918,1,answer
+OTHER,politics,COMMON,0.0011630431,2,"politics, politics"
+ORGANIZATION,law school,COMMON,0.0011607951,1,law school
+PERSON,Thousands,COMMON,0.0011586278,1,Thousands
+OTHER,statements,COMMON,0.0011505018,1,statements
+PERSON,moderator,COMMON,0.0011491587,1,moderator
+OTHER,myth,COMMON,0.0011429439,1,myth
+PERSON,people,COMMON,0.0011421575,1,people
+OTHER,statements,COMMON,0.0011419047,1,statements
+PERSON,administrators,COMMON,0.0011399373,1,administrators
+PERSON,law professors,COMMON,0.0011342886,1,law professors
+ORGANIZATION,committee,COMMON,0.0011322444,2,"committee, committee"
+EVENT,meeting,COMMON,0.0011302482,1,meeting
+PERSON,people,COMMON,0.0011279166,1,people
+EVENT,meeting,COMMON,0.0011206414,1,meeting
+PERSON,students,COMMON,0.0011036061,1,students
+PERSON,students,COMMON,0.0011021653,1,students
+EVENT,meeting,COMMON,0.0011008498,1,meeting
+EVENT,meeting,COMMON,0.0010979889,1,meeting
+OTHER,law,COMMON,0.0010977215,1,law
+OTHER,All,COMMON,0.0010975593,1,All
+OTHER,picket lines,COMMON,0.0010922264,1,picket lines
+ORGANIZATION,administration,COMMON,0.0010859258,1,administration
+WORK_OF_ART,essay,COMMON,0.0010820435,2,"essay, essay"
+OTHER,name,COMMON,0.0010814816,1,name
+OTHER,situation,COMMON,0.0010803944,1,situation
+PERSON,people,COMMON,0.0010796832,1,people
+OTHER,law,COMMON,0.001073765,1,law
+OTHER,law,COMMON,0.0010729637,1,law
+WORK_OF_ART,comments,COMMON,0.0010500221,1,comments
+PERSON,Brian Hall,PROPER,0.0010475786,5,"Brian, Brian Hall, Brian Hall, Brian Hall, Brian"
+LOCATION,Evansville,PROPER,0.0010407597,4,"Evansville, Evansville, Evansville, Evansville"
+OTHER,response,COMMON,0.0010180266,1,response
+OTHER,response,COMMON,0.0010169364,1,response
+OTHER,recommendation,COMMON,0.0010156094,2,"part, recommendation"
+PERSON,people,COMMON,0.000995719,1,people
+OTHER,number,COMMON,0.0009917441,1,number
+OTHER,actions,COMMON,0.0009854971,1,actions
+PERSON,People,COMMON,0.0009747898,1,People
+OTHER,credit everything,COMMON,0.0009723353,1,credit everything
+OTHER,divisions,COMMON,0.00096710183,1,divisions
+OTHER,recommendations,COMMON,0.0009606675,1,recommendations
+PERSON,school leaders,COMMON,0.0009580476,1,school leaders
+OTHER,conscience,COMMON,0.000957449,1,conscience
+OTHER,things,COMMON,0.0009571441,1,things
+OTHER,conscience,COMMON,0.00095663586,1,conscience
+OTHER,conscience,COMMON,0.0009551624,1,conscience
+OTHER,kinds,COMMON,0.000953258,1,kinds
+PERSON,leader,COMMON,0.000949736,1,leader
+PERSON,people,COMMON,0.00094929105,1,people
+PERSON,student leaders,COMMON,0.0009481215,1,student leaders
+PERSON,speaker,COMMON,0.00094637705,1,speaker
+LOCATION,stage,COMMON,0.0009434159,1,stage
+OTHER,consultation,COMMON,0.00094279065,1,consultation
+OTHER,stage,COMMON,0.00093749946,1,stage
+OTHER,hell,COMMON,0.0009372912,1,hell
+OTHER,hell,COMMON,0.000937169,1,hell
+ORGANIZATION,commission,COMMON,0.000926162,1,commission
+EVENT,protest,COMMON,0.00092025637,1,protest
+PERSON,moderates,COMMON,0.0009137956,1,moderates
+OTHER,stage,COMMON,0.0009129821,1,stage
+OTHER,student government defense Fund,COMMON,0.00090660073,1,student government defense Fund
+OTHER,times,COMMON,0.00090657896,1,times
+OTHER,quotations,COMMON,0.00090561755,1,quotations
+OTHER,recommendation,COMMON,0.00090110535,1,recommendation
+OTHER,picket lines,COMMON,0.0009007118,2,"picket lines, picket lines"
+PERSON,students,COMMON,0.00089932635,1,students
+LOCATION,state,COMMON,0.00087915285,1,state
+OTHER,place,COMMON,0.00087681063,1,place
+OTHER,classes,COMMON,0.00087502453,1,classes
+OTHER,class,COMMON,0.000874388,1,class
+OTHER,one,COMMON,0.000870809,1,one
+OTHER,money,COMMON,0.0008691451,1,money
+OTHER,place,COMMON,0.00086680456,1,place
+OTHER,things,COMMON,0.0008666499,1,things
+PERSON,People,COMMON,0.0008654996,2,"People, People"
+OTHER,lot,COMMON,0.00086084526,1,lot
+OTHER,question,COMMON,0.0008568036,1,question
+OTHER,point,COMMON,0.0008551412,2,"point, point"
+OTHER,conduct,COMMON,0.00085145916,1,conduct
+OTHER,word,COMMON,0.0008472325,1,word
+OTHER,word,COMMON,0.00084648724,1,word
+OTHER,word,COMMON,0.0008461339,1,word
+PERSON,audience,COMMON,0.0008451413,1,audience
+OTHER,views,COMMON,0.0008451413,1,views
+OTHER,lot,COMMON,0.00084348826,1,lot
+OTHER,defense,COMMON,0.0008384376,1,defense
+OTHER,defenses,COMMON,0.00083636807,1,defenses
+OTHER,anything,COMMON,0.0008353505,1,anything
+OTHER,some,COMMON,0.0008349099,2,"some, some"
+OTHER,reason,COMMON,0.00083388767,1,reason
+PERSON,gentleman,COMMON,0.0008304532,1,gentleman
+PERSON,People,COMMON,0.0008285744,1,People
+OTHER,ways,COMMON,0.00082794955,1,ways
+OTHER,item,COMMON,0.00082277396,1,item
+PERSON,Gentlemen,COMMON,0.0008190762,1,Gentlemen
+EVENT,occasions,COMMON,0.0008187321,1,occasions
+OTHER,facts,COMMON,0.00081633276,2,"facts, facts"
+PERSON,person,COMMON,0.00081297755,1,person
+OTHER,bit,COMMON,0.00080846465,1,bit
+OTHER,first,COMMON,0.0008053824,1,first
+OTHER,matter,COMMON,0.00080443756,1,matter
+ORGANIZATION,schools,COMMON,0.0008043379,1,schools
+OTHER,source,COMMON,0.0008014915,1,source
+OTHER,direction,COMMON,0.00080076477,1,direction
+OTHER,police signal,COMMON,0.00079853635,1,police signal
+OTHER,bond,COMMON,0.00079837383,1,bond
+OTHER,bond,COMMON,0.00079821394,1,bond
+OTHER,student problems,COMMON,0.00079759955,1,student problems
+OTHER,bit,COMMON,0.00079730636,1,bit
+PERSON,ice students,COMMON,0.0007970415,1,ice students
+OTHER,name,COMMON,0.0007947724,1,name
+OTHER,concern,COMMON,0.0007940298,1,concern
+OTHER,concern,COMMON,0.00079382607,1,concern
+PERSON,picketers,COMMON,0.00079023116,1,picketers
+OTHER,access,COMMON,0.0007854742,1,access
+PERSON,people,COMMON,0.00078268873,1,people
+OTHER,society,COMMON,0.00077850325,1,society
+OTHER,discussion,COMMON,0.00077252707,1,discussion
+OTHER,arson science,COMMON,0.000770952,1,arson science
+LOCATION,Princeton,PROPER,0.0007654859,3,"Princeton, Princeton, Princeton"
+LOCATION,world,COMMON,0.00076399476,1,world
+LOCATION,world,COMMON,0.0007635123,1,world
+LOCATION,world,COMMON,0.0007630536,1,world
+OTHER,understanding,COMMON,0.0007626166,1,understanding
+OTHER,peace,COMMON,0.00076002633,1,peace
+OTHER,floor,COMMON,0.00075910543,1,floor
+OTHER,grades,COMMON,0.00075552,1,grades
+OTHER,bullshit,COMMON,0.0007545799,1,bullshit
+EVENT,announcement,COMMON,0.00075356575,1,announcement
+OTHER,case,COMMON,0.0007526527,1,case
+OTHER,essence,COMMON,0.00075141876,2,"head, essence"
+OTHER,cases,COMMON,0.000748808,1,cases
+ORGANIZATION,Division of Arts and Sciences,PROPER,0.00074539916,1,Division of Arts and Sciences
+PERSON,reporter,COMMON,0.0007427151,1,reporter
+OTHER,incomplete,COMMON,0.0007424237,2,"incomplete, one"
+OTHER,mythology,COMMON,0.0007344556,1,mythology
+OTHER,differences,COMMON,0.0007328301,1,differences
+PERSON,group,COMMON,0.0007313073,1,group
+ORGANIZATION,Rolls,PROPER,0.0007217735,1,Rolls
+ORGANIZATION,Ballantine,PROPER,0.0007217735,1,Ballantine
+PERSON,community,COMMON,0.00071526825,1,community
+PERSON,people,COMMON,0.00071384106,1,people
+OTHER,feelings,COMMON,0.0007117827,1,feelings
+OTHER,rest,COMMON,0.0007108597,1,rest
+OTHER,list,COMMON,0.0007039742,1,list
+OTHER,questions,COMMON,0.0007028937,2,"questions, questions"
+OTHER,conduct,COMMON,0.0007014513,1,conduct
+PERSON,students,COMMON,0.000700329,1,students
+OTHER,force,COMMON,0.0007001,1,force
+OTHER,bail,COMMON,0.00069915474,1,bail
+PERSON,students,COMMON,0.0006989206,1,students
+WORK_OF_ART,newspapers,COMMON,0.00069871877,1,newspapers
+WORK_OF_ART,newspapers,COMMON,0.00069861324,1,newspapers
+OTHER,question,COMMON,0.00069861254,2,"question, question"
+ORGANIZATION,newspapers,COMMON,0.0006985089,1,newspapers
+PERSON,students,COMMON,0.0006984553,1,students
+ORGANIZATION,alumni group,COMMON,0.0006982035,1,alumni group
+PERSON,students,COMMON,0.0006974788,1,students
+PERSON,students,COMMON,0.0006962968,1,students
+OTHER,duties,COMMON,0.00069426507,1,duties
+OTHER,steps,COMMON,0.0006922615,1,steps
+OTHER,action,COMMON,0.00069167453,1,action
+OTHER,hope,COMMON,0.0006844784,1,hope
+PERSON,people,COMMON,0.0006839012,1,people
+PERSON,people,COMMON,0.0006826675,1,people
+PERSON,people,COMMON,0.00068229384,1,people
+OTHER,question,COMMON,0.0006758714,1,question
+OTHER,cut,COMMON,0.0006756771,2,"cut, eye"
+PERSON,Gary Vote,PROPER,0.0006744059,2,"Gary Vote, Gary"
+PERSON,students,COMMON,0.00066548004,1,students
+OTHER,money,COMMON,0.00066274917,1,money
+ORGANIZATION,university,COMMON,0.0006618326,1,university
+PERSON,Edwards,PROPER,0.0006605824,3,"Edwards, Professor, Sermon"
+PERSON,faculty member,COMMON,0.00066015625,1,faculty member
+OTHER,question,COMMON,0.0006583441,1,question
+OTHER,question,COMMON,0.0006581897,1,question
+OTHER,questions,COMMON,0.0006576715,1,questions
+OTHER,question,COMMON,0.00065679004,1,question
+OTHER,things,COMMON,0.00065544114,1,things
+OTHER,point,COMMON,0.00065423525,1,point
+PERSON,faculty,COMMON,0.00065307127,1,faculty
+OTHER,end,COMMON,0.00065115414,1,end
+OTHER,explanation,COMMON,0.0006500841,1,explanation
+OTHER,values,COMMON,0.0006500841,1,values
+PERSON,faculty,COMMON,0.0006491291,1,faculty
+ORGANIZATION,university,COMMON,0.0006488604,1,university
+OTHER,civilization,COMMON,0.0006475394,1,civilization
+OTHER,agreement,COMMON,0.0006475394,1,agreement
+ORGANIZATION,administration,COMMON,0.00064596353,1,administration
+ORGANIZATION,university administration,COMMON,0.0006459439,1,university administration
+OTHER,dollars,COMMON,0.0006413472,1,dollars
+OTHER,thing,COMMON,0.0006397312,1,thing
+OTHER,horse,COMMON,0.0006389568,1,horse
+PERSON,marshals,COMMON,0.000638487,1,marshals
+OTHER,jail,COMMON,0.00063826237,1,jail
+OTHER,dimes,COMMON,0.0006379371,1,dimes
+OTHER,ways,COMMON,0.0006372274,1,ways
+OTHER,things,COMMON,0.0006371041,1,things
+OTHER,thing,COMMON,0.0006368754,1,thing
+OTHER,connection,COMMON,0.0006367574,1,connection
+OTHER,time limit,COMMON,0.0006361929,1,time limit
+PERSON,human being,COMMON,0.0006351921,1,human being
+OTHER,doubts,COMMON,0.0006334966,1,doubts
+CONSUMER_GOOD,motorcycle helmets,COMMON,0.00063078484,1,motorcycle helmets
+CONSUMER_GOOD,shirts,COMMON,0.00063067145,1,shirts
+OTHER,notes,COMMON,0.00062771887,1,notes
+OTHER,aspects,COMMON,0.0006275796,1,aspects
+PERSON,gentleman,COMMON,0.0006261602,1,gentleman
+PERSON,people,COMMON,0.00061680295,1,people
+OTHER,words,COMMON,0.0006142861,1,words
+WORK_OF_ART,books,COMMON,0.00061020517,1,books
+OTHER,apprehension,COMMON,0.00060906966,1,apprehension
+OTHER,divisions,COMMON,0.0006032225,1,divisions
+PERSON,leader,COMMON,0.00060307933,1,leader
+OTHER,point,COMMON,0.00060179504,2,"point, point"
+EVENT,strike,COMMON,0.00060123875,1,strike
+OTHER,acts,COMMON,0.00059822766,2,"acts, acts"
+OTHER,things,COMMON,0.00059722713,1,things
+OTHER,love,COMMON,0.0005959059,1,love
+EVENT,classes,COMMON,0.00058381335,1,classes
+OTHER,podium,COMMON,0.0005828204,1,podium
+PERSON,students,COMMON,0.0005759473,1,students
+LOCATION,Vietnam,PROPER,0.00057588064,6,"Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnamese"
+ORGANIZATION,university,COMMON,0.0005740536,1,university
+ORGANIZATION,university,COMMON,0.0005738898,1,university
+ORGANIZATION,university,COMMON,0.0005738361,1,university
+ORGANIZATION,university,COMMON,0.0005738361,1,university
+ORGANIZATION,university,COMMON,0.00057337014,1,university
+ORGANIZATION,university,COMMON,0.00057283987,1,university
+ORGANIZATION,university,COMMON,0.000572702,1,university
+OTHER,chance,COMMON,0.0005719941,1,chance
+OTHER,phrase,COMMON,0.0005709271,1,phrase
+OTHER,rationality,COMMON,0.0005680831,1,rationality
+OTHER,meadows,COMMON,0.00056700554,1,meadows
+OTHER,affair,COMMON,0.0005660738,1,affair
+OTHER,sense,COMMON,0.0005658593,1,sense
+OTHER,means,COMMON,0.0005649611,1,means
+OTHER,benefit,COMMON,0.0005646962,1,benefit
+OTHER,prime,COMMON,0.00056401757,1,prime
+LOCATION,mine,COMMON,0.00056401757,1,mine
+OTHER,question,COMMON,0.00056216016,1,question
+OTHER,question,COMMON,0.00056213106,1,question
+PERSON,people,COMMON,0.00056198385,1,people
+OTHER,misdemeanor,COMMON,0.0005618243,1,misdemeanor
+OTHER,questions,COMMON,0.00056115666,1,questions
+EVENT,round,COMMON,0.00056094513,1,round
+OTHER,applause,COMMON,0.00056094513,1,applause
+OTHER,bands,COMMON,0.00056074193,1,bands
+OTHER,course,COMMON,0.00056064257,1,course
+OTHER,nickels,COMMON,0.000560259,1,nickels
+OTHER,None,COMMON,0.00055946753,1,None
+OTHER,left,COMMON,0.00055853784,1,left
+OTHER,spectrum,COMMON,0.00055846584,1,spectrum
+OTHER,opinion,COMMON,0.00055846584,1,opinion
+OTHER,disdain,COMMON,0.00055839453,1,disdain
+OTHER,extemporaneously,COMMON,0.0005581167,1,extemporaneously
+PERSON,president,COMMON,0.0005533929,1,president
+PERSON,president,COMMON,0.0005530245,1,president
+PERSON,vice presidents,COMMON,0.0005506722,1,vice presidents
+PERSON,student,COMMON,0.0005453814,1,student
+PERSON,student,COMMON,0.0005453136,1,student
+OTHER,something,COMMON,0.0005449881,1,something
+PERSON,people,COMMON,0.00054164394,1,people
+PERSON,faculty,COMMON,0.0005411781,1,faculty
+WORK_OF_ART,statement,COMMON,0.0005408146,1,statement
+ORGANIZATION,faculty council,COMMON,0.0005403828,1,faculty council
+OTHER,statement,COMMON,0.00053978036,1,statement
+PERSON,faculty,COMMON,0.0005397302,1,faculty
+PERSON,faculty,COMMON,0.0005396804,1,faculty
+OTHER,statement,COMMON,0.0005392022,1,statement
+PERSON,faculty,COMMON,0.0005389756,1,faculty
+PERSON,faculty,COMMON,0.00053806213,1,faculty
+PERSON,faculty,COMMON,0.00053806213,1,faculty
+PERSON,faculty,COMMON,0.0005380235,1,faculty
+EVENT,withdrawal,COMMON,0.0005375194,1,withdrawal
+OTHER,censure,COMMON,0.0005373672,1,censure
+PERSON,man,COMMON,0.00053684623,1,man
+OTHER,budget,COMMON,0.00053679163,1,budget
+PERSON,veterans,COMMON,0.0005354671,1,veterans
+OTHER,thing,COMMON,0.00053426495,1,thing
+OTHER,quest,COMMON,0.00053389865,1,quest
+PERSON,Bond,PROPER,0.00053345953,1,Bond
+LOCATION,German,PROPER,0.0005286187,2,"German, German"
+PERSON,Kaga,PROPER,0.00052857475,2,"Kaga, Chancellor"
+OTHER,point,COMMON,0.00052589225,1,point
+PERSON,Satin,PROPER,0.0005224939,1,Satin
+OTHER,question,COMMON,0.00051936274,1,question
+OTHER,program,COMMON,0.00051482004,1,program
+PERSON,student,COMMON,0.00051466096,1,student
+OTHER,question,COMMON,0.0005142708,1,question
+OTHER,policy,COMMON,0.0005108303,1,policy
+OTHER,foreign policy,COMMON,0.0005108303,1,foreign policy
+OTHER,thing,COMMON,0.0005062523,1,thing
+OTHER,answer,COMMON,0.0004983848,1,answer
+PERSON,faculty,COMMON,0.00049754983,1,faculty
+PERSON,man,COMMON,0.000495574,1,man
+OTHER,resolution,COMMON,0.00049351004,1,resolution
+OTHER,all,COMMON,0.00048611287,1,all
+OTHER,rights,COMMON,0.0004843437,1,rights
+OTHER,rights,COMMON,0.0004843437,1,rights
+OTHER,reasons,COMMON,0.00048357312,1,reasons
+OTHER,demand,COMMON,0.00048024315,1,demand
+OTHER,right,COMMON,0.00047866348,1,right
+OTHER,violence,COMMON,0.00047814357,1,violence
+OTHER,proposal,COMMON,0.00047728137,1,proposal
+PERSON,Vice Chancellor,COMMON,0.00047660034,1,Vice Chancellor
+OTHER,opportunity,COMMON,0.00047345902,1,opportunity
+LOCATION,Cambodia,PROPER,0.00047306795,5,"Cambodia, Cambodia, Cambodia, Cambodia, Cambodian"
+PERSON,Nixon,PROPER,0.0004728922,2,"Nixon, President"
+OTHER,announcement,COMMON,0.00047211663,1,announcement
+PERSON,chancellor,COMMON,0.0004717358,1,chancellor
+OTHER,idea,COMMON,0.00047148456,1,idea
+PERSON,fact students,COMMON,0.00047089127,1,fact students
+PERSON,Prouder,PROPER,0.00047084654,2,"Prouder, Mr"
+PERSON,students,COMMON,0.00047073455,1,students
+EVENT,Strike,COMMON,0.00046845013,1,Strike
+PERSON,students,COMMON,0.0004684156,1,students
+PERSON,students,COMMON,0.00046830464,1,students
+PERSON,students,COMMON,0.00046827726,1,students
+PERSON,town students,COMMON,0.00046795834,1,town students
+PERSON,town students,COMMON,0.00046790688,1,town students
+PERSON,Student,COMMON,0.00046751113,1,Student
+PERSON,students,COMMON,0.00046746354,1,students
+PERSON,people,COMMON,0.00046431142,1,people
+PERSON,people,COMMON,0.00046345082,1,people
+PERSON,people,COMMON,0.00046322698,1,people
+PERSON,people,COMMON,0.00046320708,1,people
+PERSON,people,COMMON,0.00046318723,1,people
+PERSON,people,COMMON,0.00046308906,1,people
+PERSON,police,COMMON,0.00046303845,2,"police, police"
+PERSON,people,COMMON,0.00046230864,1,people
+EVENT,co hosting,COMMON,0.00045956377,1,co hosting
+PERSON,People,COMMON,0.00045911514,1,People
+PERSON,town people,COMMON,0.0004588854,1,town people
+PERSON,People,COMMON,0.00045856938,1,People
+ORGANIZATION,administration,COMMON,0.00045815893,1,administration
+ORGANIZATION,administration,COMMON,0.00045814016,1,administration
+PERSON,people,COMMON,0.00045781877,1,people
+PERSON,people,COMMON,0.00045781877,1,people
+OTHER,vote,COMMON,0.00045693718,1,vote
+PERSON,students,COMMON,0.00045669923,1,students
+OTHER,jobs,COMMON,0.00045390517,1,jobs
+OTHER,commitment,COMMON,0.0004525123,1,commitment
+OTHER,manifestation,COMMON,0.0004495519,1,manifestation
+OTHER,question,COMMON,0.0004468351,1,question
+OTHER,things,COMMON,0.0004448238,1,things
+OTHER,questions,COMMON,0.00044403077,1,questions
+OTHER,question,COMMON,0.00044401098,1,question
+OTHER,question,COMMON,0.00044391316,1,question
+OTHER,question,COMMON,0.00044359322,1,question
+OTHER,question,COMMON,0.0004431211,1,question
+OTHER,questions,COMMON,0.00044264089,1,questions
+EVENT,strike,COMMON,0.00044246682,1,strike
+ORGANIZATION,institution,COMMON,0.00044145357,1,institution
+OTHER,answer,COMMON,0.0004407841,1,answer
+OTHER,questions,COMMON,0.00043910847,1,questions
+PERSON,business school faculty,COMMON,0.00043811346,1,business school faculty
+OTHER,money,COMMON,0.00043771867,1,money
+OTHER,questions,COMMON,0.00043736032,1,questions
+ORGANIZATION,university,COMMON,0.00043344384,1,university
+ORGANIZATION,university,COMMON,0.00043339372,1,university
+ORGANIZATION,university,COMMON,0.000433009,1,university
+WORK_OF_ART,article,COMMON,0.0004327871,1,article
+OTHER,scholarship,COMMON,0.00043221182,1,scholarship
+PERSON,students,COMMON,0.00043179287,1,students
+PERSON,students,COMMON,0.00043179287,1,students
+ORGANIZATION,university,COMMON,0.00043176304,1,university
+PERSON,students,COMMON,0.00043168178,1,students
+ORGANIZATION,university,COMMON,0.00043112016,1,university
+PERSON,students,COMMON,0.00043107278,1,students
+OTHER,something,COMMON,0.00043077223,1,something
+OTHER,violence,COMMON,0.0004286537,1,violence
+OTHER,statements,COMMON,0.00042711428,1,statements
+OTHER,plans,COMMON,0.00042647158,1,plans
+OTHER,government contracts,COMMON,0.0004245653,1,government contracts
+OTHER,records,COMMON,0.0004245653,1,records
+OTHER,contract,COMMON,0.00042452835,1,contract
+OTHER,contract,COMMON,0.00042449165,1,contract
+OTHER,contracts,COMMON,0.0004244552,1,contracts
+OTHER,government contracts,COMMON,0.00042438312,1,government contracts
+ORGANIZATION,institution,COMMON,0.0004225785,1,institution
+PERSON,people,COMMON,0.00042241422,1,people
+PERSON,speaker,COMMON,0.00042159433,1,speaker
+PERSON,policemen,COMMON,0.00042104875,1,policemen
+OTHER,all,COMMON,0.0004199624,1,all
+OTHER,body,COMMON,0.00041915788,1,body
+LOCATION,classroom,COMMON,0.0004179574,1,classroom
+OTHER,way,COMMON,0.00041765074,1,way
+OTHER,classes,COMMON,0.0004159356,1,classes
+ORGANIZATION,university,COMMON,0.00041587197,1,university
+PERSON,people,COMMON,0.00041460348,1,people
+PERSON,people,COMMON,0.00041458572,1,people
+OTHER,conditions,COMMON,0.00041412006,1,conditions
+PERSON,students,COMMON,0.00041338117,1,students
+OTHER,help,COMMON,0.00041274543,2,"help, help"
+OTHER,names,COMMON,0.00041267657,1,names
+OTHER,names,COMMON,0.00041256237,1,names
+OTHER,doorways,COMMON,0.0004125045,1,doorways
+OTHER,Michigan Study,PROPER,0.00041196484,1,Michigan Study
+PERSON,law school faculty,COMMON,0.0004119615,1,law school faculty
+PERSON,Wait,PROPER,0.0004106747,1,Wait
+PERSON,faculty,COMMON,0.00041035085,1,faculty
+LOCATION,campus,COMMON,0.00040979343,1,campus
+OTHER,many,COMMON,0.00040774344,1,many
+OTHER,question,COMMON,0.00040574995,1,question
+OTHER,question,COMMON,0.00040467843,1,question
+PERSON,Anak Atomic,PROPER,0.00040139354,2,"Vice President, Anak Atomic"
+OTHER,more,COMMON,0.00040005136,1,more
+OTHER,kind,COMMON,0.00039734147,2,"kind, hole"
+OTHER,things,COMMON,0.0003946799,1,things
+PERSON,Students,COMMON,0.00039366842,1,Students
+OTHER,part,COMMON,0.0003928043,1,part
+OTHER,statement,COMMON,0.0003927056,1,statement
+OTHER,authority,COMMON,0.00039010457,1,authority
+PERSON,people,COMMON,0.00038937863,1,people
+OTHER,question,COMMON,0.0003883089,1,question
+OTHER,two,COMMON,0.00038684494,1,two
+ORGANIZATION,university,COMMON,0.00038489385,1,university
+OTHER,relationships,COMMON,0.00038486664,1,relationships
+ORGANIZATION,university,COMMON,0.00038413706,1,university
+ORGANIZATION,university,COMMON,0.00038411716,1,university
+ORGANIZATION,university,COMMON,0.0003840973,1,university
+ORGANIZATION,university,COMMON,0.00038399937,1,university
+OTHER,student vote,COMMON,0.00038387824,1,student vote
+PERSON,faculty members,COMMON,0.00038307765,1,faculty members
+PERSON,faculty member,COMMON,0.0003828582,1,faculty member
+PERSON,people,COMMON,0.00038114598,1,people
+OTHER,buildup,COMMON,0.00038001928,1,buildup
+OTHER,answer,COMMON,0.00037989617,1,answer
+PERSON,Dale,PROPER,0.00037868056,1,Dale
+OTHER,All,COMMON,0.00037832977,1,All
+OTHER,question,COMMON,0.000376028,1,question
+OTHER,responsibility,COMMON,0.00037384356,1,responsibility
+OTHER,kind,COMMON,0.0003731691,1,kind
+ORGANIZATION,institution,COMMON,0.00037313442,1,institution
+OTHER,number,COMMON,0.00037296486,1,number
+OTHER,presence,COMMON,0.00037291538,1,presence
+OTHER,kind,COMMON,0.00037258203,1,kind
+OTHER,numbers,COMMON,0.0003723147,1,numbers
+OTHER,number,COMMON,0.00037228595,1,number
+OTHER,kind,COMMON,0.0003715716,1,kind
+PERSON,president,COMMON,0.00037096863,1,president
+PERSON,president,COMMON,0.000370813,1,president
+PERSON,president,COMMON,0.00037043585,1,president
+PERSON,value president,COMMON,0.0003702585,1,value president
+PERSON,President,COMMON,0.00036992345,1,President
+PERSON,president,COMMON,0.0003696961,1,president
+PERSON,Khun,PROPER,0.00036763304,1,Khun
+CONSUMER_GOOD,mike,COMMON,0.00036521239,1,mike
+PERSON,faculty,COMMON,0.00036430106,1,faculty
+PERSON,faculty,COMMON,0.00036424733,1,faculty
+OTHER,activity,COMMON,0.00036385417,1,activity
+PERSON,faculty,COMMON,0.00036375498,1,faculty
+OTHER,fact,COMMON,0.00036368973,1,fact
+PERSON,students,COMMON,0.00036297482,1,students
+PERSON,students,COMMON,0.00036297482,1,students
+PERSON,students,COMMON,0.00036284732,1,students
+PERSON,Turner,PROPER,0.00036275067,2,"Turner, Miss"
+OTHER,activities,COMMON,0.00036271574,1,activities
+LOCATION,office,COMMON,0.00036255675,1,office
+LOCATION,farm,COMMON,0.0003622738,1,farm
+WORK_OF_ART,statement,COMMON,0.00036225375,1,statement
+CONSUMER_GOOD,PC,COMMON,0.00036209318,1,PC
+WORK_OF_ART,statement,COMMON,0.000361963,1,statement
+OTHER,fact,COMMON,0.00036189135,1,fact
+OTHER,student government office,COMMON,0.00036158037,1,student government office
+WORK_OF_ART,statement,COMMON,0.0003614914,1,statement
+WORK_OF_ART,statement,COMMON,0.00036139524,1,statement
+WORK_OF_ART,statement,COMMON,0.00036128258,1,statement
+WORK_OF_ART,statement,COMMON,0.0003608419,1,statement
+OTHER,access,COMMON,0.0003603938,1,access
+PERSON,Stand Mitt,PROPER,0.00035959415,2,"Stand Mitt, Professor"
+OTHER,bit,COMMON,0.00035792575,1,bit
+OTHER,answer,COMMON,0.00035631633,1,answer
+PERSON,people,COMMON,0.0003559183,1,people
+OTHER,riot gear,COMMON,0.0003556058,1,riot gear
+PERSON,man,COMMON,0.00035530308,1,man
+ORGANIZATION,university,COMMON,0.00035446856,1,university
+OTHER,times,COMMON,0.00035384897,1,times
+OTHER,insurance,COMMON,0.00035348258,1,insurance
+OTHER,conscience,COMMON,0.0003523821,1,conscience
+OTHER,plans,COMMON,0.0003521381,1,plans
+OTHER,matters,COMMON,0.000351812,1,matters
+PERSON,men,COMMON,0.0003513115,1,men
+OTHER,matter,COMMON,0.00035130893,1,matter
+OTHER,matter,COMMON,0.0003510124,1,matter
+PERSON,professors,COMMON,0.00035065186,1,professors
+OTHER,all,COMMON,0.0003494906,1,all
+OTHER,policy,COMMON,0.00034480664,1,policy
+PERSON,police,COMMON,0.00034458181,1,police
+PERSON,police,COMMON,0.0003445455,1,police
+PERSON,police,COMMON,0.00034452142,1,police
+OTHER,question,COMMON,0.0003438542,1,question
+PERSON,Michael,PROPER,0.0003433294,2,"Michael, Michael"
+OTHER,Sudden,PROPER,0.000343077,1,Sudden
+OTHER,attention,COMMON,0.0003425384,2,"attention, attention"
+ORGANIZATION,state police,COMMON,0.00034226544,1,state police
+ORGANIZATION,police,COMMON,0.0003422465,1,police
+OTHER,foreign policy,COMMON,0.00034215304,1,foreign policy
+OTHER,politics,COMMON,0.0003419722,1,politics
+OTHER,preservation,COMMON,0.00034164402,1,preservation
+PERSON,president,COMMON,0.0003415712,1,president
+OTHER,quotations,COMMON,0.0003412864,1,quotations
+OTHER,property,COMMON,0.00034120708,1,property
+PERSON,President,COMMON,0.0003410305,1,President
+OTHER,defense fund,COMMON,0.0003398183,1,defense fund
+OTHER,fund,COMMON,0.0003397903,1,fund
+OTHER,quotas,COMMON,0.00033959947,1,quotas
+OTHER,quotas,COMMON,0.00033957293,1,quotas
+OTHER,intention,COMMON,0.0003383152,1,intention
+PERSON,Wass,PROPER,0.0003381323,1,Wass
+WORK_OF_ART,Statement,COMMON,0.0003364691,1,Statement
+OTHER,way,COMMON,0.00033616959,1,way
+OTHER,contributions,COMMON,0.00033574866,1,contributions
+OTHER,contributions,COMMON,0.00033572098,1,contributions
+OTHER,sections,COMMON,0.00033545154,1,sections
+OTHER,proportion,COMMON,0.00033536405,1,proportion
+OTHER,question,COMMON,0.00033525526,1,question
+OTHER,things,COMMON,0.00033402085,1,things
+PERSON,faculty,COMMON,0.00033366255,1,faculty
+PERSON,faculty,COMMON,0.00033337984,1,faculty
+LOCATION,state,COMMON,0.00033330967,1,state
+PERSON,faculty,COMMON,0.00033318246,1,faculty
+ORGANIZATION,committee,COMMON,0.00033295437,1,committee
+WORK_OF_ART,statement,COMMON,0.0003328408,1,statement
+OTHER,power,COMMON,0.00032820215,2,"power, power"
+OTHER,power,COMMON,0.00032817147,2,"power, power"
+OTHER,demands,COMMON,0.00032788384,1,demands
+OTHER,demand,COMMON,0.00032785215,1,demand
+OTHER,relation,COMMON,0.00032769746,1,relation
+OTHER,body,COMMON,0.00032754854,1,body
+OTHER,relation,COMMON,0.00032729373,1,relation
+OTHER,rights,COMMON,0.00032709338,1,rights
+OTHER,chance,COMMON,0.00032701594,1,chance
+OTHER,relation,COMMON,0.000326732,1,relation
+OTHER,some,COMMON,0.00032672103,1,some
+LOCATION,campus,COMMON,0.00032654716,1,campus
+OTHER,Name,COMMON,0.0003264783,1,Name
+LOCATION,campus,COMMON,0.0003264749,1,campus
+PERSON,couple,COMMON,0.00032645345,1,couple
+PERSON,Some,COMMON,0.0003264157,1,Some
+LOCATION,campus,COMMON,0.00032634576,1,campus
+LOCATION,campus,COMMON,0.00032633424,1,campus
+OTHER,body,COMMON,0.0003263035,1,body
+LOCATION,campus,COMMON,0.00032629984,1,campus
+LOCATION,campus,COMMON,0.0003262207,1,campus
+LOCATION,campus,COMMON,0.00032620953,1,campus
+PERSON,some,COMMON,0.00032603485,1,some
+OTHER,right,COMMON,0.0003245177,1,right
+OTHER,sector,COMMON,0.00032446705,1,sector
+OTHER,some,COMMON,0.00032440072,1,some
+LOCATION,campus,COMMON,0.00032421315,1,campus
+LOCATION,campus,COMMON,0.0003241226,1,campus
+PERSON,some,COMMON,0.0003241226,1,some
+OTHER,recommendation,COMMON,0.00032392933,1,recommendation
+EVENT,campaign,COMMON,0.00032368262,1,campaign
+LOCATION,campus,COMMON,0.00032340447,1,campus
+OTHER,right,COMMON,0.00032335997,1,right
+PERSON,students,COMMON,0.00032333596,1,students
+LOCATION,studio,COMMON,0.0003232337,1,studio
+PERSON,Wei,PROPER,0.00032091985,1,Wei
+PERSON,everybody,COMMON,0.00031996536,1,everybody
+OTHER,responsibility,COMMON,0.00031953372,1,responsibility
+OTHER,right,COMMON,0.00031940153,1,right
+PERSON,Hooker,PROPER,0.00031881666,2,"Hooker, Mayor"
+PERSON,people,COMMON,0.00031693303,1,people
+PERSON,people,COMMON,0.00031686702,1,people
+PERSON,people,COMMON,0.00031684327,1,people
+PERSON,people,COMMON,0.00031674982,1,people
+PERSON,people,COMMON,0.00031659706,1,people
+PERSON,people,COMMON,0.00031659153,1,people
+PERSON,people,COMMON,0.000316542,1,people
+PERSON,peoples,COMMON,0.0003165256,1,peoples
+PERSON,people,COMMON,0.0003164931,1,people
+OTHER,orders,COMMON,0.00031464163,1,orders
+OTHER,reasons,COMMON,0.00031434544,1,reasons
+OTHER,reason,COMMON,0.0003140087,1,reason
+OTHER,view,COMMON,0.00031395056,1,view
+EVENT,demonstration,COMMON,0.00031383685,1,demonstration
+ORGANIZATION,foundation,COMMON,0.00031380894,1,foundation
+OTHER,foundations,COMMON,0.00031378123,1,foundations
+OTHER,Mike,PROPER,0.0003134944,2,"Mike, size"
+OTHER,anything,COMMON,0.00031289802,1,anything
+OTHER,anything,COMMON,0.0003128114,1,anything
+OTHER,things,COMMON,0.0003118148,1,things
+OTHER,kind,COMMON,0.0003081097,1,kind
+ORGANIZATION,university committee,COMMON,0.00030543943,1,university committee
+ORGANIZATION,university committee,COMMON,0.00030530815,1,university committee
+PERSON,Sultan,PROPER,0.00030480605,2,"Sultan, President"
+OTHER,question,COMMON,0.0003038683,1,question
+OTHER,question,COMMON,0.0003038317,1,question
+OTHER,question,COMMON,0.00030382565,1,question
+OTHER,question,COMMON,0.0003038015,1,question
+OTHER,question,COMMON,0.0003038015,1,question
+OTHER,question,COMMON,0.00030373002,1,question
+PERSON,president,COMMON,0.0003037258,1,president
+OTHER,positions,COMMON,0.00030337455,1,positions
+OTHER,question,COMMON,0.00030317748,1,question
+OTHER,comment,COMMON,0.00030315015,1,comment
+OTHER,times,COMMON,0.00030287463,1,times
+ORGANIZATION,student government,COMMON,0.00030267384,1,student government
+PERSON,people,COMMON,0.00030262285,1,people
+PERSON,chancellor,COMMON,0.0003023014,1,chancellor
+ORGANIZATION,faculty council,COMMON,0.00030089248,1,faculty council
+OTHER,lives,COMMON,0.00029965767,1,lives
+PERSON,many,COMMON,0.00029926267,1,many
+WORK_OF_ART,report,COMMON,0.00029918973,1,report
+PERSON,officers,COMMON,0.0002990865,1,officers
+EVENT,referendum,COMMON,0.00029905495,1,referendum
+OTHER,referendum,COMMON,0.00029896828,1,referendum
+OTHER,rights,COMMON,0.0002988647,1,rights
+EVENT,protest,COMMON,0.00029872006,1,protest
+WORK_OF_ART,books,COMMON,0.00029866712,1,books
+OTHER,referendum,COMMON,0.00029808562,1,referendum
+OTHER,concern,COMMON,0.00029797538,1,concern
+PERSON,people,COMMON,0.0002973018,1,people
+OTHER,answer,COMMON,0.00029721032,1,answer
+OTHER,demands,COMMON,0.00029700226,1,demands
+PERSON,answer,COMMON,0.0002969961,1,answer
+OTHER,issue,COMMON,0.00029693544,1,issue
+OTHER,issue,COMMON,0.00029664653,1,issue
+OTHER,action,COMMON,0.00029516246,1,action
+OTHER,plan,COMMON,0.00029202198,1,plan
+PERSON,somebody,COMMON,0.0002919244,1,somebody
+PERSON,Boyle,PROPER,0.00029185976,2,"Boyle, Mr"
+PERSON,Julius Getman,PROPER,0.00029163432,2,"Julius Getman, War Professor"
+PERSON,George Juergens,PROPER,0.00029162623,2,"George Juergens, Professor"
+PERSON,someone,COMMON,0.00029157064,1,someone
+OTHER,quote,COMMON,0.0002915015,1,quote
+ORGANIZATION,schools,COMMON,0.00029133388,1,schools
+WORK_OF_ART,books,COMMON,0.0002912489,1,books
+OTHER,answers,COMMON,0.00029016007,1,answers
+OTHER,truth,COMMON,0.00028715175,1,truth
+OTHER,recommendation,COMMON,0.00028677212,1,recommendation
+OTHER,recommendation,COMMON,0.0002867615,1,recommendation
+OTHER,recommendation,COMMON,0.00028639915,1,recommendation
+OTHER,statement,COMMON,0.0002860784,1,statement
+OTHER,statement,COMMON,0.0002859569,1,statement
+OTHER,point,COMMON,0.00028427414,1,point
+OTHER,opportunity,COMMON,0.00028244162,1,opportunity
+PERSON,Cousin,PROPER,0.00028225326,1,Cousin
+PERSON,others,COMMON,0.00028223437,1,others
+PERSON,others,COMMON,0.00028223437,1,others
+OTHER,way,COMMON,0.00028163378,1,way
+PERSON,Sir,COMMON,0.00028153503,1,Sir
+PERSON,others,COMMON,0.0002815117,1,others
+OTHER,campus way,COMMON,0.0002813481,1,campus way
+OTHER,majority rule,COMMON,0.0002811373,1,majority rule
+OTHER,attention,COMMON,0.00028103456,1,attention
+WORK_OF_ART,comments,COMMON,0.00027974122,1,comments
+OTHER,many,COMMON,0.00027944427,1,many
+OTHER,comments,COMMON,0.00027939735,1,comments
+EVENT,class,COMMON,0.00027920894,1,class
+OTHER,way,COMMON,0.00027908338,1,way
+OTHER,questions,COMMON,0.0002787662,1,questions
+EVENT,council meeting,COMMON,0.0002761771,1,council meeting
+EVENT,campus meeting,COMMON,0.00027616683,1,campus meeting
+PERSON,Everyone,COMMON,0.00027612367,1,Everyone
+PERSON,Everyone,COMMON,0.00027611104,1,Everyone
+OTHER,administration,COMMON,0.00027595766,1,administration
+LOCATION,country,COMMON,0.0002756535,1,country
+ORGANIZATION,student government,COMMON,0.00027431917,1,student government
+OTHER,course,COMMON,0.00027418134,1,course
+EVENT,meetings,COMMON,0.00027405628,1,meetings
+EVENT,alumni meeting,COMMON,0.00027401198,1,alumni meeting
+ORGANIZATION,government,COMMON,0.00027398276,1,government
+EVENT,meeting,COMMON,0.00027386835,1,meeting
+ORGANIZATION,construction guys,COMMON,0.00027369644,1,construction guys
+PERSON,students,COMMON,0.00027366276,1,students
+OTHER,answer,COMMON,0.00027099092,1,answer
+OTHER,action,COMMON,0.00027029417,1,action
+PERSON,many,COMMON,0.00026885502,1,many
+PERSON,speakers,COMMON,0.00026776918,1,speakers
+ORGANIZATION,Law school,COMMON,0.0002671723,1,Law school
+PERSON,deans,COMMON,0.0002670281,1,deans
+ORGANIZATION,school,COMMON,0.00026700652,1,school
+ORGANIZATION,school,COMMON,0.00026700652,1,school
+OTHER,issue,COMMON,0.0002666,1,issue
+OTHER,question,COMMON,0.00026533392,1,question
+ORGANIZATION,university,COMMON,0.00026523625,1,university
+OTHER,strike lines,COMMON,0.00026500368,1,strike lines
+OTHER,line,COMMON,0.00026497044,1,line
+OTHER,picket lines,COMMON,0.00026481965,1,picket lines
+OTHER,line,COMMON,0.0002645961,1,line
+OTHER,participation,COMMON,0.00026455708,1,participation
+OTHER,parts,COMMON,0.0002645474,1,parts
+PERSON,person,COMMON,0.00026429634,2,"person, person"
+PERSON,representatives,COMMON,0.000263291,1,representatives
+OTHER,hand,COMMON,0.0002627692,1,hand
+OTHER,hand,COMMON,0.0002627692,1,hand
+ORGANIZATION,school,COMMON,0.00026265663,1,school
+OTHER,part,COMMON,0.00026258372,1,part
+PERSON,individual,COMMON,0.00026256952,1,individual
+PERSON,crowd,COMMON,0.00026256207,1,crowd
+OTHER,sentiment,COMMON,0.0002625371,1,sentiment
+OTHER,recommendation,COMMON,0.00026251166,1,recommendation
+OTHER,recommendation,COMMON,0.00026242307,1,recommendation
+OTHER,context,COMMON,0.00026237578,1,context
+OTHER,alternatives,COMMON,0.00026234405,1,alternatives
+OTHER,judgment recommendations,COMMON,0.00026232918,1,judgment recommendations
+OTHER,containment,COMMON,0.00026215657,1,containment
+OTHER,accordance,COMMON,0.000262032,1,accordance
+OTHER,all,COMMON,0.0002618418,1,all
+OTHER,resolution,COMMON,0.0002616521,1,resolution
+OTHER,piece,COMMON,0.00026152286,1,piece
+OTHER,President satin,COMMON,0.00026148686,1,President satin
+OTHER,support,COMMON,0.000261364,1,support
+PERSON,rest,COMMON,0.00026050888,1,rest
+OTHER,backseat,COMMON,0.00025902694,1,backseat
+PERSON,faculty member,COMMON,0.00025827734,1,faculty member
+WORK_OF_ART,report,COMMON,0.00025807152,1,report
+OTHER,point,COMMON,0.00025801998,1,point
+WORK_OF_ART,report,COMMON,0.00025801148,1,report
+OTHER,point,COMMON,0.00025798607,1,point
+PERSON,many,COMMON,0.00025776614,1,many
+OTHER,blood,COMMON,0.00025770004,1,blood
+OTHER,way,COMMON,0.00025769445,1,way
+OTHER,way,COMMON,0.0002576631,1,way
+OTHER,classes,COMMON,0.0002576553,1,classes
+OTHER,class,COMMON,0.00025762434,1,class
+PERSON,law class,COMMON,0.0002575937,1,law class
+OTHER,class,COMMON,0.00025726116,1,class
+PERSON,reporters,COMMON,0.0002565675,1,reporters
+OTHER,money,COMMON,0.0002559968,1,money
+OTHER,money,COMMON,0.00025597264,1,money
+OTHER,money,COMMON,0.00025593676,1,money
+PERSON,president,COMMON,0.0002557797,1,president
+PERSON,president,COMMON,0.0002556399,1,president
+OTHER,way,COMMON,0.00025451655,1,way
+OTHER,relations,COMMON,0.0002539986,1,relations
+ORGANIZATION,administration,COMMON,0.00025285766,1,administration
+OTHER,function,COMMON,0.0002528043,1,function
+ORGANIZATION,administration,COMMON,0.00025266325,1,administration
+OTHER,purpose,COMMON,0.0002524729,1,purpose
+PERSON,instructor,COMMON,0.000251768,1,instructor
+OTHER,responses,COMMON,0.000251652,1,responses
+OTHER,responsibility,COMMON,0.00025160855,1,responsibility
+OTHER,credit,COMMON,0.00025149834,1,credit
+OTHER,T c credit,COMMON,0.00025149834,1,T c credit
+OTHER,credit,COMMON,0.00025148172,1,credit
+OTHER,credit,COMMON,0.00025145698,1,credit
+OTHER,answer,COMMON,0.00025087473,1,answer
+PERSON,people,COMMON,0.0002507777,1,people
+OTHER,statistics,COMMON,0.000249949,1,statistics
+PERSON,Marty,PROPER,0.00024953805,1,Marty
+OTHER,statements,COMMON,0.0002494412,1,statements
+OTHER,penalties,COMMON,0.00024907308,1,penalties
+OTHER,kinds,COMMON,0.00024872206,1,kinds
+PERSON,people,COMMON,0.00024834657,1,people
+OTHER,ideas,COMMON,0.00024785363,1,ideas
+OTHER,action,COMMON,0.0002452058,1,action
+PERSON,picketers,COMMON,0.00024515635,1,picketers
+PERSON,picketer,COMMON,0.00024514657,1,picketer
+OTHER,anything,COMMON,0.0002450722,1,anything
+OTHER,fact,COMMON,0.00024491176,1,fact
+PERSON,uniform officers,COMMON,0.00024468574,1,uniform officers
+OTHER,issue,COMMON,0.00024457643,1,issue
+OTHER,issue,COMMON,0.00024457174,1,issue
+OTHER,science,COMMON,0.00024457078,1,science
+OTHER,issue,COMMON,0.00024456705,1,issue
+OTHER,implication,COMMON,0.00024374771,1,implication
+OTHER,stand,COMMON,0.00024360741,1,stand
+OTHER,stand,COMMON,0.00024359509,1,stand
+OTHER,fact,COMMON,0.00024305393,1,fact
+OTHER,office,COMMON,0.00024258165,1,office
+OTHER,picket lines,COMMON,0.00024225713,1,picket lines
+OTHER,lines,COMMON,0.00024224949,1,lines
+OTHER,part,COMMON,0.0002420432,1,part
+OTHER,part,COMMON,0.00024195903,1,part
+OTHER,floor microphones,COMMON,0.00024101573,1,floor microphones
+LOCATION,stand,COMMON,0.00024061304,1,stand
+LOCATION,hometowns,COMMON,0.0002401177,1,hometowns
+PERSON,friends,COMMON,0.00024008912,1,friends
+PERSON,neighbors,COMMON,0.00024008912,1,neighbors
+OTHER,mayhem,COMMON,0.00024000504,1,mayhem
+EVENT,death,COMMON,0.00024000504,1,death
+OTHER,damage,COMMON,0.00024000504,1,damage
+OTHER,possibilities,COMMON,0.00024000504,1,possibilities
+WORK_OF_ART,paper,COMMON,0.0002399503,1,paper
+OTHER,mess,COMMON,0.00023945291,1,mess
+OTHER,direction,COMMON,0.00023936287,1,direction
+OTHER,way,COMMON,0.00023930732,1,way
+OTHER,salaries,COMMON,0.00023912868,1,salaries
+OTHER,message,COMMON,0.00023910831,1,message
+OTHER,Doubt,COMMON,0.00023896949,1,Doubt
+OTHER,percentage,COMMON,0.00023896949,1,percentage
+OTHER,percentage,COMMON,0.00023896949,1,percentage
+OTHER,system,COMMON,0.0002386059,1,system
+OTHER,paper,COMMON,0.00023850516,1,paper
+PERSON,everybody,COMMON,0.0002380345,1,everybody
+OTHER,matter,COMMON,0.00023771133,1,matter
+OTHER,matter,COMMON,0.00023754917,1,matter
+OTHER,consideration,COMMON,0.00023725776,1,consideration
+OTHER,arts,COMMON,0.00023721844,1,arts
+OTHER,faculty vault,COMMON,0.00023712168,1,faculty vault
+WORK_OF_ART,report,COMMON,0.00023659776,1,report
+OTHER,point,COMMON,0.00023656034,1,point
+OTHER,politics,COMMON,0.00023629419,1,politics
+OTHER,point,COMMON,0.0002360947,1,point
+OTHER,policy,COMMON,0.00023603886,1,policy
+PERSON,leader,COMMON,0.0002359723,1,leader
+EVENT,strike,COMMON,0.0002357986,1,strike
+OTHER,lead,COMMON,0.00023520357,1,lead
+OTHER,strings,COMMON,0.0002348661,1,strings
+OTHER,blank,COMMON,0.00023441676,1,blank
+OTHER,things,COMMON,0.00023395268,1,things
+OTHER,question,COMMON,0.00023390676,1,question
+OTHER,thing,COMMON,0.00023374114,1,thing
+OTHER,things,COMMON,0.00023365913,1,things
+OTHER,speaker,COMMON,0.00023257431,1,speaker
+PERSON,one,COMMON,0.00023194353,1,one
+ORGANIZATION,institution,COMMON,0.0002306099,1,institution
+OTHER,response,COMMON,0.00023059527,1,response
+OTHER,number,COMMON,0.00023028455,1,number
+OTHER,proposals,COMMON,0.00022931768,1,proposals
+OTHER,courier,COMMON,0.00022816971,1,courier
+OTHER,quotes,COMMON,0.00022786441,1,quotes
+PERSON,co moderator,COMMON,0.0002277007,1,co moderator
+OTHER,stage,COMMON,0.00022761131,1,stage
+OTHER,fund,COMMON,0.00022754612,1,fund
+OTHER,recommendation,COMMON,0.00022659355,1,recommendation
+PERSON,Chancellor,COMMON,0.00022656482,1,Chancellor
+PERSON,chancellor,COMMON,0.00022654679,1,chancellor
+PERSON,chancellor,COMMON,0.00022651108,1,chancellor
+OTHER,answers,COMMON,0.00022648895,1,answers
+PERSON,students,COMMON,0.00022567845,1,students
+PERSON,students,COMMON,0.00022561218,1,students
+OTHER,responses,COMMON,0.0002249911,1,responses
+ORGANIZATION,business school,COMMON,0.00022477651,1,business school
+OTHER,divisions,COMMON,0.00022433023,1,divisions
+EVENT,strike,COMMON,0.00022424989,1,strike
+ORGANIZATION,university,COMMON,0.00022336312,1,university
+PERSON,people,COMMON,0.00022135008,1,people
+OTHER,name,COMMON,0.00022131666,1,name
+PERSON,people,COMMON,0.0002212422,1,people
+PERSON,people,COMMON,0.00022122113,1,people
+OTHER,violence,COMMON,0.00022105387,1,violence
+OTHER,violence,COMMON,0.00021969757,1,violence
+EVENT,war,COMMON,0.00021959688,1,war
+OTHER,name,COMMON,0.00021948798,1,name
+OTHER,bond,COMMON,0.0002192111,1,bond
+OTHER,student body,COMMON,0.00021919623,1,student body
+ORGANIZATION,student body,COMMON,0.00021917505,1,student body
+OTHER,demand,COMMON,0.00021913319,1,demand
+PERSON,anybody,COMMON,0.00021771467,1,anybody
+PERSON,everyone,COMMON,0.00021743515,1,everyone
+PERSON,speakers,COMMON,0.00021705624,1,speakers
+OTHER,experience,COMMON,0.00021674158,1,experience
+OTHER,feelings,COMMON,0.0002163642,1,feelings
+OTHER,opportunity,COMMON,0.0002153984,1,opportunity
+ORGANIZATION,administration,COMMON,0.00021276734,1,administration
+EVENT,law school meeting,COMMON,0.00021261272,1,law school meeting
+ORGANIZATION,government,COMMON,0.00021236138,1,government
+OTHER,question,COMMON,0.00021205236,1,question
+OTHER,question,COMMON,0.00021202471,1,question
+OTHER,questions,COMMON,0.00021197367,1,questions
+OTHER,question,COMMON,0.00021196359,1,question
+OTHER,questions,COMMON,0.00021196024,1,questions
+OTHER,question,COMMON,0.00021183911,1,question
+OTHER,reason,COMMON,0.00021170433,1,reason
+ORGANIZATION,department,COMMON,0.00021147086,1,department
+OTHER,exams,COMMON,0.00021136481,1,exams
+OTHER,exam,COMMON,0.00021133941,1,exam
+OTHER,circumstances,COMMON,0.00021080297,1,circumstances
+OTHER,bye,COMMON,0.00021077858,1,bye
+PERSON,citizens,COMMON,0.00021077858,1,citizens
+OTHER,initiative,COMMON,0.00021077858,1,initiative
+OTHER,destruction,COMMON,0.00021077858,1,destruction
+OTHER,word,COMMON,0.00021070504,1,word
+LOCATION,standstill,COMMON,0.00021063934,1,standstill
+OTHER,fees,COMMON,0.00021056901,1,fees
+OTHER,view,COMMON,0.00021043976,1,view
+OTHER,college,COMMON,0.00021036698,1,college
+OTHER,college,COMMON,0.00021036698,1,college
+OTHER,attitude,COMMON,0.00021035464,1,attitude
+PERSON,staff,COMMON,0.00021035464,1,staff
+OTHER,funds,COMMON,0.00021035333,1,funds
+OTHER,funds,COMMON,0.00021033302,1,funds
+OTHER,stage,COMMON,0.00021031956,1,stage
+OTHER,behalf,COMMON,0.00021023414,1,behalf
+OTHER,repudiation,COMMON,0.00021023414,1,repudiation
+OTHER,learning,COMMON,0.00021017596,1,learning
+OTHER,view,COMMON,0.00021016682,1,view
+OTHER,campus complicity,COMMON,0.00021010038,1,campus complicity
+OTHER,information,COMMON,0.00021010038,1,information
+ORGANIZATION,court,COMMON,0.00021004611,1,court
+PERSON,audience,COMMON,0.00021000994,1,audience
+PERSON,investigators,COMMON,0.00021000895,1,investigators
+OTHER,money back stage,COMMON,0.00021000425,1,money back stage
+OTHER,fund,COMMON,0.00020999242,1,fund
+OTHER,defense,COMMON,0.00020993005,1,defense
+OTHER,purpose,COMMON,0.00020988136,1,purpose
+OTHER,fifties,COMMON,0.00020973658,1,fifties
+OTHER,nature,COMMON,0.00020959525,1,nature
+OTHER,touch,COMMON,0.00020944688,1,touch
+OTHER,question,COMMON,0.00020941558,1,question
+OTHER,policy commitment,COMMON,0.0002093957,1,policy commitment
+PERSON,king,COMMON,0.00020932037,1,king
+OTHER,addition,COMMON,0.00020929308,1,addition
+OTHER,correction,COMMON,0.00020929308,1,correction
+OTHER,matter,COMMON,0.00020806682,1,matter
+LOCATION,country,COMMON,0.00020625607,1,country
+PERSON,law professor,COMMON,0.00020523275,1,law professor
+OTHER,issues,COMMON,0.00020331693,1,issues
+OTHER,issue,COMMON,0.00020331693,1,issue
+OTHER,issue,COMMON,0.00020329753,1,issue
+OTHER,issue,COMMON,0.00020327063,1,issue
+OTHER,student demands,COMMON,0.0002024891,1,student demands
+OTHER,principles,COMMON,0.00020245132,1,principles
+ORGANIZATION,student body,COMMON,0.0002023473,1,student body
+OTHER,Silent majority,COMMON,0.00020227939,1,Silent majority
+OTHER,bit,COMMON,0.000202017,1,bit
+EVENT,protest,COMMON,0.000201685,1,protest
+OTHER,matter,COMMON,0.0002015554,1,matter
+OTHER,lives,COMMON,0.00020149308,1,lives
+OTHER,Bobby Seale Defense Fund,PROPER,0.00020077279,1,Bobby Seale Defense Fund
+OTHER,education,COMMON,0.00020046852,1,education
+PERSON,person,COMMON,0.00020040816,1,person
+OTHER,headline,COMMON,0.00020038443,1,headline
+OTHER,problems,COMMON,0.0002002691,1,problems
+LOCATION,town,COMMON,0.00020023555,1,town
+OTHER,something,COMMON,0.00020018315,1,something
+OTHER,concerns,COMMON,0.00020004335,1,concerns
+OTHER,terms,COMMON,0.00019979934,1,terms
+OTHER,heads,COMMON,0.00019979934,1,heads
+OTHER,head,COMMON,0.00019979934,1,head
+OTHER,terms,COMMON,0.00019978083,1,terms
+PERSON,Paul Dobbs,PROPER,0.00019968016,2,"Paul Dobbs, Paul"
+EVENT,session,COMMON,0.0001995927,1,session
+LOCATION,Southeast Asia,PROPER,0.00019951358,5,"Southeast Asia, Southeast Asia, Southeast Asia, Asia, Asia"
+OTHER,lines,COMMON,0.00019948679,1,lines
+LOCATION,park,COMMON,0.00019860755,1,park
+PERSON,gentleman,COMMON,0.00019828767,1,gentleman
+PERSON,question gentleman,COMMON,0.00019784391,1,question gentleman
+PERSON,professors,COMMON,0.00019675486,1,professors
+OTHER,contract,COMMON,0.00019674674,1,contract
+OTHER,credit,COMMON,0.0001966295,1,credit
+PERSON,assistant professor,COMMON,0.0001963551,1,assistant professor
+OTHER,Democracy,COMMON,0.00019632226,1,Democracy
+PERSON,some,COMMON,0.00019560744,1,some
+OTHER,accounting,COMMON,0.0001951464,1,accounting
+OTHER,truth,COMMON,0.00019446293,1,truth
+OTHER,premise,COMMON,0.00019441046,1,premise
+ORGANIZATION,foundation,COMMON,0.00019406152,1,foundation
+ORGANIZATION,foundation,COMMON,0.00019404913,1,foundation
+ORGANIZATION,foundation,COMMON,0.00019404913,1,foundation
+PERSON,audience,COMMON,0.00019401844,1,audience
+OTHER,obligation,COMMON,0.00019389378,1,obligation
+OTHER,words,COMMON,0.00019379192,1,words
+LOCATION,auditorium,COMMON,0.00019369427,1,auditorium
+OTHER,backlash,COMMON,0.00019359542,1,backlash
+OTHER,figures,COMMON,0.00019326479,1,figures
+OTHER,way,COMMON,0.00019313072,1,way
+OTHER,obligation,COMMON,0.00019152013,1,obligation
+OTHER,floor,COMMON,0.00019072453,1,floor
+PERSON,people,COMMON,0.00019072383,1,people
+LOCATION,floor,COMMON,0.00019070745,1,floor
+OTHER,microphone,COMMON,0.00019069895,1,microphone
+OTHER,front,COMMON,0.00019064033,1,front
+LOCATION,home,COMMON,0.00019024592,1,home
+OTHER,attention,COMMON,0.00019024592,1,attention
+OTHER,chance,COMMON,0.00019024205,1,chance
+LOCATION,places,COMMON,0.0001902251,1,places
+PERSON,sir,COMMON,0.00019012367,1,sir
+ORGANIZATION,government,COMMON,0.00018945964,1,government
+OTHER,lot,COMMON,0.00018934214,1,lot
+OTHER,lot,COMMON,0.00018921422,1,lot
+OTHER,rules,COMMON,0.00018899693,1,rules
+LOCATION,home,COMMON,0.00018867808,1,home
+OTHER,access,COMMON,0.00018770648,1,access
+OTHER,action,COMMON,0.00018701612,1,action
+OTHER,opportunity,COMMON,0.00018632134,1,opportunity
+ORGANIZATION,university,COMMON,0.00018541023,1,university
+ORGANIZATION,university,COMMON,0.0001852959,1,university
+OTHER,step,COMMON,0.0001851453,1,step
+WORK_OF_ART,books,COMMON,0.00018473754,1,books
+OTHER,Exams,COMMON,0.00018457625,1,Exams
+OTHER,bonds,COMMON,0.00018446245,1,bonds
+OTHER,head,COMMON,0.00018442057,1,head
+OTHER,referendum,COMMON,0.00018426045,1,referendum
+OTHER,something,COMMON,0.00018340591,1,something
+EVENT,rap obsession,COMMON,0.00018205828,1,rap obsession
+OTHER,assault battery,COMMON,0.00018184638,1,assault battery
+OTHER,picket line,COMMON,0.00018125483,1,picket line
+OTHER,part,COMMON,0.0001811392,1,part
+ORGANIZATION,University Council Committee,PROPER,0.00018043639,1,University Council Committee
+OTHER,credit,COMMON,0.00018013315,1,credit
+EVENT,strike,COMMON,0.00017928616,1,strike
+EVENT,strike,COMMON,0.00017927845,1,strike
+WORK_OF_ART,letter,COMMON,0.00017883304,1,letter
+PERSON,credit president,COMMON,0.00017867528,1,credit president
+WORK_OF_ART,letter,COMMON,0.00017739415,1,letter
+OTHER,repression,COMMON,0.0001772587,1,repression
+OTHER,acts,COMMON,0.0001772587,1,acts
+PERSON,faculty member,COMMON,0.00017719902,1,faculty member
+PERSON,faculty member,COMMON,0.00017719198,1,faculty member
+PERSON,faculty member,COMMON,0.00017716405,1,faculty member
+PERSON,faculty member,COMMON,0.00017716405,1,faculty member
+OTHER,property,COMMON,0.0001771398,1,property
+OTHER,accordance,COMMON,0.00017713779,1,accordance
+OTHER,penalties,COMMON,0.00017712476,1,penalties
+OTHER,resolution,COMMON,0.00017711827,1,resolution
+OTHER,alternatives,COMMON,0.00017710536,1,alternatives
+OTHER,deal,COMMON,0.0001770482,1,deal
+ORGANIZATION,college,COMMON,0.00017694842,1,college
+OTHER,position,COMMON,0.00017694423,1,position
+PERSON,moderator,COMMON,0.00017673257,1,moderator
+OTHER,something,COMMON,0.0001764221,1,something
+OTHER,eye,COMMON,0.0001759722,1,eye
+WORK_OF_ART,section,COMMON,0.0001759212,1,section
+OTHER,support,COMMON,0.00017589118,1,support
+OTHER,rest,COMMON,0.00017588127,1,rest
+PERSON,anybody,COMMON,0.00017584205,1,anybody
+OTHER,content,COMMON,0.00017557637,1,content
+PERSON,no one,COMMON,0.0001754283,1,no one
+PERSON,faculty,COMMON,0.00017436825,1,faculty
+LOCATION,state,COMMON,0.00017434557,1,state
+OTHER,peace,COMMON,0.00017422611,1,peace
+OTHER,majority rule,COMMON,0.00017415521,1,majority rule
+PERSON,others,COMMON,0.00017409703,1,others
+OTHER,step,COMMON,0.00017408661,1,step
+OTHER,step,COMMON,0.00017408661,1,step
+OTHER,peace,COMMON,0.00017402522,1,peace
+PERSON,judge,COMMON,0.00017400015,1,judge
+OTHER,teaching,COMMON,0.00017395575,1,teaching
+OTHER,microphone,COMMON,0.00017381417,1,microphone
+OTHER,veil,COMMON,0.00017355765,1,veil
+LOCATION,United States,PROPER,0.00017320718,3,"United States, United States, American"
+OTHER,kind,COMMON,0.00017278783,1,kind
+OTHER,kind,COMMON,0.00017278428,1,kind
+OTHER,chance,COMMON,0.0001727402,1,chance
+ORGANIZATION,institution,COMMON,0.0001726803,1,institution
+OTHER,chance,COMMON,0.00017252834,1,chance
+ORGANIZATION,institution,COMMON,0.00017244388,1,institution
+OTHER,statement,COMMON,0.00017207368,1,statement
+ORGANIZATION,university,COMMON,0.0001708751,1,university
+OTHER,answer,COMMON,0.00017075204,1,answer
+WORK_OF_ART,reports,COMMON,0.00017017958,1,reports
+OTHER,pronouns,COMMON,0.00016957268,1,pronouns
+ORGANIZATION,school,COMMON,0.00016856716,1,school
+PERSON,man,COMMON,0.00016841017,1,man
+OTHER,one,COMMON,0.00016826368,1,one
+PERSON,Gentlemen,COMMON,0.00016803248,1,Gentlemen
+OTHER,something,COMMON,0.00016795378,1,something
+PERSON,Mr,COMMON,0.00016786688,1,Mr
+PERSON,someone,COMMON,0.00016783872,1,someone
+OTHER,offing,COMMON,0.00016770195,1,offing
+PERSON,gentlemen,COMMON,0.00016764409,1,gentlemen
+OTHER,purposes,COMMON,0.0001661565,1,purposes
+OTHER,stand,COMMON,0.00016610202,1,stand
+OTHER,presence,COMMON,0.00016540074,1,presence
+PERSON,Militants,COMMON,0.00016538803,1,Militants
+OTHER,policy,COMMON,0.00016507739,1,policy
+PERSON,policeman,COMMON,0.00016484052,1,policeman
+OTHER,state police,COMMON,0.00016481854,1,state police
+PERSON,ladies,COMMON,0.0001645753,1,ladies
+OTHER,thing,COMMON,0.0001633588,1,thing
+OTHER,thing,COMMON,0.0001633588,1,thing
+OTHER,thing,COMMON,0.00016334814,1,thing
+OTHER,consortium,COMMON,0.0001630147,1,consortium
+OTHER,plan,COMMON,0.00016290224,1,plan
+PERSON,everybody,COMMON,0.00016286403,1,everybody
+OTHER,second,COMMON,0.00016215882,1,second
+OTHER,business,COMMON,0.00016212885,1,business
+OTHER,expense,COMMON,0.00016208961,1,expense
+OTHER,alternative,COMMON,0.00016207992,1,alternative
+ORGANIZATION,Department,COMMON,0.00016203687,1,Department
+OTHER,bail,COMMON,0.00016202274,1,bail
+WORK_OF_ART,piece,COMMON,0.00016199014,1,piece
+OTHER,repression,COMMON,0.00016192204,1,repression
+PERSON,expert,COMMON,0.00016184762,1,expert
+OTHER,feelings,COMMON,0.00016183904,1,feelings
+OTHER,scabs,COMMON,0.00016178741,1,scabs
+OTHER,agreement,COMMON,0.0001616698,1,agreement
+CONSUMER_GOOD,shirt,COMMON,0.00016165087,1,shirt
+OTHER,options,COMMON,0.0001615291,1,options
+ORGANIZATION,Student Administration,PROPER,0.00016152352,1,Student Administration
+OTHER,situations,COMMON,0.0001613978,1,situations
+OTHER,notes,COMMON,0.00016063046,1,notes
+OTHER,property damages,COMMON,0.00016062033,1,property damages
+EVENT,death,COMMON,0.00016062033,1,death
+OTHER,Salaries,COMMON,0.00016058037,1,Salaries
+EVENT,talk,COMMON,0.00016050281,1,talk
+OTHER,hell telephone,COMMON,0.00016042822,1,hell telephone
+OTHER,edge,COMMON,0.00016037408,1,edge
+OTHER,talk,COMMON,0.0001603652,1,talk
+OTHER,move,COMMON,0.0001602956,1,move
+LOCATION,field,COMMON,0.00016027858,1,field
+PERSON,friends,COMMON,0.00016020377,1,friends
+OTHER,fires edge,COMMON,0.00016010055,1,fires edge
+OTHER,minds,COMMON,0.00016000251,1,minds
+EVENT,reciprocation,COMMON,0.0001599686,1,reciprocation
+OTHER,difficulties,COMMON,0.00015969064,1,difficulties
+OTHER,ends,COMMON,0.00015965434,1,ends
+OTHER,assurance,COMMON,0.00015942195,1,assurance
+LOCATION,ROTC,PROPER,0.00015829978,4,"ROTC, ROTC, ROTC, ROTC"
+OTHER,eye,COMMON,0.00015829298,1,eye
+PERSON,chancellor,COMMON,0.00015798984,1,chancellor
+OTHER,anything,COMMON,0.00015787854,1,anything
+OTHER,options,COMMON,0.00015756414,1,options
+OTHER,lot,COMMON,0.00015743902,1,lot
+ORGANIZATION,Michigan State University,PROPER,0.000156986,1,Michigan State University
+ORGANIZATION,University of Wisconsin,PROPER,0.000156986,1,University of Wisconsin
+ORGANIZATION,University of Minnesota,PROPER,0.00015698273,1,University of Minnesota
+OTHER,answer,COMMON,0.00015659863,1,answer
+EVENT,campaign,COMMON,0.00015633788,1,campaign
+EVENT,campaign,COMMON,0.00015633788,1,campaign
+EVENT,campaigns,COMMON,0.00015627855,1,campaigns
+OTHER,right,COMMON,0.00015621119,1,right
+OTHER,right,COMMON,0.00015616998,1,right
+OTHER,brief,COMMON,0.00015612558,1,brief
+LOCATION,campus,COMMON,0.00015606727,1,campus
+OTHER,programs,COMMON,0.0001553032,1,programs
+OTHER,rights,COMMON,0.00015428197,1,rights
+OTHER,credit,COMMON,0.000154223,1,credit
+OTHER,adjectives,COMMON,0.00015301733,1,adjectives
+PERSON,class thief,COMMON,0.0001529465,1,class thief
+PERSON,Levy,PROPER,0.00015270401,2,"Levy, Mr"
+PERSON,Harry Predator,PROPER,0.00015248041,2,"Harry Predator, professor"
+EVENT,war,COMMON,0.00015144967,1,war
+EVENT,ground war,COMMON,0.000151447,1,ground war
+OTHER,print,COMMON,0.00015144436,1,print
+OTHER,relations,COMMON,0.00015139462,1,relations
+PERSON,faras,COMMON,0.00015057315,1,faras
+OTHER,Bomb,COMMON,0.00015044838,1,Bomb
+OTHER,job,COMMON,0.00014953899,1,job
+OTHER,prize,COMMON,0.00014950013,1,prize
+OTHER,issue,COMMON,0.00014916388,1,issue
+PERSON,Janet Number,PROPER,0.0001488014,1,Janet Number
+OTHER,views,COMMON,0.00014870535,1,views
+PERSON,sources,COMMON,0.00014796121,1,sources
+OTHER,title,COMMON,0.00014789085,1,title
+OTHER,title,COMMON,0.00014789085,1,title
+OTHER,copy,COMMON,0.00014788167,1,copy
+OTHER,copy,COMMON,0.00014788167,1,copy
+OTHER,minority,COMMON,0.00014786799,1,minority
+OTHER,end,COMMON,0.0001478099,1,end
+LOCATION,jail,COMMON,0.00014777074,1,jail
+OTHER,dollars,COMMON,0.00014776216,1,dollars
+OTHER,mind,COMMON,0.00014772403,1,mind
+OTHER,premises,COMMON,0.00014771149,1,premises
+OTHER,dissent,COMMON,0.00014768259,1,dissent
+OTHER,speaker finish,COMMON,0.0001476301,1,speaker finish
+PERSON,communities,COMMON,0.00014638634,1,communities
+LOCATION,home communities,COMMON,0.0001463743,1,home communities
+OTHER,whatever,COMMON,0.00014631795,1,whatever
+OTHER,purposes,COMMON,0.00014539383,1,purposes
+OTHER,purpose,COMMON,0.00014539083,1,purpose
+OTHER,microphone,COMMON,0.00014530715,1,microphone
+OTHER,back,COMMON,0.00014524457,1,back
+OTHER,back,COMMON,0.00014517443,1,back
+PERSON,anybody,COMMON,0.00014279422,1,anybody
+OTHER,middle,COMMON,0.000142158,1,middle
+PERSON,students,COMMON,0.0001420559,1,students
+OTHER,Worries,COMMON,0.0001420274,1,Worries
+PERSON,students,COMMON,0.00014199968,1,students
+OTHER,issue,COMMON,0.0001419926,1,issue
+OTHER,issue,COMMON,0.0001419879,1,issue
+PERSON,students,COMMON,0.0001419859,1,students
+OTHER,clothes,COMMON,0.00014196563,1,clothes
+EVENT,brewing,COMMON,0.00014189008,1,brewing
+OTHER,tradition,COMMON,0.0001418743,1,tradition
+OTHER,veins,COMMON,0.00014185868,1,veins
+OTHER,rule patterns,COMMON,0.00014185868,1,rule patterns
+OTHER,suggestions,COMMON,0.00014185351,1,suggestions
+PERSON,actresses,COMMON,0.00014182276,1,actresses
+OTHER,nonviolence,COMMON,0.0001418076,1,nonviolence
+OTHER,tasks,COMMON,0.00014173369,1,tasks
+OTHER,findings,COMMON,0.000141705,1,findings
+OTHER,portion,COMMON,0.0001416721,1,portion
+OTHER,category,COMMON,0.00014166746,1,category
+EVENT,crisis,COMMON,0.00014166746,1,crisis
+OTHER,ending,COMMON,0.00014166282,1,ending
+OTHER,maximum,COMMON,0.00014166282,1,maximum
+OTHER,tone,COMMON,0.00014108738,1,tone
+OTHER,harm,COMMON,0.00014106059,1,harm
+PERSON,women,COMMON,0.00014086792,1,women
+LOCATION,clubs,COMMON,0.00014085215,1,clubs
+WORK_OF_ART,tracks,COMMON,0.00014084432,1,tracks
+PERSON,adviser,COMMON,0.0001407679,1,adviser
+PERSON,con,COMMON,0.00014064534,1,con
+OTHER,table,COMMON,0.0001406041,1,table
+OTHER,greeting,COMMON,0.0001406041,1,greeting
+OTHER,Fine,COMMON,0.00014054403,1,Fine
+EVENT,start,COMMON,0.0001405375,1,start
+EVENT,reelection,COMMON,0.00014052447,1,reelection
+OTHER,station identification,COMMON,0.00014048601,1,station identification
+EVENT,forum,COMMON,0.00014048601,1,forum
+OTHER,coverage,COMMON,0.00014048601,1,coverage
+OTHER,rhetoric,COMMON,0.00014040554,1,rhetoric
+OTHER,leg,COMMON,0.00013999858,1,leg
+PERSON,somebody,COMMON,0.00013962442,1,somebody
+OTHER,something,COMMON,0.00013960879,1,something
+PERSON,somebody,COMMON,0.00013953276,1,somebody
+PERSON,Somebody,COMMON,0.00013953063,1,Somebody
+WORK_OF_ART,report,COMMON,0.00013941107,1,report
+PERSON,people,COMMON,0.00013938863,1,people
+PERSON,people,COMMON,0.00013930006,1,people
+PERSON,people,COMMON,0.00013928972,1,people
+PERSON,people,COMMON,0.00013928972,1,people
+PERSON,people,COMMON,0.00013910771,1,people
+PERSON,people,COMMON,0.00013909543,1,people
+PERSON,people,COMMON,0.00013909236,1,people
+PERSON,people,COMMON,0.00013909236,1,people
+PERSON,people,COMMON,0.00013902354,1,people
+OTHER,bit,COMMON,0.00013827729,1,bit
+WORK_OF_ART,documents,COMMON,0.00013818423,1,documents
+OTHER,lives,COMMON,0.00013816392,1,lives
+PERSON,person,COMMON,0.00013814411,1,person
+OTHER,signs,COMMON,0.00013810275,1,signs
+OTHER,sign,COMMON,0.00013805304,1,sign
+OTHER,announcement,COMMON,0.00013765707,1,announcement
+PERSON,professor,COMMON,0.00013718191,1,professor
+PERSON,professors,COMMON,0.00013717549,1,professors
+PERSON,professors,COMMON,0.00013716484,1,professors
+OTHER,second,COMMON,0.00013662387,1,second
+OTHER,times,COMMON,0.00013591113,1,times
+OTHER,details,COMMON,0.0001350848,1,details
+OTHER,class,COMMON,0.00013472975,1,class
+OTHER,way,COMMON,0.00013469989,1,way
+OTHER,class,COMMON,0.00013469356,1,class
+OTHER,way,COMMON,0.00013466434,1,way
+PERSON,Keith,PROPER,0.00013463263,1,Keith
+OTHER,way,COMMON,0.0001345935,1,way
+PERSON,Chuck Turner,PROPER,0.00013449864,2,"Chuck Turner, Chuck"
+PERSON,speaker,COMMON,0.00013428053,1,speaker
+OTHER,question,COMMON,0.00013353948,1,question
+OTHER,questions,COMMON,0.00013345531,1,questions
+OTHER,question,COMMON,0.0001334455,1,question
+OTHER,questions,COMMON,0.00013341321,1,questions
+OTHER,question,COMMON,0.00013335356,1,question
+OTHER,question,COMMON,0.000133302,1,question
+OTHER,question,COMMON,0.0001332842,1,question
+OTHER,question,COMMON,0.00013325493,1,question
+OTHER,question,COMMON,0.00013324914,1,question
+OTHER,issue,COMMON,0.00013265095,1,issue
+ORGANIZATION,government,COMMON,0.00013217324,1,government
+ORGANIZATION,government,COMMON,0.00013212231,1,government
+EVENT,meeting,COMMON,0.0001320548,1,meeting
+ORGANIZATION,Yale,PROPER,0.00013159789,3,"Yale, Yale, Yale"
+WORK_OF_ART,piece,COMMON,0.00013138916,1,piece
+OTHER,quote,COMMON,0.00013088954,1,quote
+PERSON,troops,COMMON,0.00013070567,1,troops
+PERSON,school teachers,COMMON,0.00013053833,1,school teachers
+OTHER,front,COMMON,0.00013053566,1,front
+OTHER,mistake,COMMON,0.00013050382,1,mistake
+OTHER,understanding,COMMON,0.00013048293,1,understanding
+OTHER,understanding,COMMON,0.00013045978,1,understanding
+OTHER,place,COMMON,0.00013043947,1,place
+OTHER,bullshit,COMMON,0.0001304244,1,bullshit
+OTHER,front,COMMON,0.00013040702,1,front
+OTHER,bullshit,COMMON,0.00013039963,1,bullshit
+PERSON,sir,COMMON,0.00013034165,1,sir
+OTHER,bullshit,COMMON,0.00013030416,1,bullshit
+PERSON,mistress,COMMON,0.00013029954,1,mistress
+PERSON,judge,COMMON,0.0001302766,1,judge
+OTHER,judgment,COMMON,0.00013025176,1,judgment
+OTHER,uses,COMMON,0.000129943,1,uses
+OTHER,Eyes,COMMON,0.00012993462,1,Eyes
+OTHER,university use,COMMON,0.00012993044,1,university use
+ORGANIZATION,firm,COMMON,0.00012991799,1,firm
+EVENT,confrontation,COMMON,0.00012989336,1,confrontation
+OTHER,emphasis,COMMON,0.00012989336,1,emphasis
+OTHER,existence,COMMON,0.00012985317,1,existence
+OTHER,pass,COMMON,0.00012984526,1,pass
+OTHER,lobby,COMMON,0.00012983738,1,lobby
+OTHER,sound,COMMON,0.00012982564,1,sound
+OTHER,productivity,COMMON,0.00012982564,1,productivity
+OTHER,effort,COMMON,0.00012974949,1,effort
+OTHER,thing,COMMON,0.00012970078,1,thing
+OTHER,Life,COMMON,0.00012966624,1,Life
+OTHER,mourning,COMMON,0.0001296557,1,mourning
+OTHER,luck,COMMON,0.00012962792,1,luck
+OTHER,law,COMMON,0.00012928614,1,law
+OTHER,details,COMMON,0.00012843306,1,details
+OTHER,regard,COMMON,0.00012821714,1,regard
+OTHER,bricks,COMMON,0.00012721866,1,bricks
+PERSON,ladies,COMMON,0.00012706476,1,ladies
+OTHER,decision,COMMON,0.00012683378,1,decision
+LOCATION,parts,COMMON,0.00012646263,1,parts
+OTHER,interests,COMMON,0.00012641541,1,interests
+PERSON,people,COMMON,0.00012635143,1,people
+PERSON,alumni,COMMON,0.00012629229,1,alumni
+EVENT,abolition,COMMON,0.00012527402,1,abolition
+OTHER,Dean Merit,PROPER,0.00012406679,1,Dean Merit
+PERSON,Diane,PROPER,0.00012401427,1,Diane
+LOCATION,Brian 200,PROPER,0.00012398648,1,Brian 200
+PERSON,Hudson,PROPER,0.00012393389,1,Hudson
+PERSON,member,COMMON,0.00012369416,1,member
+PERSON,William Curly,PROPER,0.00012367388,1,William Curly
+PERSON,John,PROPER,0.00012367388,1,John
+PERSON,Steve Emery,PROPER,0.00012367388,1,Steve Emery
+PERSON,Gregor,PROPER,0.00012367388,1,Gregor
+PERSON,Susan Young,PROPER,0.00012367388,1,Susan Young
+PERSON,Roger Knolton,PROPER,0.00012367388,1,Roger Knolton
+PERSON,Harry Hess,PROPER,0.00012367388,1,Harry Hess
+WORK_OF_ART,television report,COMMON,0.00012349652,1,television report
+OTHER,mikes,COMMON,0.00012349652,1,mikes
+ORGANIZATION,Mister Mister,PROPER,0.00012238503,1,Mister Mister
+WORK_OF_ART,books,COMMON,0.000121969475,1,books
+OTHER,doors,COMMON,0.00012191375,1,doors
+OTHER,hand,COMMON,0.00012154508,1,hand
+OTHER,deal,COMMON,0.00012138544,1,deal
+OTHER,help,COMMON,0.00012134974,1,help
+OTHER,thought,COMMON,0.00012128714,1,thought
+OTHER,thoughtlessness,COMMON,0.00012125578,1,thoughtlessness
+OTHER,right,COMMON,0.00012060699,1,right
+PERSON,instructors,COMMON,0.000120461336,1,instructors
+OTHER,response,COMMON,0.00011906999,1,response
+LOCATION,campus,COMMON,0.00011830171,1,campus
+OTHER,science,COMMON,0.000117236785,1,science
+ORGANIZATION,division,COMMON,0.000117231015,1,division
+PERSON,gentleman,COMMON,0.000117210075,1,gentleman
+PERSON,officer,COMMON,0.00011713642,1,officer
+ORGANIZATION,Division,COMMON,0.00011712926,1,Division
+OTHER,fact,COMMON,0.00011712036,1,fact
+PERSON,Bobby Seale,PROPER,0.000117112475,2,"Bobby Seale, Bobby Seale"
+OTHER,gentlemen,COMMON,0.0001170784,1,gentlemen
+OTHER,joy,COMMON,0.00011704706,1,joy
+OTHER,toe act,COMMON,0.00011688437,1,toe act
+ORGANIZATION,university,COMMON,0.00011653067,1,university
+ORGANIZATION,university,COMMON,0.00011652285,1,university
+ORGANIZATION,university,COMMON,0.00011651509,1,university
+OTHER,bail money,COMMON,0.000115671864,1,bail money
+OTHER,all,COMMON,0.000114962866,1,all
+OTHER,all,COMMON,0.00011480104,1,all
+LOCATION,Auditorium,PROPER,0.00011444393,1,Auditorium
+OTHER,yield plan,COMMON,0.00011370856,1,yield plan
+OTHER,plan,COMMON,0.000113706694,1,plan
+PERSON,speaker,COMMON,0.00011370484,1,speaker
+PERSON,speakers,COMMON,0.00011365916,1,speakers
+OTHER,right,COMMON,0.00011364308,1,right
+OTHER,issues,COMMON,0.00011290737,1,issues
+OTHER,remarks,COMMON,0.0001113083,1,remarks
+OTHER,badger,COMMON,0.000110813104,1,badger
+OTHER,"12,040%",COMMON,0.00011070562,1,"12,040%"
+OTHER,figures speech,COMMON,0.00011068105,1,figures speech
+PERSON,Mr.,COMMON,0.000110656925,1,Mr.
+OTHER,observation,COMMON,0.000110619585,1,observation
+OTHER,explanation,COMMON,0.00011061765,1,explanation
+OTHER,assumption,COMMON,0.00011060034,1,assumption
+OTHER,relations bill,COMMON,0.00011058514,1,relations bill
+OTHER,courses,COMMON,0.00010995932,1,courses
+OTHER,proposal,COMMON,0.000109939305,1,proposal
+LOCATION,courtroom,COMMON,0.000109830136,1,courtroom
+OTHER,lot,COMMON,0.000109830136,1,lot
+LOCATION,court,COMMON,0.000109830136,1,court
+LOCATION,court,COMMON,0.00010982019,1,court
+PERSON,faculty,COMMON,0.00010980378,1,faculty
+OTHER,stage,COMMON,0.000109776316,1,stage
+OTHER,impact,COMMON,0.00010922563,1,impact
+OTHER,advance,COMMON,0.00010914378,1,advance
+ORGANIZATION,OTC,PROPER,0.000107677486,2,"OTC, OTC"
+LOCATION,offices,COMMON,0.00010759515,1,offices
+OTHER,answer,COMMON,0.00010747387,1,answer
+OTHER,recommendations,COMMON,0.00010658558,1,recommendations
+OTHER,topic,COMMON,0.00010642344,1,topic
+LOCATION,country,COMMON,0.000106378786,1,country
+OTHER,violence,COMMON,0.00010580174,1,violence
+PERSON,brother,COMMON,0.00010577827,1,brother
+OTHER,p A system,COMMON,0.00010382612,1,p A system
+ORGANIZATION,police,COMMON,0.00010381603,1,police
+OTHER,contract,COMMON,0.00010375273,1,contract
+PERSON,gentleman,COMMON,0.00010360794,1,gentleman
+LOCATION,South,PROPER,0.000102876336,1,South
+OTHER,thing,COMMON,0.00010287245,1,thing
+OTHER,things,COMMON,0.00010278789,1,things
+OTHER,thing,COMMON,0.00010267202,1,thing
+ORGANIZATION,National Institute of Development Administration,PROPER,0.00010206859,1,National Institute of Development Administration
+OTHER,deal support,COMMON,0.000102013,1,deal support
+PERSON,audience,COMMON,0.000101390004,1,audience
+OTHER,back,COMMON,0.00010135679,1,back
+OTHER,back,COMMON,0.000101353675,1,back
+OTHER,reports,COMMON,9.963362e-05,1,reports
+OTHER,rights,COMMON,9.8435456e-05,1,rights
+OTHER,answer,COMMON,9.8435325e-05,1,answer
+OTHER,rights,COMMON,9.83729e-05,1,rights
+OTHER,rights,COMMON,9.835355e-05,1,rights
+OTHER,money,COMMON,9.784325e-05,1,money
+OTHER,money,COMMON,9.784168e-05,1,money
+ORGANIZATION,council,COMMON,9.7774675e-05,1,council
+PERSON,Teo,PROPER,9.766251e-05,1,Teo
+PERSON,et cetera,COMMON,9.73464e-05,1,et cetera
+OTHER,economics,COMMON,9.734438e-05,1,economics
+PERSON,soldiers,COMMON,9.734037e-05,1,soldiers
+OTHER,Fallibility,COMMON,9.731072e-05,1,Fallibility
+OTHER,fraternity,COMMON,9.726102e-05,1,fraternity
+OTHER,boat,COMMON,9.725915e-05,1,boat
+LOCATION,bush,COMMON,9.725542e-05,1,bush
+OTHER,poles,COMMON,9.722598e-05,1,poles
+OTHER,minimum,COMMON,9.721153e-05,1,minimum
+OTHER,post,COMMON,9.717616e-05,1,post
+OTHER,baloney,COMMON,9.7164026e-05,1,baloney
+OTHER,history,COMMON,9.715201e-05,1,history
+OTHER,tenure,COMMON,9.714861e-05,1,tenure
+OTHER,relevance,COMMON,9.7131706e-05,1,relevance
+PERSON,knauer,COMMON,9.711174e-05,1,knauer
+OTHER,Goal,COMMON,9.7100245e-05,1,Goal
+ORGANIZATION,institution,COMMON,9.709464e-05,1,institution
+OTHER,education,COMMON,9.655753e-05,1,education
+OTHER,education,COMMON,9.6549586e-05,1,education
+OTHER,signs,COMMON,9.6549586e-05,1,signs
+EVENT,term,COMMON,9.6549586e-05,1,term
+OTHER,term,COMMON,9.6549586e-05,1,term
+OTHER,idea,COMMON,9.649542e-05,1,idea
+OTHER,conclusion,COMMON,9.6409436e-05,1,conclusion
+OTHER,program,COMMON,9.6409436e-05,1,program
+OTHER,program,COMMON,9.640663e-05,1,program
+OTHER,fun,COMMON,9.5944255e-05,1,fun
+OTHER,go,COMMON,9.593598e-05,1,go
+ORGANIZATION,Air Force,PROPER,9.573745e-05,1,Air Force
+OTHER,American Servicemen,PROPER,9.565783e-05,1,American Servicemen
+ORGANIZATION,Black Panther,PROPER,9.4783776e-05,1,Black Panther
+PERSON,other,COMMON,9.32692e-05,1,other
+PERSON,witness,COMMON,9.2917435e-05,1,witness
+EVENT,times,COMMON,9.2186434e-05,1,times
+ORGANIZATION,policy committee,COMMON,9.216735e-05,1,policy committee
+OTHER,credit,COMMON,9.187372e-05,1,credit
+OTHER,B,COMMON,9.126072e-05,1,B
+LOCATION,home,COMMON,9.1080896e-05,1,home
+OTHER,front,COMMON,9.106151e-05,1,front
+OTHER,case,COMMON,9.104683e-05,1,case
+PERSON,sir,COMMON,9.102089e-05,1,sir
+OTHER,grades,COMMON,9.1019465e-05,1,grades
+EVENT,announcement,COMMON,9.097895e-05,1,announcement
+PERSON,Ladies,COMMON,9.095186e-05,1,Ladies
+PERSON,ladies,COMMON,9.095186e-05,1,ladies
+LOCATION,country,COMMON,9.0638096e-05,1,country
+LOCATION,country,COMMON,9.06143e-05,1,country
+LOCATION,country,COMMON,9.060843e-05,1,country
+EVENT,Cambodian War,PROPER,8.942956e-05,1,Cambodian War
+OTHER,issues,COMMON,8.932761e-05,1,issues
+OTHER,answer,COMMON,8.9273024e-05,1,answer
+OTHER,answer,COMMON,8.917331e-05,1,answer
+OTHER,power,COMMON,8.858645e-05,1,power
+ORGANIZATION,law school,COMMON,8.793769e-05,1,law school
+ORGANIZATION,schools,COMMON,8.77502e-05,1,schools
+PERSON,Dean Harvey,PROPER,8.735591e-05,1,Dean Harvey
+PERSON,Veterans of Peace,PROPER,8.7308326e-05,1,Veterans of Peace
+PERSON,Horst,PROPER,8.729292e-05,1,Horst
+ORGANIZATION,The Black Panthers,PROPER,8.723106e-05,1,The Black Panthers
+ORGANIZATION,Faculty Action Committee,PROPER,8.6471155e-05,1,Faculty Action Committee
+OTHER,recommendations,COMMON,8.645046e-05,1,recommendations
+OTHER,contract,COMMON,8.624196e-05,1,contract
+OTHER,contract,COMMON,8.6227235e-05,1,contract
+ORGANIZATION,Ford Foundation,PROPER,8.5886284e-05,1,Ford Foundation
+LOCATION,balcony,COMMON,8.5852706e-05,1,balcony
+OTHER,themes,COMMON,8.575567e-05,1,themes
+PERSON,man,COMMON,8.532856e-05,1,man
+LOCATION,Monroe County,PROPER,8.5186795e-05,1,Monroe County
+OTHER,class,COMMON,8.488009e-05,1,class
+OTHER,way,COMMON,8.481777e-05,1,way
+OTHER,way,COMMON,8.481154e-05,1,way
+PERSON,many,COMMON,8.4799176e-05,1,many
+OTHER,objection,COMMON,8.47892e-05,1,objection
+OTHER,penalty,COMMON,8.474442e-05,1,penalty
+WORK_OF_ART,letter,COMMON,8.474176e-05,1,letter
+PERSON,crowd,COMMON,8.466766e-05,1,crowd
+PERSON,crowd,COMMON,8.466766e-05,1,crowd
+OTHER,action,COMMON,8.447147e-05,1,action
+OTHER,objection,COMMON,8.377475e-05,1,objection
+OTHER,objection,COMMON,8.376637e-05,1,objection
+OTHER,Auntie Z,PROPER,8.370162e-05,1,Auntie Z
+PERSON,Oda,PROPER,8.329053e-05,1,Oda
+LOCATION,I,PROPER,8.3260646e-05,1,I
+CONSUMER_GOOD,motorcycle helmets,COMMON,8.324825e-05,1,motorcycle helmets
+PERSON,Mark,PROPER,8.32364e-05,1,Mark
+EVENT,meeting,COMMON,8.3168605e-05,1,meeting
+PERSON,administrators,COMMON,8.3033425e-05,1,administrators
+OTHER,details,COMMON,8.17158e-05,1,details
+OTHER,more,COMMON,8.1459366e-05,1,more
+OTHER,reply,COMMON,8.128061e-05,1,reply
+OTHER,matters,COMMON,8.0926984e-05,1,matters
+OTHER,mechanisms,COMMON,8.063464e-05,1,mechanisms
+PERSON,students,COMMON,8.018684e-05,1,students
+OTHER,line,COMMON,7.969847e-05,1,line
+LOCATION,parts,COMMON,7.9675374e-05,1,parts
+PERSON,Nobody,COMMON,7.965119e-05,1,Nobody
+OTHER,part,COMMON,7.963989e-05,1,part
+OTHER,part,COMMON,7.956578e-05,1,part
+OTHER,part,COMMON,7.955902e-05,1,part
+EVENT,vote,COMMON,7.827848e-05,1,vote
+ORGANIZATION,Yes,PROPER,7.8170895e-05,2,"Yes, Yes"
+PERSON,member,COMMON,7.788801e-05,1,member
+OTHER,money,COMMON,7.7817815e-05,1,money
+PERSON,members,COMMON,7.77992e-05,1,members
+OTHER,protections,COMMON,7.7740086e-05,1,protections
+LOCATION,facilities,COMMON,7.76522e-05,1,facilities
+OTHER,choice,COMMON,7.732881e-05,1,choice
+OTHER,work,COMMON,7.732881e-05,1,work
+EVENT,session,COMMON,7.732881e-05,1,session
+OTHER,field,COMMON,7.732881e-05,1,field
+OTHER,wings,COMMON,7.731247e-05,1,wings
+PERSON,neighbour,COMMON,7.730626e-05,1,neighbour
+PERSON,anyone,COMMON,7.730626e-05,1,anyone
+OTHER,wings,COMMON,7.729886e-05,1,wings
+PERSON,anyone,COMMON,7.728908e-05,1,anyone
+OTHER,safety,COMMON,7.726034e-05,1,safety
+LOCATION,downtown,COMMON,7.7253295e-05,1,downtown
+OTHER,charge,COMMON,7.7253295e-05,1,charge
+CONSUMER_GOOD,car,COMMON,7.725212e-05,1,car
+CONSUMER_GOOD,forest police cars,COMMON,7.725212e-05,1,forest police cars
+CONSUMER_GOOD,car,COMMON,7.7248624e-05,1,car
+LOCATION,downtown,COMMON,7.7246295e-05,1,downtown
+OTHER,charge,COMMON,7.723705e-05,1,charge
+OTHER,beginning,COMMON,7.721544e-05,1,beginning
+PERSON,Ana,PROPER,7.674436e-05,1,Ana
+ORGANIZATION,Top,PROPER,7.672742e-05,1,Top
+LOCATION,Washington,PROPER,7.669674e-05,1,Washington
+WORK_OF_ART,Diamond,PROPER,7.66648e-05,1,Diamond
+LOCATION,English,PROPER,7.666256e-05,1,English
+PERSON,Chris Logan,PROPER,7.666256e-05,1,Chris Logan
+PERSON,Peter Linton,PROPER,7.666256e-05,1,Peter Linton
+PERSON,Shelly Geller,PROPER,7.666256e-05,1,Shelly Geller
+LOCATION,Indochinese,PROPER,7.661458e-05,1,Indochinese
+ORGANIZATION,Keys,PROPER,7.661034e-05,1,Keys
+WORK_OF_ART,comments,COMMON,7.655391e-05,1,comments
+OTHER,rights,COMMON,7.593623e-05,1,rights
+ORGANIZATION,institution,COMMON,7.588953e-05,1,institution
+OTHER,credits,COMMON,7.5850156e-05,1,credits
+OTHER,responsibility,COMMON,7.583559e-05,1,responsibility
+OTHER,kind,COMMON,7.5803626e-05,1,kind
+OTHER,hostility response,COMMON,7.5803626e-05,1,hostility response
+OTHER,fact,COMMON,7.383425e-05,1,fact
+OTHER,division,COMMON,7.382086e-05,1,division
+ORGANIZATION,division,COMMON,7.382086e-05,1,division
+OTHER,Sciences,COMMON,7.381896e-05,1,Sciences
+OTHER,safety division,COMMON,7.371869e-05,1,safety division
+OTHER,facts,COMMON,7.368871e-05,1,facts
+PERSON,officers,COMMON,7.3682175e-05,1,officers
+OTHER,interest,COMMON,7.335088e-05,1,interest
+ORGANIZATION,campus police,COMMON,7.311188e-05,1,campus police
+PERSON,Brown,PROPER,7.261467e-05,1,Brown
+OTHER,scabs,COMMON,7.175877e-05,1,scabs
+OTHER,Arts Arts,COMMON,7.159972e-05,1,Arts Arts
+OTHER,arts,COMMON,7.154974e-05,1,arts
+OTHER,plan,COMMON,7.1484574e-05,1,plan
+PERSON,military leaders,COMMON,7.1468625e-05,1,military leaders
+OTHER,constraints,COMMON,7.067723e-05,1,constraints
+OTHER,exams,COMMON,7.043433e-05,1,exams
+OTHER,majority vote,COMMON,6.919606e-05,1,majority vote
+OTHER,majority vote,COMMON,6.919434e-05,1,majority vote
+EVENT,student vote,COMMON,6.917401e-05,1,student vote
+OTHER,majority,COMMON,6.9170674e-05,1,majority
+PERSON,moderator,COMMON,6.916901e-05,1,moderator
+OTHER,stage,COMMON,6.9155794e-05,1,stage
+OTHER,college,COMMON,6.907465e-05,1,college
+OTHER,propaganda,COMMON,6.9071684e-05,1,propaganda
+WORK_OF_ART,song,COMMON,6.9015055e-05,1,song
+ORGANIZATION,CBS,PROPER,6.8262794e-05,1,CBS
+PERSON,congressman,COMMON,6.7929854e-05,1,congressman
+OTHER,curriculum,COMMON,6.792531e-05,1,curriculum
+OTHER,voting age,COMMON,6.7917426e-05,1,voting age
+OTHER,crops,COMMON,6.7917426e-05,1,crops
+PERSON,candidate,COMMON,6.791184e-05,1,candidate
+OTHER,campaigning practices,COMMON,6.791184e-05,1,campaigning practices
+OTHER,half,COMMON,6.791184e-05,1,half
+OTHER,arrangements,COMMON,6.790629e-05,1,arrangements
+OTHER,structure,COMMON,6.78823e-05,1,structure
+OTHER,tape,COMMON,6.787268e-05,1,tape
+OTHER,bed,COMMON,6.7864225e-05,1,bed
+PERSON,trustees,COMMON,6.7864225e-05,1,trustees
+OTHER,prejudice,COMMON,6.786318e-05,1,prejudice
+PERSON,chairmen,COMMON,6.786108e-05,1,chairmen
+OTHER,noise,COMMON,6.784551e-05,1,noise
+EVENT,rally,COMMON,6.7841414e-05,1,rally
+LOCATION,health center,COMMON,6.782421e-05,1,health center
+OTHER,nothing,COMMON,6.78232e-05,1,nothing
+OTHER,tumult,COMMON,6.781326e-05,1,tumult
+OTHER,solidarity,COMMON,6.76198e-05,1,solidarity
+OTHER,principles,COMMON,6.664614e-05,1,principles
+OTHER,majority vote principle,COMMON,6.661325e-05,1,majority vote principle
+EVENT,war,COMMON,6.6539345e-05,1,war
+LOCATION,Greek,PROPER,6.542003e-05,1,Greek
+PERSON,Bill,PROPER,6.532518e-05,1,Bill
+PERSON,Braddock,PROPER,6.398655e-05,2,"Braddock, Mr."
+OTHER,view,COMMON,6.388391e-05,1,view
+OTHER,democracy,COMMON,6.3841726e-05,1,democracy
+OTHER,democracy,COMMON,6.3840154e-05,1,democracy
+OTHER,democracy,COMMON,6.3837004e-05,1,democracy
+OTHER,reason,COMMON,6.3785395e-05,1,reason
+OTHER,type,COMMON,6.2273386e-05,1,type
+OTHER,ideas,COMMON,6.0783175e-05,1,ideas
+OTHER,ideals,COMMON,6.0780105e-05,1,ideals
+OTHER,referendum,COMMON,6.0778577e-05,1,referendum
+OTHER,problem,COMMON,6.075305e-05,1,problem
+OTHER,signs,COMMON,6.0751572e-05,1,signs
+OTHER,terms,COMMON,6.0750102e-05,1,terms
+OTHER,protection,COMMON,6.0703114e-05,1,protection
+OTHER,lives,COMMON,6.0703114e-05,1,lives
+OTHER,program,COMMON,6.0681363e-05,1,program
+OTHER,education,COMMON,6.0662842e-05,1,education
+OTHER,education,COMMON,6.0662842e-05,1,education
+OTHER,Much,COMMON,6.064861e-05,1,Much
+PERSON,Rick,PROPER,6.0602622e-05,1,Rick
+OTHER,liberties,COMMON,5.991841e-05,1,liberties
+OTHER,Satin,PROPER,5.9135873e-05,1,Satin
+OTHER,quote,COMMON,5.887299e-05,1,quote
+LOCATION,Near East,PROPER,5.737687e-05,1,Near East
+LOCATION,Africa,PROPER,5.737687e-05,1,Africa
+LOCATION,European,PROPER,5.737588e-05,1,European
+OTHER,grades,COMMON,5.7304398e-05,1,grades
+OTHER,interest,COMMON,5.727987e-05,1,interest
+OTHER,unity,COMMON,5.7245903e-05,1,unity
+PERSON,graduates,COMMON,5.7238296e-05,1,graduates
+PERSON,teachers,COMMON,5.722209e-05,1,teachers
+OTHER,justice,COMMON,5.399876e-05,1,justice
+OTHER,sentiment,COMMON,5.33865e-05,1,sentiment
+OTHER,position,COMMON,5.33865e-05,1,position
+OTHER,both,COMMON,5.335203e-05,1,both
+ORGANIZATION,police force,COMMON,5.330473e-05,1,police force
+OTHER,service,COMMON,5.3261774e-05,1,service
+OTHER,napalm,COMMON,5.2621617e-05,1,napalm
+PERSON,majority,COMMON,5.2132145e-05,1,majority
+LOCATION,II,PROPER,5.0012542e-05,1,I I
+OTHER,dissent,COMMON,4.870262e-05,1,dissent
+EVENT,council discussion,COMMON,4.869881e-05,1,council discussion
+OTHER,connection,COMMON,4.868505e-05,1,connection
+OTHER,agenda,COMMON,4.86716e-05,1,agenda
+OTHER,limits,COMMON,4.866919e-05,1,limits
+PERSON,minorities,COMMON,4.866799e-05,1,minorities
+OTHER,society,COMMON,4.866679e-05,1,society
+OTHER,Items,COMMON,4.86632e-05,1,Items
+OTHER,agenda,COMMON,4.86632e-05,1,agenda
+OTHER,man finish,COMMON,4.8620674e-05,1,man finish
+EVENT,election,COMMON,4.8604266e-05,1,election
+OTHER,problem,COMMON,4.8601367e-05,1,problem
+OTHER,70%,COMMON,4.860104e-05,1,70%
+OTHER,liberties,COMMON,4.8598897e-05,1,liberties
+OTHER,authority,COMMON,4.8391837e-05,1,authority
+OTHER,dimensions,COMMON,4.7488364e-05,1,dimensions
+OTHER,lives,COMMON,4.6871486e-05,1,lives
+ORGANIZATION,political science department,COMMON,4.5797984e-05,1,political science department
+PERSON,Dale,PROPER,4.561134e-05,1,Dale
+OTHER,hell,COMMON,4.276943e-05,1,hell
+OTHER,sympathy,COMMON,4.275841e-05,1,sympathy
+OTHER,path,COMMON,4.2736e-05,1,path
+OTHER,bitterness,COMMON,4.2728738e-05,1,bitterness
+PERSON,President Setting,COMMON,4.2722593e-05,1,President Setting
+OTHER,gills,COMMON,4.271955e-05,1,gills
+OTHER,default,COMMON,4.271052e-05,1,default
+OTHER,court neutrality,COMMON,4.2690044e-05,1,court neutrality
+OTHER,project,COMMON,4.268718e-05,1,project
+OTHER,rot,COMMON,4.268434e-05,1,rot
+OTHER,stone,COMMON,4.267776e-05,1,stone
+OTHER,return,COMMON,4.267219e-05,1,return
+EVENT,parade,COMMON,4.267219e-05,1,parade
+PERSON,children,COMMON,4.2669424e-05,1,children
+OTHER,country side,COMMON,4.2660315e-05,1,country side
+OTHER,grand,COMMON,4.2659412e-05,1,grand
+PERSON,peasants,COMMON,4.2658514e-05,1,peasants
+OTHER,service,COMMON,4.0619365e-05,1,service
+OTHER,Jab,PROPER,4.010325e-05,1,Jab
+OTHER,purpose,COMMON,3.942278e-05,1,purpose
+OTHER,decisions,COMMON,3.853379e-05,1,decisions
+PERSON,C,PROPER,3.7869315e-05,1,C
+PERSON,moderator,COMMON,3.6005717e-05,1,moderator
+OTHER,proof,COMMON,3.5326815e-05,1,proof
+CONSUMER_GOOD,cars,COMMON,3.4254095e-05,1,cars
+CONSUMER_GOOD,guns,COMMON,3.337054e-05,1,guns
+OTHER,T. C,PROPER,3.147851e-05,1,T. C
+OTHER,Payless,PROPER,3.0326997e-05,1,Payless
+PERSON,II,PROPER,2.9470813e-05,1,I I
+ORGANIZATION,Automatic,PROPER,2.5225985e-05,1,Automatic
+ORGANIZATION,United States Army,PROPER,2.5212908e-05,1,United States Army
+ORGANIZATION,TC,PROPER,2.5212354e-05,1,TC
+PERSON,Dawn,PROPER,2.5210691e-05,1,Dawn
+PERSON,civilians,COMMON,2.154443e-05,1,civilians
+PERSON,Stapley,PROPER,1.7770337e-05,1,Stapley
+PERSON,professional,COMMON,1.3071721e-13,2,"professional, president"
+NUMBER,1958,COMMON,0,1,1958
+NUMBER,eight,COMMON,0,1,eight
+NUMBER,One,COMMON,0,1,One
+NUMBER,one,COMMON,0,1,one
+NUMBER,Two,COMMON,0,1,Two
+NUMBER,one,COMMON,0,1,one
+NUMBER,"12,040",COMMON,0,1,"12,040"
+NUMBER,one,COMMON,0,1,one
+NUMBER,17,COMMON,0,1,17
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,one,COMMON,0,1,one
+NUMBER,1952,COMMON,0,1,1952
+NUMBER,1956,COMMON,0,1,1956
+NUMBER,two,COMMON,0,1,two
+NUMBER,three,COMMON,0,1,three
+NUMBER,One,COMMON,0,1,One
+NUMBER,eight,COMMON,0,1,eight
+NUMBER,2,COMMON,0,1,2
+NUMBER,"4,000",COMMON,0,1,"4,000"
+NUMBER,three,COMMON,0,1,three
+NUMBER,50,COMMON,0,1,50
+NUMBER,four,COMMON,0,1,four
+NUMBER,two,COMMON,0,1,two
+NUMBER,one,COMMON,0,1,one
+NUMBER,"1,000",COMMON,0,1,"1,000"
+NUMBER,six,COMMON,0,1,six
+NUMBER,two,COMMON,0,1,two
+NUMBER,20,COMMON,0,1,20
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,two,COMMON,0,1,two
+NUMBER,14,COMMON,0,1,14
+NUMBER,50,COMMON,0,1,50
+NUMBER,three,COMMON,0,1,three
+NUMBER,one,COMMON,0,1,one
+NUMBER,three,COMMON,0,1,three
+NUMBER,one,COMMON,0,1,one
+NUMBER,four,COMMON,0,1,four
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,1,COMMON,0,1,1
+NUMBER,one,COMMON,0,1,one
+NUMBER,two,COMMON,0,1,two
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,1,COMMON,0,1,1
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,500,COMMON,0,1,500
+NUMBER,one,COMMON,0,1,one
+NUMBER,14,COMMON,0,1,14
+NUMBER,One,COMMON,0,1,One
+NUMBER,50,COMMON,0,1,50
+NUMBER,"1,000",COMMON,0,1,"1,000"
+NUMBER,1,COMMON,0,1,1
+NUMBER,one,COMMON,0,1,one
+NUMBER,four,COMMON,0,1,four
+NUMBER,10,COMMON,0,1,10
+NUMBER,200,COMMON,0,1,200
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,"2,000",COMMON,0,1,"2,000"
+NUMBER,seven,COMMON,0,1,seven
+NUMBER,three,COMMON,0,1,three
+NUMBER,two,COMMON,0,1,two
+NUMBER,"3,000,000",COMMON,0,1,"3,000,000"
+NUMBER,18,COMMON,0,1,18
+NUMBER,19,COMMON,0,1,19
+NUMBER,50,COMMON,0,1,50
+NUMBER,One,COMMON,0,1,One
+NUMBER,one,COMMON,0,1,one
+NUMBER,200,COMMON,0,1,200
+NUMBER,30,COMMON,0,1,30
+NUMBER,70,COMMON,0,1,70
+NUMBER,10,COMMON,0,1,10
+NUMBER,two,COMMON,0,1,two
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,seven,COMMON,0,1,seven
+NUMBER,1970,COMMON,0,1,1970
+NUMBER,50,COMMON,0,1,50
+NUMBER,one,COMMON,0,1,one
+NUMBER,one,COMMON,0,1,one
+NUMBER,Two,COMMON,0,1,Two
+PRICE,$50,COMMON,0,1,$50
+DATE,2 May,COMMON,0,1,2 May
+DATE,1958,COMMON,0,1,1958
+DATE,1970,COMMON,0,1,1970
+DATE,1952,COMMON,0,1,1952
+DATE,1956,COMMON,0,1,1956
+DATE,1970,COMMON,0,1,1970
+PRICE,$50,COMMON,0,1,$50
+PRICE,$400,COMMON,0,1,$400
+NUMBER,12,COMMON,0,1,12
+PRICE,$50,COMMON,0,1,$50
+PRICE,$500,COMMON,0,1,$500
+PRICE,$50,COMMON,0,1,$50
+PRICE,$500,COMMON,0,1,$500
+PRICE,$446.80,COMMON,0,1,$446.80
+PRICE,"$3,000,000",COMMON,0,1,"$3,000,000"
+NUMBER,two,COMMON,0,1,two
+NUMBER,four,COMMON,0,1,four
+NUMBER,One,COMMON,0,1,One
+NUMBER,5,COMMON,0,1,5
+NUMBER,1970,COMMON,0,1,1970
+NUMBER,one,COMMON,0,1,one
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,20,COMMON,0,1,20
+NUMBER,7,COMMON,0,1,7
+NUMBER,"9,000",COMMON,0,1,"9,000"
+NUMBER,500,COMMON,0,1,500
+NUMBER,50,COMMON,0,1,50
+NUMBER,one,COMMON,0,1,one
+NUMBER,two,COMMON,0,1,two
+NUMBER,One,COMMON,0,1,One
+NUMBER,two,COMMON,0,1,two
+NUMBER,30,COMMON,0,1,30
+NUMBER,one,COMMON,0,1,one
+NUMBER,two,COMMON,0,1,two
+NUMBER,446.80,COMMON,0,1,446.80
+NUMBER,one,COMMON,0,1,one
+NUMBER,400,COMMON,0,1,400
+NUMBER,nine,COMMON,0,1,nine
+NUMBER,one,COMMON,0,1,one
+NUMBER,500,COMMON,0,1,500
+NUMBER,one,COMMON,0,1,one
+NUMBER,10,COMMON,0,1,10
+NUMBER,400,COMMON,0,1,400
+NUMBER,40,COMMON,0,1,40
+NUMBER,two,COMMON,0,1,two
+NUMBER,two,COMMON,0,1,two
+NUMBER,Five,COMMON,0,1,Five
+NUMBER,3/4,COMMON,0,1,3/4
+NUMBER,40,COMMON,0,1,40
+NUMBER,one,COMMON,0,1,one
+NUMBER,10,COMMON,0,1,10

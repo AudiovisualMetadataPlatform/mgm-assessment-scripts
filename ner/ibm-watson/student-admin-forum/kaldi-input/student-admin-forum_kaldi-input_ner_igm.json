@@ -1,0 +1,336 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 3
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "morning demonstrators",
+      "relevance": 0.785901,
+      "count": 1
+    },
+    {
+      "text": "moderator of the second meeting professor of law",
+      "relevance": 0.771949,
+      "count": 1
+    },
+    {
+      "text": "picket lines",
+      "relevance": 0.76529,
+      "count": 1
+    },
+    {
+      "text": "student body",
+      "relevance": 0.660906,
+      "count": 1
+    },
+    {
+      "text": "campus of brian hall",
+      "relevance": 0.616246,
+      "count": 1
+    },
+    {
+      "text": "bride administration building",
+      "relevance": 0.600612,
+      "count": 1
+    },
+    {
+      "text": "open picket lines",
+      "relevance": 0.590152,
+      "count": 1
+    },
+    {
+      "text": "poor professor of law",
+      "relevance": 0.585917,
+      "count": 1
+    },
+    {
+      "text": "students",
+      "relevance": 0.57491,
+      "count": 3
+    },
+    {
+      "text": "access",
+      "relevance": 0.540481,
+      "count": 2
+    },
+    {
+      "text": "group",
+      "relevance": 0.526588,
+      "count": 1
+    },
+    {
+      "text": "ballantine",
+      "relevance": 0.523916,
+      "count": 1
+    },
+    {
+      "text": "classes",
+      "relevance": 0.522332,
+      "count": 1
+    },
+    {
+      "text": "place",
+      "relevance": 0.521807,
+      "count": 1
+    },
+    {
+      "text": "name",
+      "relevance": 0.521505,
+      "count": 1
+    },
+    {
+      "text": "potter",
+      "relevance": 0.521501,
+      "count": 1
+    },
+    {
+      "text": "podium",
+      "relevance": 0.521477,
+      "count": 1
+    },
+    {
+      "text": "dave",
+      "relevance": 0.521409,
+      "count": 1
+    },
+    {
+      "text": "stage",
+      "relevance": 0.521372,
+      "count": 1
+    },
+    {
+      "text": "coincidence",
+      "relevance": 0.521098,
+      "count": 1
+    },
+    {
+      "text": "moderator",
+      "relevance": 0.520422,
+      "count": 1
+    },
+    {
+      "text": "deep divisions",
+      "relevance": 0.520109,
+      "count": 1
+    },
+    {
+      "text": "day",
+      "relevance": 0.514569,
+      "count": 1
+    },
+    {
+      "text": "plans",
+      "relevance": 0.511868,
+      "count": 1
+    },
+    {
+      "text": "instance",
+      "relevance": 0.511174,
+      "count": 1
+    },
+    {
+      "text": "response",
+      "relevance": 0.510414,
+      "count": 2
+    },
+    {
+      "text": "meeting",
+      "relevance": 0.472699,
+      "count": 2
+    },
+    {
+      "text": "morning",
+      "relevance": 0.448761,
+      "count": 2
+    },
+    {
+      "text": "individual conscience of the end",
+      "relevance": 0.448599,
+      "count": 1
+    },
+    {
+      "text": "holds",
+      "relevance": 0.434372,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "harry potter",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "brian hall",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "professor of law",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "fifty dollars",
+      "relevance": 0.33,
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "three weeks",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "three years",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "ten years",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "twelve thousand forty percent",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three million dollars",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five hundred dollars",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four hundred dollars",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seventy percent",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three quarters",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty minutes",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty years",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine months",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten seconds",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two percent",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six weeks",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two weeks",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "ten days",
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Student",
+      "relevance": 0.937284,
+      "dbpedia_resource": "http://dbpedia.org/resource/Student"
+    },
+    {
+      "text": "University",
+      "relevance": 0.936122,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Human rights",
+      "relevance": 0.9083,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+      "text": "Rights",
+      "relevance": 0.862401,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rights"
+    },
+    {
+      "text": "2008 singles",
+      "relevance": 0.735136,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_singles"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.701085,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    }
+  ],
+  "warnings": [
+    "100000 exceeds allowable limit of 50000",
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

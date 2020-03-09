@@ -1,0 +1,3344 @@
+{
+    "usage": {
+        "text_units": 5,
+        "text_characters": 50000,
+        "features": 3
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "Dale Pryweller",
+            "relevance": 0.588045,
+            "count": 30
+        },
+        {
+            "text": "President Sutton",
+            "relevance": 0.585905,
+            "count": 11
+        },
+        {
+            "text": "Professor of Law Harry Pratter",
+            "relevance": 0.574927,
+            "count": 1
+        },
+        {
+            "text": "student body president Keith Parker",
+            "relevance": 0.571429,
+            "count": 1
+        },
+        {
+            "text": "Chancellor Carter",
+            "relevance": 0.56417,
+            "count": 14
+        },
+        {
+            "text": "Mr. Pryweller",
+            "relevance": 0.562879,
+            "count": 1
+        },
+        {
+            "text": "Chuck Turner",
+            "relevance": 0.559848,
+            "count": 12
+        },
+        {
+            "text": "JOSEPH SUTTON",
+            "relevance": 0.55476,
+            "count": 24
+        },
+        {
+            "text": "BYRUM CARTER",
+            "relevance": 0.545929,
+            "count": 19
+        },
+        {
+            "text": "whole thing",
+            "relevance": 0.536197,
+            "count": 1
+        },
+        {
+            "text": "entire academic community of Indiana University",
+            "relevance": 0.53391,
+            "count": 1
+        },
+        {
+            "text": "HARRY PRATTER",
+            "relevance": 0.533216,
+            "count": 23
+        },
+        {
+            "text": "rights of others",
+            "relevance": 0.53223,
+            "count": 2
+        },
+        {
+            "text": "take exams",
+            "relevance": 0.529097,
+            "count": 1
+        },
+        {
+            "text": "books of the IU Foundation",
+            "relevance": 0.527793,
+            "count": 1
+        },
+        {
+            "text": "No. JOSEPH SUTTON",
+            "relevance": 0.527218,
+            "count": 1
+        },
+        {
+            "text": "people of different views",
+            "relevance": 0.526613,
+            "count": 1
+        },
+        {
+            "text": "time limit",
+            "relevance": 0.526227,
+            "count": 1
+        },
+        {
+            "text": "students",
+            "relevance": 0.525344,
+            "count": 33
+        },
+        {
+            "text": "faculty members",
+            "relevance": 0.524638,
+            "count": 1
+        },
+        {
+            "text": "KEITH PARKER",
+            "relevance": 0.524073,
+            "count": 15
+        },
+        {
+            "text": "student government demands",
+            "relevance": 0.52356,
+            "count": 1
+        },
+        {
+            "text": "Student Government Defense Fund",
+            "relevance": 0.522779,
+            "count": 1
+        },
+        {
+            "text": "blunt truth of the matter",
+            "relevance": 0.521838,
+            "count": 3
+        },
+        {
+            "text": "College of Arts",
+            "relevance": 0.521653,
+            "count": 3
+        },
+        {
+            "text": "student leaders",
+            "relevance": 0.521574,
+            "count": 1
+        },
+        {
+            "text": "much time",
+            "relevance": 0.521005,
+            "count": 1
+        },
+        {
+            "text": "significant number of people",
+            "relevance": 0.520548,
+            "count": 1
+        },
+        {
+            "text": "Sciences Policy Committee",
+            "relevance": 0.520048,
+            "count": 1
+        },
+        {
+            "text": "audience",
+            "relevance": 0.519931,
+            "count": 60
+        },
+        {
+            "text": "second part of my statement",
+            "relevance": 0.51886,
+            "count": 1
+        },
+        {
+            "text": "kinds of matters",
+            "relevance": 0.518505,
+            "count": 1
+        },
+        {
+            "text": "last year",
+            "relevance": 0.518305,
+            "count": 2
+        },
+        {
+            "text": "young people",
+            "relevance": 0.518205,
+            "count": 2
+        },
+        {
+            "text": "people",
+            "relevance": 0.517572,
+            "count": 34
+        },
+        {
+            "text": "answer period",
+            "relevance": 0.516293,
+            "count": 3
+        },
+        {
+            "text": "faculty member",
+            "relevance": 0.516272,
+            "count": 1
+        },
+        {
+            "text": "individual conscience of the person",
+            "relevance": 0.516086,
+            "count": 1
+        },
+        {
+            "text": "little time",
+            "relevance": 0.515755,
+            "count": 1
+        },
+        {
+            "text": "law school",
+            "relevance": 0.514258,
+            "count": 4
+        },
+        {
+            "text": "first speaker",
+            "relevance": 0.513982,
+            "count": 1
+        },
+        {
+            "text": "Southeast Asia",
+            "relevance": 0.513876,
+            "count": 2
+        },
+        {
+            "text": "little bit",
+            "relevance": 0.513841,
+            "count": 2
+        },
+        {
+            "text": "faculty council resolution",
+            "relevance": 0.513552,
+            "count": 2
+        },
+        {
+            "text": "constant consultation",
+            "relevance": 0.513273,
+            "count": 1
+        },
+        {
+            "text": "benefit of the students",
+            "relevance": 0.512943,
+            "count": 1
+        },
+        {
+            "text": "open picket lines",
+            "relevance": 0.512827,
+            "count": 2
+        },
+        {
+            "text": "read yesterday",
+            "relevance": 0.512618,
+            "count": 1
+        },
+        {
+            "text": "moral obligation",
+            "relevance": 0.512585,
+            "count": 1
+        },
+        {
+            "text": "student vote",
+            "relevance": 0.512483,
+            "count": 2
+        },
+        {
+            "text": "Bryan Administration Building",
+            "relevance": 0.512223,
+            "count": 1
+        },
+        {
+            "text": "black people",
+            "relevance": 0.512086,
+            "count": 1
+        },
+        {
+            "text": "picket lines",
+            "relevance": 0.511939,
+            "count": 4
+        },
+        {
+            "text": "Chuck CHUCK TURNER",
+            "relevance": 0.511518,
+            "count": 1
+        },
+        {
+            "text": "immediate withdrawal",
+            "relevance": 0.511322,
+            "count": 1
+        },
+        {
+            "text": "books of the IU Foundations",
+            "relevance": 0.511276,
+            "count": 1
+        },
+        {
+            "text": "black students",
+            "relevance": 0.51105,
+            "count": 1
+        },
+        {
+            "text": "government contracts",
+            "relevance": 0.510887,
+            "count": 3
+        },
+        {
+            "text": "question",
+            "relevance": 0.510793,
+            "count": 26
+        },
+        {
+            "text": "disorderly conduct",
+            "relevance": 0.510659,
+            "count": 1
+        },
+        {
+            "text": "School Open",
+            "relevance": 0.510534,
+            "count": 1
+        },
+        {
+            "text": "peaceful protest",
+            "relevance": 0.510181,
+            "count": 1
+        },
+        {
+            "text": "next speaker",
+            "relevance": 0.510146,
+            "count": 1
+        },
+        {
+            "text": "purpose of people",
+            "relevance": 0.509691,
+            "count": 1
+        },
+        {
+            "text": "faculty",
+            "relevance": 0.50964,
+            "count": 16
+        },
+        {
+            "text": "concerned student",
+            "relevance": 0.509185,
+            "count": 1
+        },
+        {
+            "text": "various ways",
+            "relevance": 0.509179,
+            "count": 1
+        },
+        {
+            "text": "chance of agreement of understanding",
+            "relevance": 0.509146,
+            "count": 1
+        },
+        {
+            "text": "kind of meeting",
+            "relevance": 0.508905,
+            "count": 1
+        },
+        {
+            "text": "particular attention",
+            "relevance": 0.508855,
+            "count": 1
+        },
+        {
+            "text": "corporate body",
+            "relevance": 0.508634,
+            "count": 2
+        },
+        {
+            "text": "whole topic keeps",
+            "relevance": 0.508516,
+            "count": 1
+        },
+        {
+            "text": "professional schools",
+            "relevance": 0.508464,
+            "count": 1
+        },
+        {
+            "text": "set of demands",
+            "relevance": 0.50845,
+            "count": 1
+        },
+        {
+            "text": "Um",
+            "relevance": 0.508403,
+            "count": 18
+        },
+        {
+            "text": "Individual students",
+            "relevance": 0.508334,
+            "count": 1
+        },
+        {
+            "text": "deep divisions",
+            "relevance": 0.508127,
+            "count": 1
+        },
+        {
+            "text": "long run proposals",
+            "relevance": 0.507894,
+            "count": 1
+        },
+        {
+            "text": "last week",
+            "relevance": 0.50786,
+            "count": 1
+        },
+        {
+            "text": "REPORTER",
+            "relevance": 0.507819,
+            "count": 10
+        },
+        {
+            "text": "great deal",
+            "relevance": 0.507658,
+            "count": 1
+        },
+        {
+            "text": "educational policy",
+            "relevance": 0.507606,
+            "count": 1
+        },
+        {
+            "text": "great violence",
+            "relevance": 0.50758,
+            "count": 1
+        },
+        {
+            "text": "little different",
+            "relevance": 0.507561,
+            "count": 1
+        },
+        {
+            "text": "statement",
+            "relevance": 0.507549,
+            "count": 10
+        },
+        {
+            "text": "moderator of this afternoon",
+            "relevance": 0.507423,
+            "count": 1
+        },
+        {
+            "text": "Mr. Pratter",
+            "relevance": 0.507418,
+            "count": 3
+        },
+        {
+            "text": "Bobby Seale Defense Fund",
+            "relevance": 0.507344,
+            "count": 1
+        },
+        {
+            "text": "highest grades",
+            "relevance": 0.506981,
+            "count": 1
+        },
+        {
+            "text": "riot gear",
+            "relevance": 0.50696,
+            "count": 1
+        },
+        {
+            "text": "next part",
+            "relevance": 0.506943,
+            "count": 1
+        },
+        {
+            "text": "simple reason",
+            "relevance": 0.506922,
+            "count": 1
+        },
+        {
+            "text": "answer session",
+            "relevance": 0.506877,
+            "count": 1
+        },
+        {
+            "text": "President Nixon's plans",
+            "relevance": 0.506811,
+            "count": 1
+        },
+        {
+            "text": "names of those people",
+            "relevance": 0.506646,
+            "count": 1
+        },
+        {
+            "text": "campus",
+            "relevance": 0.506645,
+            "count": 14
+        },
+        {
+            "text": "edge of town",
+            "relevance": 0.506645,
+            "count": 1
+        },
+        {
+            "text": "educational opportunity",
+            "relevance": 0.506626,
+            "count": 1
+        },
+        {
+            "text": "individual salaries of investigators",
+            "relevance": 0.506532,
+            "count": 1
+        },
+        {
+            "text": "special advisor",
+            "relevance": 0.506523,
+            "count": 1
+        },
+        {
+            "text": "foreign policy",
+            "relevance": 0.506422,
+            "count": 2
+        },
+        {
+            "text": "Vice President",
+            "relevance": 0.506412,
+            "count": 1
+        },
+        {
+            "text": "pass-fail relationships",
+            "relevance": 0.506405,
+            "count": 1
+        },
+        {
+            "text": "beautiful people",
+            "relevance": 0.506396,
+            "count": 1
+        },
+        {
+            "text": "committee of the Division of Arts",
+            "relevance": 0.506256,
+            "count": 1
+        },
+        {
+            "text": "state police",
+            "relevance": 0.506097,
+            "count": 1
+        },
+        {
+            "text": "moral conscience",
+            "relevance": 0.506068,
+            "count": 3
+        },
+        {
+            "text": "large number of alternatives",
+            "relevance": 0.506059,
+            "count": 1
+        },
+        {
+            "text": "last Bloomington council meeting",
+            "relevance": 0.506056,
+            "count": 1
+        },
+        {
+            "text": "political positions",
+            "relevance": 0.505946,
+            "count": 1
+        },
+        {
+            "text": "American servicemen",
+            "relevance": 0.50586,
+            "count": 1
+        },
+        {
+            "text": "Vice Chancellor Herman Hudson",
+            "relevance": 0.505789,
+            "count": 1
+        },
+        {
+            "text": "clear recommendation",
+            "relevance": 0.505731,
+            "count": 1
+        },
+        {
+            "text": "purpose",
+            "relevance": 0.505719,
+            "count": 1
+        },
+        {
+            "text": "English department",
+            "relevance": 0.505685,
+            "count": 1
+        },
+        {
+            "text": "crowded conditions",
+            "relevance": 0.505685,
+            "count": 1
+        },
+        {
+            "text": "full agreement",
+            "relevance": 0.505647,
+            "count": 1
+        },
+        {
+            "text": "town people",
+            "relevance": 0.505624,
+            "count": 1
+        },
+        {
+            "text": "short statements",
+            "relevance": 0.505611,
+            "count": 2
+        },
+        {
+            "text": "Mike Jones",
+            "relevance": 0.505547,
+            "count": 1
+        },
+        {
+            "text": "Uh",
+            "relevance": 0.505539,
+            "count": 18
+        },
+        {
+            "text": "violent destructive acts",
+            "relevance": 0.505392,
+            "count": 2
+        },
+        {
+            "text": "white shirts",
+            "relevance": 0.505391,
+            "count": 1
+        },
+        {
+            "text": "first demand",
+            "relevance": 0.505371,
+            "count": 1
+        },
+        {
+            "text": "poor professor of law",
+            "relevance": 0.505289,
+            "count": 1
+        },
+        {
+            "text": "various newspapers",
+            "relevance": 0.505283,
+            "count": 2
+        },
+        {
+            "text": "recommendation",
+            "relevance": 0.505265,
+            "count": 10
+        },
+        {
+            "text": "half tracks",
+            "relevance": 0.505222,
+            "count": 1
+        },
+        {
+            "text": "view of the faculty",
+            "relevance": 0.505207,
+            "count": 1
+        },
+        {
+            "text": "et cetera",
+            "relevance": 0.505014,
+            "count": 1
+        },
+        {
+            "text": "bodily harm",
+            "relevance": 0.504981,
+            "count": 1
+        },
+        {
+            "text": "political dissent",
+            "relevance": 0.504977,
+            "count": 1
+        },
+        {
+            "text": "question of Mr. Sutton",
+            "relevance": 0.504971,
+            "count": 1
+        },
+        {
+            "text": "office of Dean Merritt",
+            "relevance": 0.504902,
+            "count": 1
+        },
+        {
+            "text": "second question",
+            "relevance": 0.504848,
+            "count": 1
+        },
+        {
+            "text": "announcement concerns",
+            "relevance": 0.504821,
+            "count": 1
+        },
+        {
+            "text": "political activities",
+            "relevance": 0.50479,
+            "count": 1
+        },
+        {
+            "text": "possible death",
+            "relevance": 0.504729,
+            "count": 1
+        },
+        {
+            "text": "Evansville press",
+            "relevance": 0.504584,
+            "count": 2
+        },
+        {
+            "text": "Student Body",
+            "relevance": 0.504576,
+            "count": 1
+        },
+        {
+            "text": "important point",
+            "relevance": 0.504512,
+            "count": 1
+        },
+        {
+            "text": "President Sutton's statement",
+            "relevance": 0.504459,
+            "count": 1
+        },
+        {
+            "text": "final statement",
+            "relevance": 0.504444,
+            "count": 1
+        },
+        {
+            "text": "better world",
+            "relevance": 0.504444,
+            "count": 1
+        },
+        {
+            "text": "police signal",
+            "relevance": 0.504419,
+            "count": 1
+        },
+        {
+            "text": "Evansville",
+            "relevance": 0.504337,
+            "count": 2
+        },
+        {
+            "text": "different places",
+            "relevance": 0.504317,
+            "count": 1
+        },
+        {
+            "text": "student of law",
+            "relevance": 0.504316,
+            "count": 1
+        },
+        {
+            "text": "lot of student problems",
+            "relevance": 0.504265,
+            "count": 1
+        },
+        {
+            "text": "Bobby Seale",
+            "relevance": 0.504265,
+            "count": 1
+        },
+        {
+            "text": "small town",
+            "relevance": 0.504265,
+            "count": 1
+        },
+        {
+            "text": "national strike",
+            "relevance": 0.504242,
+            "count": 1
+        },
+        {
+            "text": "campus complicity",
+            "relevance": 0.504226,
+            "count": 1
+        },
+        {
+            "text": "hope",
+            "relevance": 0.504218,
+            "count": 1
+        },
+        {
+            "text": "Mike",
+            "relevance": 0.504198,
+            "count": 7
+        },
+        {
+            "text": "little idea",
+            "relevance": 0.504146,
+            "count": 1
+        },
+        {
+            "text": "uses of funds",
+            "relevance": 0.504082,
+            "count": 1
+        },
+        {
+            "text": "general fund",
+            "relevance": 0.504078,
+            "count": 1
+        },
+        {
+            "text": "president of the university",
+            "relevance": 0.504034,
+            "count": 2
+        },
+        {
+            "text": "spectrum of political opinion",
+            "relevance": 0.50403,
+            "count": 1
+        },
+        {
+            "text": "point",
+            "relevance": 0.503975,
+            "count": 4
+        },
+        {
+            "text": "thing",
+            "relevance": 0.503933,
+            "count": 7
+        },
+        {
+            "text": "Bloomington",
+            "relevance": 0.503923,
+            "count": 4
+        },
+        {
+            "text": "classes",
+            "relevance": 0.50384,
+            "count": 6
+        },
+        {
+            "text": "strike request",
+            "relevance": 0.503814,
+            "count": 1
+        },
+        {
+            "text": "fact of the majority rule",
+            "relevance": 0.503812,
+            "count": 1
+        },
+        {
+            "text": "Mike King",
+            "relevance": 0.503806,
+            "count": 3
+        },
+        {
+            "text": "university",
+            "relevance": 0.503796,
+            "count": 14
+        },
+        {
+            "text": "Air Force",
+            "relevance": 0.503791,
+            "count": 1
+        },
+        {
+            "text": "fine young men",
+            "relevance": 0.503788,
+            "count": 1
+        },
+        {
+            "text": "Mr. Parker",
+            "relevance": 0.503781,
+            "count": 1
+        },
+        {
+            "text": "reports",
+            "relevance": 0.503769,
+            "count": 2
+        },
+        {
+            "text": "faculty of the College of Arts",
+            "relevance": 0.50374,
+            "count": 1
+        },
+        {
+            "text": "terms of the statement",
+            "relevance": 0.503735,
+            "count": 1
+        },
+        {
+            "text": "smaller proportionate number of black students",
+            "relevance": 0.503625,
+            "count": 1
+        },
+        {
+            "text": "different things",
+            "relevance": 0.503558,
+            "count": 1
+        },
+        {
+            "text": "public documents",
+            "relevance": 0.503504,
+            "count": 1
+        },
+        {
+            "text": "right",
+            "relevance": 0.503456,
+            "count": 3
+        },
+        {
+            "text": "Attorney General",
+            "relevance": 0.503452,
+            "count": 1
+        },
+        {
+            "text": "glorious rhetoric",
+            "relevance": 0.503433,
+            "count": 1
+        },
+        {
+            "text": "political protest",
+            "relevance": 0.50343,
+            "count": 1
+        },
+        {
+            "text": "floor microphones",
+            "relevance": 0.503391,
+            "count": 1
+        },
+        {
+            "text": "public accounting of all university use of funds",
+            "relevance": 0.503354,
+            "count": 1
+        },
+        {
+            "text": "majority rule",
+            "relevance": 0.503337,
+            "count": 1
+        },
+        {
+            "text": "campuses",
+            "relevance": 0.503323,
+            "count": 1
+        },
+        {
+            "text": "name",
+            "relevance": 0.503217,
+            "count": 3
+        },
+        {
+            "text": "various options",
+            "relevance": 0.503213,
+            "count": 1
+        },
+        {
+            "text": "faculty vote",
+            "relevance": 0.503206,
+            "count": 1
+        },
+        {
+            "text": "present student government",
+            "relevance": 0.503203,
+            "count": 1
+        },
+        {
+            "text": "civil libertarian principles",
+            "relevance": 0.503099,
+            "count": 1
+        },
+        {
+            "text": "rest of the world",
+            "relevance": 0.503013,
+            "count": 1
+        },
+        {
+            "text": "IU President",
+            "relevance": 0.50299,
+            "count": 2
+        },
+        {
+            "text": "policy",
+            "relevance": 0.502922,
+            "count": 2
+        },
+        {
+            "text": "additional support",
+            "relevance": 0.502908,
+            "count": 1
+        },
+        {
+            "text": "student government",
+            "relevance": 0.502875,
+            "count": 2
+        },
+        {
+            "text": "things of a constructive nature",
+            "relevance": 0.502865,
+            "count": 1
+        },
+        {
+            "text": "student",
+            "relevance": 0.502818,
+            "count": 7
+        },
+        {
+            "text": "policy committee",
+            "relevance": 0.502762,
+            "count": 1
+        },
+        {
+            "text": "state of Indiana",
+            "relevance": 0.502731,
+            "count": 2
+        },
+        {
+            "text": "today",
+            "relevance": 0.502718,
+            "count": 11
+        },
+        {
+            "text": "Silent majority",
+            "relevance": 0.502692,
+            "count": 1
+        },
+        {
+            "text": "various divisions",
+            "relevance": 0.502684,
+            "count": 1
+        },
+        {
+            "text": "Professor Edward Sherman",
+            "relevance": 0.502669,
+            "count": 1
+        },
+        {
+            "text": "only thing",
+            "relevance": 0.502662,
+            "count": 1
+        },
+        {
+            "text": "lot of questions",
+            "relevance": 0.502656,
+            "count": 1
+        },
+        {
+            "text": "part of the demands",
+            "relevance": 0.502635,
+            "count": 1
+        },
+        {
+            "text": "Chuck",
+            "relevance": 0.502616,
+            "count": 1
+        },
+        {
+            "text": "majority vote",
+            "relevance": 0.502609,
+            "count": 2
+        },
+        {
+            "text": "ROTC work",
+            "relevance": 0.502602,
+            "count": 1
+        },
+        {
+            "text": "yesterday",
+            "relevance": 0.502548,
+            "count": 3
+        },
+        {
+            "text": "stage",
+            "relevance": 0.502543,
+            "count": 6
+        },
+        {
+            "text": "statements",
+            "relevance": 0.502516,
+            "count": 2
+        },
+        {
+            "text": "Keith",
+            "relevance": 0.50251,
+            "count": 6
+        },
+        {
+            "text": "plans",
+            "relevance": 0.502472,
+            "count": 1
+        },
+        {
+            "text": "business school",
+            "relevance": 0.502446,
+            "count": 1
+        },
+        {
+            "text": "feet",
+            "relevance": 0.502406,
+            "count": 3
+        },
+        {
+            "text": "president",
+            "relevance": 0.5024,
+            "count": 5
+        },
+        {
+            "text": "question of attitude",
+            "relevance": 0.502329,
+            "count": 1
+        },
+        {
+            "text": "Michigan City",
+            "relevance": 0.502323,
+            "count": 1
+        },
+        {
+            "text": "lives of students",
+            "relevance": 0.502323,
+            "count": 1
+        },
+        {
+            "text": "place",
+            "relevance": 0.502319,
+            "count": 2
+        },
+        {
+            "text": "university administration",
+            "relevance": 0.502279,
+            "count": 1
+        },
+        {
+            "text": "brothers",
+            "relevance": 0.50226,
+            "count": 1
+        },
+        {
+            "text": "hour",
+            "relevance": 0.502249,
+            "count": 4
+        },
+        {
+            "text": "arts",
+            "relevance": 0.502222,
+            "count": 5
+        },
+        {
+            "text": "rights",
+            "relevance": 0.502181,
+            "count": 8
+        },
+        {
+            "text": "general fund money",
+            "relevance": 0.502163,
+            "count": 1
+        },
+        {
+            "text": "end quote",
+            "relevance": 0.502157,
+            "count": 1
+        },
+        {
+            "text": "democratic ideals",
+            "relevance": 0.502137,
+            "count": 1
+        },
+        {
+            "text": "direction of this institution",
+            "relevance": 0.502122,
+            "count": 1
+        },
+        {
+            "text": "Indiana",
+            "relevance": 0.50212,
+            "count": 2
+        },
+        {
+            "text": "business school faculty",
+            "relevance": 0.50212,
+            "count": 1
+        },
+        {
+            "text": "president of this university",
+            "relevance": 0.502067,
+            "count": 1
+        },
+        {
+            "text": "fact",
+            "relevance": 0.502042,
+            "count": 2
+        },
+        {
+            "text": "actions",
+            "relevance": 0.502034,
+            "count": 1
+        },
+        {
+            "text": "corporate interests",
+            "relevance": 0.502028,
+            "count": 1
+        },
+        {
+            "text": "bloody mayhem",
+            "relevance": 0.502012,
+            "count": 2
+        },
+        {
+            "text": "issues",
+            "relevance": 0.502006,
+            "count": 3
+        },
+        {
+            "text": "responsibility",
+            "relevance": 0.501989,
+            "count": 4
+        },
+        {
+            "text": "Democracy",
+            "relevance": 0.501956,
+            "count": 2
+        },
+        {
+            "text": "misdemeanor",
+            "relevance": 0.501953,
+            "count": 1
+        },
+        {
+            "text": "Sir",
+            "relevance": 0.501942,
+            "count": 1
+        },
+        {
+            "text": "exact quote",
+            "relevance": 0.501934,
+            "count": 1
+        },
+        {
+            "text": "important part of that recommendation of that essay",
+            "relevance": 0.501927,
+            "count": 1
+        },
+        {
+            "text": "IU",
+            "relevance": 0.501925,
+            "count": 2
+        },
+        {
+            "text": "Vietnam",
+            "relevance": 0.501921,
+            "count": 5
+        },
+        {
+            "text": "political repression",
+            "relevance": 0.501909,
+            "count": 1
+        },
+        {
+            "text": "science",
+            "relevance": 0.501904,
+            "count": 2
+        },
+        {
+            "text": "ways",
+            "relevance": 0.5019,
+            "count": 1
+        },
+        {
+            "text": "report",
+            "relevance": 0.501885,
+            "count": 4
+        },
+        {
+            "text": "Indiana University",
+            "relevance": 0.501876,
+            "count": 1
+        },
+        {
+            "text": "gentlemen",
+            "relevance": 0.501873,
+            "count": 1
+        },
+        {
+            "text": "bail",
+            "relevance": 0.501835,
+            "count": 2
+        },
+        {
+            "text": "ROTC",
+            "relevance": 0.501813,
+            "count": 5
+        },
+        {
+            "text": "broadest possible context",
+            "relevance": 0.501806,
+            "count": 1
+        },
+        {
+            "text": "Tom",
+            "relevance": 0.501797,
+            "count": 5
+        },
+        {
+            "text": "money",
+            "relevance": 0.501792,
+            "count": 7
+        },
+        {
+            "text": "obligation of the university",
+            "relevance": 0.501778,
+            "count": 1
+        },
+        {
+            "text": "difficulties",
+            "relevance": 0.501764,
+            "count": 1
+        },
+        {
+            "text": "IU student government",
+            "relevance": 0.501756,
+            "count": 1
+        },
+        {
+            "text": "recommendations",
+            "relevance": 0.501755,
+            "count": 3
+        },
+        {
+            "text": "leader",
+            "relevance": 0.501753,
+            "count": 2
+        },
+        {
+            "text": "administration",
+            "relevance": 0.501679,
+            "count": 9
+        },
+        {
+            "text": "Professor Stan",
+            "relevance": 0.501666,
+            "count": 1
+        },
+        {
+            "text": "IU campus",
+            "relevance": 0.501638,
+            "count": 1
+        },
+        {
+            "text": "Black Panthers",
+            "relevance": 0.501606,
+            "count": 1
+        },
+        {
+            "text": "steps",
+            "relevance": 0.5016,
+            "count": 1
+        },
+        {
+            "text": "William Curley",
+            "relevance": 0.501592,
+            "count": 1
+        },
+        {
+            "text": "Bloomington faculty council",
+            "relevance": 0.501579,
+            "count": 2
+        },
+        {
+            "text": "sense",
+            "relevance": 0.501573,
+            "count": 1
+        },
+        {
+            "text": "society",
+            "relevance": 0.501551,
+            "count": 2
+        },
+        {
+            "text": "group of administrators",
+            "relevance": 0.501545,
+            "count": 1
+        },
+        {
+            "text": "SPEAKER",
+            "relevance": 0.501527,
+            "count": 2
+        },
+        {
+            "text": "Professor",
+            "relevance": 0.501525,
+            "count": 1
+        },
+        {
+            "text": "Evansville Courier",
+            "relevance": 0.501515,
+            "count": 2
+        },
+        {
+            "text": "relation",
+            "relevance": 0.501487,
+            "count": 3
+        },
+        {
+            "text": "coverage of the student administration forum",
+            "relevance": 0.501487,
+            "count": 1
+        },
+        {
+            "text": "set aside",
+            "relevance": 0.501481,
+            "count": 1
+        },
+        {
+            "text": "referendum",
+            "relevance": 0.501479,
+            "count": 5
+        },
+        {
+            "text": "Sutton",
+            "relevance": 0.501469,
+            "count": 4
+        },
+        {
+            "text": "assault",
+            "relevance": 0.501455,
+            "count": 1
+        },
+        {
+            "text": "kind of repudiation",
+            "relevance": 0.501453,
+            "count": 1
+        },
+        {
+            "text": "Ladies",
+            "relevance": 0.501439,
+            "count": 1
+        },
+        {
+            "text": "assurance",
+            "relevance": 0.501411,
+            "count": 2
+        },
+        {
+            "text": "alumni",
+            "relevance": 0.501396,
+            "count": 1
+        },
+        {
+            "text": "reason",
+            "relevance": 0.50139,
+            "count": 2
+        },
+        {
+            "text": "suggestions",
+            "relevance": 0.501371,
+            "count": 1
+        },
+        {
+            "text": "access",
+            "relevance": 0.50135,
+            "count": 4
+        },
+        {
+            "text": "demand",
+            "relevance": 0.501332,
+            "count": 2
+        },
+        {
+            "text": "seconds",
+            "relevance": 0.501325,
+            "count": 1
+        },
+        {
+            "text": "idea",
+            "relevance": 0.501323,
+            "count": 1
+        },
+        {
+            "text": "whole point of a democracy",
+            "relevance": 0.501295,
+            "count": 2
+        },
+        {
+            "text": "class",
+            "relevance": 0.50128,
+            "count": 8
+        },
+        {
+            "text": "sisters",
+            "relevance": 0.501277,
+            "count": 1
+        },
+        {
+            "text": "Sciences",
+            "relevance": 0.501269,
+            "count": 4
+        },
+        {
+            "text": "comments",
+            "relevance": 0.501265,
+            "count": 3
+        },
+        {
+            "text": "student government office",
+            "relevance": 0.501261,
+            "count": 1
+        },
+        {
+            "text": "education",
+            "relevance": 0.501255,
+            "count": 4
+        },
+        {
+            "text": "Number",
+            "relevance": 0.50124,
+            "count": 3
+        },
+        {
+            "text": "obligation",
+            "relevance": 0.501239,
+            "count": 4
+        },
+        {
+            "text": "simple thing",
+            "relevance": 0.50123,
+            "count": 1
+        },
+        {
+            "text": "divisions",
+            "relevance": 0.501219,
+            "count": 1
+        },
+        {
+            "text": "defense",
+            "relevance": 0.501219,
+            "count": 1
+        },
+        {
+            "text": "Mr. Turner",
+            "relevance": 0.501218,
+            "count": 2
+        },
+        {
+            "text": "educational problems",
+            "relevance": 0.501202,
+            "count": 1
+        },
+        {
+            "text": "last Bloomington campus meeting",
+            "relevance": 0.501202,
+            "count": 1
+        },
+        {
+            "text": "view of the people",
+            "relevance": 0.501197,
+            "count": 1
+        },
+        {
+            "text": "death",
+            "relevance": 0.501192,
+            "count": 1
+        },
+        {
+            "text": "feelings",
+            "relevance": 0.501183,
+            "count": 2
+        },
+        {
+            "text": "options",
+            "relevance": 0.501174,
+            "count": 1
+        },
+        {
+            "text": "personal copy yesterday",
+            "relevance": 0.501169,
+            "count": 2
+        },
+        {
+            "text": "word",
+            "relevance": 0.501156,
+            "count": 4
+        },
+        {
+            "text": "announcement",
+            "relevance": 0.501124,
+            "count": 2
+        },
+        {
+            "text": "truth of the matter",
+            "relevance": 0.501118,
+            "count": 1
+        },
+        {
+            "text": "reporters",
+            "relevance": 0.501117,
+            "count": 1
+        },
+        {
+            "text": "committee",
+            "relevance": 0.501105,
+            "count": 2
+        },
+        {
+            "text": "auditorium",
+            "relevance": 0.501104,
+            "count": 2
+        },
+        {
+            "text": "moderator",
+            "relevance": 0.501086,
+            "count": 5
+        },
+        {
+            "text": "demonstrators",
+            "relevance": 0.501078,
+            "count": 1
+        },
+        {
+            "text": "total program",
+            "relevance": 0.501078,
+            "count": 1
+        },
+        {
+            "text": "answer",
+            "relevance": 0.501073,
+            "count": 7
+        },
+        {
+            "text": "names",
+            "relevance": 0.501072,
+            "count": 2
+        },
+        {
+            "text": "demands",
+            "relevance": 0.501065,
+            "count": 1
+        },
+        {
+            "text": "number of black students",
+            "relevance": 0.50106,
+            "count": 2
+        },
+        {
+            "text": "credit",
+            "relevance": 0.501058,
+            "count": 4
+        },
+        {
+            "text": "battery",
+            "relevance": 0.501056,
+            "count": 1
+        },
+        {
+            "text": "hell",
+            "relevance": 0.501052,
+            "count": 2
+        },
+        {
+            "text": "day",
+            "relevance": 0.501029,
+            "count": 1
+        },
+        {
+            "text": "activities",
+            "relevance": 0.501021,
+            "count": 1
+        },
+        {
+            "text": "action",
+            "relevance": 0.501017,
+            "count": 6
+        },
+        {
+            "text": "issue",
+            "relevance": 0.501003,
+            "count": 2
+        },
+        {
+            "text": "category",
+            "relevance": 0.500998,
+            "count": 1
+        },
+        {
+            "text": "odd students",
+            "relevance": 0.500991,
+            "count": 1
+        },
+        {
+            "text": "friends",
+            "relevance": 0.500987,
+            "count": 2
+        },
+        {
+            "text": "adjectives",
+            "relevance": 0.500983,
+            "count": 1
+        },
+        {
+            "text": "questions",
+            "relevance": 0.500981,
+            "count": 7
+        },
+        {
+            "text": "bond",
+            "relevance": 0.50098,
+            "count": 4
+        },
+        {
+            "text": "result of the concern",
+            "relevance": 0.500973,
+            "count": 1
+        },
+        {
+            "text": "Defense Fund",
+            "relevance": 0.500962,
+            "count": 1
+        },
+        {
+            "text": "little upset",
+            "relevance": 0.500957,
+            "count": 2
+        },
+        {
+            "text": "judgment",
+            "relevance": 0.500957,
+            "count": 1
+        },
+        {
+            "text": "own initiative",
+            "relevance": 0.500952,
+            "count": 1
+        },
+        {
+            "text": "myth",
+            "relevance": 0.50095,
+            "count": 1
+        },
+        {
+            "text": "title",
+            "relevance": 0.500947,
+            "count": 2
+        },
+        {
+            "text": "extraordinary response",
+            "relevance": 0.500946,
+            "count": 1
+        },
+        {
+            "text": "containment",
+            "relevance": 0.500946,
+            "count": 1
+        },
+        {
+            "text": "accordance",
+            "relevance": 0.500942,
+            "count": 2
+        },
+        {
+            "text": "gentleman",
+            "relevance": 0.500937,
+            "count": 4
+        },
+        {
+            "text": "justification",
+            "relevance": 0.500936,
+            "count": 1
+        },
+        {
+            "text": "brief announcement",
+            "relevance": 0.500931,
+            "count": 1
+        },
+        {
+            "text": "family",
+            "relevance": 0.500929,
+            "count": 1
+        },
+        {
+            "text": "crowd",
+            "relevance": 0.500926,
+            "count": 1
+        },
+        {
+            "text": "courses",
+            "relevance": 0.500926,
+            "count": 1
+        },
+        {
+            "text": "phrase",
+            "relevance": 0.50092,
+            "count": 1
+        },
+        {
+            "text": "sentiment",
+            "relevance": 0.500915,
+            "count": 1
+        },
+        {
+            "text": "foot clubs",
+            "relevance": 0.500915,
+            "count": 1
+        },
+        {
+            "text": "op",
+            "relevance": 0.500912,
+            "count": 1
+        },
+        {
+            "text": "chancellor",
+            "relevance": 0.500907,
+            "count": 3
+        },
+        {
+            "text": "paper",
+            "relevance": 0.500904,
+            "count": 1
+        },
+        {
+            "text": "violence",
+            "relevance": 0.500892,
+            "count": 3
+        },
+        {
+            "text": "town students",
+            "relevance": 0.500892,
+            "count": 2
+        },
+        {
+            "text": "terms",
+            "relevance": 0.500882,
+            "count": 1
+        },
+        {
+            "text": "backlash",
+            "relevance": 0.500881,
+            "count": 2
+        },
+        {
+            "text": "quotations",
+            "relevance": 0.500872,
+            "count": 2
+        },
+        {
+            "text": "war",
+            "relevance": 0.500865,
+            "count": 2
+        },
+        {
+            "text": "microphone",
+            "relevance": 0.500863,
+            "count": 4
+        },
+        {
+            "text": "answers",
+            "relevance": 0.500858,
+            "count": 2
+        },
+        {
+            "text": "politics",
+            "relevance": 0.500836,
+            "count": 2
+        },
+        {
+            "text": "citizens",
+            "relevance": 0.500832,
+            "count": 1
+        },
+        {
+            "text": "ugliness",
+            "relevance": 0.500829,
+            "count": 1
+        },
+        {
+            "text": "Mis",
+            "relevance": 0.500826,
+            "count": 1
+        },
+        {
+            "text": "plan",
+            "relevance": 0.500824,
+            "count": 1
+        },
+        {
+            "text": "wrap",
+            "relevance": 0.500817,
+            "count": 1
+        },
+        {
+            "text": "destruction",
+            "relevance": 0.500817,
+            "count": 1
+        },
+        {
+            "text": "institution",
+            "relevance": 0.50081,
+            "count": 3
+        },
+        {
+            "text": "headline",
+            "relevance": 0.500809,
+            "count": 1
+        },
+        {
+            "text": "podium",
+            "relevance": 0.500806,
+            "count": 1
+        },
+        {
+            "text": "conduct",
+            "relevance": 0.500803,
+            "count": 1
+        },
+        {
+            "text": "representatives",
+            "relevance": 0.500803,
+            "count": 1
+        },
+        {
+            "text": "step",
+            "relevance": 0.5008,
+            "count": 1
+        },
+        {
+            "text": "vote",
+            "relevance": 0.500794,
+            "count": 2
+        },
+        {
+            "text": "productivity",
+            "relevance": 0.500791,
+            "count": 1
+        },
+        {
+            "text": "discussion",
+            "relevance": 0.500791,
+            "count": 1
+        },
+        {
+            "text": "rest",
+            "relevance": 0.500786,
+            "count": 1
+        },
+        {
+            "text": "Washington",
+            "relevance": 0.500784,
+            "count": 1
+        },
+        {
+            "text": "existence",
+            "relevance": 0.500783,
+            "count": 1
+        },
+        {
+            "text": "solidarity",
+            "relevance": 0.500782,
+            "count": 1
+        },
+        {
+            "text": "hometowns",
+            "relevance": 0.500781,
+            "count": 1
+        },
+        {
+            "text": "protest",
+            "relevance": 0.50078,
+            "count": 1
+        },
+        {
+            "text": "Carter",
+            "relevance": 0.500777,
+            "count": 1
+        },
+        {
+            "text": "witness",
+            "relevance": 0.500776,
+            "count": 1
+        },
+        {
+            "text": "neighbors",
+            "relevance": 0.500771,
+            "count": 1
+        },
+        {
+            "text": "doubts",
+            "relevance": 0.500766,
+            "count": 1
+        },
+        {
+            "text": "man",
+            "relevance": 0.500765,
+            "count": 3
+        },
+        {
+            "text": "speech",
+            "relevance": 0.500753,
+            "count": 1
+        },
+        {
+            "text": "case",
+            "relevance": 0.500752,
+            "count": 2
+        },
+        {
+            "text": "Thailand",
+            "relevance": 0.500751,
+            "count": 1
+        },
+        {
+            "text": "apprehension",
+            "relevance": 0.50075,
+            "count": 1
+        },
+        {
+            "text": "sections of the budget",
+            "relevance": 0.50075,
+            "count": 1
+        },
+        {
+            "text": "resolution",
+            "relevance": 0.500749,
+            "count": 1
+        },
+        {
+            "text": "judge",
+            "relevance": 0.500747,
+            "count": 1
+        },
+        {
+            "text": "orders",
+            "relevance": 0.500736,
+            "count": 1
+        },
+        {
+            "text": "fund",
+            "relevance": 0.500733,
+            "count": 1
+        },
+        {
+            "text": "Paul Dobbs",
+            "relevance": 0.500729,
+            "count": 1
+        },
+        {
+            "text": "demonstration",
+            "relevance": 0.500729,
+            "count": 1
+        },
+        {
+            "text": "reply",
+            "relevance": 0.500728,
+            "count": 1
+        },
+        {
+            "text": "field",
+            "relevance": 0.500716,
+            "count": 1
+        },
+        {
+            "text": "item",
+            "relevance": 0.500716,
+            "count": 1
+        },
+        {
+            "text": "things",
+            "relevance": 0.500715,
+            "count": 7
+        },
+        {
+            "text": "tasks",
+            "relevance": 0.500714,
+            "count": 1
+        },
+        {
+            "text": "doorways",
+            "relevance": 0.500713,
+            "count": 1
+        },
+        {
+            "text": "fees",
+            "relevance": 0.500711,
+            "count": 1
+        },
+        {
+            "text": "direction",
+            "relevance": 0.500711,
+            "count": 1
+        },
+        {
+            "text": "impact",
+            "relevance": 0.500708,
+            "count": 1
+        },
+        {
+            "text": "government contracts of this university",
+            "relevance": 0.500698,
+            "count": 1
+        },
+        {
+            "text": "moment",
+            "relevance": 0.50069,
+            "count": 1
+        },
+        {
+            "text": "heads",
+            "relevance": 0.500685,
+            "count": 1
+        },
+        {
+            "text": "foundation",
+            "relevance": 0.500681,
+            "count": 4
+        },
+        {
+            "text": "quarters",
+            "relevance": 0.500677,
+            "count": 2
+        },
+        {
+            "text": "practices",
+            "relevance": 0.50066,
+            "count": 1
+        },
+        {
+            "text": "response",
+            "relevance": 0.500659,
+            "count": 2
+        },
+        {
+            "text": "minds",
+            "relevance": 0.500654,
+            "count": 1
+        },
+        {
+            "text": "participation",
+            "relevance": 0.500653,
+            "count": 1
+        },
+        {
+            "text": "country",
+            "relevance": 0.500652,
+            "count": 1
+        },
+        {
+            "text": "bitterness",
+            "relevance": 0.500648,
+            "count": 1
+        },
+        {
+            "text": "jobs",
+            "relevance": 0.500648,
+            "count": 1
+        },
+        {
+            "text": "concern",
+            "relevance": 0.500646,
+            "count": 2
+        },
+        {
+            "text": "Veterans",
+            "relevance": 0.500643,
+            "count": 2
+        },
+        {
+            "text": "police",
+            "relevance": 0.500639,
+            "count": 7
+        },
+        {
+            "text": "implication",
+            "relevance": 0.500638,
+            "count": 1
+        },
+        {
+            "text": "occasions",
+            "relevance": 0.500637,
+            "count": 1
+        },
+        {
+            "text": "way",
+            "relevance": 0.500633,
+            "count": 5
+        },
+        {
+            "text": "comment",
+            "relevance": 0.500633,
+            "count": 1
+        },
+        {
+            "text": "women",
+            "relevance": 0.500633,
+            "count": 1
+        },
+        {
+            "text": "offices",
+            "relevance": 0.500632,
+            "count": 2
+        },
+        {
+            "text": "emphasis",
+            "relevance": 0.500631,
+            "count": 1
+        },
+        {
+            "text": "Ballantine",
+            "relevance": 0.500625,
+            "count": 2
+        },
+        {
+            "text": "self",
+            "relevance": 0.500618,
+            "count": 1
+        },
+        {
+            "text": "touch",
+            "relevance": 0.500618,
+            "count": 1
+        },
+        {
+            "text": "lobby",
+            "relevance": 0.500614,
+            "count": 1
+        },
+        {
+            "text": "article",
+            "relevance": 0.500606,
+            "count": 1
+        },
+        {
+            "text": "hand",
+            "relevance": 0.500606,
+            "count": 1
+        },
+        {
+            "text": "business",
+            "relevance": 0.500597,
+            "count": 1
+        },
+        {
+            "text": "peace",
+            "relevance": 0.500593,
+            "count": 3
+        },
+        {
+            "text": "Ike",
+            "relevance": 0.500593,
+            "count": 1
+        },
+        {
+            "text": "Michael",
+            "relevance": 0.500589,
+            "count": 1
+        },
+        {
+            "text": "session",
+            "relevance": 0.500588,
+            "count": 1
+        },
+        {
+            "text": "matters",
+            "relevance": 0.500585,
+            "count": 1
+        },
+        {
+            "text": "uni",
+            "relevance": 0.500584,
+            "count": 1
+        },
+        {
+            "text": "opportunity",
+            "relevance": 0.500582,
+            "count": 3
+        },
+        {
+            "text": "decision",
+            "relevance": 0.500581,
+            "count": 1
+        },
+        {
+            "text": "books",
+            "relevance": 0.500581,
+            "count": 1
+        },
+        {
+            "text": "situations",
+            "relevance": 0.500578,
+            "count": 1
+        },
+        {
+            "text": "various divisions of the Bloomington campus",
+            "relevance": 0.500569,
+            "count": 1
+        },
+        {
+            "text": "intention",
+            "relevance": 0.500567,
+            "count": 1
+        },
+        {
+            "text": "shout",
+            "relevance": 0.500566,
+            "count": 1
+        },
+        {
+            "text": "officers",
+            "relevance": 0.500564,
+            "count": 1
+        },
+        {
+            "text": "meetings",
+            "relevance": 0.500563,
+            "count": 1
+        },
+        {
+            "text": "part",
+            "relevance": 0.50056,
+            "count": 1
+        },
+        {
+            "text": "Salaries",
+            "relevance": 0.500553,
+            "count": 1
+        },
+        {
+            "text": "enough times",
+            "relevance": 0.500549,
+            "count": 1
+        },
+        {
+            "text": "commission",
+            "relevance": 0.500548,
+            "count": 1
+        },
+        {
+            "text": "demonstrator",
+            "relevance": 0.500539,
+            "count": 1
+        },
+        {
+            "text": "threats",
+            "relevance": 0.500536,
+            "count": 1
+        },
+        {
+            "text": "chance",
+            "relevance": 0.500535,
+            "count": 1
+        },
+        {
+            "text": "front",
+            "relevance": 0.500528,
+            "count": 1
+        },
+        {
+            "text": "court",
+            "relevance": 0.500528,
+            "count": 1
+        },
+        {
+            "text": "strike",
+            "relevance": 0.500523,
+            "count": 5
+        },
+        {
+            "text": "mythology",
+            "relevance": 0.500522,
+            "count": 1
+        },
+        {
+            "text": "disdain",
+            "relevance": 0.50052,
+            "count": 1
+        },
+        {
+            "text": "classroom",
+            "relevance": 0.500518,
+            "count": 1
+        },
+        {
+            "text": "days",
+            "relevance": 0.500515,
+            "count": 2
+        },
+        {
+            "text": "position",
+            "relevance": 0.500514,
+            "count": 2
+        },
+        {
+            "text": "con",
+            "relevance": 0.500513,
+            "count": 1
+        },
+        {
+            "text": "lists",
+            "relevance": 0.500512,
+            "count": 1
+        },
+        {
+            "text": "activity",
+            "relevance": 0.500511,
+            "count": 1
+        },
+        {
+            "text": "facts",
+            "relevance": 0.500511,
+            "count": 2
+        },
+        {
+            "text": "programs",
+            "relevance": 0.500509,
+            "count": 1
+        },
+        {
+            "text": "college",
+            "relevance": 0.500507,
+            "count": 1
+        },
+        {
+            "text": "bricks",
+            "relevance": 0.500505,
+            "count": 1
+        },
+        {
+            "text": "contributions",
+            "relevance": 0.500501,
+            "count": 1
+        },
+        {
+            "text": "parts",
+            "relevance": 0.50049,
+            "count": 1
+        },
+        {
+            "text": "image",
+            "relevance": 0.500489,
+            "count": 1
+        },
+        {
+            "text": "expert",
+            "relevance": 0.500489,
+            "count": 1
+        },
+        {
+            "text": "election",
+            "relevance": 0.500487,
+            "count": 1
+        },
+        {
+            "text": "stuff",
+            "relevance": 0.500483,
+            "count": 1
+        },
+        {
+            "text": "principles",
+            "relevance": 0.500483,
+            "count": 1
+        },
+        {
+            "text": "records",
+            "relevance": 0.500481,
+            "count": 1
+        },
+        {
+            "text": "community",
+            "relevance": 0.500479,
+            "count": 1
+        },
+        {
+            "text": "repression",
+            "relevance": 0.500476,
+            "count": 1
+        },
+        {
+            "text": "notes",
+            "relevance": 0.500474,
+            "count": 2
+        },
+        {
+            "text": "nearby marshals",
+            "relevance": 0.50047,
+            "count": 1
+        },
+        {
+            "text": "academic penalties",
+            "relevance": 0.500467,
+            "count": 1
+        },
+        {
+            "text": "numbers",
+            "relevance": 0.500465,
+            "count": 1
+        },
+        {
+            "text": "details",
+            "relevance": 0.500465,
+            "count": 2
+        },
+        {
+            "text": "moral force of marshals",
+            "relevance": 0.500459,
+            "count": 1
+        },
+        {
+            "text": "verbatim statement",
+            "relevance": 0.500455,
+            "count": 1
+        },
+        {
+            "text": "property",
+            "relevance": 0.500455,
+            "count": 2
+        },
+        {
+            "text": "line",
+            "relevance": 0.500453,
+            "count": 1
+        },
+        {
+            "text": "section",
+            "relevance": 0.500452,
+            "count": 1
+        }
+    ],
+    "entities": [
+        {
+            "type": "Person",
+            "text": "President Sutton",
+            "relevance": 0.918468,
+            "count": 43
+        },
+        {
+            "type": "Person",
+            "text": "Chancellor Carter",
+            "relevance": 0.787478,
+            "count": 33
+        },
+        {
+            "type": "Person",
+            "text": "Dale Pryweller",
+            "relevance": 0.729007,
+            "count": 31
+        },
+        {
+            "type": "Person",
+            "text": "Keith Parker",
+            "relevance": 0.648743,
+            "count": 23
+        },
+        {
+            "type": "Person",
+            "text": "HARRY PRATTER",
+            "relevance": 0.638466,
+            "count": 27
+        },
+        {
+            "type": "JobTitle",
+            "text": "president",
+            "relevance": 0.566467,
+            "count": 17
+        },
+        {
+            "type": "JobTitle",
+            "text": "REPORTER",
+            "relevance": 0.431095,
+            "count": 11
+        },
+        {
+            "type": "Location",
+            "text": "Bloomington",
+            "relevance": 0.382784,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Bloomington, Indiana",
+                "dbpedia_resource": "http://dbpedia.org/resource/Bloomington,_Indiana"
+            },
+            "count": 7
+        },
+        {
+            "type": "Location",
+            "text": "Indiana",
+            "relevance": 0.3798,
+            "disambiguation": {
+                "subtype": [
+                    "PoliticalDistrict",
+                    "AdministrativeDivision",
+                    "GovernmentalJurisdiction",
+                    "USState",
+                    "StateOrCounty"
+                ],
+                "name": "Indiana",
+                "dbpedia_resource": "http://dbpedia.org/resource/Indiana"
+            },
+            "count": 5
+        },
+        {
+            "type": "PrintMedia",
+            "text": "Arts and Science",
+            "relevance": 0.373808,
+            "count": 2
+        },
+        {
+            "type": "Person",
+            "text": "Chuck CHUCK TURNER",
+            "relevance": 0.354335,
+            "disambiguation": {
+                "subtype": [
+                    "Politician"
+                ],
+                "name": "Chuck Turner",
+                "dbpedia_resource": "http://dbpedia.org/resource/Chuck_Turner"
+            },
+            "count": 16
+        },
+        {
+            "type": "Facility",
+            "text": "Bryan Hall",
+            "relevance": 0.340894,
+            "disambiguation": {
+                "subtype": [
+                    "Location",
+                    "Building"
+                ],
+                "name": "Bryan Hall (Gainesville, Florida)",
+                "dbpedia_resource": "http://dbpedia.org/resource/Bryan_Hall_(Gainesville,_Florida)"
+            },
+            "count": 3
+        },
+        {
+            "type": "Organization",
+            "text": "College of Arts and Sciences",
+            "relevance": 0.331973,
+            "disambiguation": {
+                "subtype": [
+                    "Location",
+                    "CollegeUniversity",
+                    "University"
+                ],
+                "name": "Nova Southeastern University",
+                "dbpedia_resource": "http://dbpedia.org/resource/Nova_Southeastern_University"
+            },
+            "count": 3
+        },
+        {
+            "type": "Organization",
+            "text": "Arts and Sciences College",
+            "relevance": 0.323054,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "College of Arts and Sciences Policy Committee",
+            "relevance": 0.315078,
+            "count": 1
+        },
+        {
+            "type": "JobTitle",
+            "text": "chancellor",
+            "relevance": 0.312224,
+            "count": 4
+        },
+        {
+            "type": "Person",
+            "text": "President Nixon",
+            "relevance": 0.311203,
+            "disambiguation": {
+                "subtype": [
+                    "FilmCharacter",
+                    "MusicalArtist",
+                    "Politician",
+                    "President",
+                    "Appointer",
+                    "MilitaryCommander",
+                    "MilitaryPerson",
+                    "PoliticalAppointer",
+                    "TVPersonality",
+                    "U.S.Congressperson",
+                    "USPresident",
+                    "USVicePresident",
+                    "FilmActor",
+                    "TVActor"
+                ],
+                "name": "Richard Nixon",
+                "dbpedia_resource": "http://dbpedia.org/resource/Richard_Nixon"
+            },
+            "count": 2
+        },
+        {
+            "type": "Organization",
+            "text": "Indiana University",
+            "relevance": 0.297469,
+            "disambiguation": {
+                "subtype": [
+                    "Location",
+                    "Company",
+                    "AcademicInstitution",
+                    "PeriodicalPublisher",
+                    "CollegeUniversity",
+                    "University"
+                ],
+                "name": "Indiana University",
+                "dbpedia_resource": "http://dbpedia.org/resource/Indiana_University"
+            },
+            "count": 7
+        },
+        {
+            "type": "Person",
+            "text": "BYRUM CARTER",
+            "relevance": 0.290005,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Division of Arts and Sciences",
+            "relevance": 0.289894,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Cambodia",
+            "relevance": 0.282318,
+            "disambiguation": {
+                "subtype": [
+                    "GovernmentalJurisdiction",
+                    "Country"
+                ],
+                "name": "Cambodia",
+                "dbpedia_resource": "http://dbpedia.org/resource/Cambodia"
+            },
+            "count": 2
+        },
+        {
+            "type": "JobTitle",
+            "text": "faculty member",
+            "relevance": 0.280931,
+            "count": 4
+        },
+        {
+            "type": "Organization",
+            "text": "Indiana University",
+            "relevance": 0.27972,
+            "count": 2
+        },
+        {
+            "type": "Company",
+            "text": "Ballantine",
+            "relevance": 0.276879,
+            "count": 2
+        },
+        {
+            "type": "JobTitle",
+            "text": "professor",
+            "relevance": 0.276749,
+            "count": 3
+        },
+        {
+            "type": "Organization",
+            "text": "Bloomington faculty council",
+            "relevance": 0.276148,
+            "count": 2
+        },
+        {
+            "type": "Location",
+            "text": "Vietnam",
+            "relevance": 0.268723,
+            "disambiguation": {
+                "subtype": [
+                    "Country"
+                ]
+            },
+            "count": 5
+        },
+        {
+            "type": "Person",
+            "text": "Mike King",
+            "relevance": 0.268447,
+            "count": 3
+        },
+        {
+            "type": "Facility",
+            "text": "Bryan Administration Building",
+            "relevance": 0.264753,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Defense Fund",
+            "relevance": 0.259555,
+            "count": 2
+        },
+        {
+            "type": "Organization",
+            "text": "Student Government Defense Fund",
+            "relevance": 0.258078,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Evansville",
+            "relevance": 0.253995,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Evansville, Indiana",
+                "dbpedia_resource": "http://dbpedia.org/resource/Evansville,_Indiana"
+            },
+            "count": 2
+        },
+        {
+            "type": "JobTitle",
+            "text": "Professor of Law",
+            "relevance": 0.253426,
+            "count": 2
+        },
+        {
+            "type": "Facility",
+            "text": "Dunn meadows",
+            "relevance": 0.252823,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Tom",
+            "relevance": 0.250898,
+            "count": 5
+        },
+        {
+            "type": "Organization",
+            "text": "ROTC",
+            "relevance": 0.249925,
+            "disambiguation": {
+                "subtype": [
+                    "Location",
+                    "Country",
+                    "GovernmentalJurisdiction",
+                    "BoardMember"
+                ],
+                "name": "Republic of the Congo",
+                "dbpedia_resource": "http://dbpedia.org/resource/Republic_of_the_Congo"
+            },
+            "count": 6
+        },
+        {
+            "type": "JobTitle",
+            "text": "Vice President of",
+            "relevance": 0.246503,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Southeast Asia",
+            "relevance": 0.246166,
+            "disambiguation": {
+                "subtype": [
+                    "Region"
+                ],
+                "name": "Southeast Asia",
+                "dbpedia_resource": "http://dbpedia.org/resource/Southeast_Asia"
+            },
+            "count": 2
+        },
+        {
+            "type": "Location",
+            "text": "Michigan City",
+            "relevance": 0.243641,
+            "disambiguation": {
+                "subtype": [
+                    "City"
+                ],
+                "name": "Michigan City, Indiana",
+                "dbpedia_resource": "http://dbpedia.org/resource/Michigan_City,_Indiana"
+            },
+            "count": 1
+        },
+        {
+            "type": "PrintMedia",
+            "text": "Evansville Courier",
+            "relevance": 0.243215,
+            "disambiguation": {
+                "subtype": [
+                    "Newspaper"
+                ],
+                "name": "Evansville Courier & Press",
+                "dbpedia_resource": "http://dbpedia.org/resource/Evansville_Courier_&_Press"
+            },
+            "count": 1
+        },
+        {
+            "type": "Facility",
+            "text": "Rawles Halls",
+            "relevance": 0.241306,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Bobby Seale",
+            "relevance": 0.235651,
+            "disambiguation": {
+                "subtype": [
+                    "FilmActor"
+                ],
+                "name": "Bobby Seale",
+                "dbpedia_resource": "http://dbpedia.org/resource/Bobby_Seale"
+            },
+            "count": 2
+        },
+        {
+            "type": "Organization",
+            "text": "Bobby Seale Defense Fund",
+            "relevance": 0.233781,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Mike Jones",
+            "relevance": 0.23345,
+            "disambiguation": {
+                "subtype": [
+                    "MusicalArtist",
+                    "BroadcastArtist",
+                    "FilmEditor",
+                    "FilmProducer",
+                    "MusicalGroupMember",
+                    "FilmActor",
+                    "FilmWriter",
+                    "TVActor"
+                ],
+                "name": "Mike Jones (rapper)",
+                "dbpedia_resource": "http://dbpedia.org/resource/Mike_Jones_(rapper)"
+            },
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Shornhorse.",
+            "relevance": 0.229045,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "IU Foundation",
+            "relevance": 0.229015,
+            "count": 2
+        },
+        {
+            "type": "Facility",
+            "text": "Evansville press",
+            "relevance": 0.226418,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Dean Merritt",
+            "relevance": 0.225281,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Veterans for Peace",
+            "relevance": 0.224967,
+            "disambiguation": {
+                "subtype": [],
+                "name": "Veterans for Peace",
+                "dbpedia_resource": "http://dbpedia.org/resource/Veterans_for_Peace"
+            },
+            "count": 1
+        },
+        {
+            "type": "Facility",
+            "text": "Evansville Courier",
+            "relevance": 0.224869,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Mike",
+            "relevance": 0.224787,
+            "count": 6
+        },
+        {
+            "type": "Location",
+            "text": "Washington",
+            "relevance": 0.223414,
+            "disambiguation": {
+                "subtype": [
+                    "AdministrativeDivision",
+                    "GovernmentalJurisdiction",
+                    "MilitaryPost",
+                    "PlaceWithNeighborhoods",
+                    "USCounty",
+                    "City"
+                ],
+                "name": "Washington, D.C.",
+                "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+            },
+            "count": 1
+        },
+        {
+            "type": "PrintMedia",
+            "text": "Evansville press",
+            "relevance": 0.22217,
+            "count": 1
+        },
+        {
+            "type": "Location",
+            "text": "Thailand",
+            "relevance": 0.219912,
+            "disambiguation": {
+                "subtype": [
+                    "GovernmentalJurisdiction",
+                    "Kingdom",
+                    "Country"
+                ],
+                "name": "Thailand",
+                "dbpedia_resource": "http://dbpedia.org/resource/Thailand"
+            },
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Ike",
+            "relevance": 0.217816,
+            "count": 1
+        },
+        {
+            "type": "Crime",
+            "text": "assault",
+            "relevance": 0.213797,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Bryan",
+            "relevance": 0.212214,
+            "count": 2
+        },
+        {
+            "type": "JobTitle",
+            "text": "Chairman",
+            "relevance": 0.21109,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Herman Hudson",
+            "relevance": 0.209772,
+            "count": 1
+        },
+        {
+            "type": "JobTitle",
+            "text": "instructor",
+            "relevance": 0.209136,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Hooker",
+            "relevance": 0.209121,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "William Curley",
+            "relevance": 0.208049,
+            "disambiguation": {
+                "subtype": [],
+                "name": "William Curley",
+                "dbpedia_resource": "http://dbpedia.org/resource/William_Curley"
+            },
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Air Force",
+            "relevance": 0.203117,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Shelley",
+            "relevance": 0.202059,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Chris",
+            "relevance": 0.201761,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Mike speak",
+            "relevance": 0.201604,
+            "count": 1
+        },
+        {
+            "type": "Organization",
+            "text": "Black Panthers",
+            "relevance": 0.200585,
+            "disambiguation": {
+                "subtype": [
+                    "PoliticalParty"
+                ],
+                "name": "Black Panther Party",
+                "dbpedia_resource": "http://dbpedia.org/resource/Black_Panther_Party"
+            },
+            "count": 1
+        },
+        {
+            "type": "JobTitle",
+            "text": "special advisor",
+            "relevance": 0.200089,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Professor Edward Sherman",
+            "relevance": 0.199984,
+            "disambiguation": {
+                "subtype": [
+                    "Academic"
+                ],
+                "name": "Edward F. Sherman",
+                "dbpedia_resource": "http://dbpedia.org/resource/Edward_F._Sherman"
+            },
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Lohman",
+            "relevance": 0.198635,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Dean Harvey",
+            "relevance": 0.191094,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Professor Stan",
+            "relevance": 0.189687,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Geller",
+            "relevance": 0.18825,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "John Cowles",
+            "relevance": 0.188128,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Paul Dobbs",
+            "relevance": 0.187926,
+            "disambiguation": {
+                "subtype": [],
+                "name": "Paul Dobbs",
+                "dbpedia_resource": "http://dbpedia.org/resource/Paul_Dobbs"
+            },
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Steve Emery",
+            "relevance": 0.187871,
+            "disambiguation": {
+                "subtype": [
+                    "Athlete",
+                    "FootballPlayer"
+                ],
+                "name": "Steve Emery",
+                "dbpedia_resource": "http://dbpedia.org/resource/Steve_Emery"
+            },
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Michael",
+            "relevance": 0.187621,
+            "count": 1
+        },
+        {
+            "type": "JobTitle",
+            "text": "Attorney",
+            "relevance": 0.184482,
+            "count": 1
+        },
+        {
+            "type": "Crime",
+            "text": "political repression",
+            "relevance": 0.181372,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Professor Julius",
+            "relevance": 0.179507,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Professor George",
+            "relevance": 0.179071,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Roger",
+            "relevance": 0.177276,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Mr. Boyle",
+            "relevance": 0.168805,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Peter Lintenbaum",
+            "relevance": 0.168545,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Susan Young",
+            "relevance": 0.167961,
+            "count": 1
+        },
+        {
+            "type": "Person",
+            "text": "Gregory Hess",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$50",
+            "relevance": 0.167896,
+            "count": 4
+        },
+        {
+            "type": "Quantity",
+            "text": "$500",
+            "relevance": 0.167896,
+            "count": 3
+        },
+        {
+            "type": "Quantity",
+            "text": "three quarters",
+            "relevance": 0.167896,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "$400",
+            "relevance": 0.167896,
+            "count": 2
+        },
+        {
+            "type": "Quantity",
+            "text": "three weeks",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "three years",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "10 seconds",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "four days",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "four foot",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "12 years",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "$446.18",
+            "relevance": 0.167896,
+            "count": 1
+        },
+        {
+            "type": "Quantity",
+            "text": "10 days",
+            "relevance": 0.167896,
+            "count": 1
+        }
+    ],
+    "concepts": [
+        {
+            "text": "2008 singles",
+            "relevance": 0.98761,
+            "dbpedia_resource": "http://dbpedia.org/resource/2008_singles"
+        },
+        {
+            "text": "2002 albums",
+            "relevance": 0.764899,
+            "dbpedia_resource": "http://dbpedia.org/resource/2002_albums"
+        },
+        {
+            "text": "University",
+            "relevance": 0.717416,
+            "dbpedia_resource": "http://dbpedia.org/resource/University"
+        },
+        {
+            "text": "2001 singles",
+            "relevance": 0.664072,
+            "dbpedia_resource": "http://dbpedia.org/resource/2001_singles"
+        },
+        {
+            "text": "Vice President of the United States",
+            "relevance": 0.660752,
+            "dbpedia_resource": "http://dbpedia.org/resource/Vice_President_of_the_United_States"
+        },
+        {
+            "text": "1989 albums",
+            "relevance": 0.608652,
+            "dbpedia_resource": "http://dbpedia.org/resource/1989_albums"
+        },
+        {
+            "text": "2007 singles",
+            "relevance": 0.594075,
+            "dbpedia_resource": "http://dbpedia.org/resource/2007_singles"
+        }
+    ],
+    "warnings": [
+        "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+    ]
+}

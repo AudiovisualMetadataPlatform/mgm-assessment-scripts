@@ -1,0 +1,297 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1818,
+    "features": 3
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "busy week thanks bob",
+      "relevance": 0.686372,
+      "count": 1
+    },
+    {
+      "text": "piano player",
+      "relevance": 0.676535,
+      "count": 1
+    },
+    {
+      "text": "bob wills",
+      "relevance": 0.670248,
+      "count": 1
+    },
+    {
+      "text": "next bing crosby",
+      "relevance": 0.626527,
+      "count": 1
+    },
+    {
+      "text": "fb pics",
+      "relevance": 0.60205,
+      "count": 1
+    },
+    {
+      "text": "ms babb",
+      "relevance": 0.595792,
+      "count": 1
+    },
+    {
+      "text": "baseball",
+      "relevance": 0.593225,
+      "count": 2
+    },
+    {
+      "text": "obese being",
+      "relevance": 0.58635,
+      "count": 1
+    },
+    {
+      "text": "morning edition",
+      "relevance": 0.577104,
+      "count": 1
+    },
+    {
+      "text": "beans",
+      "relevance": 0.54601,
+      "count": 3
+    },
+    {
+      "text": "brahms",
+      "relevance": 0.540442,
+      "count": 1
+    },
+    {
+      "text": "problem",
+      "relevance": 0.527403,
+      "count": 1
+    },
+    {
+      "text": "beach",
+      "relevance": 0.525867,
+      "count": 1
+    },
+    {
+      "text": "way",
+      "relevance": 0.525472,
+      "count": 1
+    },
+    {
+      "text": "poem",
+      "relevance": 0.525171,
+      "count": 1
+    },
+    {
+      "text": "baek",
+      "relevance": 0.524442,
+      "count": 1
+    },
+    {
+      "text": "band",
+      "relevance": 0.524362,
+      "count": 1
+    },
+    {
+      "text": "polls",
+      "relevance": 0.524274,
+      "count": 1
+    },
+    {
+      "text": "press",
+      "relevance": 0.524007,
+      "count": 1
+    },
+    {
+      "text": "bell",
+      "relevance": 0.522741,
+      "count": 1
+    },
+    {
+      "text": "state",
+      "relevance": 0.521705,
+      "count": 1
+    },
+    {
+      "text": "success",
+      "relevance": 0.521695,
+      "count": 1
+    },
+    {
+      "text": "plant",
+      "relevance": 0.521149,
+      "count": 1
+    },
+    {
+      "text": "panel",
+      "relevance": 0.520484,
+      "count": 1
+    },
+    {
+      "text": "burns",
+      "relevance": 0.515249,
+      "count": 1
+    },
+    {
+      "text": "baby",
+      "relevance": 0.514537,
+      "count": 1
+    },
+    {
+      "text": "pay",
+      "relevance": 0.44679,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Sport",
+      "text": "baseball",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "bing crosby",
+      "relevance": 0.33,
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "FilmProducer",
+          "Golfer",
+          "HallOfFameInductee",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Bing Crosby",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bing_Crosby"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "fbi",
+      "relevance": 0.33,
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Federal Bureau of Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "billy",
+      "relevance": 0.33,
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "owen",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "bob wills",
+      "relevance": 0.33,
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Bob Wills",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bob_Wills"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "ms babb",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "ms bauer",
+      "relevance": 0.33,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "ms briar",
+      "relevance": 0.33,
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bing Crosby",
+      "relevance": 0.91655,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bing_Crosby"
+    },
+    {
+      "text": "Federal Bureau of Investigation",
+      "relevance": 0.849003,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+    },
+    {
+      "text": "Academy Award for Best Actor",
+      "relevance": 0.704707,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+    },
+    {
+      "text": "Piano",
+      "relevance": 0.702881,
+      "dbpedia_resource": "http://dbpedia.org/resource/Piano"
+    },
+    {
+      "text": "United States Census Bureau",
+      "relevance": 0.657439,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Census_Bureau"
+    },
+    {
+      "text": "2001 singles",
+      "relevance": 0.63539,
+      "dbpedia_resource": "http://dbpedia.org/resource/2001_singles"
+    },
+    {
+      "text": "Law enforcement agency",
+      "relevance": 0.627512,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law_enforcement_agency"
+    },
+    {
+      "text": "J. Edgar Hoover",
+      "relevance": 0.617554,
+      "dbpedia_resource": "http://dbpedia.org/resource/J._Edgar_Hoover"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.615962,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Midwestern United States",
+      "relevance": 0.596118,
+      "dbpedia_resource": "http://dbpedia.org/resource/Midwestern_United_States"
+    },
+    {
+      "text": "Walk This Way",
+      "relevance": 0.593657,
+      "dbpedia_resource": "http://dbpedia.org/resource/Walk_This_Way"
+    },
+    {
+      "text": "American Broadcasting Company",
+      "relevance": 0.589344,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Broadcasting_Company"
+    }
+  ],
+  "warnings": [
+    "100000 exceeds allowable limit of 50000"
+  ]
+}

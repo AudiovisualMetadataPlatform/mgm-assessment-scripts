@@ -1,0 +1,473 @@
+SPEAKER/O 1/O :/O It/O 's/O my/O very/O distinct/O pleasure/O to/O welcome/O you/O all/O to/O the/O second/O Patten/PERSON lecture/O of/O this/O week/O ./O 
+It/O 's/O customary/O to/O say/O a/O word/O or/O two/O about/O William/PERSON Patten/PERSON ./O 
+And/O as/O I/O was/O walking/O over/O to/O this/O building/O ,/O I/O thought/O thinking/O about/O really/O some/O 4,000/O ,/O 5,000/O students/O who/O would/O be/O graduating/O this/O year/O and/O maybe/O walking/O around/O campus/O today/O and/O thinking/O ,/O would/O n't/O it/O be/O nice/O if/O some/O future/O day/O ,/O some/O Balkan/LOCATION poet/O or/O a/O Balkan/O artist/O would/O come/O and/O give/O us/O or/O her/O impressions/O about/O this/O year/O to/O us/O ./O 
+Well/O ,/O if/O you/O take/O yourself/O back/O by/O have/O about/O 100/O years/O ,/O 1893/O ,/O a/O student/O from/O here/O graduated/O ,/O and/O I/O do/O not/O know/O exactly/O what/O he/O was/O thinking/O ,/O but/O he/O certainly/O thought/O and/O wrote/O that/O would/O be/O nice/O if/O people/O ,/O scholars/O ,/O from/O outside/O Bloomington/LOCATION would/O come/O and/O share/O their/O experience/O and/O research/O results/O with/O us/O ,/O maybe/O from/O New/LOCATION York/LOCATION ,/O maybe/O from/O the/O West/LOCATION Coast/LOCATION ,/O and/O would/O n't/O it/O be/O nice/O for/O the/O students/O in/O Bloomington/LOCATION to/O enjoy/O the/O talk/O and/O learn/O from/O them/O ?/O 
+About/O 40/O years/O down/O the/O road/O ,/O he/O made/O a/O bequest/O ,/O which/O has/O grown/O and/O which/O has/O been/O added/O ./O 
+Some/O other/O moneys/O have/O been/O added/O to/O it/O ,/O which/O makes/O it/O possible/O for/O us/O to/O invite/O people/O like/O Alexander/PERSON Astin/PERSON to/O come/O here/O and/O share/O his/O research/O results/O with/O us/O ./O 
+That/O person/O was/O William/PERSON Patten/PERSON ./O 
+I/O invite/O now/O Professor/O of/O the/O Department/O of/O English/O ,/O who/O 's/O also/O the/O chancellor/O of/O the/O campus/O ,/O to/O introduce/O Professor/O Astin/PERSON ./O 
+SPEAKER/O 2/O :/O if/O I/O can/O ./O 
+Alexander/PERSON Astin/PERSON 's/O contributions/O to/O our/O understanding/O about/O students/O ,/O faculty/O ,/O and/O the/O dynamics/O of/O the/O American/O university/O form/O a/O record/O of/O service/O and/O achievement/O really/O unmatched/O in/O the/O field/O of/O higher/O education/O ./O 
+The/O scope/O of/O his/O research/O encompasses/O nearly/O every/O major/O debate/O that/O has/O concerned/O administrators/O and/O student/O affairs/O professionals/O over/O the/O past/O four/O years/O ./O 
+His/O leadership/O of/O major/O organizations/O has/O helped/O set/O the/O agenda/O for/O the/O scholars/O and/O students/O of/O higher/O education/O ./O 
+The/O massive/O annual/O survey/O of/O freshmen/O ,/O he/O founded/O and/O directed/O for/O more/O than/O 30/O years/O ,/O the/O longest/O running/O research/O program/O ,/O by/O the/O way/O ,/O in/O American/O higher/O education/O ,/O has/O provided/O extraordinary/O collection/O of/O data/O on/O the/O values/O added/O to/O ,/O as/O well/O as/O landing/O a/O place/O on/O the/O Rolodexes/O of/O countless/O journalists/O writing/O on/O important/O social/O trends/O ./O 
+His/O vast/O experience/O ,/O extraordinary/O productivity/O ,/O and/O unique/O insights/O have/O shaped/O and/O improved/O the/O work/O done/O by/O those/O who/O have/O dedicated/O their/O careers/O serving/O and/O better/O understanding/O the/O needs/O of/O faculty/O and/O students/O ./O 
+He/O received/O his/O Bachelor/O 's/O degree/O in/O music/O at/O Gettysburg/ORGANIZATION College/ORGANIZATION ,/O his/O PhD/O in/O psychology/O from/O the/O University/ORGANIZATION of/ORGANIZATION Maryland/ORGANIZATION ./O 
+After/O holding/O positions/O of/O the/O National/ORGANIZATION Merit/ORGANIZATION Scholarship/ORGANIZATION Corporation/ORGANIZATION and/O as/O Director/O of/O Research/O of/O the/O American/ORGANIZATION Council/ORGANIZATION of/ORGANIZATION education/ORGANIZATION ,/O he/O moved/O ,/O as/O you/O know/O ,/O to/O UCLA/ORGANIZATION ,/O where/O he/O is/O the/O Allan/PERSON Murray/PERSON Carter/PERSON Professor/O of/O Higher/O Education/O and/O Director/O of/O the/O Higher/ORGANIZATION Education/ORGANIZATION Research/ORGANIZATION Institute/ORGANIZATION ./O 
+He/O is/O author/O and/O co-author/O of/O 18/O books/O ,/O more/O than/O 300/O articles/O ,/O monographs/O ,/O chapters/O ,/O other/O publications/O ./O 
+Besides/O his/O annual/O reports/O on/O American/O freshmen/O ,/O his/O best/O known/O works/O include/O the/O landmark/O Four/O Critical/O Years/O ,/O which/O for/O more/O than/O a/O decade/O was/O the/O most/O frequently/O cited/O work/O in/O higher/O education/O literature/O ./O 
+In/O his/O follow-up/O study/O on/O Madison/ORGANIZATION College/ORGANIZATION ,/O Four/O Critical/O Years/O Revisited/O ,/O published/O in/O 1993/O ,/O Professor/O Astin/PERSON analyzed/O data/O from/O more/O than/O 20,000/O students/O ,/O 25,000/O faculty/O members/O ,/O and/O 200/O institutions/O to/O discover/O our/O academic/O program/O ,/O faculty/O ,/O student/O peer/O groups/O ,/O and/O other/O factors/O effect/O student/O development/O ./O 
+He/O then/O provided/O recommendations/O how/O our/O colleges/O and/O universities/O could/O enhance/O the/O experiences/O of/O their/O undergraduates/O ./O 
+He/O holds/O 10/O honorary/O degrees/O ./O 
+He/O 's/O received/O distinguished/O research/O and/O service/O awards/O from/O virtually/O every/O major/O association/O in/O his/O field/O ./O 
+As/O recognized/O by/O Change/O magazine/O as/O a/O person/O ,/O quote/O ,/O most/O admired/O for/O creative/O insightful/O thinking/O in/O the/O field/O of/O higher/O education/O ,/O end/O quote/O ./O 
+This/O week/O ,/O as/O many/O of/O you/O know/O ,/O he/O 's/O been/O working/O formally/O and/O informally/O with/O administrators/O ,/O faculty/O ,/O and/O students/O on/O the/O Bloomington/LOCATION campus/O as/O a/O guest/O of/O the/O Patten/ORGANIZATION Foundation/ORGANIZATION lectures/O program/O ,/O which/O is/O ,/O as/O you/O just/O heard/O ,/O the/O university/O 's/O most/O distinguished/O visiting/O lectureship/O ./O 
+His/O nomination/O was/O supported/O not/O only/O by/O the/O faculty/O in/O the/O School/ORGANIZATION of/ORGANIZATION Education/ORGANIZATION ,/O but/O by/O colleagues/O in/O philosophy/O ,/O in/O religious/O studies/O ,/O in/O business/O ,/O and/O ,/O as/O well/O as/O numerous/O administrators/O at/O the/O campus/O level/O ./O 
+So/O I/O 'm/O very/O pleased/O he/O will/O deliver/O the/O keynote/O address/O for/O this/O annual/O spring/O symposium/O ./O 
+This/O topic/O ,/O as/O you/O know/O ,/O what/O kind/O of/O student/O success/O is/O that/O we/O want/O to/O promote/O ?/O 
+Please/O join/O me/O in/O welcoming/O Professor/O Astin/PERSON ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Thanks/O ,/O everybody/O ./O 
+I/O hope/O I/O can/O manage/O this/O thing/O without/O dropping/O it/O ./O 
+Let/O me/O see/O here/O ./O 
+OK/O ./O 
+Does/O that/O do/O it/O ?/O 
+Good/O ./O 
+Can/O you/O all/O hear/O me/O in/O the/O back/O all/O right/O ?/O 
+OK/O ./O 
+I/O 'm/O going/O to/O put/O the/O light/O on/O here/O ,/O so/O I/O can/O see/O ./O 
+As/O we/O all/O know/O ,/O we/O traditionally/O define/O student/O success/O while/O the/O student/O is/O in/O college/O in/O terms/O of/O the/O time/O honored/O grade/O point/O average/O ,/O or/O if/O we/O want/O to/O do/O a/O minimal/O kind/O of/O success/O ,/O passing/O courses/O ,/O and/O finishing/O a/O degree/O program/O ./O 
+And/O if/O we/O want/O to/O look/O at/O it/O at/O high/O level/O ,/O we/O 've/O defined/O it/O in/O terms/O of/O receiving/O honors/O of/O various/O kinds/O ./O 
+And/O then/O after/O college/O ,/O we/O look/O at/O success/O in/O terms/O of/O such/O things/O as/O entry/O to/O graduate/O school/O or/O perhaps/O what/O kind/O of/O graduate/O school/O you/O 're/O able/O to/O enter/O ,/O how/O elite/O it/O is/O ,/O or/O whether/O we/O get/O a/O job/O ,/O and/O especially/O ,/O what/O kind/O of/O job/O and/O indeed/O ,/O how/O much/O it/O pays/O ./O 
+Earnings/O have/O been/O used/O in/O many/O cases/O as/O measures/O of/O success/O ./O 
+But/O in/O a/O sense/O ,/O these/O are/O all/O ,/O in/O one/O way/O or/O another/O ,/O traditional/O academic/O measures/O or/O vocational/O measures/O ./O 
+Earnings/O ,/O for/O example/O ,/O is/O probably/O the/O equivalent/O in/O a/O sense/O of/O the/O GPA/ORGANIZATION ,/O the/O post-college/O equivalent/O and/O so/O forth/O ./O 
+So/O these/O things/O are/O all/O connected/O ,/O academic/O and/O vocational/O measures/O of/O success/O ./O 
+Now/O ,/O the/O premise/O of/O my/O talk/O this/O afternoon/O is/O that/O while/O there/O 's/O nothing/O inherently/O wrong/O or/O sinful/O about/O these/O traditional/O measures/O ,/O they/O are/O simply/O not/O enough/O ./O 
+And/O if/O we/O persist/O in/O linking/O our/O conception/O of/O student/O success/O or/O limiting/O our/O conception/O of/O student/O success/O in/O this/O way/O ,/O we/O are/O selling/O short/O ,/O not/O only/O our/O institutions/O and/O our/O students/O ,/O but/O also/O the/O society/O that/O supports/O this/O ./O 
+Let/O me/O try/O to/O explain/O why/O I/O believe/O this/O is/O so/O ./O 
+There/O is/O mounting/O evidence/O that/O the/O quality/O of/O civic/O life/O and/O civic/O engagement/O in/O the/O United/LOCATION States/LOCATION has/O been/O eroding/O in/O recent/O years/O ./O 
+The/O list/O of/O problems/O is/O a/O long/O one/O ,/O and/O I/O do/O n't/O want/O to/O belabor/O it/O ./O 
+But/O let/O me/O just/O review/O a/O few/O of/O these/O things/O ,/O shaky/O race/O relations/O ,/O growing/O economic/O disparities/O and/O inequities/O ,/O excessive/O materialism/O ,/O decaying/O inner/O cities/O ,/O a/O deteriorating/O infrastructure/O ,/O a/O weakening/O public/O school/O system/O ,/O an/O irresponsible/O mass/O media/O ,/O declining/O civic/O engagement/O ,/O and/O the/O increasing/O effect/O --/O excuse/O me/O --/O the/O decreasing/O effectiveness/O of/O governmental/O agencies/O and/O people/O to/O name/O just/O a/O few/O ./O 
+In/O a/O democracy/O ,/O of/O course/O ,/O citizen/O disengagement/O from/O politics/O and/O government/O ineffectiveness/O not/O only/O go/O hand/O in/O hand/O ,/O but/O also/O cripple/O our/O capacity/O to/O educate/O each/O new/O generation/O of/O leaders/O in/O government/O ,/O business/O ,/O law/O ,/O medicine/O ,/O the/O clergy/O ,/O and/O other/O advanced/O professions/O ./O 
+Since/O our/O colleges/O and/O universities/O educate/O each/O new/O generation/O of/O leaders/O in/O these/O fields/O and/O train/O all/O the/O personnel/O who/O teach/O the/O entire/O population/O at/O the/O pre-collegiate/O level/O ,/O we/O in/O the/O higher/O education/O community/O must/O bear/O some/O responsibility/O for/O these/O societal/O problems/O that/O disturb/O us/O so/O much/O ./O 
+Apparently/O ,/O our/O graduates/O are/O not/O successful/O enough/O in/O these/O other/O areas/O to/O begin/O to/O solve/O these/O social/O problems/O ,/O and/O indeed/O ,/O may/O have/O become/O a/O part/O of/O the/O problem/O ./O 
+And/O considering/O that/O our/O higher/O education/O system/O is/O generally/O regarded/O as/O the/O finest/O one/O in/O the/O world/O ,/O we/O need/O to/O ask/O ourselves/O where/O have/O we/O gone/O wrong/O ?/O 
+The/O more/O I/O reflect/O on/O the/O problems/O confronting/O higher/O education/O and/O the/O larger/O society/O ,/O the/O more/O I/O become/O convinced/O that/O at/O the/O heart/O of/O these/O problems/O ,/O in/O trying/O to/O affect/O positive/O social/O change/O ,/O is/O a/O question/O of/O beliefs/O ./O 
+And/O as/O those/O of/O you/O who/O heard/O me/O Tuesday/O night/O will/O know/O ,/O this/O is/O sort/O of/O my/O current/O preoccupation/O ./O 
+By/O this/O ,/O I/O mean/O not/O only/O our/O beliefs/O about/O what/O student/O success/O means/O ,/O but/O also/O our/O beliefs/O about/O the/O meaning/O and/O purpose/O of/O a/O liberal/O education/O and/O our/O view/O of/O the/O role/O that/O higher/O education/O should/O play/O in/O the/O larger/O society/O ./O 
+To/O speak/O of/O success/O means/O very/O little/O and/O makes/O little/O sense/O unless/O we/O also/O consider/O the/O issue/O of/O success/O to/O what/O end/O ./O 
+In/O other/O words/O ,/O our/O beliefs/O about/O student/O success/O are/O closely/O tied/O to/O our/O beliefs/O about/O the/O purposes/O of/O education/O and/O the/O role/O of/O higher/O education/O in/O the/O society/O ./O 
+The/O problem/O is/O not/O just/O with/O our/O beliefs/O about/O these/O matters/O ,/O but/O also/O that/O these/O beliefs/O remain/O largely/O unexamined/O and/O unexposed/O while/O we/O discuss/O and/O debate/O the/O educational/O policies/O and/O practices/O that/O emanate/O from/O them/O ./O 
+Why/O we/O are/O educating/O our/O students/O has/O to/O do/O with/O the/O relationship/O between/O higher/O education/O and/O society/O ./O 
+But/O different/O people/O hold/O very/O different/O views/O about/O this/O relationship/O ,/O and/O it/O 's/O important/O that/O we/O expose/O and/O identify/O and/O recognize/O and/O honor/O these/O different/O views/O ./O 
+An/O extreme/O view/O ,/O which/O would/O probably/O be/O endorsed/O by/O only/O a/O small/O number/O of/O hard/O core/O academic/O elitists/O ,/O such/O as/O perhaps/O Robert/PERSON Maynard/PERSON Hutchins/PERSON ,/O is/O that/O the/O university/O should/O remain/O walled/O off/O from/O the/O external/O world/O of/O practical/O affairs/O ,/O so/O students/O can/O learn/O and/O study/O ,/O and/O faculty/O can/O pursue/O truth/O undisturbed/O by/O worldly/O distractions/O ./O 
+And/O I/O would/O call/O this/O the/O ivory/O tower/O view/O of/O what/O we/O 're/O all/O about/O ./O 
+Now/O ,/O the/O ivory/O tower/O concept/O might/O have/O a/O certain/O appeal/O for/O some/O of/O my/O academic/O colleagues/O ./O 
+And/O I/O must/O admit/O I/O know/O a/O few/O for/O whom/O it/O has/O a/O great/O deal/O of/O appeal/O ./O 
+It/O could/O not/O and/O never/O will/O represent/O a/O viable/O conception/O of/O higher/O education/O and/O its/O role/O in/O modern/O American/O society/O ./O 
+Like/O it/O or/O not/O ,/O higher/O education/O is/O a/O creature/O of/O society/O ,/O is/O sanctioned/O and/O supported/O by/O that/O society/O ,/O and/O has/O ,/O in/O turn/O ,/O pledged/O itself/O to/O serve/O that/O society/O in/O its/O mission/O statements/O ,/O in/O its/O catalogs/O ,/O and/O other/O public/O pronouncements/O ./O 
+In/O other/O words/O ,/O we/O 're/O sort/O of/O on/O the/O hook/O here/O in/O our/O rhetoric/O ./O 
+An/O alternative/O belief/O system/O ,/O which/O seems/O to/O dominate/O in/O discussions/O of/O educational/O policy/O these/O days/O is/O what/O I/O perhaps/O un-charitably/O like/O to/O call/O the/O pegboard/O view/O of/O what/O we/O 're/O trying/O to/O do/O ./O 
+Under/O the/O pegboard/O view/O ,/O student/O success/O is/O judged/O in/O terms/O of/O how/O prepared/O the/O student/O is/O for/O work/O ./O 
+The/O pegboard/O view/O also/O is/O what/O drives/O what/O I/O like/O to/O call/O the/O --/O the/O competitiveness/O argument/O ./O 
+So/O I/O 'll/O put/O these/O up/O here/O together/O ,/O because/O they/O are/O twins/O ./O 
+This/O is/O the/O dominant/O belief/O system/O ,/O not/O only/O of/O our/O captains/O of/O industry/O ,/O but/O also/O most/O politicians/O and/O policy/O makers/O ,/O not/O to/O mention/O many/O students/O ,/O teachers/O ,/O and/O parents/O ./O 
+The/O idea/O here/O is/O that/O higher/O education/O must/O deliver/O more/O people/O with/O expertise/O in/O science/O ,/O technology/O ,/O and/O modern/O management/O techniques/O ,/O so/O that/O America/LOCATION 's/O economy/O can/O remain/O competitive/O with/O the/O economies/O of/O Western/LOCATION Europe/LOCATION and/O especially/O with/O the/O emerging/O economies/O on/O the/O Pacific/LOCATION Rim/LOCATION ./O 
+My/O main/O problem/O with/O the/O pegboard/O and/O competitiveness/O views/O is/O that/O they/O represent/O an/O extremely/O limited/O conception/O ,/O not/O only/O of/O the/O role/O of/O higher/O education/O ,/O but/O also/O of/O what/O the/O larger/O society/O is/O all/O about/O ./O 
+When/O we/O consider/O the/O major/O problems/O plaguing/O our/O society/O ,/O it/O 's/O very/O difficult/O to/O imagine/O how/O the/O pegboard/O view/O and/O the/O competitiveness/O view/O are/O going/O to/O contribute/O much/O to/O this/O ./O 
+Simply/O to/O fill/O job/O slots/O in/O the/O labor/O market/O certainly/O is/O not/O going/O to/O do/O the/O trick/O when/O it/O comes/O to/O dealing/O with/O problems/O such/O as/O our/O decaying/O inner/O cities/O ,/O to/O our/O racial/O problems/O ,/O to/O the/O inequities/O in/O the/O distribution/O of/O wealth/O and/O so/O forth/O ./O 
+Now/O ,/O a/O close/O cousin/O of/O the/O pegboard/O view/O is/O what/O I/O like/O to/O call/O the/O private/O economic/O benefit/O view/O ,/O or/O the/O consumer/O viewpoint/O about/O what/O we/O 're/O all/O about/O ./O 
+And/O this/O particular/O viewpoint/O argues/O that/O the/O purpose/O of/O higher/O education/O is/O to/O enable/O people/O to/O lead/O more/O affluent/O and/O comfortable/O lives/O ./O 
+And/O a/O lot/O of/O politicians/O like/O to/O advocate/O this/O view/O as/O sort/O of/O a/O populist/O view/O as/O they/O see/O it/O ,/O where/O the/O more/O education/O you/O get/O ,/O the/O more/O money/O you/O can/O make/O ,/O and/O even/O rationalize/O it/O in/O terms/O of/O arguments/O having/O to/O do/O with/O productivity/O ./O 
+Even/O if/O we/O were/O to/O accept/O the/O argument/O that/O private/O economic/O benefits/O provide/O the/O main/O justification/O for/O our/O existence/O as/O educational/O institutions/O ,/O this/O particular/O belief/O system/O is/O extremely/O limited/O because/O it/O has/O little/O to/O say/O about/O how/O society/O as/O a/O whole/O is/O served/O by/O such/O an/O approach/O ./O 
+In/O other/O words/O ,/O while/O it/O may/O be/O a/O laudible/O goal/O to/O contribute/O to/O the/O economic/O comfort/O and/O well-being/O of/O those/O citizens/O who/O are/O fortunate/O enough/O to/O enter/O and/O complete/O higher/O education/O ,/O this/O viewpoint/O has/O little/O to/O say/O about/O what/O 's/O going/O to/O happen/O to/O people/O who/O do/O n't/O go/O to/O college/O or/O complete/O college/O ./O 
+Nor/O ,/O does/O it/O say/O anything/O about/O how/O ,/O if/O at/O all/O ,/O the/O many/O other/O social/O and/O economic/O problems/O that/O I/O 've/O mentioned/O earlier/O will/O be/O addressed/O by/O such/O an/O approach/O ./O 
+An/O entirely/O different/O kind/O of/O belief/O system/O as/O implied/O in/O the/O various/O public/O pronouncements/O that/O I/O 've/O already/O alluded/O to/O that/O we/O make/O in/O our/O mission/O statements/O and/O catalogs/O and/O the/O presidential/O state/O of/O the/O college/O reports/O and/O so/O forth/O ./O 
+In/O many/O ways/O ,/O these/O sometimes/O lofty/O statements/O come/O as/O close/O as/O anything/O to/O John/PERSON Dewey/PERSON 's/O conception/O of/O the/O proper/O role/O of/O education/O in/O society/O ./O 
+If/O we/O were/O to/O study/O the/O mission/O statements/O --/O in/O fact/O ,/O some/O of/O our/O graduate/O students/O have/O done/O this/O --/O the/O mission/O statements/O of/O a/O randomly/O selected/O group/O of/O American/O higher/O educational/O institutions/O ,/O we/O would/O seldom/O ,/O if/O ever/O ,/O find/O any/O mention/O of/O private/O economic/O benefits/O ,/O international/O competitiveness/O ,/O or/O filling/O slots/O in/O the/O labor/O market/O ./O 
+On/O the/O contrary/O ,/O when/O it/O comes/O to/O describing/O its/O educational/O mission/O ,/O the/O typical/O college/O or/O university/O will/O use/O ,/O such/O language/O as/O preparing/O students/O for/O responsible/O citizenship/O ,/O developing/O character/O ,/O developing/O future/O leaders/O ,/O preparing/O students/O to/O serve/O society/O ,/O and/O so/O on/O ./O 
+In/O other/O words/O ,/O if/O we/O were/O to/O believe/O our/O own/O rhetoric/O ,/O those/O of/O us/O who/O work/O in/O the/O Academy/ORGANIZATION see/O ourselves/O as/O serving/O the/O society/O and/O of/O promoting/O and/O strengthening/O our/O particular/O form/O of/O democratic/O self-government/O ./O 
+We/O might/O refer/O to/O this/O as/O the/O citizenship/O or/O the/O service/O concept/O of/O our/O mission/O ./O 
+While/O such/O a/O belief/O system/O does/O not/O preclude/O individual/O economic/O benefits/O or/O filling/O slots/O in/O the/O labor/O market/O or/O enhancing/O economic/O competitiveness/O ,/O the/O central/O focus/O is/O on/O responsible/O citizenship/O and/O service/O ./O 
+The/O citizenship/O view/O ,/O I/O would/O argue/O ,/O implies/O a/O much/O broader/O conception/O of/O student/O success/O than/O do/O the/O other/O views/O ./O 
+Clearly/O ,/O the/O manner/O in/O which/O we/O approach/O this/O issue/O of/O student/O success/O will/O depend/O heavily/O on/O which/O of/O these/O belief/O systems/O we/O embrace/O ./O 
+Success/O implies/O one/O thing/O if/O we/O see/O ourselves/O simply/O as/O helping/O young/O people/O to/O lead/O more/O comfortable/O and/O affluent/O lives/O ,/O but/O quite/O another/O thing/O if/O we/O see/O ourselves/O as/O working/O together/O to/O strengthen/O our/O society/O and/O our/O democracy/O ./O 
+Given/O the/O current/O state/O of/O our/O democracy/O and/O our/O society/O ,/O I/O would/O argue/O that/O we/O have/O no/O choice/O but/O to/O embrace/O this/O view/O ./O 
+The/O problem/O ,/O of/O course/O ,/O is/O that/O if/O you/O look/O at/O the/O typical/O American/O college/O or/O university/O ,/O its/O curriculum/O and/O its/O co-curriculum/O ,/O its/O teaching/O and/O personnel/O practices/O ,/O and/O the/O values/O that/O govern/O its/O administrative/O policies/O ,/O it/O 's/O very/O difficult/O to/O find/O much/O evidence/O of/O a/O core/O commitment/O to/O preparing/O students/O for/O responsible/O citizenship/O ./O 
+Most/O institutions/O have/O simply/O not/O put/O their/O citizenship/O and/O service/O commitment/O into/O practice/O ./O 
+Despite/O the/O growing/O interest/O in/O service/O and/O civic/O engagement/O within/O the/O Academy/ORGANIZATION --/O and/O this/O is/O a/O very/O healthy/O development/O ,/O it/O seems/O to/O me/O --/O there/O is/O a/O lot/O more/O we/O can/O do/O to/O renew/O and/O revitalize/O civic/O engagement/O and/O democracy/O in/O the/O US/LOCATION ./O 
+In/O the/O classroom/O ,/O for/O example/O ,/O we/O can/O start/O giving/O more/O attention/O to/O the/O development/O of/O those/O personal/O qualities/O ,/O which/O are/O crucial/O to/O civic/O life/O and/O effective/O democratic/O self-government/O ./O 
+And/O by/O this/O ,/O I/O mean/O qualities/O such/O as/O self-understanding/O ./O 
+You/O know/O ,/O that/O 's/O kind/O of/O at/O the/O basis/O of/O all/O the/O great/O philosophical/O and/O religious/O traditions/O ./O 
+Where/O is/O it/O in/O the/O curriculum/O ?/O 
+I/O have/O a/O hard/O time/O finding/O it/O ./O 
+Self-understanding/O ./O 
+Listening/O skills/O ,/O leadership/O ,/O empathy/O ,/O honesty/O ,/O generosity/O ,/O the/O ability/O to/O work/O collaboratively/O ./O 
+Most/O of/O these/O qualities/O exemplify/O aspects/O of/O what/O Daniel/PERSON Goleman/PERSON would/O call/O emotional/O intelligence/O ./O 
+We/O can/O also/O begin/O to/O introduce/O the/O concept/O of/O civic/O responsibility/O and/O citizenship/O into/O faculty/O discussions/O of/O curricular/O reform/O ./O 
+Such/O a/O shift/O in/O our/O curricular/O discussions/O would/O be/O easy/O to/O justify/O ,/O given/O the/O fact/O that/O ,/O as/O I/O 've/O said/O ,/O our/O catalogs/O and/O mission/O statements/O are/O all/O full/O of/O that/O kind/O of/O rhetoric/O ./O 
+And/O given/O some/O very/O promising/O current/O developments/O in/O the/O curricula/O area/O --/O and/O I/O 'm/O thinking/O here/O of/O the/O emphasis/O on/O multiculturalism/O and/O the/O environment/O just/O as/O two/O examples/O --/O we/O can/O also/O build/O on/O these/O efforts/O by/O introducing/O general/O education/O content/O that/O focuses/O more/O directly/O on/O issues/O of/O contemporary/O American/O civic/O life/O and/O democracy/O ./O 
+And/O what/O do/O I/O mean/O by/O this/O ?/O 
+The/O central/O role/O of/O information/O and/O the/O mass/O media/O theory/O of/O democracy/O says/O if/O you/O do/O n't/O have/O an/O informed/O electorate/O ,/O it/O does/O n't/O work/O ./O 
+Well/O ,/O I/O do/O n't/O think/O the/O mass/O media/O are/O exactly/O without/O problems/O in/O this/O area/O ./O 
+The/O possible/O causes/O of/O declining/O civic/O engagement/O and/O declining/O trust/O in/O government/O ,/O the/O escalating/O role/O of/O money/O in/O politics/O ,/O the/O growing/O corporate/O influence/O ,/O and/O so/O on/O ./O 
+There/O 's/O a/O long/O list/O of/O these/O ./O 
+And/O we/O can/O do/O much/O more/O to/O institutionalize/O service/O learning/O ,/O both/O in/O the/O general/O education/O curriculum/O and/O in/O the/O major/O ,/O and/O I/O think/O we/O should/O all/O do/O this/O ,/O and/O those/O who/O complain/O that/O requiring/O service/O diminishes/O it/O ,/O all/O I/O can/O say/O is/O do/O we/O diminish/O English/O Comp/O by/O requiring/O it/O ?/O 
+We/O require/O what/O we/O value/O ./O 
+So/O we/O make/O a/O value/O statement/O when/O we/O require/O something/O with/O students/O ./O 
+What/O I/O 'm/O really/O suggesting/O here/O is/O that/O we/O can/O begin/O to/O broaden/O our/O conception/O of/O student/O success/O to/O include/O a/O genuine/O commitment/O on/O the/O part/O of/O the/O institution/O to/O renewing/O civic/O life/O and/O civic/O engagement/O in/O American/O society/O ./O 
+And/O we/O can/O manifest/O that/O commitment/O by/O embracing/O significant/O changes/O in/O our/O curricula/O ,/O teaching/O practices/O ,/O reward/O system/O ,/O community/O relations/O ,/O and/O most/O importantly/O ,/O in/O the/O values/O and/O beliefs/O that/O guide/O our/O policies/O and/O practices/O ./O 
+I/O might/O add/O here/O that/O our/O narrow/O definition/O of/O student/O success/O is/O ,/O in/O many/O ways/O ,/O parallel/O to/O our/O narrow/O approach/O to/O defining/O faculty/O success/O ./O 
+In/O the/O research/O universities/O ,/O we/O pay/O lip/O service/O to/O the/O importance/O of/O teaching/O ,/O mentoring/O ,/O and/O university/O service/O ,/O but/O the/O fact/O is/O that/O the/O faculty/O success/O is/O defined/O nearly/O exclusively/O in/O many/O places/O in/O terms/O of/O research/O and/O scholarship/O ./O 
+By/O default/O ,/O important/O faculty/O talents/O ,/O like/O good/O colleague-ship/O ,/O which/O are/O so/O critical/O to/O creating/O a/O real/O academic/O community/O get/O little/O or/O no/O weight/O in/O judging/O the/O professional/O success/O of/O our/O colleagues/O ./O 
+In/O my/O patent/O lecture/O on/O Tuesday/O evening/O ,/O I/O discussed/O our/O traditional/O beliefs/O about/O what/O makes/O our/O institutions/O excellent/O ./O 
+And/O forgive/O me/O for/O repeating/O myself/O ,/O but/O there/O are/O a/O lot/O more/O people/O here/O this/O afternoon/O ,/O so/O at/O least/O I/O better/O refresh/O your/O memory/O ./O 
+And/O this/O is/O ,/O of/O course/O ,/O the/O gospel/O according/O to/O Sandy/PERSON ,/O so/O I/O do/O n't/O mind/O preaching/O at/O once/O more/O ./O 
+Most/O of/O us/O define/O our/O excellence/O in/O terms/O either/O of/O the/O resources/O that/O we/O have/O --/O and/O I/O 've/O got/O a/O new/O chart/O here/O for/O you/O guys/O who/O were/O here/O Tuesday/O evening/O ./O 
+This/O is/O an/O equation/O ./O 
+Now/O I/O 'm/O getting/O quantitative/O about/O this/O ./O 
+Where/O we/O define/O our/O excellence/O in/O terms/O of/O what/O we/O have/O and/O what/O others/O think/O of/O us/O ./O 
+This/O is/O what/O I/O would/O call/O the/O egocentric/O approach/O to/O defining/O excellence/O ./O 
+And/O while/O there/O 's/O nothing/O inherently/O wrong/O ,/O we/O have/O to/O have/O resources/O to/O function/O ./O 
+We/O have/O to/O have/O reputations/O to/O attract/O students/O and/O faculty/O ./O 
+When/O we/O concentrate/O on/O these/O as/O the/O end/O ,/O as/O the/O ultimate/O definition/O of/O our/O excellence/O ,/O we/O ,/O again/O ,/O diminish/O and/O devalue/O student/O learning/O ./O 
+And/O as/O I/O had/O argued/O Tuesday/O night/O ,/O that/O what/O we/O really/O need/O to/O move/O toward/O is/O a/O concept/O of/O excellence/O that/O 's/O based/O on/O how/O effectively/O we/O 're/O able/O to/O educate/O our/O students/O ,/O but/O effectiveness/O and/O student/O success/O being/O seen/O in/O much/O broader/O terms/O ./O 
+My/O concern/O about/O the/O reputational/O and/O resources/O conception/O is/O that/O they/O fail/O to/O address/O directly/O our/O basic/O societal/O purposes/O of/O teaching/O and/O public/O service/O ,/O not/O that/O we/O do/O n't/O need/O these/O resources/O and/O reputation/O ./O 
+But/O paradoxically/O ,/O it/O can/O also/O cause/O us/O to/O neglect/O our/O research/O mission/O --/O this/O is/O the/O irony/O of/O it/O --/O because/O we/O become/O more/O focused/O on/O acquiring/O research/O talent/O than/O in/O nurturing/O and/O developing/O the/O research/O talent/O that/O 's/O already/O there/O ./O 
+The/O roots/O of/O three/O of/O our/O most/O intractable/O problems/O in/O academia/O ,/O I/O would/O argue/O ,/O can/O be/O found/O in/O this/O preoccupation/O with/O resource/O acquisition/O and/O reputational/O enhancement/O ./O 
+Let/O me/O just/O quickly/O review/O these/O ,/O because/O they/O 're/O familiar/O to/O all/O of/O us/O ./O 
+And/O yet/O ,/O we/O do/O n't/O normally/O think/O about/O them/O in/O terms/O of/O how/O they/O are/O products/O of/O our/O belief/O system/O about/O what/O makes/O us/O excellent/O ./O 
+For/O example/O ,/O the/O valuing/O of/O research/O over/O teaching/O and/O the/O struggle/O between/O equity/O and/O excellence/O and/O the/O issue/O of/O individualism/O versus/O community/O are/O all/O in/O one/O way/O or/O another/O connected/O to/O our/O beliefs/O about/O the/O importance/O of/O acquiring/O more/O resources/O and/O enhancing/O our/O reputation/O ./O 
+We/O value/O research/O more/O than/O teaching/O ,/O because/O we/O believe/O that/O outstanding/O scientists/O and/O scholars/O will/O add/O more/O to/O our/O reputation/O and/O resources/O than/O will/O outstanding/O teachers/O or/O mentors/O ./O 
+And/O when/O we/O define/O our/O excellence/O in/O terms/O of/O the/O test/O scores/O of/O the/O entering/O students/O ,/O the/O high/O scoring/O student/O being/O viewed/O here/O as/O a/O resource/O ,/O which/O I/O find/O interesting/O ,/O that/O enhances/O our/O reputation/O ./O 
+We/O set/O our/O sense/O of/O excellence/O in/O direct/O conflict/O with/O our/O desire/O to/O promote/O educational/O opportunities/O for/O those/O groups/O in/O our/O society/O whose/O test/O scores/O put/O them/O at/O a/O competitive/O disadvantage/O ./O 
+Finally/O ,/O when/O we/O place/O the/O highest/O value/O on/O the/O individual/O scholarly/O accomplishments/O of/O our/O students/O and/O faculty/O ,/O we/O reinforce/O their/O competitive/O and/O individualistic/O tendencies/O ,/O making/O it/O very/O difficult/O for/O them/O to/O develop/O those/O qualities/O that/O help/O promote/O a/O sense/O of/O community/O on/O the/O campus/O ./O 
+And/O again/O ,/O I/O mean/O good/O colleagueship/O ,/O collaboration/O ,/O community/O service/O ,/O citizenship/O ,/O and/O social/O responsibility/O ./O 
+These/O latter/O qualities/O ,/O of/O course/O ,/O are/O the/O same/O ones/O that/O are/O needed/O to/O make/O any/O democracy/O work/O ./O 
+If/O we/O really/O mean/O it/O when/O we/O claim/O that/O education/O is/O our/O central/O mission/O ,/O then/O student/O learning/O should/O be/O at/O the/O heart/O of/O our/O conception/O of/O excellence/O ./O 
+I/O like/O to/O call/O this/O the/O civic/O or/O talent/O development/O view/O of/O what/O our/O mission/O is/O all/O about/O ./O 
+However/O ,/O even/O if/O we/O accept/O this/O talent/O development/O view/O ,/O we/O still/O need/O to/O answer/O the/O question/O ,/O which/O talents/O and/O to/O what/O end/O ./O 
+As/O I/O consider/O all/O the/O ways/O in/O which/O our/O traditional/O beliefs/O about/O excellence/O and/O student/O success/O interfere/O with/O our/O ability/O to/O improve/O and/O strengthen/O civic/O life/O in/O American/O society/O ,/O no/O problem/O strikes/O me/O as/O being/O more/O important/O than/O the/O education/O of/O the/O so-called/O remedial/O or/O underprepared/O student/O ./O 
+Now/O ,/O by/O examining/O this/O issue/O in/O some/O depth/O ,/O we/O can/O begin/O to/O see/O how/O it/O might/O be/O possible/O for/O higher/O education/O institutions/O not/O only/O to/O broaden/O our/O conception/O of/O student/O success/O ,/O but/O also/O to/O become/O more/O effective/O agents/O of/O positive/O social/O change/O ./O 
+If/O we/O fail/O to/O develop/O more/O effective/O interventions/O for/O our/O so-called/O remedial/O or/O developmental/O students/O ,/O we/O 'll/O find/O it/O very/O difficult/O to/O make/O much/O headway/O in/O resolving/O some/O of/O our/O most/O pressing/O social/O and/O economic/O problems/O ./O 
+And/O by/O this/O ,/O I/O mean/O unemployment/O ,/O crime/O ,/O welfare/O ,/O health/O care/O ,/O racial/O tensions/O ,/O the/O maldistribution/O of/O wealth/O ,/O and/O citizen/O disengagement/O from/O the/O political/O process/O ./O 
+I/O say/O this/O first/O ,/O because/O underprepared/O students/O have/O historically/O been/O the/O ones/O most/O likely/O to/O drop/O out/O at/O any/O level/O of/O education/O ,/O and/O second/O ,/O because/O persons/O with/O relatively/O low/O levels/O of/O educational/O attainment/O account/O for/O a/O disproportionate/O number/O of/O welfare/O recipients/O ,/O prison/O inmates/O ,/O poor/O people/O ,/O the/O unemployed/O ,/O and/O people/O who/O do/O n't/O vote/O ./O 
+Beyond/O this/O ,/O the/O issue/O of/O race/O relations/O and/O affirmative/O action/O are/O intimately/O connected/O to/O the/O issue/O of/O under/O preparation/O ,/O since/O we/O have/O created/O a/O competitive/O hierarchical/O system/O ,/O which/O dispenses/O privilege/O on/O the/O basis/O of/O measures/O ./O 
+Here/O we/O come/O again/O with/O the/O success/O measures/O ,/O the/O GPA/ORGANIZATION and/O the/O test/O scores/O that/O put/O our/O two/O largest/O racial/O minority/O groups/O at/O a/O competitive/O disadvantage/O ./O 
+If/O our/O educational/O system/O allocated/O its/O resources/O more/O equitably/O across/O these/O various/O groups/O by/O socioeconomic/O and/O race/O measures/O ,/O there/O would/O be/O little/O need/O for/O affirmative/O action/O ./O 
+It/O goes/O without/O saying/O that/O the/O underprepared/O student/O is/O a/O kind/O of/O pariah/O in/O American/O higher/O education/O ,/O and/O some/O of/O the/O reasons/O are/O obvious/O ./O 
+Since/O most/O of/O us/O believe/O that/O our/O excellence/O depends/O on/O enrolling/O more/O and/O more/O of/O the/O very/O best/O prepared/O students/O ,/O to/O admit/O underprepared/O students/O would/O pose/O a/O real/O threat/O to/O our/O sense/O of/O excellence/O ./O 
+Why/O would/O any/O sane/O institution/O want/O to/O do/O this/O ?/O 
+But/O ,/O here/O ,/O the/O public/O institutions/O encounter/O a/O bit/O of/O a/O dilemma/O ,/O since/O the/O law/O in/O many/O states/O requires/O that/O at/O least/O some/O underprepared/O students/O be/O given/O an/O opportunity/O to/O pursue/O post-secondary/O education/O ./O 
+How/O can/O this/O be/O done/O so/O we/O do/O n't/O put/O our/O excellence/O at/O risk/O ?/O 
+The/O answer/O ,/O of/O course/O ,/O is/O that/O we/O 've/O created/O hierarchical/O public/O systems/O ,/O where/O the/O least/O well/O prepared/O students/O are/O consigned/O either/O to/O community/O colleges/O or/O to/O relatively/O non-selective/O public/O colleges/O ./O 
+And/O when/O selective/O institutions/O find/O themselves/O forced/O to/O admit/O a/O few/O underprepared/O students/O ,/O for/O example/O ,/O to/O maintain/O competitiveness/O in/O Division/O 1A/O athletics/O --/O and/O trust/O me/O on/O this/O ,/O there/O ai/O n't/O nobody/O more/O underprepared/O than/O Division/O 1A/O revenue/O sports/O athletes/O --/O they/O likewise/O avoid/O having/O much/O contact/O with/O these/O students/O by/O hiring/O part/O time/O tutors/O and/O part/O time/O instructors/O from/O the/O outside/O to/O do/O the/O work/O ./O 
+These/O tracking/O practices/O exert/O a/O subtle/O ,/O but/O powerful/O influence/O on/O the/O attitudes/O and/O beliefs/O of/O our/O students/O and/O ,/O indeed/O ,/O of/O the/O --/O larger/O society/O who/O are/O probably/O going/O to/O be/O influenced/O much/O more/O by/O what/O we/O do/O in/O our/O admissions/O process/O ,/O for/O example/O ,/O than/O by/O what/O we/O say/O about/O such/O things/O as/O equality/O of/O opportunity/O or/O multiculturalism/O or/O educational/O equity/O ./O 
+By/O practicing/O selective/O admissions/O using/O these/O narrowly/O defined/O measures/O of/O student/O success/O ,/O we/O 're/O sending/O important/O value/O messages/O ./O 
+We/O do/O n't/O value/O the/O education/O of/O the/O students/O with/O the/O lower/O scores/O ./O 
+And/O we/O send/O this/O message/O not/O only/O to/O our/O own/O students/O ,/O but/O also/O to/O the/O remedial/O students/O ,/O whom/O we/O reject/O ,/O to/O those/O who/O must/O teach/O them/O ,/O and/O to/O the/O larger/O society/O ./O 
+No/O wonder/O that/O teaching/O underprepared/O students/O is/O viewed/O as/O unglamorous/O ,/O unimportant/O ,/O and/O in/O many/O institutions/O ,/O demeaning/O ./O 
+Why/O do/O underprepared/O students/O make/O us/O so/O uncomfortable/O ?/O 
+Is/O it/O just/O that/O they/O 're/O more/O difficult/O to/O teach/O --/O which/O I/O believe/O they/O are/O --/O and/O that/O their/O presence/O on/O campus/O threatens/O our/O sense/O of/O excellence/O ?/O 
+Or/O are/O there/O deeper/O reasons/O ?/O 
+While/O our/O beliefs/O about/O student/O success/O and/O the/O importance/O of/O resource/O acquisition/O and/O reputational/O enhancement/O are/O fairly/O obvious/O --/O we/O can/O see/O these/O upon/O a/O little/O bit/O of/O reflection/O --/O there/O are/O other/O beliefs/O that/O we/O harbor/O as/O academics/O and/O that/O have/O tremendous/O effects/O on/O our/O practices/O that/O are/O largely/O unacknowledged/O ,/O much/O less/O critically/O examined/O ./O 
+In/O one/O of/O these/O beliefs/O --/O and/O forgive/O me/O if/O those/O of/O you/O who/O read/O my/O chronicle/O of/O higher/O education/O tirade/O on/O this/O --/O one/O of/O these/O beliefs/O I/O like/O to/O characterize/O as/O the/O importance/O of/O being/O smart/O ./O 
+Now/O ,/O this/O may/O sound/O flippant/O ,/O but/O I/O think/O if/O you/O think/O about/O it/O for/O a/O while/O ,/O particularly/O in/O terms/O of/O your/O experience/O in/O this/O institution/O or/O any/O other/O ,/O perhaps/O you/O 'll/O see/O a/O little/O of/O what/O I/O mean/O ./O 
+There/O are/O many/O other/O terms/O I/O could/O use/O for/O smart/O ./O 
+I/O could/O say/O brilliance/O ,/O creativity/O ,/O intelligence/O ,/O and/O so/O forth/O ./O 
+But/O for/O the/O purposes/O of/O our/O discussion/O here/O ,/O I/O 'll/O use/O the/O more/O flippant/O term/O smartness/O ./O 
+My/O many/O years/O as/O a/O scholar/O of/O higher/O education/O ,/O as/O an/O employee/O of/O a/O research/O university/O ,/O not/O unlike/O this/O one/O ,/O convinces/O me/O that/O much/O of/O our/O fear/O of/O remedial/O students/O and/O much/O of/O our/O unwillingness/O to/O get/O involved/O in/O educating/O them/O can/O be/O traced/O to/O our/O uncritical/O acceptance/O of/O this/O belief/O and/O to/O the/O fact/O that/O most/O of/O us/O are/O not/O even/O consciously/O aware/O of/O the/O power/O and/O scope/O of/O its/O influence/O ./O 
+Most/O of/O us/O clearly/O favor/O our/O brightest/O students/O ,/O not/O only/O in/O admissions/O ,/O but/O in/O the/O award/O of/O financial/O aid/O and/O also/O in/O the/O classroom/O ./O 
+If/O bright/O students/O enroll/O at/O our/O institutions/O and/O take/O our/O classes/O ,/O then/O this/O reflects/O well/O on/O our/O own/O brightness/O ./O 
+Surely/O ,/O we/O must/O be/O smart/O if/O our/O students/O are/O so/O smart/O ./O 
+But/O if/O our/O students/O are/O not/O so/O smart/O ,/O then/O this/O reflects/O poorly/O on/O us/O ./O 
+This/O may/O help/O to/O explain/O why/O so/O many/O academics/O keep/O a/O very/O close/O eye/O on/O the/O average/O test/O scores/O of/O the/O entering/O freshmen/O ./O 
+If/O our/O students/O are/O getting/O smarter/O ,/O then/O we/O 're/O reassured/O about/O our/O own/O smartness/O ./O 
+But/O if/O they/O 're/O getting/O dumber/O ,/O our/O sense/O of/O our/O own/O smartness/O is/O threatened/O ./O 
+No/O wonder/O we/O hire/O others/O to/O teach/O remedial/O students/O or/O simply/O avoid/O them/O altogether/O through/O selective/O admissions/O ./O 
+The/O real/O problem/O here/O is/O that/O we/O value/O being/O smart/O much/O more/O than/O we/O do/O developing/O smartness/O ./O 
+In/O our/O relentless/O and/O largely/O unconscious/O preoccupation/O with/O being/O smart/O ,/O we/O forget/O that/O our/O institution/O 's/O primary/O mission/O is/O to/O develop/O intellectual/O capacities/O and/O other/O capacities/O of/O our/O students/O not/O merely/O to/O select/O and/O certify/O those/O whose/O intellectual/O talents/O are/O already/O well-developed/O by/O the/O time/O they/O come/O to/O us/O ./O 
+This/O preoccupation/O with/O being/O smart/O is/O also/O part/O of/O the/O reason/O why/O we/O continue/O to/O use/O measures/O of/O student/O success/O ,/O the/O GPA/ORGANIZATION ,/O and/O the/O standardized/O test/O score/O that/O are/O geared/O to/O ranking/O and/O rating/O students/O ,/O rather/O than/O to/O reflecting/O how/O much/O they/O 're/O actually/O learning/O ./O 
+We/O all/O know/O students/O who/O get/O A/O 's/O in/O our/O courses/O who/O did/O n't/O put/O out/O any/O effort/O and/O who/O did/O n't/O learn/O much/O ,/O but/O they/O were/O very/O smart/O and/O very/O bright/O and/O very/O clever/O when/O they/O came/O to/O us/O ,/O and/O they/O were/O able/O to/O get/O through/O our/O exams/O ./O 
+I/O 've/O already/O suggested/O that/O these/O assessment/O devices/O ,/O particularly/O the/O standardized/O test/O ,/O imply/O a/O very/O narrow/O standard/O of/O smartness/O ./O 
+But/O they/O 're/O also/O of/O little/O value/O ,/O either/O in/O helping/O students/O to/O learn/O ,/O or/O in/O helping/O us/O to/O evaluate/O the/O success/O of/O our/O pedagogical/O efforts/O ./O 
+We/O inflicted/O this/O same/O normative/O approach/O to/O assessing/O students/O on/O the/O lower/O schools/O ,/O such/O that/O politicians/O and/O the/O public/O now/O evaluate/O the/O quality/O of/O these/O schools/O simply/O on/O the/O basis/O of/O which/O ones/O have/O the/O smartest/O students/O ,/O rather/O than/O on/O the/O basis/O of/O which/O ones/O are/O the/O most/O effective/O educationally/O ./O 
+And/O I/O mean/O effective/O even/O in/O terms/O of/O this/O narrow/O standard/O of/O smartness/O ./O 
+This/O approach/O not/O only/O does/O violence/O to/O the/O wonderful/O diversity/O of/O student/O talents/O by/O forcing/O them/O all/O onto/O a/O single/O continuum/O ,/O but/O it/O also/O has/O the/O effect/O of/O sending/O a/O message/O to/O the/O relatively/O low/O scoring/O student/O ,/O you/O 're/O dumb/O ,/O you/O 're/O lazy/O ,/O you/O 're/O not/O college/O material/O ./O 
+It/O 's/O no/O wonder/O so/O many/O students/O drop/O out/O of/O the/O educational/O system/O before/O they/O ever/O reach/O college/O age/O ./O 
+A/O simplistic/O yardstick/O like/O the/O SAT/O or/O the/O ACT/O is/O used/O by/O many/O of/O us/O as/O the/O principal/O indicator/O of/O the/O student/O 's/O ability/O or/O smartness/O ./O 
+But/O by/O doing/O this/O ,/O we/O implicitly/O diminish/O the/O great/O social/O and/O cultural/O importance/O of/O these/O citizenship/O talents/O that/O I/O 've/O mentioned/O ,/O such/O as/O empathy/O ,/O self-understanding/O ,/O honesty/O ,/O responsibility/O ,/O leadership/O ,/O and/O the/O ability/O to/O work/O collaboratively/O ./O 
+I/O might/O add/O here/O that/O this/O narrow/O approach/O to/O defining/O and/O assessing/O talent/O or/O merit/O has/O been/O turned/O against/O us/O with/O considerable/O success/O by/O the/O opponents/O of/O affirmative/O action/O ./O 
+I/O think/O it/O 'll/O be/O very/O difficult/O to/O challenge/O these/O traditional/O notions/O about/O student/O success/O and/O educational/O excellence/O unless/O we/O do/O it/O collectively/O ./O 
+While/O American/O colleges/O and/O universities/O can/O be/O justifiably/O proud/O of/O their/O diversity/O and/O their/O autonomy/O ,/O a/O collection/O of/O 3,000/O institutions/O simply/O doing/O their/O individual/O things/O ,/O does/O not/O necessarily/O make/O for/O a/O coherent/O or/O effective/O system/O ./O 
+The/O problem/O is/O not/O that/O we/O 're/O all/O so/O wonderfully/O different/O and/O diverse/O ,/O but/O rather/O that/O the/O sum/O total/O of/O our/O individual/O uncoordinated/O efforts/O does/O n't/O always/O add/O up/O to/O a/O meaningful/O whole/O ./O 
+What/O I/O 'm/O really/O asking/O here/O is/O if/O we/O 're/O going/O to/O persist/O in/O defining/O our/O excellence/O solely/O in/O institutional/O terms/O ,/O or/O are/O we/O going/O to/O be/O willing/O to/O bite/O the/O bullet/O and/O take/O a/O systems/O perspective/O ?/O 
+And/O let/O me/O see/O if/O I/O can/O explain/O what/O I/O mean/O by/O this/O ./O 
+Unless/O we/O can/O sit/O down/O together/O and/O collectively/O begin/O to/O discuss/O our/O systems/O responsibilities/O toward/O the/O society/O ,/O our/O efforts/O to/O become/O excellent/O as/O individual/O institutions/O will/O continue/O to/O thwart/O our/O efforts/O to/O achieve/O real/O educational/O excellence/O as/O a/O system/O ./O 
+If/O nothing/O else/O ,/O an/O extended/O inter-institutional/O conversation/O about/O the/O issues/O that/O I/O 've/O been/O mentioning/O here/O at/O the/O systems/O level/O would/O make/O it/O clear/O that/O all/O of/O us/O in/O higher/O education/O ,/O not/O to/O mention/O the/O rest/O of/O the/O society/O ,/O have/O a/O heavy/O stake/O in/O broadening/O our/O conception/O of/O student/O success/O and/O in/O redefining/O our/O concept/O of/O what/O makes/O us/O excellent/O ,/O and/O in/O particular/O ,/O on/O the/O priority/O that/O we/O must/O assign/O to/O the/O effective/O education/O of/O the/O underprepared/O student/O ./O 
+At/O the/O state/O and/O systems/O and/O local/O levels/O ,/O we/O have/O to/O sit/O down/O together/O ,/O all/O types/O of/O institutions/O ,/O and/O begin/O a/O serious/O discussion/O of/O our/O mutual/O ambivalence/O about/O remediation/O and/O under/O preparation/O ./O 
+These/O institutional/O conversations/O could/O also/O cover/O a/O number/O of/O other/O related/O issues/O that/O cry/O out/O for/O collaborative/O effort/O ,/O coordination/O ,/O and/O expansion/O of/O community/O service/O ,/O and/O service/O learning/O programs/O ,/O community/O needs/O ,/O local/O governmental/O problems/O ,/O diversity/O and/O multiculturalism/O ,/O sharing/O of/O resources/O ,/O admissions/O ,/O transfer/O credits/O and/O so/O forth/O ./O 
+But/O the/O one/O that/O cries/O out/O most/O urgently/O for/O attention/O is/O the/O underprepared/O or/O remedial/O student/O ./O 
+The/O necessity/O for/O us/O to/O move/O away/O from/O a/O purely/O competitive/O and/O individualistic/O mindset/O ,/O what/O 's/O good/O for/O our/O institution/O ,/O and/O to/O adopt/O more/O of/O a/O collaborative/O or/O consortial/O approach/O to/O defining/O student/O success/O into/O the/O under/O preparation/O problem/O ,/O becomes/O clearer/O when/O we/O consider/O what/O might/O happen/O if/O one/O of/O us/O were/O to/O try/O to/O go/O it/O alone/O ./O 
+As/O long/O as/O the/O different/O colleges/O and/O universities/O in/O the/O state/O continue/O to/O operate/O independently/O and/O to/O persist/O in/O their/O traditional/O beliefs/O about/O excellence/O --/O and/O in/O the/O case/O of/O IU/O ,/O I/O would/O say/O not/O just/O the/O state/O ,/O but/O a/O region/O ,/O the/O big/O 10/O region/O --/O any/O institution/O automatically/O puts/O its/O excellence/O at/O risk/O if/O it/O unilaterally/O decides/O to/O broaden/O its/O conception/O of/O success/O and/O to/O admit/O substantially/O greater/O numbers/O of/O underprepared/O students/O ,/O or/O to/O invest/O substantially/O more/O of/O its/O resources/O in/O educating/O such/O students/O ./O 
+If/O we/O could/O be/O successful/O in/O stimulating/O the/O kinds/O of/O systems/O discussions/O of/O these/O issues/O that/O I/O 'm/O envisioning/O here/O ,/O the/O conversation/O would/O soon/O begin/O to/O focus/O on/O the/O various/O arguments/O that/O we/O traditionally/O use/O to/O defend/O selective/O admissions/O ./O 
+For/O example/O ,/O a/O frequently/O used/O defense/O is/O what/O I/O like/O to/O call/O the/O prediction/O argument/O ./O 
+Now/O ,/O to/O put/O this/O in/O a/O nutshell/O ,/O the/O prediction/O argument/O says/O that/O we/O defend/O the/O use/O of/O these/O narrow/O conceptions/O of/O student/O talent/O and/O success/O ,/O the/O GPA/ORGANIZATION and/O the/O test/O score/O ,/O on/O the/O grounds/O that/O they/O predict/O performance/O in/O college/O ./O 
+And/O indeed/O ,/O they/O do/O predict/O ,/O but/O the/O prediction/O is/O less/O than/O ideal/O ./O 
+But/O they/O do/O predict/O ./O 
+And/O this/O is/O undeniably/O the/O case/O ./O 
+Now/O ,/O imagine/O what/O would/O happen/O if/O our/O medical/O health/O care/O system/O were/O to/O take/O the/O same/O approach/O to/O its/O admissions/O policies/O ./O 
+And/O I/O draw/O a/O parallel/O here/O between/O medicine/O and/O health/O care/O on/O the/O one/O hand/O and/O education/O on/O the/O other/O ,/O because/O we/O 're/O always/O using/O industrial/O analogs/O ./O 
+And/O the/O prediction/O argument/O makes/O sense/O in/O the/O case/O of/O a/O business/O that/O 's/O trying/O to/O compete/O with/O other/O businesses/O and/O it/O wants/O to/O hire/O the/O best/O talent/O to/O exploit/O that/O talent/O for/O its/O own/O purposes/O to/O succeed/O in/O competition/O ./O 
+But/O this/O model/O simply/O does/O n't/O make/O sense/O for/O education/O ,/O and/O I/O think/O by/O illustrating/O this/O with/O a/O medical/O analog/O ,/O you/O can/O see/O what/O I/O mean/O ./O 
+Because/O under/O that/O kind/O of/O a/O system/O ,/O we/O would/O have/O a/O large/O number/O of/O hospitals/O and/O clinics/O that/O are/O underfunded/O ,/O that/O are/O poorly/O staffed/O ,/O that/O have/O poor/O facilities/O ,/O and/O that/O enroll/O the/O sickest/O patients/O ./O 
+We/O would/O then/O have/O a/O smaller/O group/O of/O instead/O of/O clinics/O and/O hospitals/O that/O would/O have/O better/O facilities/O and/O better/O paid/O staff/O and/O so/O forth/O ,/O which/O admitted/O patients/O with/O moderately/O severe/O illnesses/O ./O 
+And/O then/O we/O would/O have/O a/O small/O group/O of/O elite/O clinics/O and/O hospitals/O with/O the/O best/O paid/O and/O best/O trained/O staff/O and/O all/O the/O best/O and/O most/O modern/O equipment/O ,/O which/O admitted/O only/O patients/O with/O common/O colds/O ./O 
+And/O that/O would/O make/O a/O lot/O of/O sense/O in/O a/O health/O care/O system/O ./O 
+What/O public/O interest/O ,/O what/O civic/O interest/O is/O served/O by/O concentrating/O the/O least/O well-prepared/O students/O in/O the/O institutions/O with/O the/O least/O resources/O ?/O 
+How/O can/O such/O an/O arrangement/O be/O rationalized/O in/O terms/O of/O the/O larger/O interests/O of/O the/O community/O in/O the/O society/O ./O 
+The/O fact/O of/O the/O matter/O is/O that/O it/O ca/O n't/O ./O 
+To/O see/O why/O this/O is/O so/O ,/O we/O can/O ,/O again/O ,/O use/O an/O analogy/O for/O medicine/O ./O 
+And/O I/O think/O in/O the/O case/O of/O medicine/O ,/O we/O would/O create/O a/O massive/O number/O of/O untreated/O or/O poorly/O treated/O people/O ,/O who/O would/O then/O cause/O us/O to/O go/O broke/O ,/O if/O you/O will/O ,/O trying/O to/O rehabilitate/O them/O ./O 
+They/O would/O n't/O be/O capable/O of/O working/O ./O 
+Their/O families/O would/O break/O up/O ./O 
+They/O 'd/O go/O broke/O trying/O to/O pay/O for/O their/O treatment/O on/O a/O private/O basis/O and/O so/O forth/O ./O 
+So/O it/O seems/O to/O me/O that/O in/O just/O the/O same/O way/O that/O not/O valuing/O the/O education/O of/O the/O underprepared/O student/O ,/O by/O the/O way/O we/O structure/O our/O institutions/O ,/O we/O 're/O creating/O the/O same/O kind/O of/O problem/O for/O ourselves/O later/O on/O ./O 
+Now/O if/O we/O took/O more/O of/O a/O systems/O approach/O to/O defining/O student/O success/O and/O confronting/O the/O problem/O of/O under/O preparation/O ,/O it/O 's/O important/O to/O keep/O in/O mind/O that/O our/O greatest/O untapped/O resource/O may/O be/O the/O students/O themselves/O ./O 
+There/O 's/O probably/O no/O other/O group/O that/O 's/O better/O suited/O to/O tutoring/O underprepared/O students/O than/O they/O 're/O better/O prepared/O peers/O ./O 
+If/O such/O peer/O tutoring/O could/O be/O built/O into/O the/O curriculum/O in/O a/O systematic/O fashion/O ,/O everyone/O would/O benefit/O ./O 
+More/O pedagogical/O resources/O would/O be/O invested/O in/O the/O education/O of/O the/O underprepared/O and/O the/O better/O prepared/O students/O would/O have/O an/O opportunity/O to/O master/O course/O material/O in/O greater/O depth/O by/O teaching/O it/O to/O others/O ./O 
+As/O I/O 've/O said/O in/O a/O couple/O of/O meetings/O earlier/O today/O ,/O I/O do/O n't/O think/O I/O get/O dumber/O teaching/O students/O who/O do/O n't/O know/O what/O I/O know/O ./O 
+Maybe/O I/O do/O ./O 
+If/O such/O a/O mentoring/O and/O tutoring/O program/O were/O expanded/O to/O include/O a/O variety/O of/O service/O learning/O opportunities/O ,/O for/O example/O ,/O for/O students/O to/O work/O with/O underprepared/O students/O in/O the/O public/O schools/O ,/O the/O bonds/O between/O higher/O education/O and/O the/O local/O community/O would/O be/O greatly/O strengthened/O ./O 
+The/O problems/O that/O are/O plaguing/O our/O contemporary/O democracy/O are/O ,/O in/O many/O respects/O ,/O the/O same/O problems/O that/O de/PERSON Tocqueville/PERSON identified/O more/O than/O a/O century/O and/O a/O half/O ago/O ,/O and/O that/O is/O the/O tension/O between/O individualism/O and/O community/O ./O 
+And/O it/O 's/O acted/O out/O at/O the/O institutional/O level/O by/O our/O individual/O competitiveness/O and/O quest/O for/O greater/O excellence/O ./O 
+We/O want/O to/O move/O up/O in/O the/O pecking/O order/O and/O push/O others/O down/O ./O 
+This/O tension/O is/O exacerbated/O by/O the/O mistaken/O belief/O that/O we/O are/O independent/O of/O and/O separate/O from/O each/O other/O ./O 
+Even/O our/O most/O recent/O research/O on/O students/O ,/O some/O of/O which/O I/O talked/O about/O Tuesday/O night/O ,/O highlights/O the/O importance/O of/O community/O ./O 
+The/O single/O most/O important/O source/O of/O influence/O on/O the/O individual/O student/O turns/O out/O to/O be/O the/O peer/O group/O ./O 
+In/O light/O of/O the/O reduced/O funding/O and/O other/O external/O pressures/O that/O we/O are/O experiencing/O today/O ,/O it/O seems/O only/O fair/O to/O ask/O ,/O do/O we/O have/O the/O wherewithal/O to/O undertake/O the/O kinds/O of/O new/O ventures/O I/O 've/O been/O suggesting/O this/O afternoon/O ?/O 
+In/O our/O haste/O to/O man/O the/O barricades/O ,/O to/O defend/O ourselves/O against/O external/O threats/O ,/O we/O 're/O inclined/O to/O forget/O that/O the/O autonomy/O that/O we/O seek/O to/O protect/O may/O be/O the/O most/O powerful/O tool/O that/O we/O have/O for/O reshaping/O our/O notions/O of/O student/O success/O and/O institutional/O excellence/O ,/O more/O in/O the/O direction/O of/O promoting/O democracy/O and/O citizenship/O ./O 
+There/O is/O nobody/O standing/O in/O our/O way/O of/O doing/O this/O except/O ourselves/O ./O 
+The/O fact/O remains/O --/O and/O this/O is/O what/O we/O tend/O to/O forget/O --/O that/O we/O still/O retain/O control/O over/O practically/O all/O of/O the/O decisions/O that/O really/O matter/O ,/O whom/O to/O admit/O and/O how/O to/O admit/O them/O ,/O what/O courses/O and/O what/O work/O to/O require/O of/O our/O students/O ,/O what/O to/O teach/O ,/O how/O to/O teach/O it/O ,/O how/O we/O assess/O and/O evaluate/O our/O students/O ,/O how/O we/O define/O their/O success/O ,/O how/O we/O structure/O our/O co-curricular/O programs/O ,/O how/O we/O hire/O ,/O reward/O ,/O and/O tenure/O our/O colleagues/O ,/O what/O policies/O and/O procedures/O we/O use/O to/O govern/O ourselves/O ,/O and/O what/O subject/O matter/O we/O choose/O in/O our/O research/O ./O 
+In/O closing/O ,/O I/O 'd/O like/O to/O emphasize/O once/O more/O than/O how/O we/O define/O success/O and/O how/O we/O define/O excellence/O is/O really/O a/O matter/O of/O our/O values/O and/O beliefs/O ./O 
+The/O initial/O challenge/O for/O academia/O at/O this/O point/O is/O not/O so/O much/O to/O abandon/O or/O change/O these/O traditional/O beliefs/O ,/O but/O simply/O to/O become/O more/O conscious/O of/O them/O and/O of/O their/O effect/O on/O our/O policies/O and/O practices/O in/O our/O professional/O lives/O ./O 
+It/O 's/O one/O thing/O to/O embrace/O beliefs/O that/O do/O n't/O serve/O us/O well/O ,/O but/O quite/O another/O to/O be/O largely/O unaware/O of/O their/O influence/O in/O our/O lives/O ./O 
+This/O kind/O of/O reflective/O inquiry/O into/O our/O values/O and/O beliefs/O is/O sorely/O needed/O in/O academia/O ./O 
+For/O the/O past/O few/O years/O ,/O we/O 've/O been/O working/O with/O a/O group/O of/O academics/O from/O across/O the/O country/O to/O explore/O issues/O related/O to/O meaning/O ,/O purpose/O ,/O and/O spirituality/O in/O academic/O work/O ./O 
+And/O what/O we/O found/O is/O despite/O all/O of/O the/O claims/O that/O we/O are/O objective/O ,/O detached/O scholars/O ,/O many/O ,/O indeed/O most/O of/O us/O ,/O want/O to/O talk/O about/O these/O issues/O ./O 
+But/O we/O do/O n't/O have/O the/O venues/O ./O 
+We/O do/O n't/O have/O the/O opportunities/O ./O 
+The/O problem/O is/O that/O academic/O institutions/O as/O currently/O structured/O offer/O few/O such/O opportunities/O for/O these/O conversations/O around/O values/O and/O beliefs/O ./O 
+And/O many/O institutions/O actively/O discourage/O it/O ./O 
+I/O believe/O in/O an/O open/O inquiry/O into/O our/O most/O deeply/O felt/O values/O and/O beliefs/O to/O our/O narrow/O approach/O to/O defining/O student/O success/O and/O our/O preoccupation/O with/O acquiring/O resources/O and/O enhancing/O reputation/O being/O smart/O ,/O and/O being/O seen/O by/O others/O as/O smart/O has/O affected/O practically/O everything/O we/O do/O and/O that/O many/O of/O these/O effects/O are/O contrary/O not/O only/O to/O our/O best/O interests/O as/O academics/O ,/O but/O also/O to/O the/O educational/O mission/O of/O our/O institution/O and/O the/O larger/O society/O ./O 
+We/O need/O to/O begin/O a/O serious/O discussion/O of/O why/O we/O persist/O in/O defining/O success/O so/O narrowly/O and/O why/O we/O have/O come/O to/O worship/O merely/O being/O smart/O as/O opposed/O to/O the/O value/O of/O developing/O smartness/O ./O 
+And/O we/O need/O to/O consider/O our/O concept/O of/O smartness/O so/O that/O it/O encompasses/O many/O of/O those/O qualities/O that/O promote/O civic/O life/O and/O social/O responsibility/O ./O 
+Such/O discussions/O and/O reflections/O will/O almost/O certainly/O serve/O us/O well/O ,/O not/O only/O in/O our/O efforts/O to/O affect/O meaningful/O reforms/O in/O our/O approach/O to/O educating/O underprepared/O students/O and/O educating/O students/O in/O general/O toward/O greater/O civic/O responsibility/O ,/O but/O also/O to/O our/O desire/O to/O lead/O more/O authentic/O and/O productive/O lives/O as/O academics/O ./O 
+Thanks/O very/O much/O ./O 
+Do/O you/O want/O to/O hook/O that/O for/O me/O ?/O 
+That/O 's/O all/O right/O ./O 
+I/O can/O do/O it/O ./O 
+SPEAKER/O 1/O :/O If/O you/O can/O hear/O me/O ,/O here/O --/O we/O 'll/O take/O question/O answers/O now/O ./O 
+But/O just/O a/O couple/O of/O announcements/O before/O --/O just/O a/O couple/O of/O announcements/O before/O we/O take/O the/O question/O for/O Dr./O Astin/PERSON ./O 
+You/O have/O heard/O about/O service/O ,/O and/O I/O asked/O Dick/PERSON McKay/PERSON ,/O who/O provides/O 100/O %/O service/O to/O students/O on/O this/O campus/O ./O 
+No/O fitting/O person/O now/O than/O Dick/PERSON to/O make/O these/O announcements/O ./O 
+DICK/PERSON MCKAY/PERSON :/O Thank/O you/O ,/O Professor/O ./O 
+I/O just/O wanted/O to/O quickly/O remind/O you/O and/O hope/O that/O many/O of/O you/O in/O the/O room/O in/O fact/O are/O here/O as/O a/O part/O of/O the/O 17th/O annual/O spring/O symposium/O on/O Promoting/O Student/O Success/O ,/O Fostering/O Academic/O Achievement/O ,/O and/O Increasing/O Persistence/O to/O Graduation/O ./O 
+Program/O ,/O again/O this/O year/O ,/O is/O being/O sponsored/O by/O Debbie/PERSON Fein/PERSON and/O the/O Office/O of/O Afro-American/O along/O --/O or/O ,/O I/O 'm/O sorry/O ,/O Office/ORGANIZATION of/ORGANIZATION Academic/ORGANIZATION Affairs/ORGANIZATION ./O 
+automatically/O I/O 'm/O putting/O all/O kinds/O of/O messages/O together/O ./O 
+I/O apologize/O ./O 
+Office/O of/O the/O Vice/O Chancellor/O for/O Academic/O Affairs/O and/O the/O Office/O of/O the/O Vice/O Chancellor/O for/O Student/O Affairs/O to/O once/O again/O create/O an/O environment/O where/O we/O can/O come/O together/O to/O talk/O about/O issues/O in/O student/O learning/O and/O campus/O climate/O ./O 
+There/O is/O a/O reception/O after/O this/O program/O at/O 5:30/O for/O all/O of/O those/O who/O are/O at/O this/O lecture/O today/O and/O are/O also/O going/O to/O be/O a/O part/O of/O the/O symposium/O ./O 
+And/O then/O tomorrow/O ,/O we/O have/O a/O whole/O series/O of/O programs/O ,/O beginning/O here/O at/O 9:00/O and/O then/O carrying/O on/O through/O the/O day/O with/O ,/O actually/O ,/O three/O sets/O of/O concurrent/O sessions/O ,/O over/O 17/O different/O presentations/O ,/O involving/O 45/O different/O themes/O ,/O involving/O colleagues/O from/O around/O the/O campus/O telling/O you/O what/O they/O 're/O doing/O in/O the/O classroom/O and/O what/O they/O 're/O doing/O outside/O the/O classroom/O to/O make/O the/O university/O environment/O in/O Bloomington/LOCATION as/O stimulating/O and/O educational/O experience/O as/O it/O can/O possibly/O be/O for/O our/O students/O ./O 
+So/O if/O you/O wandered/O into/O the/O lecture/O this/O afternoon/O and/O did/O n't/O necessarily/O know/O this/O was/O also/O part/O of/O a/O symposium/O ,/O registration/O is/O instantaneous/O ./O 
+You/O 're/O all/O registered/O ./O 
+And/O now/O ,/O you/O can/O --/O we/O 're/O very/O quick/O ./O 
+We/O 're/O a/O very/O friendly/O operation/O ./O 
+You/O can/O now/O participate/O in/O these/O programs/O ./O 
+And/O I/O would/O guess/O ,/O Suzanne/PERSON ,/O we/O have/O copies/O of/O the/O schedule/O just/O outside/O the/O door/O ?/O 
+Uh/O --/O AUDIENCE/O :/O Tomorrow/O morning/O ./O 
+DICK/PERSON MCKAY/PERSON :/O Tomorrow/O morning/O we/O 'll/O have/O them/O outside/O the/O door/O ./O 
+So/O at/O 8:15/O in/O the/O morning/O ,/O you/O can/O show/O up/O here/O for/O a/O continental/O breakfast/O and/O then/O get/O a/O schedule/O of/O the/O day/O 's/O programs/O and/O activities/O ./O 
+And/O we/O hope/O to/O see/O at/O least/O as/O many/O folks/O in/O the/O morning/O as/O we/O have/O here/O now/O ./O 
+We/O 'll/O start/O with/O a/O panel/O presentation/O and/O then/O move/O into/O the/O various/O topics/O of/O the/O day/O ./O 
+So/O thank/O you/O for/O coming/O to/O the/O Patten/ORGANIZATION Lecture/ORGANIZATION this/O afternoon/O ,/O but/O thank/O you/O also/O for/O participating/O in/O this/O symposium/O ./O 
+And/O now/O we/O 're/O going/O to/O go/O back/O to/O questions/O ./O 
+And/O ,/O Sandy/PERSON ,/O I/O 'll/O turn/O the/O microphone/O back/O to/O you/O ,/O and/O take/O some/O questions/O from/O the/O audience/O ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Sure/O ./O 
+Yes/O ?/O 
+AUDIENCE/O :/O I/O 'm/O fascinated/O that/O you/O acknowledge/O that/O beliefs/O are/O an/O important/O part/O of/O higher/O education/O ,/O and/O as/O you/O suggest/O that/O our/O policy/O should/O reflect/O --/O ALEXANDER/PERSON ASTIN/PERSON :/O It/O might/O be/O better/O to/O come/O down/O here/O ,/O because/O I/O do/O n't/O think/O the/O acoustics/O --/O can/O you/O hear/O him/O ?/O 
+Yes/O and/O no/O ./O 
+Yeah/O ,/O come/O on/O ./O 
+AUDIENCE/O :/O Do/O you/O have/O the/O cords/O ?/O 
+ALEXANDER/PERSON ASTIN/PERSON :/O There/O 's/O plenty/O of/O cords/O ,/O so/O ./O 
+AUDIENCE/O :/O My/O question/O concerns/O your/O emphasis/O on/O beliefs/O ./O 
+And/O I/O 'm/O wondering/O ,/O when/O you/O suggest/O that/O our/O policies/O and/O institutions/O of/O higher/O learning/O should/O reflect/O certain/O beliefs/O ,/O how/O you/O make/O the/O decision/O which/O beliefs/O are/O included/O and/O which/O are/O n't/O ./O 
+Because/O you/O said/O honesty/O is/O an/O important/O belief/O for/O education/O ,/O but/O if/O I/O ,/O as/O a/O Christian/O ,/O would/O say/O we/O should/O be/O honest/O because/O the/O Lord/O Jesus/PERSON Christ/PERSON says/O let/O your/O yea/O be/O yea/O and/O your/O nay/O be/O nay/O ,/O that/O would/O probably/O be/O considered/O anathema/O to/O the/O higher/O education/O system/O that/O I/O 've/O experienced/O ./O 
+So/O how/O do/O you/O make/O that/O decision/O which/O values/O are/O worked/O into/O policy/O and/O which/O ones/O are/O not/O ?/O 
+ALEXANDER/PERSON ASTIN/PERSON :/O That/O 's/O very/O good/O question/O ./O 
+And/O I/O think/O the/O example/O you/O gave/O --/O I/O think/O there/O 's/O a/O distinction/O between/O what/O kinds/O of/O success/O you/O espouse/O becoming/O more/O honest/O ,/O valuing/O honesty/O more/O ,/O and/O the/O reasons/O why/O you/O espouse/O it/O ./O 
+We/O each/O have/O our/O own/O reasons/O for/O this/O ./O 
+And/O I/O think/O that/O 's/O less/O important/O than/O we/O have/O some/O kind/O of/O collective/O discussion/O to/O see/O what/O our/O common/O values/O are/O ./O 
+And/O I/O 've/O suggested/O that/O some/O of/O these/O do/O have/O to/O do/O with/O the/O human/O qualities/O that/O make/O for/O effective/O parents/O and/O effective/O citizens/O ./O 
+And/O we/O know/O with/O some/O of/O these/O are/O ./O 
+And/O it/O seems/O to/O me/O ,/O whether/O we/O are/O trying/O to/O or/O not/O ,/O we/O do/O ,/O in/O fact/O ,/O develop/O some/O of/O these/O talents/O ./O 
+But/O we/O do/O n't/O do/O very/O explicitly/O ./O 
+Our/O research/O on/O students/O indicates/O ,/O for/O example/O ,/O that/O leadership/O skills/O are/O developed/O fairly/O well/O in/O some/O kinds/O of/O institutions/O ,/O but/O not/O necessarily/O as/O a/O result/O of/O some/O kind/O of/O conscious/O intention/O to/O do/O so/O ./O 
+This/O is/O a/O byproduct/O ./O 
+AUDIENCE/O :/O ./O 
+It/O seems/O to/O me/O that/O what/O you/O 've/O done/O is/O describe/O the/O problem/O ./O 
+It/O 's/O sort/O of/O like/O the/O --/O the/O steerman/O on/O the/O Titanic/O seeing/O the/O iceberg/O ,/O uh/O ,/O on/O the/O horizon/O ./O 
+The/O boat/O is/O headed/O ./O 
+The/O bird/O is/O there/O ./O 
+Um/O ,/O but/O you/O have/O n't/O suggested/O the/O means/O by/O which/O to/O avoid/O the/O crash/O ./O 
+I/O 'm/O specifically/O thinking/O about/O an/O institution/O like/O Indiana/ORGANIZATION University/ORGANIZATION ,/O which/O is/O funded/O through/O significant/O contribution/O from/O the/O state/O ,/O the/O funding/O of/O individual/O students/O ,/O funded/O through/O significant/O contributions/O of/O the/O national/O government/O ./O 
+We/O control/O an/O awful/O lot/O ,/O as/O you/O point/O out/O ,/O of/O the/O important/O formatives/O of/O success/O ,/O but/O we/O do/O n't/O have/O the/O money/O in/O our/O pockets/O ./O 
+We/O do/O n't/O have/O the/O wealth/O to/O be/O independent/O ./O 
+And/O the/O system/O is/O more/O complex/O than/O your/O description/O ./O 
+And/O I/O 'm/O curious/O as/O to/O how/O you/O would/O propose/O beginning/O to/O turn/O the/O ship/O ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Well/O ,/O if/O you/O just/O take/O two/O issues/O ,/O uh/O ,/O of/O ,/O uh/O ,/O curriculum/O content/O and/O pedagogical/O technique/O as/O two/O examples/O ,/O where/O we/O have/O almost/O free/O reign/O ,/O particularly/O in/O the/O general/O education/O program/O ,/O to/O design/O this/O any/O way/O we/O want/O ./O 
+As/O a/O matter/O of/O fact/O ,/O this/O is/O one/O of/O those/O unusual/O universities/O where/O that/O responsibility/O for/O general/O education/O is/O vested/O more/O in/O the/O departments/O ./O 
+It/O 's/O an/O odd/O --/O not/O odd/O ,/O maybe/O unusual/O way/O to/O put/O it/O ./O 
+There/O are/O other/O institutions/O that/O do/O this/O ./O 
+And/O that/O gives/O certain/O decentralization/O of/O the/O general/O education/O program/O ./O 
+But/O the/O point/O is/O that/O sitting/O down/O collectively/O and/O discussing/O both/O the/O content/O and/O the/O teaching/O methods/O that/O we/O use/O in/O the/O light/O of/O this/O broader/O conception/O of/O student/O success/O might/O indeed/O lead/O us/O to/O make/O some/O major/O revisions/O in/O the/O curriculum/O content/O and/O the/O teaching/O techniques/O ./O 
+That/O 's/O what/O I/O have/O in/O mind/O ./O 
+Collaborative/O learning/O ,/O for/O example/O --/O and/O the/O evidence/O in/O that/O 's/O pretty/O compelling/O ./O 
+and/O service/O learning/O --/O both/O underutilized/O techniques/O that/O have/O ,/O it/O seems/O to/O me/O ,/O obvious/O relevance/O to/O these/O issues/O of/O democracy/O and/O citizenship/O and/O ,/O uh/O --/O and/O community/O ./O 
+AUDIENCE/O :/O It/O 's/O exciting/O ,/O at/O the/O least/O ,/O to/O hear/O this/O societal/O can/O of/O worms/O being/O opened/O ./O 
+But/O ,/O um/O ,/O I/O want/O --/O of/O all/O of/O the/O things/O that/O you/O 've/O said/O ,/O the/O one/O that/O --/O the/O two/O that/O comes/O to/O mind/O to/O me/O is/O the/O fact/O that/O students/O can/O teach/O other/O students/O ./O 
+I/O am/O a/O tutor/O ./O 
+And/O I/O tutor/O adult/O students/O who/O have/O --/O who/O 've/O --/O who/O 've/O been/O failed/O by/O our/O system/O in/O the/O past/O ,/O now/O think/O that/O they/O have/O collectively/O learned/O how/O --/O I/O can/O go/O back/O ./O 
+And/O they/O 're/O so/O often/O disappointed/O ./O 
+I/O get/O them/O then/O after/O they/O have/O failed/O and/O sometimes/O learned/O some/O concept/O ./O 
+And/O rather/O than/O spend/O most/O of/O my/O time/O in/O course/O material/O ,/O I/O spend/O all/O of/O the/O time/O in/O my/O tutoring/O in/O preparation/O --/O ALEXANDER/PERSON ASTIN/PERSON :/O Yeah/O ./O 
+AUDIENCE/O :/O --/O and/O behavior/O ./O 
+And/O I/O wonder/O how/O much/O research/O we/O 're/O actually/O doing/O that/O uses/O students/O ,/O instead/O of/O looking/O at/O students/O ,/O or/O judging/O by/O their/O results/O ,/O actually/O spend/O time/O --/O and/O I/O --/O I/O --/O not/O just/O at/O higher/O education/O ,/O certainly/O ,/O even/O at/O lower/O levels/O ,/O uh/O ,/O where/O students/O who/O excel/O ,/O excel/O more/O by/O teaching/O others/O ./O 
+And/O so/O then/O we/O concentrate/O on/O the/O question/O of/O how/O we/O learn/O ./O 
+And/O I/O wonder/O if/O there/O is/O money/O being/O spent/O --/O and/O perhaps/O maybe/O you/O could/O describe/O some/O --/O where/O we/O 're/O actually/O involving/O the/O process/O of/O students/O teaching/O other/O students/O ,/O and/O how/O that/O enhances/O the/O whole/O ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Yeah/O ,/O th/O --/O there/O are/O many/O examples/O of/O ,/O uh/O ,/O very/O effective/O collaborative/O learning/O ,/O which/O is/O what/O students/O teaching/O students/O is/O all/O about/O ./O 
+That/O 's/O one/O model/O ./O 
+Uh/O ,/O peer/O tutoring/O is/O another/O model/O ./O 
+But/O they/O all/O capitalize/O on/O --/O on/O the/O win-win/O game/O aspect/O of/O this/O ,/O where/O both/O the/O ,/O uh/O ,/O student/O who/O 's/O teaching/O or/O tutoring/O ,/O and/O the/O tutee/O ,/O or/O the/O student/O who/O 's/O the/O rec/O --/O recipient/O benefit/O from/O this/O ./O 
+So/O we/O literally/O create/O more/O educational/O resources/O by/O going/O in/O the/O direction/O of/O peer/O tutoring/O and/O collaborative/O learning/O ./O 
+And/O ,/O uh/O ,/O it/O --/O there/O are/O other/O aspects/O to/O this/O that/O are/O critical/O as/O well/O ./O 
+What/O do/O we/O symbolize/O in/O our/O institution/O when/O we/O put/O a/O high/O value/O on/O teaching/O each/O other/O ,/O when/O we/O put/O a/O high/O value/O on/O our/O best/O students/O helping/O the/O slower/O students/O ,/O or/O in/O the/O case/O of/O service/O learning/O ,/O where/O --/O where/O we/O put/O a/O high/O value/O on/O learning/O ,/O which/O includes/O serving/O others/O ?/O 
+And/O what/O 's/O --/O what/O 's/O remarkable/O about/O --/O about/O the/O research/O on/O this/O is/O that/O it/O appears/O that/O both/O collaborative/O learning/O and/O service/O learning/O are/O better/O forms/O of/O instruction/O in/O terms/O of/O the/O extent/O of/O student/O learning/O and/O development/O ./O 
+And/O as/O it/O turns/O out/O ,/O they/O do/O have/O positive/O effects/O ,/O both/O of/O these/O approaches/O ,/O on/O some/O of/O these/O citizenship/O qualities/O I/O was/O talking/O about/O ,/O such/O as/O leadership/O ,/O which/O is/O tremendously/O enhanced/O by/O participating/O in/O community/O service/O as/O part/O of/O a/O course/O ./O 
+Students/O learn/O how/O to/O get/O things/O done/O ./O 
+They/O learn/O how/O to/O work/O together/O collaboratively/O to/O make/O things/O happen/O ./O 
+And/O that/O --/O that/O 's/O a/O very/O empowering/O experience/O ,/O as/O well/O as/O an/O opportunity/O to/O really/O check/O out/O the/O theoretical/O course/O content/O as/O to/O how/O it/O plays/O out/O in/O the/O real/O world/O ./O 
+And/O sometimes/O they/O --/O they/O discover/O it/O does/O n't/O play/O out/O very/O well/O ,/O much/O to/O the/O chagrin/O of/O us/O ./O 
+But/O ,/O uh/O ,/O um/O --/O SPEAKER/O 2/O :/O Way/O back/O in/O there/O ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Way/O back/O here/O ,/O yeah/O ./O 
+AUDIENCE/O :/O Could/O you/O comment/O about/O the/O role/O that/O the/O current/O tenure/O process/O has/O to/O achieve/O the/O goals/O that/O you/O 're/O talking/O about/O ?/O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Uh/O ./O 
+Uh/O ,/O I/O think/O ,/O uh/O ,/O that/O ,/O uh/O ,/O the/O value/O of/O tenure/O is/O limited/O by/O the/O way/O that/O we/O conceive/O of/O it/O and/O use/O it/O ,/O frankly/O ./O 
+But/O ,/O you/O know/O ,/O like/O for/O me/O ,/O I/O sort/O of/O find/O myself/O biting/O the/O hand/O that/O feeds/O me/O a/O lot/O ,/O you/O know/O ,/O coming/O from/O UCLA/ORGANIZATION and/O talking/O this/O way/O ./O 
+AUDIENCE/O :/O ALEXANDER/PERSON ASTIN/PERSON :/O And/O I/O really/O wonder/O if/O I/O would/O be/O so/O ,/O uh/O ,/O uh/O ,/O blunt/O about/O some/O of/O these/O things/O if/O I/O did/O n't/O have/O tenure/O ./O 
+I/O do/O n't/O know/O ./O 
+It/O 's/O a/O good/O question/O ./O 
+Uh/O ,/O I/O 'm/O not/O sure/O ./O 
+I/O 'd/O like/O to/O think/O that/O it/O would/O n't/O make/O any/O difference/O ./O 
+But/O I/O do/O n't/O know/O ./O 
+Um/O ,/O the/O problem/O with/O tenure/O is/O that/O the/O people/O who/O most/O need/O it/O do/O n't/O have/O it/O ./O 
+That/O 's/O --/O that/O 's/O --/O that/O 's/O the/O problem/O ,/O is/O that/O our/O youngest/O ,/O most/O vulnerable/O people/O ,/O the/O assistant/O professors/O ,/O I/O do/O n't/O know/O who/O would/O want/O to/O be/O an/O assistant/O professor/O ,/O actually/O ,/O anymore/O in/O a/O research/O university/O ./O 
+Um/O ,/O seems/O like/O our/O doctoral/O students/O want/O to/O do/O that/O ./O 
+But/O I/O really/O ,/O I/O wonder/O about/O that/O ,/O because/O in/O a/O --/O in/O some/O ways/O ,/O it/O 's/O kind/O of/O an/O untenable/O situation/O ./O 
+But/O ,/O uh/O ,/O so/O these/O --/O these/O folks/O are/O really/O threatened/O and/O intimidated/O by/O the/O process/O ,/O because/O they/O do/O n't/O have/O any/O protection/O ./O 
+And/O they/O really/O do/O steer/O their/O research/O and/O their/O collegial/O behavior/O ,/O uh/O ,/O very/O gingerly/O ./O 
+At/O least/O ,/O that/O 's/O my/O experience/O with/O assistant/O professors/O ./O 
+Um/O ,/O so/O I/O --/O I/O do/O n't/O know/O ./O 
+Tenure/O ,/O unfortunately/O ,/O has/O been/O represented/O as/O job/O security/O ./O 
+And/O I/O do/O n't/O think/O that/O 's/O really/O --/O was/O ever/O the/O intent/O of/O it/O ./O 
+But/O that/O seems/O to/O be/O the/O way/O that/O it/O 's/O been/O seen/O ./O 
+And/O --/O and/O its/O connection/O to/O academic/O freedom/O seems/O to/O have/O been/O largely/O lost/O ./O 
+But/O for/O me/O ,/O that/O 's/O the/O only/O value/O of/O tenure/O ,/O really/O ,/O is/O --/O is/O ,/O uh/O ,/O to/O protect/O academic/O freedom/O ./O 
+And/O whether/O it/O does/O ,/O I/O got/O some/O questions/O about/O it/O ./O 
+So/O ,/O um/O ,/O yeah/O ./O 
+AUDIENCE/O :/O Um/O ,/O about/O ,/O uh/O ,/O four/O years/O ago/O ,/O there/O was/O a/O study/O ./O 
+I/O think/O it/O was/O by/O Jacobs/PERSON ./O 
+And/O I/O think/O the/O book/O was/O They/O Went/O to/O College/O ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Uh-huh/O ./O 
+AUDIENCE/O :/O And/O the/O effect/O of/O that/O book/O was/O ,/O um/O ,/O looking/O at/O ,/O uh/O ,/O people/O who/O had/O gone/O to/O college/O versus/O not/O gone/O to/O college/O ,/O who/O ,/O uh/O ,/O as/O a/O 18-year-old/O looked/O pretty/O much/O to/O be/O the/O same/O kind/O of/O people/O ./O 
+And/O ,/O uh/O ,/O 20/O years/O later/O ,/O uh/O ,/O there/O was/O no/O difference/O between/O those/O that/O attended/O four/O years/O of/O college/O and/O those/O that/O dropped/O out/O and/O did/O n't/O ,/O except/O ,/O uh/O ,/O as/O I/O recall/O ,/O um/O ,/O the/O college/O graduates/O did/O more/O beer/O drinking/O ,/O uh/O ,/O for/O obvious/O reasons/O ,/O and/O ,/O uh/O ,/O made/O more/O money/O ,/O because/O they/O became/O doctors/O and/O lawyers/O and/O engineers/O ./O 
+But/O in/O terms/O of/O ,/O uh/O ,/O most/O kinds/O of/O things/O that/O you/O call/O civic/O responsibility/O --/O ALEXANDER/PERSON ASTIN/PERSON :/O There/O was/O no/O difference/O ./O 
+AUDIENCE/O :/O --/O my/O question/O is/O ,/O has/O that/O ever/O been/O followed/O up/O ?/O 
+And/O is/O there/O anything/O current/O ,/O which/O really/O shows/O it/O makes/O a/O difference/O if/O one/O goes/O to/O a/O university/O ?/O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Yeah/O ,/O the/O question/O had/O to/O do/O with/O Jacobs/PERSON 's/O much-cited/O book/O ,/O uh/O ,/O based/O on/O research/O done/O in/O the/O ,/O uh/O ,/O '50s/O ,/O I/O believe/O ,/O '50s/O and/O early/O '60s/O ,/O uh/O ,/O uh/O ,/O which/O ,/O uh/O ,/O concluded/O ,/O among/O other/O things/O ,/O that/O colleges/O really/O do/O n't/O change/O people/O 's/O values/O very/O much/O ./O 
+And/O ,/O uh/O ,/O uh/O ,/O that/O 's/O not/O what/O we/O find/O ./O 
+But/O what/O we/O do/O find/O is/O that/O the/O source/O of/O that/O effect/O on/O values/O is/O not/O what/O we/O like/O to/O think/O it/O is/O ,/O and/O I/O think/O for/O a/O lot/O of/O reasons/O ./O 
+The/O source/O of/O the/O influence/O is/O very/O heavily/O the/O peer/O group/O ./O 
+Uh/O ,/O and/O ,/O uh/O ,/O fortunately/O ,/O there/O 's/O some/O measurable/O faculty/O influence/O on/O this/O ./O 
+But/O the/O peer/O group/O is/O a/O major/O source/O of/O influence/O on/O the/O students/O '/O values/O ./O 
+And/O ,/O uh/O ,/O uh/O ,/O and/O also/O ,/O the/O service-learning/O experience/O ,/O which/O Jacobs/PERSON had/O no/O opportunity/O to/O study/O ,/O has/O a/O profound/O effect/O on/O certain/O values/O ./O 
+Um/O ,/O commitment/O to/O --/O for/O example/O ,/O commitment/O to/O promoting/O racial/O understanding/O is/O --/O is/O strongly/O influenced/O by/O ,/O uh/O ,/O participation/O in/O community/O service/O ,/O a/O commitment/O to/O ,/O um/O ,/O uh/O ,/O basically/O the/O notion/O of/O wanting/O to/O be/O a/O social/O change/O agent/O ./O 
+The/O sense/O that/O you/O can/O make/O a/O difference/O ,/O that/O --/O that/O belief/O is/O strengthened/O ,/O because/O most/O students/O do/O n't/O think/O they/O can/O make/O a/O difference/O ./O 
+Uh/O ,/O but/O those/O who/O have/O the/O opportunity/O to/O ,/O uh/O ,/O experience/O service/O learning/O actually/O strengthen/O their/O belief/O that/O they/O --/O they/O can/O make/O a/O difference/O ,/O or/O abandon/O their/O belief/O that/O they/O ca/O n't/O ./O 
+I/O see/O any/O other/O hands/O ?/O 
+I/O --/O I/O apologize/O for/O my/O kind/O of/O fumbling/O around/O here/O ./O 
+There/O was/O no/O light/O on/O my/O papers/O ./O 
+And/O I/O 'm/O --/O I/O was/O really/O struggling/O to/O see/O my/O notes/O ./O 
+So/O I/O apologize/O for/O that/O ./O 
+But/O I/O --/O it/O was/O tough/O to/O see/O them/O ./O 
+Uh/O ,/O so/O I/O kind/O of/O fumbled/O around/O a/O few/O times/O there/O ./O 
+Uh/O ,/O but/O I/O ca/O n't/O see/O in/O the/O back/O here/O ./O 
+That/O 's/O what/O I/O associated/O to/O ./O 
+Any/O other/O hands/O ?/O 
+Ah/O ,/O here/O 's/O one/O ./O 
+AUDIENCE/O :/O I/O 'll/O ask/O another/O question/O ./O 
+ALEXANDER/PERSON ASTIN/PERSON :/O All/O right/O ./O 
+AUDIENCE/O :/O As/O a/O student/O ,/O one/O of/O the/O problems/O I/O see/O is/O that/O students/O do/O n't/O want/O to/O learn/O ,/O because/O they/O 're/O not/O taking/O advantage/O of/O the/O resources/O offered/O ./O 
+Do/O you/O find/O that/O in/O your/O research/O ?/O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Yeah/O ,/O uh/O ,/O th/O --/O this/O is/O part/O of/O the/O trends/O I/O talked/O about/O on/O Tuesday/O night/O ,/O that/O --/O that/O the/O students/O are/O not/O --/O the/O students/O coming/O to/O college/O today/O are/O less/O inclined/O to/O see/O the/O college/O experience/O for/O its/O intrinsic/O value/O ./O 
+That/O is/O the/O joy/O of/O learning/O ,/O and/O the/O joy/O of/O self-development/O ,/O and/O this/O sort/O of/O thing/O ./O 
+It/O 's/O just/O ,/O that/O 's/O just/O the/O way/O the/O students/O are/O ./O 
+And/O yet/O we/O do/O n't/O seem/O to/O have/O acknowledged/O that/O and/O adjusted/O what/O we/O do/O to/O that/O reality/O ./O 
+Uh/O ,/O and/O I/O 'm/O talking/O in/O relative/O terms/O now/O ./O 
+There/O are/O plenty/O of/O students/O who/O --/O who/O --/O who/O are/O ,/O you/O know/O ,/O very/O inclined/O to/O get/O engaged/O ./O 
+There/O are/O just/O not/O as/O many/O as/O there/O used/O to/O be/O ,/O and/O more/O students/O who/O --/O who/O are/O not/O ./O 
+And/O that/O 's/O part/O of/O the/O kind/O of/O excessive/O materialism/O of/O the/O society/O ,/O as/O I/O see/O it/O ,/O the/O idea/O that/O the/O reason/O you/O go/O to/O college/O is/O to/O get/O a/O better/O job/O and/O make/O more/O money/O ./O 
+And/O that/O has/O to/O do/O again/O with/O these/O different/O conceptions/O of/O higher/O education/O --/O you/O know/O ,/O the/O competitiveness/O argument/O ,/O the/O peg/O board/O view/O ,/O and/O so/O forth/O ./O 
+And/O if/O we/O embrace/O those/O viewpoints/O ,/O then/O ,/O of/O course/O ,/O we/O 're/O just/O reinforcing/O these/O problems/O ./O 
+But/O ,/O uh/O ,/O I/O think/O the/O issue/O of/O engaging/O students/O who/O are/O here/O for/O instrumental/O reasons/O ,/O uh/O ,/O is/O a/O real/O challenge/O ./O 
+But/O we/O have/O some/O ways/O of/O doing/O it/O ./O 
+And/O I/O was/O --/O I/O talked/O about/O some/O of/O those/O --/O those/O techniques/O Tuesday/O night/O ./O 
+But/O --/O and/O we/O 've/O mentioned/O a/O couple/O today/O ./O 
+Collaborative/O learning/O is/O very/O engaging/O ,/O because/O students/O know/O their/O work/O is/O going/O to/O be/O scrutinized/O by/O their/O peers/O ./O 
+And/O they/O take/O responsibility/O for/O their/O peers/O '/O ,/O uh/O ,/O learning/O ,/O to/O a/O certain/O extent/O ./O 
+Same/O thing/O with/O ,/O uh/O ,/O uh/O ,/O uh/O ,/O community/O service/O work/O done/O in/O the/O context/O of/O a/O course/O ,/O uh/O ,/O is/O that/O there/O --/O there/O is/O --/O there/O is/O a/O ,/O uh/O ,/O tremendous/O peer/O group/O effect/O here/O of/O ,/O um/O ,/O basically/O trying/O to/O collaboratively/O provide/O a/O meaningful/O service/O to/O ,/O uh/O ,/O to/O others/O ./O 
+And/O that/O 's/O a/O very/O powerful/O experience/O for/O students/O ./O 
+Just/O talk/O to/O students/O who/O have/O had/O service/O learning/O experience/O ./O 
+It/O 's/O pretty/O impressive/O ./O 
+And/O faculty/O members/O ,/O for/O that/O matter/O ./O 
+Try/O it/O ./O 
+You/O 'll/O like/O it/O ./O 
+Yeah/O ./O 
+AUDIENCE/O :/O I/O was/O just/O wondering/O what/O kind/O of/O reception/O you/O get/O from/O colleges/O when/O you/O propose/O this/O ,/O because/O we/O 've/O talked/O a/O lot/O about/O this/O in/O our/O matching/O program/O ./O 
+Um/O ,/O you/O know/O ,/O equity/O to/O education/O is/O just/O ./O 
+We/O just/O ,/O a/O lot/O of/O times/O ,/O come/O to/O the/O conclusion/O that/O colleges/O are/O going/O to/O change/O ,/O but/O society/O 's/O not/O going/O to/O change/O ./O 
+So/O a/O Harvard/ORGANIZATION Harvard/ORGANIZATION ./O 
+What/O do/O people/O say/O to/O you/O when/O you/O propose/O this/O ?/O 
+ALEXANDER/PERSON ASTIN/PERSON :/O Well/O ,/O I/O 'm/O not/O trying/O to/O change/O Harvard/ORGANIZATION ./O 
+That/O 's/O ,/O uh/O ,/O beyond/O --/O That/O 's/O beyond/O anybody/O 's/O ,/O uh/O ,/O uh/O ,/O capabilities/O ./O 
+Um/O ,/O but/O ,/O uh/O ,/O see/O ,/O again/O ,/O we/O 're/O talking/O about/O beliefs/O here/O ./O 
+This/O is/O a/O really/O interesting/O issue/O ,/O uh/O ,/O is/O that/O if/O you/O do/O n't/O believe/O you/O can/O change/O the/O place/O ,/O that/O 's/O a/O self-fulfilling/O prophecy/O ./O 
+I/O mean/O ,/O think/O about/O it/O ./O 
+Think/O how/O much/O effort/O you/O 're/O going/O to/O exert/O on/O behalf/O of/O a/O change/O effort/O if/O you/O do/O n't/O think/O it/O 's/O going/O to/O work/O ./O 
+It/O 's/O very/O interesting/O ./O 
+Beliefs/O become/O self-fulfilling/O prophecies/O ./O 
+I/O mean/O ,/O they/O literally/O ,/O uh/O ,/O shape/O your/O experience/O ./O 
+You/O know/O ,/O we/O think/O experience/O shapes/O beliefs/O ,/O but/O it/O works/O the/O other/O way/O as/O well/O ,/O you/O know/O ?/O 
+So/O we/O behave/O as/O --/O so/O that/O our/O experience/O will/O support/O our/O beliefs/O ,/O because/O if/O our/O beliefs/O were/O n't/O supported/O by/O our/O experience/O ,/O we/O 'd/O go/O crazy/O ./O 
+And/O --/O and/O so/O it/O seems/O to/O me/O that/O if/O we/O believe/O we/O can/O change/O our/O institutions/O ,/O we/O can/O damn/O sure/O do/O it/O ,/O because/O we/O have/O the/O tools/O ./O 
+Uh/O ,/O it/O 's/O a/O learning/O process/O ./O 
+It/O 'll/O happen/O slowly/O ./O 
+And/O resistance/O to/O change/O efforts/O in/O an/O institution/O is/O the/O best/O evidence/O that/O you/O 're/O making/O progress/O ./O 
+That/O 's/O the/O paradox/O of/O resistance/O ./O 
+SPEAKER/O 1/O :/O ./O 
+Let/O us/O thank/O Dr./O Astin/PERSON for/O a/O wonderful/O lecture/O ./O 
+Um/O ,/O please/O join/O him/O at/O the/O reception/O in/O the/O University/ORGANIZATION Club/ORGANIZATION ./O 
+And/O if/O you/O have/O questions/O to/O ask/O him/O privately/O ,/O personally/O ,/O um/O ,/O just/O take/O the/O opportunity/O ./O 
+Thank/O you/O for/O coming/O ./O 
+-LSB-/O SIDE/O CONVERSATION/O -RSB-/O 
