@@ -14,4 +14,8 @@ The following NER services/tools were tested:
 - [SpaCy](https://spacy.io)
 - [Stanford CoreNLP](https://nlp.stanford.edu/software/index.shtml)  
   
+This repository includes Python scripts for converting several of these outputs to a common CSV format for precision/recall/F1 scoring and comparison in the `reshape-ner-output.ipynb` Jupyter notebook.  
   
+The `ner-metrics.ipynb` Jupyter notebook includes Python scripts for comparing normalized outputs to a ground truth.  
+  
+The `spacy` directory contains Python scripts for both running SpaCy NER with the default model as well as alongside SpaCy's EntityRuler (rule-based entity matching) with custom vocabularies.  
